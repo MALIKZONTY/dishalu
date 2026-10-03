@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fde7e1"/>
+      <stop offset="0.55" stop-color="#fbd2bf"/>
+      <stop offset="1" stop-color="#f6b89d"/>
+    </linearGradient>
+    <radialGradient id="sun" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#fff7e6"/>
+      <stop offset="0.35" stop-color="#ffe2b0" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#ffd29a" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="m1" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e9a99b"/><stop offset="1" stop-color="#df9a8a"/></linearGradient>
+    <linearGradient id="m2" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#d27d70"/><stop offset="1" stop-color="#c66b5f"/></linearGradient>
+    <linearGradient id="m3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#b34b45"/><stop offset="1" stop-color="#9c3a37"/></linearGradient>
+    <linearGradient id="m4" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#7d2a2c"/><stop offset="1" stop-color="#5e1e22"/></linearGradient>
+    <linearGradient id="path" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#fff4ec"/><stop offset="1" stop-color="#fff4ec" stop-opacity="0.2"/></linearGradient>
+  </defs>
+
+  <rect width="800" height="600" fill="url(#sky)"/>
+  <circle cx="520" cy="300" r="190" fill="url(#sun)"/>
+  <circle cx="520" cy="300" r="48" fill="#fff5e4"/>
+
+  <!-- birds -->
+  <g fill="none" stroke="#9c3a37" stroke-width="2.4" stroke-linecap="round" opacity="0.55">
+    <path d="M300 150 q8 -8 16 0 q8 -8 16 0"/>
+    <path d="M345 125 q6 -6 12 0 q6 -6 12 0"/>
+    <path d="M640 170 q7 -7 14 0 q7 -7 14 0"/>
+  </g>
+
+  <path d="M0 360 L90 300 L170 340 L260 270 L360 330 L450 285 L560 340 L660 280 L800 330 L800 600 L0 600 Z" fill="url(#m1)"/>
+  <path d="M0 410 L120 350 L220 400 L330 340 L440 395 L560 350 L690 400 L800 360 L800 600 L0 600 Z" fill="url(#m2)"/>
+  <path d="M0 470 L150 400 L290 460 L420 410 L540 470 L670 420 L800 460 L800 600 L0 600 Z" fill="url(#m3)"/>
+
+  <!-- winding path to the sun -->
+  <path d="M330 600 C 360 540, 300 520, 380 480 C 440 450, 400 420, 470 395 C 505 383, 500 360, 515 345 L 525 345 C 515 365, 525 385, 490 400 C 430 425, 470 455, 410 487 C 340 525, 420 545, 420 600 Z" fill="url(#path)" opacity="0.9"/>
+
+  <path d="M0 540 L130 480 L260 530 L380 500 L460 540 L600 490 L800 540 L800 600 L0 600 Z" fill="url(#m4)"/>
+
+  <!-- flag with Dishalu mark on the peak near the sun -->
+  <g transform="translate(560 330)">
+    <line x1="0" y1="0" x2="0" y2="-62" stroke="#5e1e22" stroke-width="3" stroke-linecap="round"/>
+    <path d="M0 -62 L40 -50 L0 -38 Z" fill="#c8102e"/>
+  </g>
+
+  <!-- trees -->
+  <g fill="#4a171b">
+    <path d="M60 560 l14 -46 l14 46 z"/><path d="M84 566 l11 -36 l11 36 z"/>
+    <path d="M700 552 l15 -50 l15 50 z"/><path d="M728 560 l11 -38 l11 38 z"/>
+  </g>
+</svg>

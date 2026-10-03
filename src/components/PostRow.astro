@@ -1,0 +1,23 @@
+---
+import type { Post } from '../lib/posts';
+import { formatDate } from '../lib/posts';
+import { CATEGORIES, type CategoryKey } from '../site.config';
+
+interface Props {
+  post: Post;
+}
+const { post } = Astro.props;
+const { title, description, date, category, image, imageAlt } = post.data;
+---
+
+<li class="row">
+  <a href={`/${post.id}`} tabindex="-1" aria-hidden="true">
+    <img src={image} alt={imageAlt} width="1200" height="630" loading="lazy" decoding="async" />
+  </a>
+  <div>
+    <a class="kicker" href={`/category/${category}`}>{CATEGORIES[category as CategoryKey].name}</a>
+    <h3><a href={`/${post.id}`}>{title}</a></h3>
+    <time class="date" datetime={date.toISOString()}>{formatDate(date)}</time>
+    <p>{description}</p>
+  </div>
+</li>

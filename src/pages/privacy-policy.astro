@@ -1,0 +1,147 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import { SITE } from '../site.config';
+const sections = [
+  ['who', 'Who we are'],
+  ['collect', 'Information we collect'],
+  ['use', 'How we use information'],
+  ['cookies', 'Cookies'],
+  ['ads', 'Google AdSense and advertising'],
+  ['analytics', 'Analytics'],
+  ['sharing', 'Sharing of information'],
+  ['retention', 'How long we keep data'],
+  ['rights', 'Your rights'],
+  ['children', "Children's privacy"],
+  ['links', 'Links to other websites'],
+  ['security', 'Security'],
+  ['changes', 'Changes to this policy'],
+  ['contact', 'Contact and grievances'],
+];
+---
+
+<PageLayout
+  title="Privacy Policy"
+  subtitle="What we collect, why, and the choices you have"
+  description={`How ${SITE.name} collects and uses information, including cookies and Google AdSense advertising.`}
+  updated="3 October 2026"
+>
+  <p>
+    This Privacy Policy explains how {SITE.name} ("we", "us", "our") collects, uses and protects information when
+    you visit <a href={SITE.url}>{SITE.url}</a> (the "Site"). By using the Site you agree to this policy.
+  </p>
+
+  <nav class="toc" aria-label="Contents">
+    <strong>Contents</strong>
+    <ol>{sections.map(([id, label]) => <li><a href={`#${id}`}>{label}</a></li>)}</ol>
+  </nav>
+
+  <h2 id="who">1. Who we are</h2>
+  <p>
+    {SITE.name} is an independent information website for students and job seekers in India, publishing posts about
+    government exams, results, tech news and careers. You can reach us at <a href={`mailto:${SITE.email}`}>{SITE.email}</a>.
+  </p>
+
+  <h2 id="collect">2. Information we collect</h2>
+  <p>You can read the Site without creating an account or telling us who you are. We collect:</p>
+  <ul>
+    <li><strong>Information you give us:</strong> if you email us, we receive your email address, name (if included) and the contents of your message.</li>
+    <li><strong>Technical data collected automatically:</strong> when you visit, our hosting, security and analytics providers may record your IP address, browser and device type, operating system, referring page, pages viewed, and the date and time of your visit.</li>
+    <li><strong>Cookie and similar data:</strong> small files and identifiers set by us or by partners such as Google. See sections 4 and 5.</li>
+  </ul>
+  <p>We don't knowingly collect sensitive personal data such as financial information, government ID numbers or health information, and we never ask for them.</p>
+
+  <h2 id="use">3. How we use information</h2>
+  <ul>
+    <li>To run, secure and improve the Site (for example, to stop spam and attacks, and to see which posts are useful).</li>
+    <li>To reply to your messages and fix errors you report.</li>
+    <li>To show advertising that helps keep the Site free (see section 5).</li>
+    <li>To meet legal obligations.</li>
+  </ul>
+  <p>We do not sell your personal information.</p>
+
+  <h2 id="cookies">4. Cookies</h2>
+  <p>
+    Cookies are small text files stored by your browser. The Site and our partners may use these types of cookies:
+  </p>
+  <table>
+    <thead><tr><th>Type</th><th>Purpose</th><th>Set by</th></tr></thead>
+    <tbody>
+      <tr><td>Essential / security</td><td>Protect the Site from abuse and keep it working</td><td>Our hosting and security provider (Cloudflare)</td></tr>
+      <tr><td>Analytics</td><td>Count visits and see which pages are popular, in aggregate</td><td>Analytics provider, if enabled</td></tr>
+      <tr><td>Advertising</td><td>Show ads, limit how often you see them, and measure them; may personalise ads</td><td>Google and its advertising partners</td></tr>
+    </tbody>
+  </table>
+  <p>
+    You can block or delete cookies in your browser settings. Blocking some cookies may affect how the Site or its
+    ads work.
+  </p>
+
+  <h2 id="ads">5. Google AdSense and advertising</h2>
+  <p>We use (or may use) Google AdSense to display ads. In line with Google's requirements:</p>
+  <ul>
+    <li>Third-party vendors, including Google, use cookies to serve ads based on a user's prior visits to this website or other websites.</li>
+    <li>Google's use of advertising cookies enables it and its partners to serve ads to you based on your visit to this Site and/or other sites on the internet.</li>
+    <li>You may opt out of personalised advertising by visiting <a href="https://www.google.com/settings/ads" rel="noopener" target="_blank">Google Ads Settings</a>. You can also opt out of some third-party vendors' use of cookies for personalised advertising at <a href="https://www.aboutads.info/choices/" rel="noopener" target="_blank">www.aboutads.info</a>.</li>
+    <li>Learn more about how Google uses data at <a href="https://policies.google.com/technologies/partner-sites" rel="noopener" target="_blank">How Google uses information from sites or apps that use its services</a>.</li>
+  </ul>
+  <p>
+    Visitors from regions that require it (such as the European Economic Area and the UK) will be asked for consent
+    before personalised ads are shown, using a consent message provided through Google.
+  </p>
+
+  <h2 id="analytics">6. Analytics</h2>
+  <p>
+    We may use Google Analytics and/or Cloudflare Web Analytics to understand how visitors use the Site, for
+    example which posts are read most and which devices people use. These reports are aggregated and we don't use
+    them to identify individual visitors. You can opt out of Google Analytics with the
+    {' '}<a href="https://tools.google.com/dlpage/gaoptout" rel="noopener" target="_blank">Google Analytics opt-out browser add-on</a>.
+  </p>
+
+  <h2 id="sharing">7. Sharing of information</h2>
+  <p>We share information only:</p>
+  <ul>
+    <li>With service providers who run the Site for us (hosting, security, analytics, email, advertising), under their own privacy terms.</li>
+    <li>When required by law, or to protect the rights, safety and security of the Site and its users.</li>
+  </ul>
+
+  <h2 id="retention">8. How long we keep data</h2>
+  <p>
+    Emails you send us are kept for as long as needed to respond and keep a record of corrections, and are deleted
+    on request. Technical logs and analytics data are kept for the periods set by our providers.
+  </p>
+
+  <h2 id="rights">9. Your rights</h2>
+  <p>
+    Depending on where you live, including under India's Digital Personal Data Protection Act, 2023, you may have
+    the right to access, correct or erase personal data we hold about you, to withdraw consent, and to raise a
+    grievance. To make a request, email <a href={`mailto:${SITE.email}`}>{SITE.email}</a>. We'll respond within a
+    reasonable time.
+  </p>
+
+  <h2 id="children">10. Children's privacy</h2>
+  <p>
+    The Site is written for college students and adults. We don't knowingly collect personal data from children.
+    If you believe a child has sent us personal information, contact us and we'll delete it.
+  </p>
+
+  <h2 id="links">11. Links to other websites</h2>
+  <p>
+    Our posts link to official websites and third-party platforms. We aren't responsible for their content or
+    privacy practices. Please read their policies before sharing information with them.
+  </p>
+
+  <h2 id="security">12. Security</h2>
+  <p>
+    The Site is served over HTTPS and hosted on infrastructure with built-in security protections. No method of
+    transmission over the internet is completely secure, but we take reasonable steps to protect information.
+  </p>
+
+  <h2 id="changes">13. Changes to this policy</h2>
+  <p>We may update this policy from time to time. The "Last updated" date at the top shows when it last changed.</p>
+
+  <h2 id="contact">14. Contact and grievances</h2>
+  <p>
+    For any privacy question, request or complaint, contact {SITE.author.name} at
+    {' '}<a href={`mailto:${SITE.email}`}>{SITE.email}</a>.
+  </p>
+</PageLayout>

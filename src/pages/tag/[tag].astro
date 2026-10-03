@@ -1,0 +1,28 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import SectionBar from '../../components/SectionBar.astro';
+import PostRow from '../../components/PostRow.astro';
+import Sidebar from '../../components/Sidebar.astro';
+import { getPosts, slugifyTag } from '../../lib/posts';
+
+export async function getStaticPaths() {
+  const posts = await getPosts();
+  const tags = new Map<string, string>();
+  posts.forEach((p) => p.data.tags.forEach((t) => tags.set(slugifyTag(t), t)));
+  return [...tags].map(([tag, label]) => ({
+    params: { tag },
+    props: { label, posts: posts.filter((p) => p.data.tags.some((t) => slugifyTag(t) === tag)) },
+  }));
+}
+
+const { label, posts } = Astro.props;
+---
+
+<!-- Tag pages are thin lists, so keep them out of Google's index. -->
+<BaseLayout title={`Posts tagged ${label}`} description={`All posts about ${label}.`} noindex>
+  <SectionBar title={`#${label}`} crumbs={[{ href: '#', label: `#${label}` }]} />
+  <div class="container layout">
+    <div><ul class="rows">{posts.map((p) => <PostRow post={p} />)}</ul></div>
+    <Sidebar />
+  </div>
+</BaseLayout>

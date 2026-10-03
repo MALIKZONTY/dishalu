@@ -1,0 +1,78 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import { SITE } from '../site.config';
+---
+
+<PageLayout
+  title="Disclaimer"
+  subtitle="Please read before relying on information from this site"
+  description={`Important information about the accuracy, independence and limits of content on ${SITE.name}.`}
+  updated="3 October 2026"
+>
+  <div class="notice">
+    <strong>In short:</strong> we check our facts against official sources, but things change. Always confirm
+    dates, eligibility and fees on the official website before you apply or pay anything.
+  </div>
+
+  <h2>1. General information only</h2>
+  <p>
+    All content on {SITE.name} is published in good faith for general information. While we take facts from
+    official sources and review every post, we make no warranty about the completeness, reliability or accuracy of
+    this information. Any action you take based on information on this Site is strictly at your own risk.
+  </p>
+
+  <h2>2. Dates, eligibility and fees can change</h2>
+  <p>
+    Recruitment bodies, exam authorities and organisers can change deadlines, eligibility criteria, fees,
+    vacancies, prizes and selection processes at any time, sometimes without notice. We update posts when we learn
+    of changes, but there may be a delay. The official notification or organiser's page is always the final
+    authority.
+  </p>
+
+  <h2>3. Not an official website</h2>
+  <p>
+    {SITE.name} is an independent website. We are not affiliated with, endorsed by, or acting on behalf of any
+    government ministry or department, public sector undertaking, recruitment board, exam conducting body (such as
+    UPSC, SSC, RRBs or the IITs conducting GATE), university, Unstop, Devfolio, MLH, or any company mentioned on the
+    Site. Names, logos and trademarks belong to their respective owners and are used only to identify the
+    organisations we write about.
+  </p>
+
+  <h2>4. We don't process applications</h2>
+  <p>
+    We don't accept applications, collect fees, issue admit cards or declare results. We never ask for payments,
+    OTPs or passwords. Apply only through the official links we provide.
+  </p>
+
+  <h2>5. Career and earning content</h2>
+  <p>
+    Posts about side income, freelancing, internships and careers share general ideas, realistic ranges and our
+    opinion. They are not financial, legal or professional advice, and we don't guarantee any income, selection or
+    result. Outcomes depend on your skills, effort, location and circumstances.
+  </p>
+
+  <h2>6. Opinions</h2>
+  <p>
+    Sections such as "Should you apply?" or "Our take" reflect our honest view at the time of writing. Others may
+    reasonably disagree.
+  </p>
+
+  <h2>7. External links</h2>
+  <p>
+    The Site links to external websites that we don't control. A link is not an endorsement, and we aren't
+    responsible for the content, availability or privacy practices of those sites.
+  </p>
+
+  <h2>8. Advertising and affiliate disclosure</h2>
+  <p>
+    The Site may display ads, including through Google AdSense. Ads are served automatically and don't mean we
+    endorse the product or service. We don't currently use affiliate links. If we do in future, or publish
+    sponsored content, it will be clearly labelled.
+  </p>
+
+  <h2>9. Errors and contact</h2>
+  <p>
+    If you find an error, please email <a href={`mailto:${SITE.email}`}>{SITE.email}</a> with the post link and the
+    official source, and we'll correct it.
+  </p>
+</PageLayout>

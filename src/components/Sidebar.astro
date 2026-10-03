@@ -1,0 +1,58 @@
+---
+import { getPosts, formatDate } from '../lib/posts';
+import { SITE, ACTIVE_CATEGORIES } from '../site.config';
+import AdSlot from './AdSlot.astro';
+
+interface Props {
+  exclude?: string;
+}
+const { exclude } = Astro.props;
+const posts = await getPosts();
+const latest = posts.filter((p) => p.id !== exclude).slice(0, 5);
+const counts = Object.fromEntries(Object.keys(ACTIVE_CATEGORIES).map((k) => [k, posts.filter((p) => p.data.category === k).length]));
+---
+
+<aside class="sidebar">
+  <AdSlot />
+
+  {latest.length > 0 && (
+    <section class="widget">
+      <h2>Latest updates</h2>
+      <ol class="mini">
+        {latest.map((p) => (
+          <li>
+            <div>
+              <a href={`/${p.id}`}>{p.data.title}</a>
+              <time class="date" datetime={p.data.date.toISOString()}>{formatDate(p.data.date)}</time>
+            </div>
+          </li>
+        ))}
+      </ol>
+    </section>
+  )}
+
+  <div class="sticky">
+    {SITE.social.telegram && (
+      <section class="widget cta-box">
+        <h2>Never miss an update</h2>
+        <p>Exam notifications, admit cards and results on Telegram, the day they're out.</p>
+        <a class="button block" href={SITE.social.telegram} rel="noopener" target="_blank">Join on Telegram</a>
+      </section>
+    )}
+
+    <section class="widget">
+      <h2>Browse topics</h2>
+      <ul class="cat-list">
+        {Object.entries(ACTIVE_CATEGORIES).map(([key, cat]) => (
+          <li><a href={`/category/${key}`}>{cat.name} <span class="count">{counts[key]}</span></a></li>
+        ))}
+      </ul>
+    </section>
+
+    <section class="widget about-box">
+      <h2>About {SITE.name}</h2>
+      <p>{SITE.description}</p>
+      <p>Facts come from official sources and every post is checked before it goes live. <a href="/editorial-policy">How we work »</a></p>
+    </section>
+  </div>
+</aside>

@@ -1,0 +1,32 @@
+---
+interface Props {
+  url: string;
+  title: string;
+}
+const { url, title } = Astro.props;
+const u = encodeURIComponent(url);
+const t = encodeURIComponent(title);
+---
+
+<div class="share">
+  <span>Share:</span>
+  <a class="wa" href={`https://wa.me/?text=${t}%20${u}`} rel="noopener" target="_blank">WhatsApp</a>
+  <a class="tg" href={`https://t.me/share/url?url=${u}&text=${t}`} rel="noopener" target="_blank">Telegram</a>
+  <a class="li" href={`https://www.linkedin.com/sharing/share-offsite/?url=${u}`} rel="noopener" target="_blank">LinkedIn</a>
+  <a class="x" href={`https://x.com/intent/post?url=${u}&text=${t}`} rel="noopener" target="_blank">X</a>
+  <button class="copy" type="button" data-url={url}>Copy link</button>
+</div>
+
+<script>
+  document.querySelectorAll<HTMLButtonElement>('.share .copy').forEach((btn) => {
+    btn.addEventListener('click', async () => {
+      try {
+        await navigator.clipboard.writeText(btn.dataset.url ?? location.href);
+        btn.textContent = 'Copied!';
+        setTimeout(() => (btn.textContent = 'Copy link'), 2000);
+      } catch {
+        btn.textContent = 'Copy failed';
+      }
+    });
+  });
+</script>

@@ -1,0 +1,66 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import SectionBar from '../components/SectionBar.astro';
+import Sidebar from '../components/Sidebar.astro';
+---
+
+<BaseLayout title="Search" description="Search all posts." noindex>
+  <SectionBar title="Search" crumbs={[{ href: '/search', label: 'Search' }]} />
+  <div class="container layout">
+    <div class="search-page">
+      <input id="q" type="search" placeholder="Search articles" aria-label="Search posts" autofocus />
+      <p id="status" class="muted small"></p>
+      <ul id="results" class="rows"></ul>
+    </div>
+    <Sidebar />
+  </div>
+</BaseLayout>
+
+<script>
+  type Item = { url: string; title: string; description: string; category: string; tags: string[]; date: string; image: string };
+
+  const input = document.getElementById('q') as HTMLInputElement;
+  const results = document.getElementById('results')!;
+  const status = document.getElementById('status')!;
+  let index: Item[] = [];
+
+  const esc = (s: string) => s.replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c]!);
+
+  function run() {
+    const q = input.value.trim().toLowerCase();
+    history.replaceState(null, '', q ? `?q=${encodeURIComponent(q)}` : location.pathname);
+    if (!q) {
+      results.innerHTML = '';
+      status.textContent = '';
+      return;
+    }
+    const words = q.split(/\s+/);
+    const hits = index
+      .map((p) => {
+        const hay = `${p.title} ${p.description} ${p.tags.join(' ')} ${p.category}`.toLowerCase();
+        const title = p.title.toLowerCase();
+        const score = words.reduce((s, w) => s + (hay.includes(w) ? 1 : 0) + (title.includes(w) ? 2 : 0), 0);
+        return { p, score, all: words.every((w) => hay.includes(w)) };
+      })
+      .filter((r) => r.all)
+      .sort((a, b) => b.score - a.score);
+    status.textContent = `${hits.length} result${hits.length === 1 ? '' : 's'} for "${input.value.trim()}"`;
+    results.innerHTML = hits
+      .map(
+        ({ p }) => `<li class="row">
+          <a href="${p.url}" tabindex="-1"><img src="${p.image}" alt="" width="1200" height="630" loading="lazy" /></a>
+          <div><span class="kicker">${esc(p.category)}</span><h3><a href="${p.url}">${esc(p.title)}</a></h3>
+          <span class="date">${p.date}</span><p>${esc(p.description)}</p></div></li>`,
+      )
+      .join('');
+  }
+
+  fetch('/search.json')
+    .then((r) => r.json())
+    .then((data: Item[]) => {
+      index = data;
+      input.value = new URLSearchParams(location.search).get('q') ?? '';
+      run();
+    });
+  input.addEventListener('input', run);
+</script>

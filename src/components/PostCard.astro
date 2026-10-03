@@ -1,0 +1,23 @@
+---
+import type { Post } from '../lib/posts';
+import { formatDate } from '../lib/posts';
+import { CATEGORIES, type CategoryKey } from '../site.config';
+
+interface Props {
+  post: Post;
+}
+const { post } = Astro.props;
+const { title, date, category, image, imageAlt } = post.data;
+const cat = CATEGORIES[category as CategoryKey];
+---
+
+<article class="pcard">
+  <a href={`/${post.id}`} class="pcard-img" tabindex="-1" aria-hidden="true">
+    <img src={image} alt={imageAlt} width="1200" height="630" loading="lazy" decoding="async" />
+  </a>
+  <div class="pcard-body">
+    <a class="pill" href={`/category/${category}`} style={`color:${cat.color};background:${cat.soft}`}>{cat.name}</a>
+    <h3><a href={`/${post.id}`}>{title}</a></h3>
+    <time class="date" datetime={date.toISOString()}>{formatDate(date)}</time>
+  </div>
+</article>

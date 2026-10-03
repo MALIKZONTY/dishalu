@@ -1,0 +1,36 @@
+# Dishalu (dishalu.in): govt exams + tech news blog (India)
+
+Static Astro site. Posts are Markdown files; every push to GitHub redeploys the site on Cloudflare Pages.
+
+## Workflow
+
+- `/new-post` → suggests fresh topics, user picks one, Claude researches, writes, checks, previews, and publishes after the user says okay.
+- `/new-post <topic>` → same, for a given topic.
+- `/update-post <slug or topic>` → refresh an existing post with new information.
+
+Never commit or push a post without the user's explicit okay.
+
+## Key files
+
+- `src/site.config.ts`: site name, URL, author, AdSense id, categories. Single place to edit branding.
+- `src/content/posts/*.md`: posts. File name = URL slug.
+- `src/content.config.ts`: frontmatter schema.
+- `public/images/posts/<slug>.png`: featured images made by `npm run new-image`.
+- Branding: `public/logo-mark.svg` (logo), `public/favicon.svg` (app icon; run `node scripts/make-icons.mjs` after editing to regenerate PNG icons), `public/images/hero.webp` + `hero-small.webp` (home hero photo; original in `design/hero-original.png`; `hero.svg` is a spare illustration). Home hero text, trending chips and quick-link cards live in `src/site.config.ts` (HERO, TRENDING, QUICK_LINKS).
+- `docs/writing-style.md`: voice, structure, banned phrases, accuracy rules. Follow it for all writing.
+- `docs/sources.md`: where to find topics and official facts.
+
+## Commands
+
+- `npm run dev`: local preview at http://localhost:4321
+- `npm run build`: production build into `dist/`
+- `npm run list-posts [-- word]`: existing posts
+- `npm run check-post -- <slug>` / `-- --all`: quality gate (word count ≥ 800, banned phrases, SEO fields, image, links)
+- `npm run new-image -- --slug ... --title ... --category ... --fact "Label=Value"`: featured image
+
+## Rules
+
+- Facts only from official/organiser sources; never copy other blogs' text or images.
+- Minimum 800 words, no filler. Earn & Grow posts: realistic, no scams or guaranteed income.
+- Focus, in priority order: govt-exams (notifications, admit cards, answer keys, results) > tech-news > careers > opportunities (hackathons & internships, lowest priority).
+- Each category has `enabled` in site.config.ts; earn-grow is currently disabled (hidden everywhere, its posts too). Don't suggest topics for disabled categories.

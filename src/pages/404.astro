@@ -1,0 +1,19 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Sidebar from '../components/Sidebar.astro';
+---
+
+<BaseLayout title="Page not found" noindex>
+  <div class="container layout">
+    <div class="empty">
+      <h1>Page not found</h1>
+      <p>This page may have moved, or the opportunity it covered has closed.</p>
+      <form action="/search" method="get" class="search" style="max-width: 420px; margin: 16px auto">
+        <input type="search" name="q" placeholder="Search articles" aria-label="Search" />
+        <button type="submit">Search</button>
+      </form>
+      <p><a class="button" href="/">Home page</a> <a class="button ghost" href="/archive">All posts</a></p>
+    </div>
+    <Sidebar />
+  </div>
+</BaseLayout>

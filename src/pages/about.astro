@@ -1,0 +1,73 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import { SITE, ACTIVE_CATEGORIES } from '../site.config';
+---
+
+<PageLayout
+  title="About Us"
+  subtitle={`Who we are, what we cover and why ${SITE.name} exists`}
+  description={`${SITE.name} tracks government exam notifications, admit cards and results, and explains important tech news, for students and job seekers in India.`}
+>
+  <p>
+    <strong>{SITE.name}</strong> is an independent website for students and job seekers in India. We track
+    government job notifications, admit cards, answer keys and results, and we explain the tech news that actually
+    matters, in plain language: what happened, what the key dates are, who it affects, and what to do next.
+  </p>
+
+  <h2>Why we started</h2>
+  <p>
+    Government exam updates are scattered across dozens of official websites and long notification PDFs, and the
+    news usually reaches people through WhatsApp forwards that are late, incomplete or simply wrong. Tech news has
+    the opposite problem: too much noise and hype, and not enough explanation of what a change means for you.
+  </p>
+  <p>
+    We wanted one place that gives you the correct facts from the official source, quickly, with a clear
+    explanation. That's what {SITE.name} is for.
+  </p>
+
+  <h2>What we cover</h2>
+  <div class="info-grid">
+    {Object.entries(ACTIVE_CATEGORIES).map(([key, cat]) => (
+      <div class="info-card">
+        <h3><a href={`/category/${key}`}>{cat.name}</a></h3>
+        <p>{cat.description}</p>
+      </div>
+    ))}
+  </div>
+
+  <h2>Who writes here</h2>
+  <p>
+    {SITE.name} is run by <strong>{SITE.author.name}</strong>. {SITE.author.bio} Because we're preparing
+    for these exams ourselves, we write the kind of update we want to read: accurate, specific, and without the
+    fluff.
+  </p>
+
+  <h2>How we work</h2>
+  <ul>
+    <li><strong>Official sources first.</strong> Dates, fees, eligibility rules, vacancies and prize amounts come from the organiser or the official notification, and every post links to it.</li>
+    <li><strong>Checked before publishing.</strong> Every fact is checked against the official source and every post is reviewed before it goes live.</li>
+    <li><strong>Our own take.</strong> We add what official pages don't tell you: who should apply, how to prepare, common mistakes and what happened in previous years.</li>
+    <li><strong>Kept up to date.</strong> When a deadline is extended or results come out, we update the post and show the "Updated" date.</li>
+  </ul>
+  <p>Read the full details in our <a href="/editorial-policy">Editorial Policy</a>.</p>
+
+  <h2>What we don't do</h2>
+  <ul>
+    <li>We don't charge students anything, and we never ask for fees or personal details to "register" you for anything.</li>
+    <li>We don't promote earning apps, betting, crypto trading or "guaranteed income" schemes.</li>
+    <li>We don't copy other websites' posts or images.</li>
+  </ul>
+
+  <h2>Not an official website</h2>
+  <p>
+    {SITE.name} is not connected to any government department, exam conducting body, university, Unstop, Devfolio
+    or any company we write about. We're an independent information site. Always confirm details on the official
+    website before you apply or pay any fee.
+  </p>
+
+  <h2>Get in touch</h2>
+  <p>
+    Found a mistake, know an opportunity we should cover, or want to collaborate? Write to
+    {' '}<a href={`mailto:${SITE.email}`}>{SITE.email}</a> or use our <a href="/contact">contact page</a>.
+  </p>
+</PageLayout>

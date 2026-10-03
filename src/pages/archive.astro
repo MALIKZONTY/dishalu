@@ -1,0 +1,19 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import SectionBar from '../components/SectionBar.astro';
+import PostRow from '../components/PostRow.astro';
+import Sidebar from '../components/Sidebar.astro';
+import { getPosts } from '../lib/posts';
+
+const posts = await getPosts();
+---
+
+<BaseLayout title="All posts" description="Every post on the site, newest first.">
+  <SectionBar title="All posts" subtitle={`${posts.length} posts, newest first`} crumbs={[{ href: '/archive', label: 'All posts' }]} />
+  <div class="container layout">
+    <div>
+      {posts.length === 0 ? <div class="empty">No posts yet.</div> : <ul class="rows">{posts.map((p) => <PostRow post={p} />)}</ul>}
+    </div>
+    <Sidebar />
+  </div>
+</BaseLayout>

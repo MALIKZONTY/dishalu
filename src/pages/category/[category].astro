@@ -1,0 +1,39 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import SectionBar from '../../components/SectionBar.astro';
+import FeaturedPost from '../../components/FeaturedPost.astro';
+import PostRow from '../../components/PostRow.astro';
+import Sidebar from '../../components/Sidebar.astro';
+import { getPosts } from '../../lib/posts';
+import { CATEGORIES, ACTIVE_CATEGORIES, type CategoryKey } from '../../site.config';
+
+export async function getStaticPaths() {
+  const posts = await getPosts();
+  return (Object.keys(ACTIVE_CATEGORIES) as CategoryKey[]).map((category) => ({
+    params: { category },
+    props: { posts: posts.filter((p) => p.data.category === category) },
+  }));
+}
+
+const { category } = Astro.params as { category: CategoryKey };
+const { posts } = Astro.props;
+const cat = CATEGORIES[category];
+const [featured, ...rest] = posts;
+---
+
+<BaseLayout title={cat.name} description={cat.description} noindex={posts.length === 0}>
+  <SectionBar title={cat.name} icon={cat.icon} subtitle={cat.description} crumbs={[{ href: `/category/${category}`, label: cat.name }]} />
+  <div class="container layout">
+    <div>
+      {posts.length === 0 ? (
+        <div class="empty">Posts in {cat.name} are coming soon.</div>
+      ) : (
+        <>
+          <FeaturedPost post={featured} />
+          <ul class="rows">{rest.map((p) => <PostRow post={p} />)}</ul>
+        </>
+      )}
+    </div>
+    <Sidebar />
+  </div>
+</BaseLayout>

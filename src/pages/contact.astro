@@ -1,0 +1,62 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import { SITE } from '../site.config';
+const mail = (subject: string) => `mailto:${SITE.email}?subject=${encodeURIComponent(subject)}`;
+---
+
+<PageLayout
+  title="Contact Us"
+  subtitle="Corrections, suggestions and collaborations"
+  description={`How to contact the ${SITE.name} team for corrections, opportunity suggestions or collaborations.`}
+>
+  <p>
+    We read every message. The quickest way to reach us is email:
+    {' '}<a href={`mailto:${SITE.email}`}><strong>{SITE.email}</strong></a>. We usually reply within 2–3 working days.
+  </p>
+
+  <h2>What can we help with?</h2>
+  <div class="info-grid">
+    <div class="info-card">
+      <h3>Report a mistake</h3>
+      <p>Wrong date, fee or eligibility detail? Send the post link and the official source. We fix verified errors quickly.</p>
+      <p><a href={mail('Correction')}>Email a correction »</a></p>
+    </div>
+    <div class="info-card">
+      <h3>Suggest an opportunity</h3>
+      <p>Know a recruitment, exam update or opportunity we should cover? Send us the official link.</p>
+      <p><a href={mail('Opportunity suggestion')}>Suggest one »</a></p>
+    </div>
+    <div class="info-card">
+      <h3>Organisers &amp; colleges</h3>
+      <p>Running a student event or program? Share the details and we'll consider it for coverage. Coverage is never paid.</p>
+      <p><a href={mail('Event or program')}>Tell us about it »</a></p>
+    </div>
+    <div class="info-card">
+      <h3>Business &amp; advertising</h3>
+      <p>For partnership or advertising questions, email us with "Business" in the subject line.</p>
+      <p><a href={mail('Business')}>Business enquiry »</a></p>
+    </div>
+  </div>
+
+  {(SITE.social.telegram || SITE.social.instagram || SITE.social.linkedin) && (
+    <>
+      <h2>Follow us</h2>
+      <ul>
+        {SITE.social.telegram && <li>Telegram: <a href={SITE.social.telegram}>{SITE.social.telegram}</a></li>}
+        {SITE.social.instagram && <li>Instagram: <a href={SITE.social.instagram}>{SITE.social.instagram}</a></li>}
+        {SITE.social.linkedin && <li>LinkedIn: <a href={SITE.social.linkedin}>{SITE.social.linkedin}</a></li>}
+      </ul>
+    </>
+  )}
+
+  <h2>What we can't help with</h2>
+  <p>
+    We're an independent information site, not the exam body or the organiser. We can't help with your
+    application status, login problems, admit cards, results, refunds or payments. Please contact the official
+    helpdesk listed in the notification or on the organiser's page for those.
+  </p>
+  <div class="notice">
+    <strong>Stay safe:</strong> {SITE.name} will never ask you for money, OTPs, passwords or documents, and we don't
+    run "registration" services. If someone claims to be from {SITE.name} and asks for these, it's a scam.
+  </div>
+</PageLayout>

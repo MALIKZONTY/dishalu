@@ -1,0 +1,89 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PostCard from '../components/PostCard.astro';
+import Icon from '../components/Icon.astro';
+import { getPosts } from '../lib/posts';
+import { SITE, CATEGORIES, ACTIVE_CATEGORIES, HERO, TRENDING, QUICK_LINKS, type CategoryKey } from '../site.config';
+
+const posts = await getPosts();
+const latest = posts.slice(0, 6);
+const shown = new Set(latest.map((p) => p.id));
+
+// One section per category with posts not already in "Latest Updates".
+const blocks = (Object.keys(ACTIVE_CATEGORIES) as CategoryKey[])
+  .map((key) => ({ key, cat: CATEGORIES[key], posts: posts.filter((p) => p.data.category === key && !shown.has(p.id)).slice(0, 3) }))
+  .filter((b) => b.posts.length > 0);
+---
+
+<BaseLayout title={SITE.name}>
+  <section class="hero">
+    <div class="container hero-inner">
+      <div class="hero-copy">
+        <span class="hero-badge">{HERO.badge}</span>
+        <h1>
+          {HERO.title}<br />
+          <span class="accent">{HERO.titleAccent}</span> {HERO.titleRest}
+        </h1>
+        <p class="hero-text">{HERO.text}</p>
+        <form class="hero-search" action="/search" method="get" role="search">
+          <Icon name="search" size={20} class="search-icon" />
+          <input type="search" name="q" placeholder="Search exams, jobs, results, tech news…" aria-label="Search" />
+          <button type="submit">Search</button>
+        </form>
+        <div class="trending">
+          <span class="trending-label"><img src="/icons/3d/trending.webp" alt="" width="20" height="20" /> Trending:</span>
+          {TRENDING.map((t) => <a class="chip" href={`/search?q=${encodeURIComponent(t)}`}>{t}</a>)}
+        </div>
+      </div>
+      <div class="hero-art" aria-hidden="true">
+        <img
+          src="/images/hero.webp"
+          srcset="/images/hero-small.webp 900w, /images/hero.webp 1600w"
+          sizes="(max-width: 900px) 100vw, 55vw"
+          alt=""
+          width="1600"
+          height="900"
+          fetchpriority="high"
+        />
+        <p class="hero-note">{HERO.note.map((l) => <span>{l}</span>)}</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="container quick-links" aria-label="Quick links">
+    {QUICK_LINKS.map((q) => (
+      <a class="qcard" href={q.href}>
+        <span class="qicon" style={`background:${q.soft}`}><img src={q.icon} alt="" width="34" height="34" loading="lazy" /></span>
+        <span class="qtext">
+          <strong>{q.title} <Icon name="chevron" size={14} class="qchev" /></strong>
+          <span>{q.text}</span>
+        </span>
+      </a>
+    ))}
+  </section>
+
+  <section class="container home-section">
+    <div class="section-head">
+      <h2>Latest Updates</h2>
+      <a href="/archive">View all <Icon name="arrow" size={16} /></a>
+    </div>
+    {latest.length === 0 ? (
+      <div class="empty">
+        <h3>First updates are on the way</h3>
+        <p>Govt exam notifications, admit cards and results, plus important tech news explained simply.</p>
+      </div>
+    ) : (
+      <div class="card-grid">{latest.map((p) => <PostCard post={p} />)}</div>
+    )}
+  </section>
+
+  {blocks.map((b) => (
+    <section class="container home-section">
+      <div class="section-head">
+        <h2 class="with-icon"><img src={b.cat.icon} alt="" width="30" height="30" loading="lazy" />{b.cat.name}</h2>
+        <a href={`/category/${b.key}`}>View all <Icon name="arrow" size={16} /></a>
+      </div>
+      <div class="card-grid">{b.posts.map((p) => <PostCard post={p} />)}</div>
+    </section>
+  ))}
+</BaseLayout>

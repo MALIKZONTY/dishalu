@@ -1,0 +1,16 @@
+---
+import { SITE } from '../site.config';
+interface Props {
+  dark?: boolean;
+  tagline?: boolean;
+}
+const { dark = false, tagline = false } = Astro.props;
+---
+
+<a href="/" class:list={['logo', { 'logo-dark': dark }]} aria-label={`${SITE.name} home`}>
+  <img src="/logo-mark.svg" alt="" width="44" height="44" class="logo-mark" />
+  <span class="logo-text">
+    <span class="logo-name">{SITE.name}</span>
+    {tagline && <span class="logo-tag">{SITE.logoTagline}</span>}
+  </span>
+</a>

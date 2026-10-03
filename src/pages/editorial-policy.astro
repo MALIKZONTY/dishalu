@@ -1,0 +1,76 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import { SITE } from '../site.config';
+---
+
+<PageLayout
+  title="Editorial Policy"
+  subtitle="How we research, write, check and update every post"
+  description={`How ${SITE.name} sources facts, reviews posts, keeps them updated and corrects mistakes.`}
+  updated="3 October 2026"
+>
+  <p>
+    Students make real decisions based on what we publish: which exam to register for, which deadline to chase,
+    which program to spend a weekend on. This page explains the standards we follow so you know how much you can
+    rely on our posts.
+  </p>
+
+  <h2>1. Where our facts come from</h2>
+  <ul>
+    <li><strong>Government jobs and exams:</strong> the official notification PDF or the official website of the recruiting body (for example upsc.gov.in, ssc.gov.in, the organising IIT's GATE site, or the PSU's careers page).</li>
+    <li><strong>Tech news:</strong> the company's own announcement, official blog, product page, or the government/regulator's official release.</li>
+    <li><strong>Hackathons, competitions and internships:</strong> the organiser's own page, or its official listing on platforms such as Unstop or Devfolio.</li>
+    <li><strong>Company programs:</strong> the company's own careers or student-program page.</li>
+  </ul>
+  <p>
+    Every post links its main official source. News reports, social media posts and other blogs may help us
+    discover a topic, but we never treat them as the source of a fact, and we never copy their text or images.
+  </p>
+
+  <h2>2. How a post is made</h2>
+  <ol>
+    <li>We read the official source fully and note the key facts: dates, eligibility, fees, prizes, selection process and how to apply.</li>
+    <li>We write the post around those facts, adding practical advice: who it affects, what to do next, and common mistakes to avoid.</li>
+    <li>Before publishing, every number and date is checked again against the official source, and anything we can't confirm is removed or clearly marked as not yet announced.</li>
+    <li>We check each post for clarity, structure and working links before it goes live.</li>
+  </ol>
+
+  <h2>3. Opinions and advice</h2>
+  <p>
+    Sections such as "Should you apply?" or "Our take" are our honest opinion based on the facts, past years and
+    student experience. They're clearly written as opinion. They are not guarantees about selection, results or
+    earnings.
+  </p>
+
+  <h2>4. Earning and side-income content</h2>
+  <p>Any post about earning money, stipends or side income is held to a stricter standard:</p>
+  <ul>
+    <li>Only realistic income ranges, with the effort and skills they need.</li>
+    <li>No earning apps, task or survey apps, referral chains, betting, fantasy games, crypto or forex trading tips.</li>
+    <li>No "guaranteed income" claims and no income screenshots.</li>
+    <li>We say who an option is <em>not</em> suitable for.</li>
+  </ul>
+
+  <h2>5. Updates</h2>
+  <p>
+    Deadlines get extended, exam dates change and results are declared. When that happens we update the post, add
+    a short note near the top explaining what changed, and show the "Updated" date under the title.
+  </p>
+
+  <h2>6. Corrections</h2>
+  <p>
+    If we get something wrong, we fix it as soon as we've verified the correct information. Significant
+    corrections are noted in the post. To report an error, email <a href={`mailto:${SITE.email}`}>{SITE.email}</a>
+    {' '}with the post link and the official source.
+  </p>
+
+  <h2>7. Independence and advertising</h2>
+  <p>
+    We may earn money through display advertising (such as Google AdSense). Advertisers have no say in what we
+    write. We don't accept payment to cover an opportunity or to give it a positive review. If we ever publish
+    sponsored content or use affiliate links, we will label them clearly at the top of the post.
+  </p>
+
+  <h2>8. Questions</h2>
+  <p>Questions about this policy? Write to <a href={`mailto:${SITE.email}`}>{SITE.email}</a>.</p>
+</PageLayout>

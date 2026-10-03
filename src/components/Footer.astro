@@ -1,0 +1,56 @@
+---
+import { SITE, ACTIVE_CATEGORIES } from '../site.config';
+import { getPosts } from '../lib/posts';
+import Logo from './Logo.astro';
+const year = new Date().getFullYear();
+const socials = Object.entries(SITE.social).filter(([, url]) => url);
+const latest = (await getPosts()).slice(0, 5);
+---
+
+<footer class="site-footer">
+  <div class="container footer-grid">
+    <div>
+      <Logo dark tagline />
+      <p>{SITE.description}</p>
+      <p>Every post is checked against the official source before it goes live. Spotted an error? <a href="/contact">Tell us</a>.</p>
+      {socials.length > 0 && (
+        <div class="socials">
+          {socials.map(([name, url]) => <a href={url} rel="noopener" target="_blank">{name}</a>)}
+        </div>
+      )}
+    </div>
+    <div>
+      <h2 class="footer-title">Categories</h2>
+      <ul>
+        {Object.entries(ACTIVE_CATEGORIES).map(([key, cat]) => <li><a href={`/category/${key}`}>{cat.name}</a></li>)}
+        <li><a href="/archive">All posts</a></li>
+      </ul>
+    </div>
+    <div>
+      <h2 class="footer-title">Latest</h2>
+      {latest.length ? (
+        <ul>{latest.map((p) => <li><a href={`/${p.id}`}>{p.data.title}</a></li>)}</ul>
+      ) : (
+        <p>New posts every day.</p>
+      )}
+    </div>
+    <div>
+      <h2 class="footer-title">About us</h2>
+      <ul>
+        <li><a href="/about">About</a></li>
+        <li><a href="/editorial-policy">Editorial Policy</a></li>
+        <li><a href="/contact">Contact</a></li>
+        <li><a href="/privacy-policy">Privacy Policy</a></li>
+        <li><a href="/disclaimer">Disclaimer</a></li>
+        <li><a href="/terms">Terms of Use</a></li>
+        <li><a href="/rss.xml">RSS Feed</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <div class="container">
+      <span>© {year} {SITE.name}. All rights reserved.</span>
+      <span>Independent site. Not affiliated with any government body, Unstop, or companies mentioned.</span>
+    </div>
+  </div>
+</footer>
