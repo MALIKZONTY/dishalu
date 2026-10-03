@@ -3,7 +3,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import PostCard from '../components/PostCard.astro';
 import Icon from '../components/Icon.astro';
 import { getPosts } from '../lib/posts';
-import { SITE, CATEGORIES, ACTIVE_CATEGORIES, HERO, TRENDING, QUICK_LINKS, type CategoryKey } from '../site.config';
+import { SITE, CATEGORIES, ACTIVE_CATEGORIES, HERO, QUICK_LINKS, type CategoryKey } from '../site.config';
 
 const posts = await getPosts();
 const latest = posts.slice(0, 6);
@@ -30,10 +30,6 @@ const blocks = (Object.keys(ACTIVE_CATEGORIES) as CategoryKey[])
           <input type="search" name="q" placeholder="Search exams, jobs, results, tech news…" aria-label="Search" />
           <button type="submit">Search</button>
         </form>
-        <div class="trending">
-          <span class="trending-label"><img src="/icons/3d/trending.webp" alt="" width="20" height="20" /> Trending:</span>
-          {TRENDING.map((t) => <a class="chip" href={`/search?q=${encodeURIComponent(t)}`}>{t}</a>)}
-        </div>
       </div>
       <div class="hero-art" aria-hidden="true">
         <img

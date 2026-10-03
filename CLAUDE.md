@@ -16,7 +16,7 @@ Never commit or push a post without the user's explicit okay.
 - `src/content/posts/*.md`: posts. File name = URL slug.
 - `src/content.config.ts`: frontmatter schema.
 - `public/images/posts/<slug>.png`: featured images made by `npm run new-image`.
-- Branding: `public/logo-mark.svg` (logo), `public/favicon.svg` (app icon; run `node scripts/make-icons.mjs` after editing to regenerate PNG icons), `public/images/hero.webp` + `hero-small.webp` (home hero photo; original in `design/hero-original.png`; `hero.svg` is a spare illustration). Home hero text, trending chips and quick-link cards live in `src/site.config.ts` (HERO, TRENDING, QUICK_LINKS).
+- Branding: `public/logo-mark.svg` (logo), `public/favicon.svg` (app icon; run `node scripts/make-icons.mjs` after editing to regenerate PNG icons), `public/images/hero.webp` + `hero-small.webp` (home hero photo; original in `design/hero-original.png`; `hero.svg` is a spare illustration). Home hero text and quick-link cards live in `src/site.config.ts` (HERO, QUICK_LINKS).
 - `docs/writing-style.md`: voice, structure, banned phrases, accuracy rules. Follow it for all writing.
 - `docs/sources.md`: where to find topics and official facts.
 

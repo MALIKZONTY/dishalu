@@ -259,11 +259,6 @@ code { background: var(--surface); padding: 0.1em 0.35em; border-radius: 4px; fo
 .hero-search input:focus { outline: none; }
 .hero-search button { border: 0; background: var(--accent); color: #fff; font: inherit; font-weight: 700; padding: 12px 26px; border-radius: 10px; cursor: pointer; }
 .hero-search button:hover { background: var(--accent-dark); }
-.trending { display: flex; align-items: center; gap: 8px; margin-top: 18px; overflow-x: auto; scrollbar-width: none; }
-.trending::-webkit-scrollbar { display: none; }
-.trending .chip, .trending-label { flex: none; }
-.trending-label { display: inline-flex; align-items: center; gap: 4px; font-weight: 700; font-size: 0.9rem; }
-.trending-label img { width: 20px; height: 20px; }
 .chip { font-size: 0.85rem; padding: 5px 14px; border: 1px solid var(--border); border-radius: 999px; background: #fff; color: var(--text); text-decoration: none; }
 .chip:hover { border-color: var(--accent); color: var(--accent); }
 .hero-art { position: relative; align-self: stretch; margin-right: calc(-1 * max(16px, (100vw - 1280px) / 2 + 16px)); }
@@ -314,3 +309,61 @@ code { background: var(--surface); padding: 0.1em 0.35em; border-radius: 4px; fo
 
 .with-icon { display: flex; align-items: center; gap: 10px; }
 .with-icon img { flex: none; }
+
+/* ── Phone layout: keep only what matters ──── */
+@media (max-width: 640px) {
+  body { font-size: 16px; }
+  .top-strip { font-size: 0.8rem; padding: 6px 12px; justify-content: flex-start; }
+  .top-strip a { white-space: nowrap; }
+  .logo-mark { width: 32px; height: 32px; }
+  .logo-name { font-size: 1.45rem; }
+
+  /* Hero: headline + search only */
+  .hero { background: linear-gradient(180deg, #fff 0%, #fff4f1 100%); }
+  .hero-art, .hero-badge, .hero-text { display: none; }
+  .hero-copy { padding: 20px 0 18px; }
+  .hero h1 { font-size: 1.85rem; margin: 0 0 14px; }
+  .hero-search { padding: 4px; border-radius: 12px; }
+  .hero-search input { padding: 10px 8px 10px 38px; font-size: 0.95rem; }
+  .hero-search .search-icon { left: 14px; }
+  .hero-search button { padding: 10px 14px; font-size: 0.9rem; }
+  .chip { font-size: 0.8rem; padding: 4px 12px; }
+
+  /* Quick links: one swipeable row of icon tiles */
+  .quick-links { display: flex; gap: 10px; overflow-x: auto; scrollbar-width: none; margin-top: 16px; padding-bottom: 4px; }
+  .quick-links::-webkit-scrollbar { display: none; }
+  .qcard { flex: 0 0 auto; width: 92px; flex-direction: column; align-items: center; text-align: center; gap: 6px; padding: 12px 6px; }
+  .qicon { width: 44px; height: 44px; }
+  .qicon img { width: 30px; height: 30px; }
+  .qtext strong { font-size: 0.75rem; line-height: 1.25; padding: 0; font-weight: 600; }
+  .qtext > span, .qchev { display: none; }
+
+  /* Sections and cards */
+  .home-section { margin-top: 26px; }
+  .section-head { margin-bottom: 10px; }
+  .section-head h2 { font-size: 1.25rem; }
+  .with-icon img { width: 24px; height: 24px; }
+  .pcard { grid-template-columns: 104px 1fr; gap: 12px; padding: 10px; border-radius: 10px; }
+  .pcard h3 { font-size: 0.95rem; margin: 6px 0 4px; }
+  .pill { font-size: 0.68rem; padding: 2px 8px; }
+  .empty { padding: 24px 16px; }
+
+  /* Post page */
+  .post-header h1 { font-size: 1.6rem; }
+  .post-header .lead { font-size: 1rem; }
+  .byline { font-size: 0.82rem; gap: 4px 10px; }
+  .prose { font-size: 1rem; }
+  .prose h2 { font-size: 1.3rem; }
+
+  /* Footer: brand + two link columns */
+  .site-footer { margin-top: 32px; }
+  .footer-grid { gap: 20px; padding-top: 28px; padding-bottom: 20px; }
+  .footer-grid > div:nth-child(3) { display: none; }
+  .footer-grid > div:first-child p:nth-of-type(2) { display: none; }
+  .footer-bottom .container { flex-direction: column; gap: 4px; }
+}
+
+/* Sidebar repeats what's already on the page; hide it on phones and small tablets. */
+@media (max-width: 960px) {
+  .sidebar { display: none; }
+}

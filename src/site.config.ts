@@ -87,9 +87,6 @@ export const HERO = {
   note: ['New updates,', 'new opportunities,', 'brighter tomorrows'],
 };
 
-// "Trending" chips under the hero search. Each opens a search for that word.
-export const TRENDING = ['SSC', 'UPSC', 'Railways', 'Banking', 'GATE', 'Results'];
-
 // Quick-link cards under the hero. Icons: Microsoft Fluent Emoji 3D (MIT), in public/icons/3d.
 export const QUICK_LINKS = [
   { title: 'Exam Notifications', text: 'New government job and exam alerts', href: '/category/govt-exams', icon: '/icons/3d/notifications.webp', color: '#c8102e', soft: '#fdecee' },
