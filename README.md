@@ -118,3 +118,4 @@ scripts/                    ← image maker, checker, post list
 ## Credits
 
 - 3D icons in `public/icons/3d/`: [Microsoft Fluent Emoji](https://github.com/microsoft/fluentui-emoji), MIT License, © Microsoft Corporation.
+- Post photos in `public/images/posts/*-hero.webp`, `*-2.webp`: openly licensed photos found through [Openverse](https://openverse.org) (Wikimedia Commons, Rawpixel, Flickr and others). Each photo's creator and licence are credited under the photo on its post.

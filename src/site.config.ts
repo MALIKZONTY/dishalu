@@ -87,12 +87,3 @@ export const HERO = {
   text: 'Dishalu tracks government job notifications, admit cards, answer keys and results, and explains the tech news that actually matters, in simple, clear language.',
   note: ['New updates,', 'new opportunities,', 'brighter tomorrows'],
 };
-
-// Quick-link cards under the hero. Icons: Microsoft Fluent Emoji 3D (MIT), in public/icons/3d.
-export const QUICK_LINKS = [
-  { title: 'Exam Notifications', text: 'New government job and exam alerts', href: '/category/govt-exams', icon: '/icons/3d/notifications.webp', color: '#c8102e', soft: '#fdecee' },
-  { title: 'Admit Cards', text: 'Download links and exam dates', href: '/search?q=admit%20card', icon: '/icons/3d/admit-card.webp', color: '#c2410c', soft: '#fff1e6' },
-  { title: 'Results & Answer Keys', text: 'Results, cut-offs and answer keys', href: '/search?q=result', icon: '/icons/3d/results.webp', color: '#1d4ed8', soft: '#e8efff' },
-  { title: 'Tech News', text: 'Important tech news, explained simply', href: '/category/tech-news', icon: '/icons/3d/tech.webp', color: '#047857', soft: '#e3f6ee' },
-  { title: 'Careers', text: 'Exam prep, placements and skills', href: '/category/careers', icon: '/icons/3d/careers.webp', color: '#9f1239', soft: '#fdebf1' },
-] as const;

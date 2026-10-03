@@ -119,6 +119,13 @@ for (const file of files) {
   if (h2 < 3) warns.push(`Only ${h2} H2 sections. Aim for 4+ so the post is easy to scan.`);
   if (/^# /m.test(content)) errors.push('Do not use a "# " H1 in the body. The title is already the H1.');
   if (!/\|.*\|/.test(content)) warns.push('No table. Key facts (dates, fees, prizes) read better in a table.');
+  const inlineImages = (content.match(/!\[[^\]]*\]\([^)]+\)/g) ?? []).length;
+  if (inlineImages < 1) warns.push('No images inside the post. Aim for 2–3 images per post (header photo + key-facts card + 1 photo).');
+  for (const m of content.matchAll(/!\[([^\]]*)\]\(([^)]+)\)/g)) {
+    if (!m[1].trim() || m[1].includes('DESCRIBE')) errors.push(`Image needs real alt text: ${m[2]}`);
+    if (m[2].startsWith('/') && !existsSync(`public${m[2]}`)) errors.push(`Image not found: public${m[2]}`);
+  }
+  if (fm.image && /\.webp$/.test(fm.image) && !fm.imageCredit) errors.push('Header photo needs imageCredit (from `npm run photo -- save`).');
   const internal = content.match(/\]\(\/[a-z0-9-]+\)/g) ?? [];
   if (allPosts.length > 1 && internal.length === 0) warns.push('No internal links to your other posts.');
   for (const link of internal) {

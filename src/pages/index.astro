@@ -3,7 +3,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import PostCard from '../components/PostCard.astro';
 import Icon from '../components/Icon.astro';
 import { getPosts } from '../lib/posts';
-import { SITE, CATEGORIES, ACTIVE_CATEGORIES, HERO, QUICK_LINKS, type CategoryKey } from '../site.config';
+import { SITE, CATEGORIES, ACTIVE_CATEGORIES, HERO, type CategoryKey } from '../site.config';
 
 const posts = await getPosts();
 const latest = posts.slice(0, 6);
@@ -46,17 +46,6 @@ const blocks = (Object.keys(ACTIVE_CATEGORIES) as CategoryKey[])
     </div>
   </section>
 
-  <section class="container quick-links" aria-label="Quick links">
-    {QUICK_LINKS.map((q) => (
-      <a class="qcard" href={q.href}>
-        <span class="qicon" style={`background:${q.soft}`}><img src={q.icon} alt="" width="34" height="34" loading="lazy" /></span>
-        <span class="qtext">
-          <strong>{q.title} <Icon name="chevron" size={14} class="qchev" /></strong>
-          <span>{q.text}</span>
-        </span>
-      </a>
-    ))}
-  </section>
 
   <section class="container home-section">
     <div class="section-head">

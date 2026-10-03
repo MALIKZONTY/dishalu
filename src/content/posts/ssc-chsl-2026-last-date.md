@@ -1,11 +1,13 @@
 ---
 title: "SSC CHSL 2026 Last Date 7 October: How to Apply, Fee, Eligibility"
 description: "SSC CHSL 2026 last date to apply is 7 October, 11 PM. 2,536 vacancies for 12th pass. Eligibility, fee, salary and step-by-step application guide."
-date: 2026-10-03
+date: 2026-10-03T18:50:00+05:30
 category: govt-exams
 tags: ["SSC CHSL", "SSC", "12th pass jobs", "central govt jobs"]
-image: /images/posts/ssc-chsl-2026-last-date.png
-imageAlt: "SSC CHSL 2026 last date, vacancies and fee"
+image: /images/posts/ssc-chsl-2026-last-date-hero.webp
+imageAlt: "Hands typing on a laptop keyboard"
+imageCredit: "Photo: Rawpixel, CC0"
+imageCreditUrl: "https://www.rawpixel.com/image/5970066/person-typing-keyboard"
 sourceUrl: "https://ssc.gov.in/"
 faqs:
   - q: "What is the last date to apply for SSC CHSL 2026?"
@@ -38,9 +40,14 @@ Don't wait for the last evening. The SSC website slows down badly on deadline da
 | Qualification | 12th pass |
 | Official website | [ssc.gov.in](https://ssc.gov.in/) |
 
+![SSC CHSL 2026: last date 7 October at 11 PM, 2,536 vacancies, fee ₹100](/images/posts/ssc-chsl-2026-last-date.png)
+
 ## Posts and salary
 
 SSC CHSL fills three types of posts in central government ministries and offices.
+
+![North Block in New Delhi, part of the Central Secretariat](/images/posts/ssc-chsl-2026-last-date-2.webp)
+*North Block, New Delhi, home to several central ministries. Photo: Mukulfaiz / Wikimedia, [CC BY-SA 3.0](https://commons.wikimedia.org/w/index.php?curid=18505723)*
 
 | Post | Pay Level | Pay scale |
 |---|---|---|

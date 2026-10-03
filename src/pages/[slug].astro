@@ -22,7 +22,7 @@ interface Props {
 }
 
 const { post, all } = Astro.props;
-const { title, description, date, updated, category, tags, image, imageAlt, sourceUrl, faqs } = post.data;
+const { title, description, date, updated, category, tags, image, imageAlt, imageCredit, imageCreditUrl, sourceUrl, faqs } = post.data;
 const { Content } = await render(post);
 const cat = CATEGORIES[category as CategoryKey];
 const url = new URL(`/${post.id}`, SITE.url).href;
@@ -103,7 +103,14 @@ if (faqs.length) {
         </div>
       </header>
 
-      <img class="post-hero" src={image} alt={imageAlt} width="1200" height="630" loading="eager" fetchpriority="high" />
+      <figure class="post-figure">
+        <img class="post-hero" src={image} alt={imageAlt} width="1200" height="630" loading="eager" fetchpriority="high" />
+        {imageCredit && (
+          <figcaption>
+            {imageCreditUrl ? <a href={imageCreditUrl} rel="noopener nofollow" target="_blank">{imageCredit}</a> : imageCredit}
+          </figcaption>
+        )}
+      </figure>
 
       <AdSlot />
 

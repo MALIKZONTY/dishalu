@@ -51,11 +51,13 @@ Frontmatter format:
 ---
 title: "SSC CGL 2026 Admit Card Out: Download Link and Exam Dates"   # ≤ 65 chars ideally
 description: "SSC CGL 2026 admit card is out for the Tier 1 exam. Steps to download, details to check, documents to carry and exam-day rules."   # 140–160 chars
-date: 2026-10-03            # today
+date: 2026-10-03T14:30:00+05:30   # now, in IST: `date +%Y-%m-%dT%H:%M:%S+05:30` (the time sets the order of same-day posts)
 category: govt-exams        # govt-exams | tech-news | careers | opportunities (earn-grow is hidden for now)
 tags: ["SSC CGL", "admit card", "SSC"]
-image: /images/posts/<slug>.png
-imageAlt: "SSC CGL 2026 admit card key dates"
+image: /images/posts/<slug>-hero.webp      # real photo, from Step 4
+imageAlt: "Candidates outside an exam centre"   # describe what the photo shows
+imageCredit: "Photo: Name / Wikimedia, CC BY 4.0"   # printed by `npm run photo -- save`
+imageCreditUrl: "https://..."
 sourceUrl: "https://..."    # the official page
 faqs:
   - q: "When is the SSC CGL 2026 Tier 1 exam?"
@@ -64,15 +66,43 @@ faqs:
 ---
 ```
 
-## Step 4: Image
+## Step 4: Images (2–3 per post, real photos)
 
-Generate the featured image with up to 3 key facts (short values, under ~18 characters each):
+Every post gets **a real header photo, the key-facts card, and usually one more real photo**. Use different photos for different posts. Don't reuse a photo already used by another post (check `public/images/posts/`).
+
+**a) Header photo**
+
+1. Search with 2–4 different queries that fit the topic (the place, the activity, the kind of job), e.g. `npm run photo -- search "online exam centre computers"`.
+2. Look at `.photo-previews/sheet.png` (numbered grid) and pick one that clearly fits.
+3. Save it: `npm run photo -- save <id> --slug <slug> --as hero`, and paste the printed `image`, `imageCredit` and `imageCreditUrl` into the frontmatter.
+
+Photo rules:
+- Must fit the topic and not mislead. Example: don't use an SBI photo for an IBPS post (SBI hires through its own exam).
+- No close-up identifiable children or private people as the main subject. Buildings, objects, hands, wide crowd shots and empty rooms are best.
+- No logos used as if the organisation endorses us. A real building photo of an exam body is fine.
+- Prefer large photos (the tool warns about small ones). Skip anything blurry, dated-looking or with heavy text/watermarks.
+
+**b) Key-facts card** (our own graphic, no credit needed)
 
 ```
-npm run new-image -- --slug <slug> --title "<title>" --category <category> --fact "Exam date=<date>" --fact "Released=<date>" --fact "Mode=Online"
+npm run new-image -- --slug <slug> --title "<short title>" --category <category> --fact "Exam date=<date>" --fact "Released=<date>" --fact "Mode=Online"
 ```
 
-Look at the generated PNG to make sure it reads well. If the title wraps badly, shorten the `--title` text for the image only.
+Put it right after the key-details table:
+
+```
+![<Exam> key dates: <the facts in words>](/images/posts/<slug>.png)
+```
+
+Look at the PNG. If the title wraps badly, shorten the `--title` for the image only.
+
+**c) One more photo** (recommended), placed in a section where it fits (eligibility, how to prepare, what the job is like):
+
+```
+npm run photo -- save <id> --slug <slug> --as 2
+```
+
+Paste the printed two lines (image, then the caption line right below it) and replace `DESCRIBE THE PHOTO` with real alt text. You can put a short description before "Photo:" in the caption.
 
 ## Step 5: Check
 

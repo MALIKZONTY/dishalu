@@ -1,10 +1,10 @@
 ---
 import { SITE, ACTIVE_CATEGORIES } from '../site.config';
-import { getPosts } from '../lib/posts';
+import { getPosts, formatDate } from '../lib/posts';
 import Logo from './Logo.astro';
 const year = new Date().getFullYear();
 const socials = Object.entries(SITE.social).filter(([, url]) => url);
-const latest = (await getPosts()).slice(0, 5);
+const latest = (await getPosts()).slice(0, 4);
 ---
 
 <footer class="site-footer">
@@ -29,7 +29,14 @@ const latest = (await getPosts()).slice(0, 5);
     <div>
       <h2 class="footer-title">Latest</h2>
       {latest.length ? (
-        <ul>{latest.map((p) => <li><a href={`/${p.id}`}>{p.data.title}</a></li>)}</ul>
+        <ul class="footer-latest">
+          {latest.map((p) => (
+            <li>
+              <a href={`/${p.id}`}>{p.data.title}</a>
+              <time datetime={p.data.date.toISOString()}>{formatDate(p.data.date)}</time>
+            </li>
+          ))}
+        </ul>
       ) : (
         <p>New posts every day.</p>
       )}

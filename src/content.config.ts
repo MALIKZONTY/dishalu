@@ -14,6 +14,8 @@ const posts = defineCollection({
     tags: z.array(z.string()).default([]),
     image: z.string(),
     imageAlt: z.string(),
+    imageCredit: z.string().optional(), // e.g. "Photo: Name / Wikimedia, CC BY 4.0"
+    imageCreditUrl: z.string().url().optional(),
     sourceUrl: z.string().url().optional(),
     faqs: z.array(z.object({ q: z.string(), a: z.string() })).default([]),
     draft: z.boolean().default(false),

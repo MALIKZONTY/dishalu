@@ -162,7 +162,12 @@ code { background: var(--surface); padding: 0.1em 0.35em; border-radius: 4px; fo
 .byline { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 14px; font-size: 0.9rem; color: var(--muted); padding: 10px 0; border-top: 1px solid var(--border); border-bottom: 1px solid var(--border); }
 .byline strong { color: var(--text); }
 .byline a { color: var(--text); }
-.post-hero { width: 100%; border-radius: var(--radius); margin: 20px 0 8px; border: 1px solid var(--border); }
+.post-hero { width: 100%; border-radius: var(--radius); border: 1px solid var(--border); display: block; }
+.post-figure { margin: 20px 0 8px; }
+.post-figure figcaption, .prose p > img + em, .prose p > img + br + em { display: block; margin-top: 6px; font-size: 0.78rem; color: var(--muted); font-style: normal; text-align: right; }
+.post-figure figcaption a, .prose p > img + em a, .prose p > img + br + em a { color: inherit; }
+.prose p:has(> img) { margin: 1.6em 0; }
+.prose p > img { width: 100%; max-height: 440px; object-fit: cover; border: 1px solid var(--border); }
 
 .prose { overflow-wrap: break-word; font-size: 1.06rem; }
 .prose h2 { font-size: 1.5rem; margin: 1.8em 0 0.6em; }
@@ -280,18 +285,6 @@ code { background: var(--surface); padding: 0.1em 0.35em; border-radius: 4px; fo
   .hero-search button { padding: 12px 16px; }
 }
 
-/* ── Home: quick links ─────────────────────── */
-.quick-links { display: grid; grid-template-columns: repeat(5, 1fr); gap: 14px; margin-top: 24px; }
-.qcard { position: relative; display: flex; gap: 12px; align-items: flex-start; padding: 16px; border: 1px solid var(--border); border-radius: 12px; background: #fff; text-decoration: none; color: var(--text); transition: box-shadow 0.15s, border-color 0.15s; }
-.qcard:hover { border-color: #f3b8c0; box-shadow: 0 6px 18px rgba(17, 24, 39, 0.06); }
-.qicon { flex: none; width: 52px; height: 52px; border-radius: 12px; display: grid; place-items: center; }
-.qicon img { width: 34px; height: 34px; }
-.qtext { display: flex; flex-direction: column; min-width: 0; }
-.qtext strong { font-size: 0.95rem; padding-right: 14px; line-height: 1.3; }
-.qtext > span { font-size: 0.82rem; color: var(--muted); line-height: 1.4; margin-top: 2px; }
-.qchev { position: absolute; top: 18px; right: 12px; color: var(--muted); }
-@media (max-width: 1080px) { .quick-links { grid-template-columns: repeat(3, 1fr); } }
-@media (max-width: 640px) { .quick-links { grid-template-columns: 1fr 1fr; gap: 10px; } .qcard { padding: 12px; } .qtext > span { display: none; } .qicon { width: 38px; height: 38px; } }
 
 /* ── Home: sections + cards ────────────────── */
 .home-section { margin-top: 40px; }
@@ -334,14 +327,6 @@ code { background: var(--surface); padding: 0.1em 0.35em; border-radius: 4px; fo
   .hero-search button { padding: 10px 14px; font-size: 0.9rem; }
   .chip { font-size: 0.8rem; padding: 4px 12px; }
 
-  /* Quick links: one swipeable row of icon tiles */
-  .quick-links { display: flex; gap: 10px; overflow-x: auto; scrollbar-width: none; margin-top: 16px; padding-bottom: 4px; }
-  .quick-links::-webkit-scrollbar { display: none; }
-  .qcard { flex: 0 0 auto; width: 92px; flex-direction: column; align-items: center; text-align: center; gap: 6px; padding: 12px 6px; }
-  .qicon { width: 44px; height: 44px; }
-  .qicon img { width: 30px; height: 30px; }
-  .qtext strong { font-size: 0.75rem; line-height: 1.25; padding: 0; font-weight: 600; }
-  .qtext > span, .qchev { display: none; }
 
   /* Sections and cards */
   .home-section { margin-top: 26px; }
@@ -372,3 +357,8 @@ code { background: var(--surface); padding: 0.1em 0.35em; border-radius: 4px; fo
 @media (max-width: 960px) {
   .sidebar { display: none; }
 }
+
+.footer-latest li { padding: 0 0 10px; margin: 0 0 10px; border-bottom: 1px solid #1f2937; }
+.footer-latest li:last-child { border-bottom: 0; }
+.footer-latest a { display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; line-height: 1.4; }
+.footer-latest time { display: block; font-size: 0.78rem; color: #9ca3af; margin-top: 3px; }

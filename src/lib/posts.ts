@@ -9,7 +9,7 @@ export async function getPosts(): Promise<Post[]> {
 }
 
 export function formatDate(d: Date): string {
-  return d.toLocaleDateString('en-IN', { day: 'numeric', month: 'short', year: 'numeric' });
+  return d.toLocaleDateString('en-IN', { day: 'numeric', month: 'short', year: 'numeric', timeZone: 'Asia/Kolkata' });
 }
 
 export function readingTime(body = ''): number {
