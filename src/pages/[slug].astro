@@ -48,7 +48,7 @@ const jsonLd: object[] = [
     image: new URL(image, SITE.url).href,
     datePublished: date.toISOString(),
     dateModified: (updated ?? date).toISOString(),
-    author: { '@type': 'Person', name: SITE.author.name, url: new URL('/about', SITE.url).href },
+    author: { '@type': 'Person', name: SITE.author.name, url: new URL('/about', SITE.url).href, image: new URL(SITE.author.photo, SITE.url).href },
     publisher: { '@type': 'Organization', name: SITE.name, url: SITE.url },
     mainEntityOfPage: url,
   },
@@ -140,7 +140,7 @@ if (faqs.length) {
       )}
 
       <aside class="author-box">
-        <div class="avatar" aria-hidden="true">{SITE.author.name.charAt(0)}</div>
+        <img class="avatar" src={SITE.author.photo} alt={SITE.author.name} width="64" height="64" loading="lazy" />
         <div>
           <strong>{SITE.author.name}</strong>
           <p>{SITE.author.bio}</p>

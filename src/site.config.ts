@@ -10,6 +10,7 @@ export const SITE = {
     'Latest government job notifications, admit cards and results, plus important tech news explained simply, for students and job seekers in India.',
   author: {
     name: 'Antuparthi Manoha Malik Paul',
+    photo: '/images/author.webp', // square photo; original in design/author-original.png
     bio: 'B.Tech graduate and software professional, currently preparing for government exams. I track notifications, results and tech news every day and explain them simply.',
   },
   email: 'malikantuparthi@gmail.com',

@@ -36,10 +36,16 @@ import { SITE, ACTIVE_CATEGORIES } from '../site.config';
   </div>
 
   <h2>Who writes here</h2>
+  <div class="about-author">
+    <img src={SITE.author.photo} alt={SITE.author.name} width="120" height="120" />
+    <div>
+      <p class="about-author-name">{SITE.author.name}</p>
+      <p>{SITE.author.bio}</p>
+    </div>
+  </div>
   <p>
-    {SITE.name} is run by <strong>{SITE.author.name}</strong>. {SITE.author.bio} Because we're preparing
-    for these exams ourselves, we write the kind of update we want to read: accurate, specific, and without the
-    fluff.
+    Because we're preparing for these exams ourselves, we write the kind of update we want to read: accurate,
+    specific, and without the fluff.
   </p>
 
   <h2>How we work</h2>
