@@ -78,6 +78,14 @@ export const ACTIVE_CATEGORIES = Object.fromEntries(
 
 export const isActiveCategory = (key: string) => CATEGORIES[key as CategoryKey]?.enabled === true;
 
+// Red strip at the very top of every page. Pin a post here until you change it.
+// slug = post file name (without .md). label = short word shown before the title.
+// Leave slug empty ('') to show the newest post instead.
+export const TOP_STRIP = {
+  slug: 'ssc-chsl-2026-last-date',
+  label: 'Apply now',
+};
+
 // Home page hero.
 export const HERO = {
   badge: 'Your guide to opportunities in India',

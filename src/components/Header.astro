@@ -1,5 +1,5 @@
 ---
-import { SITE, ACTIVE_CATEGORIES } from '../site.config';
+import { SITE, ACTIVE_CATEGORIES, TOP_STRIP } from '../site.config';
 import { getPosts } from '../lib/posts';
 import Logo from './Logo.astro';
 import Icon from './Icon.astro';
@@ -13,13 +13,16 @@ const links = [
   })),
   { href: '/archive', label: 'All Posts', active: path.startsWith('/archive') },
 ];
-const newest = (await getPosts())[0];
+const posts = await getPosts();
+const pinned = TOP_STRIP.slug ? posts.find((p) => p.id === TOP_STRIP.slug) : undefined;
+const stripPost = pinned ?? posts[0];
+const stripLabel = pinned ? TOP_STRIP.label : 'Latest';
 ---
 
 <div class="top-strip">
   <img src="/icons/3d/bell.webp" alt="" width="18" height="18" class="strip-icon" />
-  {newest ? (
-    <a href={`/${newest.id}`}><strong class="strip-label">Latest:</strong> {newest.data.title}</a>
+  {stripPost ? (
+    <a href={`/${stripPost.id}`}>{stripLabel && <strong class="strip-label">{stripLabel}:</strong>} {stripPost.data.title}</a>
   ) : (
     <a href="/archive">{SITE.tagline}</a>
   )}
