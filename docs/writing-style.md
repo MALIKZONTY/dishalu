@@ -92,4 +92,8 @@ Minimum 800 for every post. Reach it with useful sections, never with padding.
 
 **Tech news:** what happened in 2–3 lines → key facts table (what, who, when, price/availability in India) → why it matters → what it means for you (students, job seekers, regular users) → what's still unknown → FAQs. Explain, don't hype. No rumours as facts.
 
+**Govt scheme:** what it gives and who can apply in 2–3 lines → key details table (benefit amount, who runs it, eligibility summary, last date or installment date, official portal) → eligibility (and who is NOT eligible) → benefits → how to apply step by step → how to check status → common problems and fixes → "never pay an agent / beware of fake sites" note → FAQs. Only official facts; say clearly when a date isn't announced.
+
+**Current affairs (weekly):** date range up front → 20–30 items grouped by topic (National, States, Economy, International, Appointments, Awards, Sports, Science, Important Days), each 2–3 lines with the one fact to remember and its official source → 10–15 practice MCQs with answers → FAQs. No rumours, no opinion in the items.
+
 **Hackathon / internship:** what it is, deadline and who can apply up front → key details table → eligibility → rounds → prizes/stipend → how to apply → prep tips → "Should you apply?" → FAQs.

@@ -15,9 +15,9 @@ Get today's date with `date +%F`. Run `npm run list-posts` so you know what alre
 ## Step 1: Pick the topic
 
 **If the topic above is empty:**
-1. Search the web for fresh items across the **enabled** categories only (`enabled: true` in src/site.config.ts; skip any with `enabled: false`), using docs/sources.md and its freshness rules. **Priority order: Govt Exams (new notifications, admit cards, answer keys, results) first, then important Tech News, then Careers, and Hackathons & Internships last.**
+1. Search the web for fresh items across the **enabled** categories only (`enabled: true` in src/site.config.ts; skip any with `enabled: false`), using docs/sources.md and its freshness rules. **Priority order: Govt Exams (new notifications, admit cards, answer keys, results) first, then Govt Schemes, then important Tech News, then Careers, then Current Affairs.**
 2. Drop anything already covered (compare with `npm run list-posts`), anything with a passed deadline, and anything you can't trace to an official/organiser page.
-3. Show the user a numbered list of 5–8 options, most important first, then STOP and wait for their choice. Aim for roughly: 3–4 Govt Exams, 2–3 Tech News, at most 1 Careers and at most 1 Hackathons & Internships. Format:
+3. Show the user a numbered list of 5–8 options, most important first, then STOP and wait for their choice. Aim for roughly: 3 Govt Exams, 2 Govt Schemes, 1–2 Tech News and at most 1 Careers (only enabled categories). Format:
    ```
    1. [Govt Exams] <Exam> admit card released (exam on <date>)
       why: lakhs of candidates searching today · source: <official site>
@@ -26,7 +26,7 @@ Get today's date with `date +%F`. Run `npm run list-posts` so you know what alre
    ```
    Also offer: "or type your own topic".
 
-**If a topic is given:** skip the list and go to Step 2. A prefix like `govt:`, `tech:`, `career:` or `opp:` is a hint for the category. If the topic belongs to a hidden category (`enabled: false`), tell the user it won't show on the site until that category is enabled, and ask whether to continue. If the topic is already covered by an existing post, tell the user and ask whether to write a new angle or update the old post instead.
+**If a topic is given:** skip the list and go to Step 2. A prefix like `govt:`, `scheme:`, `tech:`, `career:`, `ca:` or `opp:` is a hint for the category. If the topic belongs to a hidden category (`enabled: false`), tell the user it won't show on the site until that category is enabled, and ask whether to continue. If the topic is already covered by an existing post, tell the user and ask whether to write a new angle or update the old post instead.
 
 ## Step 2: Research
 

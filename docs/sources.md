@@ -24,7 +24,16 @@ Look for anything released in the last 1–3 days: new notification, application
 - State PSCs (TSPSC, APPSC, TNPSC, KPSC, MPSC, UPPSC, BPSC, RPSC, etc.)
 - State police, teacher eligibility tests (TET), state electricity boards, high court recruitment
 
-## 2. Tech News (second priority)
+## 2. Govt Schemes (second priority)
+
+Central and big state schemes: new schemes, installment dates, rule changes, application windows, e-KYC/linking deadlines, status-check problems. Facts only from the official scheme portal, the ministry, PIB or the state government. Never cover a "scheme" that exists only in WhatsApp forwards or YouTube videos (a "fake scheme alert" post is fine).
+
+- myScheme (all central and state schemes): https://www.myscheme.gov.in
+- PIB press releases: https://pib.gov.in
+- Scheme portals, e.g. PM Kisan https://pmkisan.gov.in , Ayushman Bharat https://beneficiary.nha.gov.in , PM Awas https://pmay-urban.gov.in , NSP scholarships https://scholarships.gov.in , PM Internship https://pminternship.mca.gov.in
+- State government and department portals for state schemes
+
+## 3. Tech News (third priority)
 
 Important stories only: things that affect many people in India, or that students and job seekers should know. Skip rumours, minor app updates and pure stock-market news.
 
@@ -33,26 +42,25 @@ Important stories only: things that affect many people in India, or that student
 - Big launches: phones and devices in India, AI model releases, major OS updates (Android, iOS, Windows)
 - Discovery only (verify with the official source before writing): tech sections of major Indian and global news sites, Hacker News, The Verge, TechCrunch
 
-## 3. Careers
+## 4. Careers
 
+- Entrance exams and admissions (JEE, NEET, CUET, CAT, state CETs): notifications, admit cards, results, counselling, cut-offs. Official sites only (nta.ac.in, the exam's own site, MCC/JoSAA/state counselling portals)
 - Exam preparation strategy (syllabus breakdowns, previous-year analysis, study plans) for popular exams
 - Placement prep, in-demand skills, company hiring announcements (official careers pages)
 - Ideas from what people ask: Reddit r/developersIndia, r/Indian_Academia, r/UPSC, r/SSC (topic ideas only)
 
-## 4. Hackathons & Internships (lowest priority)
+## 5. Current Affairs (weekly, hidden until it has a few posts)
 
-Cover only big, well-known ones, or when there's nothing important in sections 1–3.
+One roundup per week (Sunday) of exam-worthy events from the past 7 days, plus topic lists when big events happen (awards, appointments, important days). Facts from PIB, ministries, RBI, official award/appointment announcements. No daily posts for now.
 
-- Unstop: https://unstop.com/hackathons , https://unstop.com/internships
-- Devfolio: https://devfolio.co/hackathons
-- Company programs: Google, Microsoft, Amazon ML Challenge, Flipkart GRiD, TCS CodeVita
-- Smart India Hackathon: https://sih.gov.in
-- AICTE internship portal: https://internship.aicte-india.org
+## 6. Hackathons & Internships (hidden)
+
+Category is disabled. Don't suggest topics unless it's re-enabled.
 
 ## Freshness
 
 - Govt exams: released in the last 3 days, or a deadline within the next 10 days.
 - Tech news: announced in the last 48 hours.
-- Opportunities: deadline in the next 3–30 days.
+- Govt schemes: new installment/deadline/rule change in the last 3 days, or a deadline within the next 15 days. Evergreen "how to apply / status check" guides any time.
 
 Skip anything whose deadline has passed.

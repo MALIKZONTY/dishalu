@@ -4,14 +4,14 @@
 export const SITE = {
   name: 'Dishalu',
   url: 'https://dishalu.in',
-  tagline: 'Govt exam updates, results and tech news that matter',
+  tagline: 'Govt exam updates, schemes and tech news that matter',
   logoTagline: 'Updates for a brighter tomorrow',
   description:
-    'Latest government job notifications, admit cards and results, plus important tech news explained simply, for students and job seekers in India.',
+    'Government job notifications, admit cards and results, government schemes and important tech news, explained simply for students and job seekers in India.',
   author: {
     name: 'Antuparthi Manoha Malik Paul',
     photo: '/images/author.webp', // square photo; original in design/author-original.png
-    bio: 'B.Tech graduate and software professional. I track notifications, results and tech news every day and explain them simply.',
+    bio: 'B.Tech graduate and software professional. I track notifications, results, schemes and tech news every day and explain them simply.',
   },
   email: 'malikantuparthi@gmail.com',
   locale: 'en_IN',
@@ -36,6 +36,14 @@ export const CATEGORIES = {
     soft: '#fdecee',
     description: 'Latest government job notifications, admit cards, answer keys and results: SSC, UPSC, RRB, banking, state PSC, GATE and PSU.',
   },
+  'govt-schemes': {
+    name: 'Govt Schemes',
+    enabled: true,
+    color: '#c2410c',
+    icon: '/icons/3d/schemes.webp',
+    soft: '#fdeee6',
+    description: 'Central and state government schemes explained simply: who can apply, benefits, installment dates and how to check status.',
+  },
   'tech-news': {
     name: 'Tech News',
     enabled: true,
@@ -50,11 +58,19 @@ export const CATEGORIES = {
     color: '#047857',
     icon: '/icons/3d/careers.webp',
     soft: '#e3f6ee',
-    description: 'Exam preparation strategy, placement prep, skills and career roadmaps.',
+    description: 'Entrance exams and admissions (JEE, NEET, CUET, CAT, state CETs), exam prep strategy, placements and career roadmaps.',
+  },
+  'current-affairs': {
+    name: 'Current Affairs',
+    enabled: false, // hidden until it has a few weekly roundups
+    color: '#4338ca',
+    icon: '/icons/3d/current-affairs.webp',
+    soft: '#eceafe',
+    description: 'Weekly current affairs for SSC, banking, railway and state exams, with practice MCQs.',
   },
   opportunities: {
     name: 'Hackathons & Internships',
-    enabled: true,
+    enabled: false, // hidden for now
     color: '#b45309',
     icon: '/icons/3d/hackathons.webp',
     soft: '#fdf1e2',
@@ -92,6 +108,6 @@ export const HERO = {
   title: 'Clear updates.',
   titleAccent: 'Brighter',
   titleRest: 'next steps.',
-  text: 'Dishalu tracks government job notifications, admit cards, answer keys and results, and explains the tech news that actually matters, in simple, clear language.',
+  text: 'Dishalu tracks government job notifications, admit cards, answer keys and results, explains government schemes and the tech news that actually matters, in simple, clear language.',
   note: ['New updates,', 'new opportunities,', 'brighter tomorrows'],
 };
