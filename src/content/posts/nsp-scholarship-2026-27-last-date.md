@@ -43,30 +43,30 @@ We checked every scholarship on the official NSP scheme list on 4 October 2026. 
 
 ## Scholarships you can apply for now
 
-Amounts and rules are from each scheme's guidelines published on NSP.
+Amounts and rules are from each scheme's guidelines published on NSP. The AICTE scholarships cover both degree and diploma courses.
 
-| Scholarship | Who can apply | Amount | Last date |
-|---|---|---|---|
-| **AICTE Pragati** (degree and diploma) | Girl students in 1st year (or 2nd year lateral entry) of an AICTE-approved course; family income up to ₹8 lakh; max 2 girls per family | ₹50,000 a year | **31 Oct 2026** |
-| **AICTE Saksham** (degree and diploma) | Students with 40% or more disability, 1st year (or 2nd year lateral entry); family income up to ₹8 lakh | ₹50,000 a year | **31 Oct 2026** |
-| **AICTE Swanath** (degree and diploma) | Orphans, students who lost a parent to Covid-19, wards of martyred armed/paramilitary personnel, or a parent with a critical illness or severe accident disability; family income up to ₹8 lakh; any year | ₹50,000 a year | **31 Oct 2026** |
-| **UGC National Scholarship for PG Studies** | 1st year of your first PG degree, regular mode, below 30 years at admission | ₹15,000 a month for 10 months a year, for 2 years | **31 Oct 2026** |
-| **Top Class Education for SC Students** | SC students in notified top institutions; family income up to ₹8 lakh | Full tuition fee (capped at ₹2 lakh a year in private institutes) + ₹86,000 in the 1st year, ₹41,000 in later years | **31 Oct 2026** |
-| **PM YASASVI Top Class (College)** for OBC, EBC and DNT students | Students in notified institutions (IITs, IIMs, NITs and others on the list); family income up to ₹2.5 lakh | Tuition fee (capped at ₹2 lakh a year in private institutes) + ₹3,000 a month + ₹5,000 a year for books + up to ₹45,000 once for a laptop | **31 Oct 2026** |
-| **NMMS** (National Means-cum-Merit) | Class 9 students selected through their state's class 8 test; parental income up to ₹3.5 lakh | ₹12,000 a year (class 9 to 12) | **31 Oct 2026** |
+| Scholarship | Who can apply | Amount |
+|---|---|---|
+| **AICTE Pragati** <br>Apply by **31 Oct** | Girls in 1st year (or lateral entry) of an AICTE course; income up to ₹8 lakh | ₹50,000 a year |
+| **AICTE Saksham** <br>Apply by **31 Oct** | 40%+ disability, 1st year (or lateral entry) of an AICTE course; income up to ₹8 lakh | ₹50,000 a year |
+| **AICTE Swanath** <br>Apply by **31 Oct** | Orphans, martyrs' wards, or students who lost a parent or have a critically ill parent; any year; income up to ₹8 lakh | ₹50,000 a year |
+| **UGC PG Scholarship** <br>Apply by **31 Oct** | 1st year of your first PG degree, regular mode, under 30 | ₹15,000 a month (10 months a year, 2 years) |
+| **Top Class (SC)** <br>Apply by **31 Oct** | SC students at notified top institutes; income up to ₹8 lakh | Tuition (up to ₹2 lakh) + ₹86,000 in 1st year, ₹41,000 later |
+| **PM YASASVI (College)** <br>Apply by **31 Oct** | OBC, EBC, DNT students at notified top institutes; income up to ₹2.5 lakh | Tuition (up to ₹2 lakh) + ₹3,000 a month + books and laptop aid |
+| **NMMS** <br>Apply by **31 Oct** | Class 9 students selected in the state's class 8 test; income up to ₹3.5 lakh | ₹12,000 a year |
 
 ### Other scholarships open till 31 October 2026
 
-| Scholarship | For | Last date |
-|---|---|---|
-| Pre-Matric and Post-Matric Scholarship for Students with Disabilities | Students with disabilities, school and college | 31 Oct 2026 |
-| Top Class Education for Students with Disabilities | Students with disabilities in notified institutions | 31 Oct 2026 |
-| National Fellowship and Scholarship for ST Students | ST students in higher education | 31 Oct 2026 |
-| Ishan Uday (UGC) | Students from the North Eastern Region | 31 Oct 2026 |
-| ICAR National Talent Scholarship (UG and PG) and ICAR PG Scholarship | Agriculture students | 31 Oct 2026 |
-| PM's Scholarship for wards of CAPF and Assam Rifles, Railways, and State/UT police martyred in terror/Naxal attacks | Children of these personnel | 31 Oct 2026 |
-| Financial Assistance for wards of Beedi, Cine, IOMC and LSDM workers (pre and post-matric) | Children of these workers | 31 Oct 2026 |
-| Free Coaching for SC and OBC students | Coaching for competitive exams | 31 Oct 2026 |
+| Scholarship | For |
+|---|---|
+| Pre- and Post-Matric for Students with Disabilities | School and college students with disabilities |
+| Top Class for Students with Disabilities | Students with disabilities at notified institutes |
+| National Fellowship and Scholarship for ST Students | ST students in higher education |
+| Ishan Uday (UGC) | Students from the North Eastern Region |
+| ICAR scholarships (UG and PG) | Agriculture students |
+| PM's Scholarship (CAPF, Assam Rifles, Railways, martyred police) | Children of these personnel |
+| Financial Assistance for workers' wards | Children of beedi, cine, IOMC and LSDM workers |
+| Free Coaching for SC and OBC students | Coaching for competitive exams |
 
 Many **post-matric scholarships for SC, ST, OBC and minority students** are given through **state scholarship portals**, not the central list above. Check your state's official scholarship website too.
 
