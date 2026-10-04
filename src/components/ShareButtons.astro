@@ -14,6 +14,7 @@ const t = encodeURIComponent(title);
   <a class="tg" href={`https://t.me/share/url?url=${u}&text=${t}`} rel="noopener" target="_blank">Telegram</a>
   <a class="li" href={`https://www.linkedin.com/sharing/share-offsite/?url=${u}`} rel="noopener" target="_blank">LinkedIn</a>
   <a class="x" href={`https://x.com/intent/post?url=${u}&text=${t}`} rel="noopener" target="_blank">X</a>
+  <button class="ig" type="button" data-url={url} data-title={title}>Instagram</button>
   <button class="copy" type="button" data-url={url}>Copy link</button>
 </div>
 
@@ -27,6 +28,26 @@ const t = encodeURIComponent(title);
       } catch {
         btn.textContent = 'Copy failed';
       }
+    });
+  });
+
+  // Instagram has no web share link: use the phone's share sheet, else copy the link.
+  document.querySelectorAll<HTMLButtonElement>('.share .ig').forEach((btn) => {
+    btn.addEventListener('click', async () => {
+      const url = btn.dataset.url ?? location.href;
+      if (navigator.share) {
+        try {
+          await navigator.share({ title: btn.dataset.title, url });
+        } catch {}
+        return;
+      }
+      try {
+        await navigator.clipboard.writeText(url);
+        btn.textContent = 'Link copied, paste in Instagram';
+      } catch {
+        btn.textContent = 'Copy failed';
+      }
+      setTimeout(() => (btn.textContent = 'Instagram'), 2500);
     });
   });
 </script>

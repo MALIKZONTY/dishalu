@@ -41,7 +41,8 @@ Here's exactly what changes, what doesn't, and what to do if a shopkeeper tries 
 | Merchant payments up to ₹2,000 | Free |
 | Small merchants (up to ₹1 lakh/month via QR) | Free, even above ₹2,000 |
 
-![UPI MDR key facts: starts 15 October 2026, 0.4% on merchant payments above ₹2,000, capped at ₹300 for ₹75,000 and above](/images/posts/upi-charges-above-2000-from-october-15.png)
+![Front of a small supermarket in India with crates and a cold-drink fridge outside](/images/posts/upi-charges-above-2000-from-october-15-3.webp)
+*The fee is charged to merchants, not customers, and small shops can be exempt. Photo: Renzilde / Wikimedia, [CC BY-SA 3.0](https://commons.wikimedia.org/w/index.php?curid=24292781)*
 
 ## What is MDR, in simple words?
 

@@ -120,7 +120,7 @@ for (const file of files) {
   if (/^# /m.test(content)) errors.push('Do not use a "# " H1 in the body. The title is already the H1.');
   if (!/\|.*\|/.test(content)) warns.push('No table. Key facts (dates, fees, prizes) read better in a table.');
   const inlineImages = (content.match(/!\[[^\]]*\]\([^)]+\)/g) ?? []).length;
-  if (inlineImages < 1) warns.push('No images inside the post. Aim for 2–3 images per post (header photo + key-facts card + 1 photo).');
+  if (inlineImages < 1) warns.push('No images inside the post. Aim for 2–3 real photos per post (header photo + 1–2 inside the post).');
   for (const m of content.matchAll(/!\[([^\]]*)\]\(([^)]+)\)/g)) {
     if (!m[1].trim() || m[1].includes('DESCRIBE')) errors.push(`Image needs real alt text: ${m[2]}`);
     if (m[2].startsWith('/') && !existsSync(`public${m[2]}`)) errors.push(`Image not found: public${m[2]}`);

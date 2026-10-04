@@ -40,8 +40,6 @@ Don't wait for the last evening. The SSC website slows down badly on deadline da
 | Qualification | 12th pass |
 | Official website | [ssc.gov.in](https://ssc.gov.in/) |
 
-![SSC CHSL 2026: last date 7 October at 11 PM, 2,536 vacancies, fee ₹100](/images/posts/ssc-chsl-2026-last-date.png)
-
 ## Posts and salary
 
 SSC CHSL fills three types of posts in central government ministries and offices.
@@ -123,6 +121,9 @@ SSC CHSL has two stages:
 
 1. **Tier 1:** a computer-based objective exam
 2. **Tier 2:** a harder computer-based exam, which also includes a **typing or skill test**
+
+![Hands typing on a white computer keyboard on a dark desk](/images/posts/ssc-chsl-2026-last-date-3.webp)
+*Typing speed matters in Tier 2, so start practising early. Photo: Rawpixel, [CC0](https://www.rawpixel.com/image/5916691/image-phone-public-domain-hand)*
 
 ### Tier 1 exam pattern
 

@@ -38,7 +38,8 @@ That gives you about a week. Download it today, not on the night before your exa
 | Login details needed | Registration/roll number + password or date of birth |
 | Official website | [ibps.in](https://www.ibps.in/) |
 
-![IBPS Clerk 2026 key dates: prelims on 10 and 11 October, admit card released 1 October, mains on 27 December](/images/posts/ibps-clerk-admit-card-2026.png)
+![Bank of India main branch building in Mumbai](/images/posts/ibps-clerk-admit-card-2026-3.webp)
+*Bank of India, one of the public sector banks that hire clerks through IBPS. Photo: AroundTheGlobe / Wikimedia, [CC BY-SA 3.0](https://commons.wikimedia.org/w/index.php?curid=12711898)*
 
 ## How to download the IBPS Clerk admit card 2026
 

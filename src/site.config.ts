@@ -11,7 +11,7 @@ export const SITE = {
   author: {
     name: 'Antuparthi Manoha Malik Paul',
     photo: '/images/author.webp', // square photo; original in design/author-original.png
-    bio: 'B.Tech graduate and software professional, currently preparing for government exams. I track notifications, results and tech news every day and explain them simply.',
+    bio: 'B.Tech graduate and software professional. I track notifications, results and tech news every day and explain them simply.',
   },
   email: 'malikantuparthi@gmail.com',
   locale: 'en_IN',

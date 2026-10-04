@@ -68,7 +68,7 @@ faqs:
 
 ## Step 4: Images (2–3 per post, real photos)
 
-Every post gets **a real header photo, the key-facts card, and usually one more real photo**. Use different photos for different posts. Don't reuse a photo already used by another post (check `public/images/posts/`).
+Every post gets **a real header photo and usually 1–2 more real photos** inside the post. Use different photos for different posts. Don't reuse a photo already used by another post (check `public/images/posts/`).
 
 **a) Header photo**
 
@@ -82,25 +82,14 @@ Photo rules:
 - No logos used as if the organisation endorses us. A real building photo of an exam body is fine.
 - Prefer large photos (the tool warns about small ones). Skip anything blurry, dated-looking or with heavy text/watermarks.
 
-**b) Key-facts card** (our own graphic, no credit needed)
-
-```
-npm run new-image -- --slug <slug> --title "<short title>" --category <category> --fact "Exam date=<date>" --fact "Released=<date>" --fact "Mode=Online"
-```
-
-Put it right after the key-details table:
-
-```
-![<Exam> key dates: <the facts in words>](/images/posts/<slug>.png)
-```
-
-Look at the PNG. If the title wraps badly, shorten the `--title` for the image only.
-
-**c) One more photo** (recommended), placed in a section where it fits (eligibility, how to prepare, what the job is like):
+**b) One or two more photos** (recommended), each placed in a section where it fits (eligibility, how to prepare, what the job is like). No generated key-facts card: the key-details table already shows the facts.
 
 ```
 npm run photo -- save <id> --slug <slug> --as 2
+npm run photo -- save <id> --slug <slug> --as 3
 ```
+
+Don't put two photos right next to each other. If no good photo fits, skip it rather than use a weak one.
 
 Paste the printed two lines (image, then the caption line right below it) and replace `DESCRIBE THE PHOTO` with real alt text. You can put a short description before "Photo:" in the caption.
 
@@ -129,7 +118,7 @@ If they cancel, ask whether to delete the draft files or keep them with `draft: 
 
 ## Step 7: Publish (only after "okay")
 
-1. `git add src/content/posts/<slug>.md public/images/posts/<slug>.png`
+1. `git add src/content/posts/<slug>.md public/images/posts/<slug>-*.webp`
 2. `git commit -m "post: <title>"`
 3. If a git remote exists, `git push`. Cloudflare Pages deploys in about a minute.
    If there's no remote yet, say: "Committed locally. Connect GitHub + Cloudflare (see README) and push to go live."

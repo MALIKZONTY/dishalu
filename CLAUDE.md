@@ -15,7 +15,7 @@ Never commit or push a post without the user's explicit okay.
 - `src/site.config.ts`: site name, URL, author, AdSense id, categories. Single place to edit branding.
 - `src/content/posts/*.md`: posts. File name = URL slug.
 - `src/content.config.ts`: frontmatter schema.
-- `public/images/posts/<slug>.png`: featured images made by `npm run new-image`.
+- `public/images/posts/<slug>-hero.webp`, `-2.webp`, `-3.webp`: real photos saved by `npm run photo`.
 - Branding: `public/logo-mark.svg` (logo), `public/favicon.svg` (app icon; run `node scripts/make-icons.mjs` after editing to regenerate PNG icons), `public/images/hero.webp` + `hero-small.webp` (home hero photo; original in `design/hero-original.png`; `hero.svg` is a spare illustration). Home hero text lives in `src/site.config.ts` (HERO).
 - `docs/writing-style.md`: voice, structure, banned phrases, accuracy rules. Follow it for all writing.
 - `docs/sources.md`: where to find topics and official facts.
@@ -26,7 +26,6 @@ Never commit or push a post without the user's explicit okay.
 - `npm run build`: production build into `dist/`
 - `npm run list-posts [-- word]`: existing posts
 - `npm run check-post -- <slug>` / `-- --all`: quality gate (word count ≥ 800, banned phrases, SEO fields, image, links)
-- `npm run new-image -- --slug ... --title ... --category ... --fact "Label=Value"`: key-facts card (shown inside the post)
 - `npm run photo -- search "words"` / `npm run photo -- save <id> --slug <slug> --as hero|2|3`: real, openly licensed photos via Openverse (commercial use allowed), with credit lines. Previews: `.photo-previews/sheet.png`
 
 ## Rules
