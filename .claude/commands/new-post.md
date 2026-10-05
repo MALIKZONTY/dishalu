@@ -15,9 +15,9 @@ Get today's date with `date +%F`. Run `npm run list-posts` so you know what alre
 ## Step 1: Pick the topic
 
 **If the topic above is empty:**
-1. Search the web for fresh items across the **enabled** categories only (`enabled: true` in src/site.config.ts; skip any with `enabled: false`), using docs/sources.md and its freshness rules. **Priority order: Govt Exams (new notifications, admit cards, answer keys, results) first, then Govt Schemes, then important Tech News, then Careers, then Current Affairs.**
+1. Search the web for fresh items across the **enabled** categories only (`enabled: true` in src/site.config.ts; skip any with `enabled: false`), using docs/sources.md and its freshness rules. **Priority order: Govt Exams (new notifications, admit cards, answer keys, results) first, then Govt Schemes, then important Tech News, then Careers, then Cinema, then Current Affairs.**
 2. Drop anything already covered (compare with `npm run list-posts`), anything with a passed deadline, and anything you can't trace to an official/organiser page.
-3. Show the user a numbered list of 5–8 options, most important first, then STOP and wait for their choice. Aim for roughly: 3 Govt Exams, 2 Govt Schemes, 1–2 Tech News and at most 1 Careers (only enabled categories). Format:
+3. Show the user a numbered list of 5–8 options, most important first, then STOP and wait for their choice. Aim for roughly: 3 Govt Exams, 2 Govt Schemes, 1–2 Tech News, at most 1 Careers and 1 Cinema (only enabled categories). Format:
    ```
    1. [Govt Exams] <Exam> admit card released (exam on <date>)
       why: lakhs of candidates searching today · source: <official site>
@@ -26,7 +26,7 @@ Get today's date with `date +%F`. Run `npm run list-posts` so you know what alre
    ```
    Also offer: "or type your own topic".
 
-**If a topic is given:** skip the list and go to Step 2. A prefix like `govt:`, `scheme:`, `tech:`, `career:`, `ca:` or `opp:` is a hint for the category. If the topic belongs to a hidden category (`enabled: false`), tell the user it won't show on the site until that category is enabled, and ask whether to continue. If the topic is already covered by an existing post, tell the user and ask whether to write a new angle or update the old post instead.
+**If a topic is given:** skip the list and go to Step 2. A prefix like `govt:`, `scheme:`, `tech:`, `career:`, `cinema:`, `ca:` or `opp:` is a hint for the category. If the topic belongs to a hidden category (`enabled: false`), tell the user it won't show on the site until that category is enabled, and ask whether to continue. If the topic is already covered by an existing post, tell the user and ask whether to write a new angle or update the old post instead.
 
 ## Step 2: Research
 
@@ -52,7 +52,7 @@ Frontmatter format:
 title: "SSC CGL 2026 Admit Card Out: Download Link and Exam Dates"   # ≤ 65 chars ideally
 description: "SSC CGL 2026 admit card is out for the Tier 1 exam. Steps to download, details to check, documents to carry and exam-day rules."   # 140–160 chars
 date: 2026-10-03T14:30:00+05:30   # now, in IST: `date +%Y-%m-%dT%H:%M:%S+05:30` (the time sets the order of same-day posts)
-category: govt-exams        # govt-exams | tech-news | careers | opportunities (earn-grow is hidden for now)
+category: govt-exams        # govt-exams | govt-schemes | tech-news | careers | cinema (current-affairs, opportunities, earn-grow are hidden for now)
 tags: ["SSC CGL", "admit card", "SSC"]
 image: /images/posts/<slug>-hero.webp      # real photo, from Step 4
 imageAlt: "Candidates outside an exam centre"   # describe what the photo shows

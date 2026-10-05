@@ -4,10 +4,10 @@
 export const SITE = {
   name: 'Dishalu',
   url: 'https://dishalu.in',
-  tagline: 'Govt exam updates, schemes and tech news that matter',
+  tagline: 'Govt exam updates, schemes, tech news and cinema that matter',
   logoTagline: 'Updates for a brighter tomorrow',
   description:
-    'Government job notifications, admit cards and results, government schemes and important tech news, explained simply for students and job seekers in India.',
+    'Government job notifications, admit cards and results, government schemes, important tech news and cinema updates, explained simply for students and job seekers in India.',
   author: {
     name: 'Antuparthi Manoha Malik Paul',
     photo: '/images/author.webp', // square photo; original in design/author-original.png
@@ -60,6 +60,14 @@ export const CATEGORIES = {
     soft: '#e3f6ee',
     description: 'Entrance exams and admissions (JEE, NEET, CUET, CAT, state CETs), exam prep strategy, placements and career roadmaps.',
   },
+  cinema: {
+    name: 'Cinema',
+    enabled: true,
+    color: '#be185d',
+    icon: '/icons/3d/cinema.webp',
+    soft: '#fdeaf3',
+    description: 'Movie releases in theatres and on OTT, box office, trailers, awards and film industry news, with official dates and no spoilers.',
+  },
   'current-affairs': {
     name: 'Current Affairs',
     enabled: false, // hidden until it has a few weekly roundups
@@ -108,6 +116,6 @@ export const HERO = {
   title: 'Clear updates.',
   titleAccent: 'Brighter',
   titleRest: 'next steps.',
-  text: 'Dishalu tracks government job notifications, admit cards, answer keys and results, explains government schemes and the tech news that actually matters, in simple, clear language.',
+  text: 'Dishalu tracks government job notifications, admit cards, answer keys and results, explains government schemes and the tech news that actually matters, and keeps you posted on new movies in theatres and on OTT, in simple, clear language.',
   note: ['New updates,', 'new opportunities,', 'brighter tomorrows'],
 };

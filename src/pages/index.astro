@@ -27,7 +27,7 @@ const blocks = (Object.keys(ACTIVE_CATEGORIES) as CategoryKey[])
         <p class="hero-text">{HERO.text}</p>
         <form class="hero-search" action="/search" method="get" role="search">
           <Icon name="search" size={20} class="search-icon" />
-          <input type="search" name="q" placeholder="Search exams, jobs, results, tech news…" aria-label="Search" />
+          <input type="search" name="q" placeholder="Search exams, jobs, results, tech news, movies…" aria-label="Search" />
           <button type="submit">Search</button>
         </form>
       </div>
@@ -55,7 +55,7 @@ const blocks = (Object.keys(ACTIVE_CATEGORIES) as CategoryKey[])
     {latest.length === 0 ? (
       <div class="empty">
         <h3>First updates are on the way</h3>
-        <p>Govt exam notifications, admit cards and results, plus important tech news explained simply.</p>
+        <p>Govt exam notifications, admit cards and results, plus important tech news and cinema updates explained simply.</p>
       </div>
     ) : (
       <div class="card-grid">{latest.map((p) => <PostCard post={p} />)}</div>

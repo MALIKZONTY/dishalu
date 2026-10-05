@@ -19,6 +19,7 @@ const THEMES = {
   'govt-exams': { label: 'GOVT EXAMS', from: '#1d4ed8', to: '#1e3a8a', accent: '#93c5fd' },
   'tech-news': { label: 'TECH NEWS', from: '#7c3aed', to: '#4c1d95', accent: '#c4b5fd' },
   careers: { label: 'CAREERS', from: '#0f766e', to: '#134e4a', accent: '#5eead4' },
+  cinema: { label: 'CINEMA', from: '#be185d', to: '#831843', accent: '#f9a8d4' },
   opportunities: { label: 'HACKATHONS & INTERNSHIPS', from: '#b91c1c', to: '#7f1d1d', accent: '#fca5a5' },
   'earn-grow': { label: 'EARN & GROW', from: '#b45309', to: '#7c2d12', accent: '#fcd34d' },
   default: { label: '', from: '#c8102e', to: '#1e293b', accent: '#fca5a5' },

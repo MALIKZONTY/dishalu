@@ -4,7 +4,7 @@ Every post should read like a helpful senior explaining something to a junior, n
 
 ## Audience
 
-Students and job seekers in India: govt exam aspirants (SSC, UPSC, railways, banking, state PSC, GATE) and people who want to keep up with tech. Mostly reading on a phone, often on mobile data. Busy and a bit sceptical. They want the key facts and the official link fast, then a clear explanation.
+Students and job seekers in India: govt exam aspirants (SSC, UPSC, railways, banking, state PSC, GATE) and people who want to keep up with tech and cinema. Mostly reading on a phone, often on mobile data. Busy and a bit sceptical. They want the key facts and the official link fast, then a clear explanation.
 
 ## Voice
 
@@ -74,6 +74,7 @@ Also avoid:
 |---|---|
 | Admit card / answer key / result | 800–1,200 |
 | Tech news explainer | 800–1,200 |
+| Cinema (release, OTT, box office, trailer) | 800–1,200 |
 | Hackathon / internship | 800–1,200 |
 | Govt job notification | 1,200–1,800 |
 | Prep guide / career guide | 1,500–2,500+ |
@@ -93,6 +94,8 @@ Minimum 800 for every post. Reach it with useful sections, never with padding.
 **Tech news:** what happened in 2–3 lines → key facts table (what, who, when, price/availability in India) → why it matters → what it means for you (students, job seekers, regular users) → what's still unknown → FAQs. Explain, don't hype. No rumours as facts.
 
 **Govt scheme:** what it gives and who can apply in 2–3 lines → key details table (benefit amount, who runs it, eligibility summary, last date or installment date, official portal) → eligibility (and who is NOT eligible) → benefits → how to apply step by step → how to check status → common problems and fixes → "never pay an agent / beware of fake sites" note → FAQs. Only official facts; say clearly when a date isn't announced.
+
+**Cinema:** what happened in 2–3 lines (film, release date, where to watch) → key facts table (film, language(s), cast and director, release date, theatre or OTT platform, CBFC certificate and runtime if out, official trailer link) → what the film is about (from the official synopsis/trailer, no spoilers) → where and how to watch (theatre / OTT, which plan) → box office or reviews only with clear attribution ("the makers claim ₹X crore") → what's still unknown → FAQs. For "releases this week/month" posts: a table of films with date, language and theatre/OTT, then 2–3 lines on each. No piracy links, no leaks, spoilers only with a clear warning, no posters or stills (use openly licensed photos of theatres, film sets or events).
 
 **Current affairs (weekly):** date range up front → 20–30 items grouped by topic (National, States, Economy, International, Appointments, Awards, Sports, Science, Important Days), each 2–3 lines with the one fact to remember and its official source → 10–15 practice MCQs with answers → FAQs. No rumours, no opinion in the items.
 

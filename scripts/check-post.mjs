@@ -8,7 +8,7 @@ import matter from 'gray-matter';
 
 const DIR = 'src/content/posts';
 const MIN_WORDS = 800;
-const CATEGORIES = ['govt-exams', 'govt-schemes', 'tech-news', 'careers', 'current-affairs', 'opportunities', 'earn-grow'];
+const CATEGORIES = ['govt-exams', 'govt-schemes', 'tech-news', 'careers', 'cinema', 'current-affairs', 'opportunities', 'earn-grow'];
 
 // Phrases that make a post read like generic AI output. Keep in sync with docs/writing-style.md
 const BANNED = [

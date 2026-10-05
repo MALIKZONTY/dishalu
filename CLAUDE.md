@@ -1,4 +1,4 @@
-# Dishalu (dishalu.in): govt exams + tech news blog (India)
+# Dishalu (dishalu.in): govt exams + tech news + cinema blog (India)
 
 Static Astro site. Posts are Markdown files; every push to GitHub redeploys the site on Cloudflare Pages.
 
@@ -32,5 +32,6 @@ Never commit or push a post without the user's explicit okay.
 
 - Facts only from official/organiser sources; never copy other blogs' text or images.
 - Minimum 800 words, no filler. Earn & Grow posts: realistic, no scams or guaranteed income.
-- Focus, in priority order: govt-exams (notifications, admit cards, answer keys, results) > govt-schemes (central/state schemes: eligibility, benefits, installments, status) > tech-news > careers (incl. entrance exams & admissions) > current-affairs (weekly roundup + MCQs).
+- Cinema posts: no piracy/leak links, no spoilers without a warning, no movie posters or stills (copyrighted); use real openly licensed photos (theatres, film sets, events). Box office numbers are "as claimed by the makers".
+- Focus, in priority order: govt-exams (notifications, admit cards, answer keys, results) > govt-schemes (central/state schemes: eligibility, benefits, installments, status) > tech-news > careers (incl. entrance exams & admissions) > cinema (theatre/OTT releases, trailers, box office, awards) > current-affairs (weekly roundup + MCQs).
 - Each category has `enabled` in site.config.ts; current-affairs, earn-grow and opportunities (hackathons & internships) are currently disabled (hidden everywhere, their posts too). Don't suggest topics for disabled categories.

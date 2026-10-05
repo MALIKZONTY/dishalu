@@ -49,11 +49,24 @@ Important stories only: things that affect many people in India, or that student
 - Placement prep, in-demand skills, company hiring announcements (official careers pages)
 - Ideas from what people ask: Reddit r/developersIndia, r/Indian_Academia, r/UPSC, r/SSC (topic ideas only)
 
-## 5. Current Affairs (weekly, hidden until it has a few posts)
+## 5. Cinema
+
+Theatre and OTT releases (this week / this month), official trailers and release-date announcements, box office (only as claimed by makers or trade sources, and say so), CBFC certification, National Film Awards, Filmfare and other big awards, and film-industry news that many people in India care about (Telugu, Tamil, Hindi, Malayalam, Kannada and big Hollywood releases in India).
+
+- Production houses' and distributors' official websites and verified social accounts (release dates, trailers, official box office posters)
+- OTT platforms' own pages and press releases: Netflix, Prime Video, JioHotstar, ZEE5, SonyLIV, Aha, Sun NXT
+- CBFC: https://www.cbfcindia.gov.in (certificates, runtimes)
+- National Film Awards / Directorate of Film Festivals and PIB: https://pib.gov.in ; IFFI: https://iffigoa.org
+- Ticketing pages (BookMyShow, District) only to confirm a film is actually listed in theatres
+- Discovery only (verify before writing): film trade analysts, entertainment sections of major news sites, IMDb. Gossip pages and fan accounts are never a source.
+
+Never: piracy/leak sites or "download link" content, rumoured release dates as facts, unverified box office numbers, posters or movie stills (copyrighted), spoilers without a clear warning.
+
+## 6. Current Affairs (weekly, hidden until it has a few posts)
 
 One roundup per week (Sunday) of exam-worthy events from the past 7 days, plus topic lists when big events happen (awards, appointments, important days). Facts from PIB, ministries, RBI, official award/appointment announcements. No daily posts for now.
 
-## 6. Hackathons & Internships (hidden)
+## 7. Hackathons & Internships (hidden)
 
 Category is disabled. Don't suggest topics unless it's re-enabled.
 
@@ -61,6 +74,7 @@ Category is disabled. Don't suggest topics unless it's re-enabled.
 
 - Govt exams: released in the last 3 days, or a deadline within the next 10 days.
 - Tech news: announced in the last 48 hours.
+- Cinema: releasing in the next 7 days (theatre or OTT), trailer/date announced in the last 48 hours, or box office/awards from the last 3 days. Monthly "releases this month" lists any time in the first week of the month.
 - Govt schemes: new installment/deadline/rule change in the last 3 days, or a deadline within the next 15 days. Evergreen "how to apply / status check" guides any time.
 
 Skip anything whose deadline has passed.

@@ -1,4 +1,4 @@
-# Dishalu: govt exam updates, results and tech news
+# Dishalu: govt exam updates, results, tech news and cinema
 
 A fast, SEO-ready static blog (Astro) that you write with Claude Code using `/new-post`, and that deploys for free on Cloudflare Pages.
 
@@ -19,7 +19,7 @@ you check → "okay"                       ↓
 |---|---|
 | `/new-post` | Finds 5–8 fresh topics, you pick one, Claude writes it and shows a preview, then publishes when you say okay |
 | `/new-post SSC CGL 2026 admit card` | Same, for a topic you choose |
-| `/new-post tech: Android 17 release` | Prefix hints the category (`govt:`, `tech:`, `career:`, `opp:`) |
+| `/new-post tech: Android 17 release` | Prefix hints the category (`govt:`, `scheme:`, `tech:`, `career:`, `cinema:`, `opp:`) |
 | `/update-post ssc cgl` | Refreshes an existing post (result out, date changed) |
 | `npm run dev` | Preview the site at http://localhost:4321 |
 
