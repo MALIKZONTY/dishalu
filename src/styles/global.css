@@ -45,6 +45,18 @@ code { background: var(--surface); padding: 0.1em 0.35em; border-radius: 4px; fo
 .top-strip a { color: #fff; font-weight: 600; text-decoration: none; overflow: hidden; text-overflow: ellipsis; }
 .top-strip a:hover { text-decoration: underline; }
 .strip-icon { flex: none; }
+/* Bell rings for a moment every 4s, with a soft glow, to draw the eye to the strip. */
+.strip-bell { transform-origin: 50% 10%; animation: bell-ring 4s ease-in-out infinite; }
+@keyframes bell-ring {
+  0%, 30%, 100% { transform: rotate(0); filter: drop-shadow(0 0 0 rgba(255, 220, 120, 0)); }
+  4% { transform: rotate(18deg); }
+  8% { transform: rotate(-16deg); }
+  12% { transform: rotate(12deg); filter: drop-shadow(0 0 6px rgba(255, 220, 120, 0.95)); }
+  16% { transform: rotate(-8deg); }
+  20% { transform: rotate(4deg); }
+  24% { transform: rotate(-2deg); }
+}
+@media (prefers-reduced-motion: reduce) { .strip-bell { animation: none; } }
 
 /* ── Header ────────────────────────────────── */
 .site-header { background: var(--bg); border-bottom: 1px solid var(--border); position: sticky; top: 0; z-index: 10; }
