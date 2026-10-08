@@ -106,7 +106,7 @@ export const isActiveCategory = (key: string) => CATEGORIES[key as CategoryKey]?
 // slug = post file name (without .md). label = short word shown before the title.
 // Leave slug empty ('') to show the newest post instead.
 export const TOP_STRIP = {
-  slug: 'rrb-paramedical-recruitment-2026',
+  slug: 'rrb-ntpc-graduate-recruitment-2026',
   label: 'Apply now',
 };
 
