@@ -44,6 +44,10 @@ code { background: var(--surface); padding: 0.1em 0.35em; border-radius: 4px; fo
 .top-strip { background: var(--accent); color: #fff; font-size: 0.9rem; padding: 8px 16px; display: flex; align-items: center; justify-content: center; gap: 8px; }
 .top-strip a { color: #fff; font-weight: 600; text-decoration: none; overflow: hidden; text-overflow: ellipsis; }
 .top-strip a:hover { text-decoration: underline; }
+/* Whole strip is clickable (bell and arrow too), not just the text. */
+.top-strip { position: relative; }
+.strip-link::after { content: ''; position: absolute; inset: 0; }
+.strip-extra { position: relative; z-index: 1; }
 .strip-icon { flex: none; }
 /* Bell rings for a moment every 4s, with a soft glow, to draw the eye to the strip. */
 .strip-bell { transform-origin: 50% 10%; animation: bell-ring 4s ease-in-out infinite; }
