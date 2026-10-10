@@ -1,3 +1,4 @@
+import { existsSync } from 'node:fs';
 import { getCollection, type CollectionEntry } from 'astro:content';
 import { isActiveCategory } from '../site.config';
 
@@ -18,4 +19,11 @@ export function readingTime(body = ''): number {
 
 export function slugifyTag(tag: string): string {
   return tag.toLowerCase().trim().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
+}
+
+// Small copy of a post's header photo for cards, lists and search results: 480×252, or 320×168.
+// Made by scripts/make-thumbs.mjs; falls back to the full photo if the small one is missing.
+export function thumb(image: string, width: 480 | 320 = 480): string {
+  const small = image.replace('/images/posts/', '/images/thumbs/').replace(/\.webp$/, width === 320 ? '-320.webp' : '.webp');
+  return small !== image && existsSync(`public${small}`) ? small : image;
 }

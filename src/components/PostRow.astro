@@ -1,6 +1,6 @@
 ---
 import type { Post } from '../lib/posts';
-import { formatDate } from '../lib/posts';
+import { formatDate, thumb } from '../lib/posts';
 import { CATEGORIES, type CategoryKey } from '../site.config';
 
 interface Props {
@@ -12,7 +12,16 @@ const { title, description, date, category, image, imageAlt } = post.data;
 
 <li class="row">
   <a href={`/${post.id}`} tabindex="-1" aria-hidden="true">
-    <img src={image} alt={imageAlt} width="1200" height="630" loading="lazy" decoding="async" />
+    <img
+      src={thumb(image)}
+      srcset={`${thumb(image, 320)} 320w, ${thumb(image)} 480w`}
+      sizes="(max-width: 640px) 120px, 240px"
+      alt={imageAlt}
+      width="480"
+      height="252"
+      loading="lazy"
+      decoding="async"
+    />
   </a>
   <div>
     <a class="kicker" href={`/category/${category}`}>{CATEGORIES[category as CategoryKey].name}</a>

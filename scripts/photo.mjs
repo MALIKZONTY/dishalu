@@ -153,6 +153,9 @@ async function save(id) {
     else { ch = Math.round(w / ratio); y = Math.round((h - ch) * 0.35); }
     execFileSync('cwebp', ['-quiet', '-q', '80', '-crop', `${x}`, `${y}`, `${cw}`, `${ch}`, '-resize', '1200', '630', tmp, '-o', out]);
     console.log(`✓ ${out} (from ${w}×${h})${w < 1000 ? '  ⚠ source is small, may look soft' : ''}`);
+    // Small copy for cards, lists and search results.
+    for (const size of ['', '-320']) rmSync(`public/images/thumbs/${values.slug}-hero${size}.webp`, { force: true });
+    execFileSync('node', ['scripts/make-thumbs.mjs'], { stdio: 'inherit' });
     console.log('\nFrontmatter:');
     console.log(`image: /images/posts/${values.slug}-hero.webp`);
     console.log(`imageCredit: "${c.text}"`);

@@ -52,7 +52,7 @@ import Sidebar from '../components/Sidebar.astro';
     results.innerHTML = hits
       .map(
         ({ p }) => `<li class="row">
-          <a href="${p.url}" tabindex="-1"><img src="${p.image}" alt="${esc(p.imageAlt)}" width="1200" height="630" loading="lazy" /></a>
+          <a href="${p.url}" tabindex="-1"><img src="${p.image}" alt="${esc(p.imageAlt)}" width="480" height="252" loading="lazy" /></a>
           <div><span class="kicker">${esc(p.category)}</span><h3><a href="${p.url}">${esc(p.title)}</a></h3>
           <span class="date">${p.date}</span><p>${esc(p.description)}</p></div></li>`,
       )

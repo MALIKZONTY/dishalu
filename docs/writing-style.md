@@ -78,6 +78,7 @@ Also avoid:
   - Never write "Today" or "Tomorrow" in a title. It is wrong the next day. Write the date.
 - **Description: 120–160 characters.** Shorter wastes the space in search results, longer gets cut off. Start with the keyword and end with what the reader gets (eligibility, fee, how to apply).
 - **Alt text on every image.** `imageAlt` and every photo inside the post need a full sentence describing what is in the photo (25+ characters), not the post topic and not one word.
+- **Header photo thumbnails.** Cards and lists load small copies from `public/images/thumbs/`, not the full 1200×630 photo. `npm run photo -- save … --as hero` makes them; if a header photo was added another way, run `node scripts/make-thumbs.mjs`. Commit the thumbnails with the post.
 - **Email addresses are fine as plain text.** Helpline emails can be written normally. (Cloudflare's Email Address Obfuscation is switched off; it used to turn every email into a broken link for crawlers. Leave it off.)
 - **When a date or fact changes, set `updated:` in the frontmatter** (use `/update-post`). The sitemap takes its last-modified date from `updated`, else `date`, and that is how Google learns the post changed.
 - **The file name is the URL. Never rename a published post.** Changing the title or description is safe; renaming the file breaks every shared link and pin.

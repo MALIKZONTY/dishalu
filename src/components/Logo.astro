@@ -7,7 +7,7 @@ interface Props {
 const { dark = false, tagline = false } = Astro.props;
 ---
 
-<a href="/" class:list={['logo', { 'logo-dark': dark }]} aria-label={`${SITE.name} home`}>
+<a href="/" class:list={['logo', { 'logo-dark': dark }]} aria-label={tagline ? undefined : `${SITE.name} home`}>
   <img src="/logo-mark.svg" alt={`${SITE.name} logo`} width="44" height="44" class="logo-mark" />
   <span class="logo-text">
     <span class="logo-name">{SITE.name}</span>

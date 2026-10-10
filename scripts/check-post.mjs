@@ -104,6 +104,9 @@ for (const file of files) {
   if (/enabled:\s*false/.test(catBlock.split('},')[0]))
     warns.push(`Category "${fm.category}" is hidden (enabled: false in site.config.ts), so this post will NOT appear on the site.`);
   if (fm.image && !existsSync(`public${fm.image}`)) errors.push(`Image not found: public${fm.image}`);
+  const thumbPath = `public${(fm.image ?? '').replace('/images/posts/', '/images/thumbs/')}`;
+  if (fm.image?.startsWith('/images/posts/') && existsSync(`public${fm.image}`) && !(existsSync(thumbPath) && existsSync(thumbPath.replace(/\.webp$/, '-320.webp'))))
+    errors.push(`Thumbnail missing: ${thumbPath}. Run \`node scripts/make-thumbs.mjs\`.`);
   if (!fm.sourceUrl) warns.push('No sourceUrl. Link the official source unless this is a pure guide.');
   if (!fm.faqs || fm.faqs.length < 3) warns.push('Fewer than 3 FAQs.');
   if (!fm.tags || fm.tags.length < 2) warns.push('Add 2–6 tags.');
