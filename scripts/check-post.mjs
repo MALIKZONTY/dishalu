@@ -90,9 +90,14 @@ for (const file of files) {
   for (const k of ['title', 'description', 'date', 'category', 'image', 'imageAlt']) {
     if (!fm[k]) errors.push(`Missing frontmatter: ${k}`);
   }
-  if (fm.title && fm.title.length > 70) warns.push(`Title is ${fm.title.length} chars. Google cuts off around 60–65.`);
-  if (fm.description && (fm.description.length < 70 || fm.description.length > 170))
-    errors.push(`Description is ${fm.description.length} chars (needs 70–170, ideal 140–160)`);
+  // The site adds " | Dishalu" only when the full title still fits in 60, so 40–60 here gives 50–60 in Google.
+  if (fm.title && (fm.title.length < 40 || fm.title.length > 60))
+    errors.push(`Title is ${fm.title.length} chars (needs 40–60 so Google shows 50–60 without cutting it off)`);
+  if (fm.title && /\b(today|tomorrow|yesterday)\b/i.test(fm.title))
+    warns.push('Title says today/tomorrow/yesterday. It goes stale the next day; write the date instead.');
+  if (fm.description && (fm.description.length < 120 || fm.description.length > 160))
+    errors.push(`Description is ${fm.description.length} chars (needs 120–160)`);
+  if (fm.imageAlt && fm.imageAlt.length < 25) errors.push(`imageAlt is too short (${fm.imageAlt.length} chars). Describe what is in the photo.`);
   if (fm.category && !CATEGORIES.includes(fm.category)) errors.push(`Unknown category "${fm.category}"`);
   const config = readFileSync('src/site.config.ts', 'utf8');
   const catBlock = config.split(`'${fm.category}':`)[1] ?? config.split(`${fm.category}:`)[1] ?? '';
@@ -122,7 +127,7 @@ for (const file of files) {
   const inlineImages = (content.match(/!\[[^\]]*\]\([^)]+\)/g) ?? []).length;
   if (inlineImages < 1) warns.push('No images inside the post. Aim for 2–3 real photos per post (header photo + 1–2 inside the post).');
   for (const m of content.matchAll(/!\[([^\]]*)\]\(([^)]+)\)/g)) {
-    if (!m[1].trim() || m[1].includes('DESCRIBE')) errors.push(`Image needs real alt text: ${m[2]}`);
+    if (m[1].trim().length < 25 || m[1].includes('DESCRIBE')) errors.push(`Image needs real alt text (a full description, 25+ chars): ${m[2]}`);
     if (m[2].startsWith('/') && !existsSync(`public${m[2]}`)) errors.push(`Image not found: public${m[2]}`);
   }
   if (fm.image && /\.webp$/.test(fm.image) && !fm.imageCredit) errors.push('Header photo needs imageCredit (from `npm run photo -- save`).');

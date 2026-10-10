@@ -49,7 +49,7 @@ Frontmatter format:
 
 ```yaml
 ---
-title: "SSC CGL 2026 Admit Card Out: Download Link and Exam Dates"   # ≤ 65 chars ideally
+title: "SSC CGL 2026 Admit Card Out: Download Link and Exam Dates"   # 40–60 chars (check-post fails outside this)
 description: "SSC CGL 2026 admit card is out for the Tier 1 exam. Steps to download, details to check, documents to carry and exam-day rules."   # 140–160 chars
 date: 2026-10-03T14:30:00+05:30   # now, in IST: `date +%Y-%m-%dT%H:%M:%S+05:30` (the time sets the order of same-day posts)
 category: govt-exams        # govt-exams | govt-schemes | tech-news | careers | cinema (current-affairs, opportunities, earn-grow are hidden for now)

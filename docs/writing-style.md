@@ -68,6 +68,22 @@ Also avoid:
 - No fake screenshots or income claims.
 - Say who an option is NOT for.
 
+## SEO checklist (from the 10 Oct 2026 site audit)
+
+`npm run check-post` fails a post that breaks the title, description or alt rules below.
+
+- **Title: 50–60 characters as Google shows it.** The site adds " | Dishalu" only when the result still fits in 60, so write the title itself at 40–60 characters. Over 60 gets cut off in search results, usually losing the date at the end.
+  - Put the keyword first, then the number, then the date: "CDAC Recruitment 2026: 858 Posts, No Fee, Apply by 26 Oct".
+  - Save characters with short months (Oct, Nov), "Ends 6 Nov" instead of "Apply by 6 Nov", and by leaving out filler words (and, how to, list).
+  - Never write "Today" or "Tomorrow" in a title. It is wrong the next day. Write the date.
+- **Description: 120–160 characters.** Shorter wastes the space in search results, longer gets cut off. Start with the keyword and end with what the reader gets (eligibility, fee, how to apply).
+- **Alt text on every image.** `imageAlt` and every photo inside the post need a full sentence describing what is in the photo (25+ characters), not the post topic and not one word.
+- **Email addresses are fine as plain text.** Helpline emails can be written normally. (Cloudflare's Email Address Obfuscation is switched off; it used to turn every email into a broken link for crawlers. Leave it off.)
+- **When a date or fact changes, set `updated:` in the frontmatter** (use `/update-post`). The sitemap takes its last-modified date from `updated`, else `date`, and that is how Google learns the post changed.
+- **The file name is the URL. Never rename a published post.** Changing the title or description is safe; renaming the file breaks every shared link and pin.
+
+Site pages (not posts) follow the same limits: category titles are the `title` field in `src/site.config.ts`, basic pages use `seoTitle`, and the home page uses `homeTitle`. About, contact and the policy pages take their sitemap date from `STATIC_PAGES_UPDATED` in `astro.config.mjs`, so bump it when editing one of them. Decorative images (logo, icons) also carry alt text.
+
 ## Word count
 
 | Post type | Words |
