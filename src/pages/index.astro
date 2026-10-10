@@ -13,9 +13,20 @@ const shown = new Set(latest.map((p) => p.id));
 const blocks = (Object.keys(ACTIVE_CATEGORIES) as CategoryKey[])
   .map((key) => ({ key, cat: CATEGORIES[key], posts: posts.filter((p) => p.data.category === key && !shown.has(p.id)).slice(0, 3) }))
   .filter((b) => b.posts.length > 0);
+
+const organizationLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Organization',
+  name: SITE.name,
+  url: SITE.url,
+  logo: new URL('/icons/icon-512.png', SITE.url).href,
+  description: SITE.description,
+  email: SITE.email,
+  sameAs: Object.values(SITE.social).filter(Boolean),
+};
 ---
 
-<BaseLayout title={SITE.name}>
+<BaseLayout title={SITE.name} jsonLd={[organizationLd]}>
   <section class="hero">
     <div class="container hero-inner">
       <div class="hero-copy">
@@ -36,7 +47,7 @@ const blocks = (Object.keys(ACTIVE_CATEGORIES) as CategoryKey[])
           src="/images/hero.webp"
           srcset="/images/hero-small.webp 900w, /images/hero.webp 1600w"
           sizes="(max-width: 900px) 100vw, 55vw"
-          alt=""
+          alt="A student with a backpack standing on a hilltop, looking at the sunrise over a river and a town below"
           width="1600"
           height="900"
           fetchpriority="high"
@@ -65,7 +76,7 @@ const blocks = (Object.keys(ACTIVE_CATEGORIES) as CategoryKey[])
   {blocks.map((b) => (
     <section class="container home-section">
       <div class="section-head">
-        <h2 class="with-icon"><img src={b.cat.icon} alt="" width="30" height="30" loading="lazy" />{b.cat.name}</h2>
+        <h2 class="with-icon"><img src={b.cat.icon} alt={`${b.cat.name} icon`} width="30" height="30" loading="lazy" />{b.cat.name}</h2>
         <a href={`/category/${b.key}`}>View all <Icon name="arrow" size={16} /></a>
       </div>
       <div class="card-grid">{b.posts.map((p) => <PostCard post={p} />)}</div>

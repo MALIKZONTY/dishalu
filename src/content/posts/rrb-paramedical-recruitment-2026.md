@@ -1,6 +1,6 @@
 ---
-title: "RRB Paramedical Recruitment 2026: 590 Posts, Last Date 14 Oct"
-description: "RRB Paramedical recruitment 2026 (CEN 05/2026): 590 posts incl. 365 Nursing Superintendent. Eligibility, age, fee, RRB-wise vacancies and how to apply by 14 Oct."
+title: "RRB Paramedical Recruitment 2026: 590 Posts, Apply by 14 Oct"
+description: "RRB Paramedical recruitment 2026 (CEN 05/2026): 590 posts incl. 365 Nursing Superintendent. Eligibility, age, fee, RRB-wise vacancies, how to apply by 14 Oct."
 date: 2026-10-07T10:47:39+05:30
 category: govt-exams
 tags: ["RRB Paramedical", "Railway jobs", "Nursing Superintendent", "Pharmacist", "RRB"]

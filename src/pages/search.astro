@@ -4,7 +4,11 @@ import SectionBar from '../components/SectionBar.astro';
 import Sidebar from '../components/Sidebar.astro';
 ---
 
-<BaseLayout title="Search" description="Search all posts." noindex>
+<BaseLayout
+  title="Search Dishalu: Govt Exams, Schemes, Tech and Cinema"
+  description="Search every Dishalu post by keyword: government exams, admit cards, results, government schemes, tech news, careers and cinema updates."
+  noindex
+>
   <SectionBar title="Search" crumbs={[{ href: '/search', label: 'Search' }]} />
   <div class="container layout">
     <div class="search-page">
@@ -17,7 +21,7 @@ import Sidebar from '../components/Sidebar.astro';
 </BaseLayout>
 
 <script>
-  type Item = { url: string; title: string; description: string; category: string; tags: string[]; date: string; image: string };
+  type Item = { url: string; title: string; description: string; category: string; tags: string[]; date: string; image: string; imageAlt: string };
 
   const input = document.getElementById('q') as HTMLInputElement;
   const results = document.getElementById('results')!;
@@ -48,7 +52,7 @@ import Sidebar from '../components/Sidebar.astro';
     results.innerHTML = hits
       .map(
         ({ p }) => `<li class="row">
-          <a href="${p.url}" tabindex="-1"><img src="${p.image}" alt="" width="1200" height="630" loading="lazy" /></a>
+          <a href="${p.url}" tabindex="-1"><img src="${p.image}" alt="${esc(p.imageAlt)}" width="1200" height="630" loading="lazy" /></a>
           <div><span class="kicker">${esc(p.category)}</span><h3><a href="${p.url}">${esc(p.title)}</a></h3>
           <span class="date">${p.date}</span><p>${esc(p.description)}</p></div></li>`,
       )

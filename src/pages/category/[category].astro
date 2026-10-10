@@ -21,7 +21,7 @@ const cat = CATEGORIES[category];
 const [featured, ...rest] = posts;
 ---
 
-<BaseLayout title={cat.name} description={cat.description} noindex={posts.length === 0}>
+<BaseLayout title={cat.title} description={cat.description} noindex={posts.length === 0}>
   <SectionBar title={cat.name} icon={cat.icon} subtitle={cat.description} crumbs={[{ href: `/category/${category}`, label: cat.name }]} />
   <div class="container layout">
     <div>

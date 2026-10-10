@@ -1,5 +1,5 @@
 ---
-title: "UPI Charges Above ₹2,000 From 15 October: Do You Have to Pay?"
+title: "UPI Charges Above ₹2,000 From 15 Oct: Do You Have to Pay?"
 description: "UPI charges above ₹2,000 start 15 October as a 0.4% merchant fee (MDR). Who pays, what stays free, small shop rules and what changes for you."
 date: 2026-10-04T13:00:00+05:30
 category: tech-news

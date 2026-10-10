@@ -5,9 +5,10 @@ export const SITE = {
   name: 'Dishalu',
   url: 'https://dishalu.in',
   tagline: 'Govt exam updates, schemes, tech news and cinema that matter',
+  homeTitle: 'Dishalu: Govt Exams, Schemes, Tech News and Cinema Updates', // home page title in Google (50–60 characters)
   logoTagline: 'Updates for a brighter tomorrow',
   description:
-    'Government job notifications, admit cards and results, government schemes, important tech news and cinema updates, explained simply for students and job seekers in India.',
+    'Government job notifications, admit cards and results, government schemes, tech news and cinema updates, explained simply for students and job seekers in India.',
   author: {
     name: 'Antuparthi Manoha Malik Paul',
     photo: '/images/author.webp', // square photo; original in design/author-original.png
@@ -30,6 +31,7 @@ export const SITE = {
 export const CATEGORIES = {
   'govt-exams': {
     name: 'Govt Exams',
+    title: 'Govt Exams: Notifications, Admit Cards, Results', // browser tab / Google title of the category page
     enabled: true,
     color: '#c8102e', // label colour on cards
     icon: '/icons/3d/notifications.webp',
@@ -38,6 +40,7 @@ export const CATEGORIES = {
   },
   'govt-schemes': {
     name: 'Govt Schemes',
+    title: 'Govt Schemes: Eligibility, Benefits, Status Check',
     enabled: true,
     color: '#c2410c',
     icon: '/icons/3d/schemes.webp',
@@ -46,22 +49,25 @@ export const CATEGORIES = {
   },
   'tech-news': {
     name: 'Tech News',
+    title: 'Tech News: Launches, AI and Policy Changes',
     enabled: true,
     color: '#1d4ed8',
     icon: '/icons/3d/tech.webp',
     soft: '#e8efff',
-    description: 'Important tech news explained simply: launches, AI, policy changes and what they mean for you.',
+    description: 'Important tech news explained simply: phone launches, AI, apps, digital payments and policy changes, and what they mean for everyday users in India.',
   },
   careers: {
     name: 'Careers',
+    title: 'Careers: Entrance Exams, Admissions, Placements',
     enabled: true,
     color: '#047857',
     icon: '/icons/3d/careers.webp',
     soft: '#e3f6ee',
-    description: 'Entrance exams and admissions (JEE, NEET, CUET, CAT, state CETs), exam prep strategy, placements and career roadmaps.',
+    description: 'Entrance exams and admissions (JEE, NEET, CUET, CAT, state CETs), exam prep strategy, placements and career roadmaps for students in India.',
   },
   cinema: {
     name: 'Cinema',
+    title: 'Cinema: Theatre and OTT Releases, Box Office',
     enabled: true,
     color: '#be185d',
     icon: '/icons/3d/cinema.webp',
@@ -70,6 +76,7 @@ export const CATEGORIES = {
   },
   'current-affairs': {
     name: 'Current Affairs',
+    title: 'Current Affairs: Weekly Roundup and MCQs',
     enabled: false, // hidden until it has a few weekly roundups
     color: '#4338ca',
     icon: '/icons/3d/current-affairs.webp',
@@ -78,6 +85,7 @@ export const CATEGORIES = {
   },
   opportunities: {
     name: 'Hackathons & Internships',
+    title: 'Hackathons and Internships for Students',
     enabled: false, // hidden for now
     color: '#b45309',
     icon: '/icons/3d/hackathons.webp',
@@ -86,6 +94,7 @@ export const CATEGORIES = {
   },
   'earn-grow': {
     name: 'Earn & Grow',
+    title: 'Earn & Grow: Side Income Ideas for Students',
     enabled: false, // hidden for now, coming later
     color: '#7c3aed',
     icon: '/icons/3d/careers.webp',

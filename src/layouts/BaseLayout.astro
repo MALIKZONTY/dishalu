@@ -31,7 +31,9 @@ const {
 // With build.format 'file' the build-time path ends in .html; canonical URLs should not.
 const cleanPath = Astro.url.pathname.replace(/(\/index)?\.html$/, '').replace(/\/$/, '') || '/';
 const canonical = new URL(cleanPath, SITE.url).href;
-const fullTitle = title === SITE.name ? `${SITE.name} | ${SITE.tagline}` : `${title} | ${SITE.name}`;
+// Google cuts titles off at about 60 characters, so long titles go without the site name.
+const withSiteName = `${title} | ${SITE.name}`;
+const fullTitle = title === SITE.name ? SITE.homeTitle : withSiteName.length <= 60 ? withSiteName : title;
 const imageUrl = new URL(image, SITE.url).href;
 
 const websiteLd = {

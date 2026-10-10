@@ -4,15 +4,16 @@ import SectionBar from '../components/SectionBar.astro';
 import Sidebar from '../components/Sidebar.astro';
 interface Props {
   title: string;
+  seoTitle?: string; // longer title for Google and the browser tab; the page heading stays `title`
   description: string;
   subtitle?: string;
   updated?: string;
 }
-const { title, description, subtitle, updated } = Astro.props;
+const { title, seoTitle = title, description, subtitle, updated } = Astro.props;
 const path = Astro.url.pathname.replace(/\.html$/, '');
 ---
 
-<BaseLayout title={title} description={description}>
+<BaseLayout title={seoTitle} description={description}>
   <SectionBar title={title} subtitle={subtitle} crumbs={[{ href: path, label: title }]} />
   <div class="container layout" style="padding-top: 8px">
     <article class="page-body">

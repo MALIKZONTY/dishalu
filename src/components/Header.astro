@@ -20,7 +20,7 @@ const stripLabel = pinned ? TOP_STRIP.label : 'Latest';
 ---
 
 <div class="top-strip">
-  <img src="/icons/3d/bell.webp" alt="" width="18" height="18" class="strip-icon strip-bell" />
+  <img src="/icons/3d/bell.webp" alt="Notification bell" width="18" height="18" class="strip-icon strip-bell" />
   {stripPost ? (
     <a href={`/${stripPost.id}`} class="strip-link">{stripLabel && <strong class="strip-label">{stripLabel}:</strong>} {stripPost.data.title}</a>
   ) : (

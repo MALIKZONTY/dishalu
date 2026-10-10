@@ -1,6 +1,6 @@
 ---
 title: "Deepam 2: Get Your 2nd Free Gas Cylinder Before 30 November"
-description: "Deepam 2 free gas cylinder: AP families can claim the 2nd free cylinder of 2026-27 till 30 November. Who's eligible, how to book, and what to do if no money comes."
+description: "Deepam 2 free gas cylinder: AP families can claim the 2nd free cylinder of 2026-27 till 30 November. Who's eligible, how to book, what to do if no money comes."
 date: 2026-10-08T15:12:54+05:30
 category: govt-schemes
 tags: ["Deepam 2", "free gas cylinder", "Andhra Pradesh", "LPG subsidy", "AP schemes"]

@@ -1,5 +1,5 @@
 ---
-title: "GATE 2027 Registration Last Date: Today, Late Fee Till 12 Oct"
+title: "GATE 2027 Registration: Last Date 12 Oct With ₹500 Late Fee"
 description: "GATE 2027 registration last date is 5 October without late fee; with ₹500 extra you can apply till 12 October. Fee, eligibility, DigiLocker steps, dates."
 date: 2026-10-05T11:08:00+05:30
 category: govt-exams

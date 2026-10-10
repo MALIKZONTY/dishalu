@@ -1,5 +1,5 @@
 ---
-title: "CDAC Recruitment 2026: 858 Contract Posts, No Fee, Apply by 26 Oct"
+title: "CDAC Recruitment 2026: 858 Posts, No Fee, Apply by 26 Oct"
 description: "CDAC recruitment 2026 is open for 858 contract posts across 12 centres. Centre-wise vacancies, pay, age limit, eligibility and how to apply before 26 October."
 date: 2026-10-09T19:36:00+05:30
 category: govt-exams

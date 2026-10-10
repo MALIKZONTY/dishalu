@@ -1,5 +1,5 @@
 ---
-title: "NSP Scholarship 2026-27: Last Date 31 Oct, List and Who Can Apply"
+title: "NSP Scholarship 2026-27: Last Date 31 Oct, Who Can Apply"
 description: "NSP scholarship 2026-27 last date is 31 October. The main scholarships open now, amounts up to ₹50,000 a year, who can apply, and how to avoid rejection."
 date: 2026-10-04T17:06:00+05:30
 category: govt-schemes

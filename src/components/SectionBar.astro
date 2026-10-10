@@ -10,7 +10,7 @@ const { title, subtitle, icon, crumbs = [] } = Astro.props;
 
 <div class="section-bar">
   <div class="container">
-    <h1 class:list={[{ "with-icon": icon }]}>{icon && <img src={icon} alt="" width="40" height="40" />}{title}</h1>
+    <h1 class:list={[{ "with-icon": icon }]}>{icon && <img src={icon} alt={`${title} icon`} width="40" height="40" />}{title}</h1>
     {subtitle && <p>{subtitle}</p>}
   </div>
 </div>

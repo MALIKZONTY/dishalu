@@ -1,5 +1,5 @@
 ---
-title: "OTT Releases This Weekend (9–11 Oct 2026): 8 New Films, Series"
+title: "OTT Releases This Weekend (9–11 Oct 2026): 8 New Titles"
 description: "OTT releases this weekend, 9 to 11 October 2026: Epic, Reporting Live, Mandaadi, Khalifa, Eyes and more. Platform, languages and what each one is about."
 date: 2026-10-09T21:12:00+05:30
 category: cinema

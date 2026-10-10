@@ -1,5 +1,5 @@
 ---
-title: "Vivo X Fold 6, V80, S2 FE Price in India, Sale Date and Specs"
+title: "Vivo X Fold 6, V80, S2 FE Price in India, Sale Date, Specs"
 description: "Vivo X Fold 6 price in India is ₹2,19,999, V80 starts at ₹62,999 and S2 FE at ₹38,999. Sale dates, launch offers, key specs and which one is worth buying."
 date: 2026-10-06T17:30:00+05:30
 category: tech-news

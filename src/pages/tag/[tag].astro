@@ -16,10 +16,22 @@ export async function getStaticPaths() {
 }
 
 const { label, posts } = Astro.props;
+
+// Longest wording that keeps the full title (with the site name added) at 60 characters or less.
+const title =
+  [
+    `${label}: Latest News, Updates and Explainers`,
+    `${label}: Latest News, Updates and Guides`,
+    `${label}: Latest News and Updates`,
+  ].find((t) => t.length <= 50) ?? `${label}: Latest News and Updates`;
 ---
 
 <!-- Tag pages are thin lists, so keep them out of Google's index. -->
-<BaseLayout title={`Posts tagged ${label}`} description={`All posts about ${label}.`} noindex>
+<BaseLayout
+  {title}
+  description={`All Dishalu posts tagged ${label}: the latest news, updates and explainers, checked against official sources and listed newest first.`}
+  noindex
+>
   <SectionBar title={`#${label}`} crumbs={[{ href: '#', label: `#${label}` }]} />
   <div class="container layout">
     <div><ul class="rows">{posts.map((p) => <PostRow post={p} />)}</ul></div>

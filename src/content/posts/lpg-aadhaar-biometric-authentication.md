@@ -1,6 +1,6 @@
 ---
-title: "LPG Aadhaar Biometric Authentication: How to Do It, What If You Don't"
-description: "LPG Aadhaar biometric authentication is mandatory for subsidised refills from 1 October 2026. How to complete it on IndianOil ONE, HelloBPCL or HP PAY in minutes."
+title: "LPG Aadhaar Biometric Authentication: How to Do It"
+description: "LPG Aadhaar biometric authentication is mandatory for subsidised refills from 1 October 2026. How to complete it on IndianOil ONE, HelloBPCL or HP PAY."
 date: 2026-10-07T11:56:06+05:30
 category: govt-schemes
 tags: ["LPG", "Aadhaar", "LPG subsidy", "Indane", "Bharatgas", "HP Gas", "e-KYC"]

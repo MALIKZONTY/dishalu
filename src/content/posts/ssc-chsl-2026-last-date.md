@@ -1,5 +1,5 @@
 ---
-title: "SSC CHSL 2026 Last Date 7 October: How to Apply, Fee, Eligibility"
+title: "SSC CHSL 2026 Last Date 7 October: Apply, Fee, Eligibility"
 description: "SSC CHSL 2026 last date to apply is 7 October, 11 PM. 2,536 vacancies for 12th pass. Eligibility, fee, salary and step-by-step application guide."
 date: 2026-10-03T18:50:00+05:30
 category: govt-exams

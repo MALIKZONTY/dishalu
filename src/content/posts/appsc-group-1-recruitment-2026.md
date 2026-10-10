@@ -1,6 +1,6 @@
 ---
 title: "APPSC Group 1 Recruitment 2026: 166 Posts, Apply by 27 Oct"
-description: "APPSC Group 1 notification 2026 is out for 166 posts like Deputy Collector and DSP. Eligibility, age limit, fee, exam pattern, salary and how to apply by 27 Oct."
+description: "APPSC Group 1 notification 2026 is out for 166 posts like Deputy Collector and DSP. Eligibility, age limit, fee, exam pattern, salary, how to apply by 27 Oct."
 date: 2026-10-06T22:05:00+05:30
 category: govt-exams
 tags: ["APPSC Group 1", "APPSC", "Andhra Pradesh jobs", "Deputy Collector", "DSP"]

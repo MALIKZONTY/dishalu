@@ -1,6 +1,6 @@
 ---
-title: "RRB NTPC Graduate Recruitment 2026: 3,548 Posts, Apply by 6 Nov"
-description: "RRB NTPC Graduate recruitment 2026 (CEN 06/2026): 3,548 posts incl. 2,750 Goods Train Manager. Eligibility, age, fee, RRB-wise vacancies, exam pattern, how to apply."
+title: "RRB NTPC Graduate Recruitment 2026: 3,548 Posts, Ends 6 Nov"
+description: "RRB NTPC Graduate recruitment 2026 (CEN 06/2026): 3,548 posts incl. 2,750 Goods Train Manager. Eligibility, age, fee, vacancies, exam pattern, how to apply."
 date: 2026-10-08T13:15:03+05:30
 category: govt-exams
 tags: ["RRB NTPC", "Railway jobs", "Goods Train Manager", "RRB", "Graduate jobs"]

@@ -1,5 +1,5 @@
 ---
-title: "Supreme Court JCA Recruitment 2026: 250 Posts, Apply 7–28 Oct"
+title: "Supreme Court JCA Recruitment 2026: 250 Posts, Ends 28 Oct"
 description: "Supreme Court JCA recruitment 2026: 250 Junior Court Assistant posts, Level 6 pay. Eligibility, age, fee, exam pattern, exam date and how to apply by 28 Oct."
 date: 2026-10-06T15:45:00+05:30
 category: govt-exams

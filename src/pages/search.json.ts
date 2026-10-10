@@ -12,6 +12,7 @@ export async function GET() {
     tags: p.data.tags,
     date: p.data.date.toISOString().slice(0, 10),
     image: p.data.image,
+    imageAlt: p.data.imageAlt,
   }));
   return new Response(JSON.stringify(index), { headers: { 'Content-Type': 'application/json' } });
 }

@@ -1,5 +1,5 @@
 ---
-title: "Amazon Great Indian Festival vs Flipkart Big Billion Days 2026"
+title: "Amazon Great Indian Festival vs Flipkart Big Billion Days"
 description: "Amazon Great Indian Festival starts 8 Oct, Flipkart Big Billion Days 9 Oct. Dates, early access, bank offers, and launch price vs sale price for 15 products."
 date: 2026-10-06T11:30:00+05:30
 category: tech-news

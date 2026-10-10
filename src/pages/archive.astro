@@ -8,7 +8,10 @@ import { getPosts } from '../lib/posts';
 const posts = await getPosts();
 ---
 
-<BaseLayout title="All posts" description="Every post on the site, newest first.">
+<BaseLayout
+  title="All Posts: Govt Exams, Schemes, Tech News, Cinema"
+  description="Every Dishalu post, newest first: government exam notifications, admit cards, results, government schemes, tech news, careers and cinema updates."
+>
   <SectionBar title="All posts" subtitle={`${posts.length} posts, newest first`} crumbs={[{ href: '/archive', label: 'All posts' }]} />
   <div class="container layout">
     <div>
