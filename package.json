@@ -10,7 +10,8 @@
     "new-image": "node scripts/make-image.mjs",
     "check-post": "node scripts/check-post.mjs",
     "list-posts": "node scripts/list-posts.mjs",
-    "photo": "node scripts/photo.mjs"
+    "photo": "node scripts/photo.mjs",
+    "pin": "node scripts/pin.mjs"
   },
   "dependencies": {
     "@astrojs/rss": "^4.0.19",

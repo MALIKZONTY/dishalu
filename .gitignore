@@ -4,3 +4,6 @@ dist/
 .DS_Store
 .env
 .photo-previews/
+.pinterest-token.json
+design/pins/
+.pin-log/
