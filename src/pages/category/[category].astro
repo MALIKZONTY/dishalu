@@ -30,7 +30,7 @@ const [featured, ...rest] = posts;
       ) : (
         <>
           <FeaturedPost post={featured} />
-          <ul class="rows">{rest.map((p) => <PostRow post={p} />)}</ul>
+          <ul class="rows">{rest.map((p) => <PostRow post={p} showCategory={false} />)}</ul>
         </>
       )}
     </div>

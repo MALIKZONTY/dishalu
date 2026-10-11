@@ -5,19 +5,33 @@ import { CATEGORIES, type CategoryKey } from '../site.config';
 
 interface Props {
   post: Post;
+  lead?: boolean; // first card of a list: shown as a big card on phones, so it needs the larger photo
+  eager?: boolean; // first card on the page: visible straight away, so don't lazy-load its photo
 }
-const { post } = Astro.props;
+const { post, lead = false, eager = false } = Astro.props;
 const { title, date, category, image, imageAlt } = post.data;
 const cat = CATEGORIES[category as CategoryKey];
 ---
 
 <article class="pcard">
   <a href={`/${post.id}`} class="pcard-img" tabindex="-1" aria-hidden="true">
-    <img src={thumb(image, 320)} alt={imageAlt} width="320" height="168" loading="lazy" decoding="async" />
+    <img
+      src={thumb(image, 480)}
+      srcset={`${thumb(image, 320)} 320w, ${thumb(image, 480)} 480w`}
+      sizes={`(max-width: 640px) ${lead ? '92vw' : '92px'}, (max-width: 960px) 46vw, 400px`}
+      alt={imageAlt}
+      width="480"
+      height="252"
+      loading={eager ? 'eager' : 'lazy'}
+      fetchpriority={eager ? 'high' : undefined}
+      decoding="async"
+    />
   </a>
   <div class="pcard-body">
-    <a class="pill" href={`/category/${category}`} style={`color:${cat.color};background:${cat.soft}`}>{cat.name}</a>
     <h3><a href={`/${post.id}`}>{title}</a></h3>
-    <time class="date" datetime={date.toISOString()}>{formatDate(date)}</time>
+    <div class="pcard-meta">
+      <a class="pill" href={`/category/${category}`} style={`color:${cat.color};background:${cat.soft}`}>{cat.name}</a>
+      <time class="date" datetime={date.toISOString()}>{formatDate(date)}</time>
+    </div>
   </div>
 </article>

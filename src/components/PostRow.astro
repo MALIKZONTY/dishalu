@@ -5,9 +5,11 @@ import { CATEGORIES, type CategoryKey } from '../site.config';
 
 interface Props {
   post: Post;
+  showCategory?: boolean; // false on a category page, where every post has the same category
 }
-const { post } = Astro.props;
+const { post, showCategory = true } = Astro.props;
 const { title, description, date, category, image, imageAlt } = post.data;
+const cat = CATEGORIES[category as CategoryKey];
 ---
 
 <li class="row">
@@ -15,7 +17,7 @@ const { title, description, date, category, image, imageAlt } = post.data;
     <img
       src={thumb(image)}
       srcset={`${thumb(image, 320)} 320w, ${thumb(image)} 480w`}
-      sizes="(max-width: 640px) 120px, 240px"
+      sizes="(max-width: 640px) 92px, 240px"
       alt={imageAlt}
       width="480"
       height="252"
@@ -24,9 +26,11 @@ const { title, description, date, category, image, imageAlt } = post.data;
     />
   </a>
   <div>
-    <a class="kicker" href={`/category/${category}`}>{CATEGORIES[category as CategoryKey].name}</a>
     <h3><a href={`/${post.id}`}>{title}</a></h3>
-    <time class="date" datetime={date.toISOString()}>{formatDate(date)}</time>
+    <div class="row-meta">
+      {showCategory && <a class="pill" href={`/category/${category}`} style={`color:${cat.color};background:${cat.soft}`}>{cat.name}</a>}
+      <time class="date" datetime={date.toISOString()}>{formatDate(date)}</time>
+    </div>
     <p>{description}</p>
   </div>
 </li>

@@ -69,7 +69,7 @@ const organizationLd = {
         <p>Govt exam notifications, admit cards and results, plus important tech news and cinema updates explained simply.</p>
       </div>
     ) : (
-      <div class="card-grid">{latest.map((p) => <PostCard post={p} />)}</div>
+      <div class="card-grid">{latest.map((p, i) => <PostCard post={p} lead={i === 0} eager={i === 0} />)}</div>
     )}
   </section>
 
@@ -79,7 +79,7 @@ const organizationLd = {
         <h2 class="with-icon"><img src={b.cat.icon} alt={`${b.cat.name} icon`} width="30" height="30" loading="lazy" />{b.cat.name}</h2>
         <a href={`/category/${b.key}`}>View all <Icon name="arrow" size={16} /></a>
       </div>
-      <div class="card-grid">{b.posts.map((p) => <PostCard post={p} />)}</div>
+      <div class="card-grid">{b.posts.map((p, i) => <PostCard post={p} lead={i === 0} />)}</div>
     </section>
   ))}
 </BaseLayout>

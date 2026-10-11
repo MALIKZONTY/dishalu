@@ -1,7 +1,6 @@
 ---
 import type { Post } from '../lib/posts';
 import { formatDate } from '../lib/posts';
-import { CATEGORIES, type CategoryKey } from '../site.config';
 
 interface Props {
   post: Post;
@@ -11,7 +10,6 @@ const { title, description, date, category, image, imageAlt } = post.data;
 ---
 
 <article class="featured">
-  <a class="kicker" href={`/category/${category}`}>{CATEGORIES[category as CategoryKey].name}</a>
   <h2><a href={`/${post.id}`}>{title}</a></h2>
   <time class="date" datetime={date.toISOString()}>{formatDate(date)}</time>
   <a href={`/${post.id}`} tabindex="-1" aria-hidden="true">
