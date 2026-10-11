@@ -229,6 +229,6 @@ From today, 10 October, to exam day is 92 days. A simple split that follows the 
 
 Be realistic about the odds. Lakhs of people write this exam for a few thousand posts, and the paper is 10th standard level, so cut-offs run high. What separates people is Tamil accuracy and not losing marks in aptitude.
 
-If you're applying to other exams too, [RRB NTPC Graduate](/rrb-ntpc-graduate-recruitment-2026) is open till 6 November and [C-DAC's 858 posts](/cdac-recruitment-2026) till 26 October.
+If you're applying to other exams too, [RRB NTPC Graduate](/rrb-ntpc-graduate-recruitment-2026) is open till 6 November and [C-DAC's 858 posts](/cdac-recruitment-2026) till 26 October. For 10th, 12th and diploma holders, [Coast Guard Navik and Yantrik 2026](/indian-coast-guard-cgept-recruitment-2026) (365 posts) closes on 21 October.
 
 Read the [official notification PDF](https://tnpsc.gov.in/document/english/group_english.pdf) once before you fill the form. I'll update this page when the hall ticket, answer key and results come out.

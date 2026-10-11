@@ -157,7 +157,7 @@ But be realistic. 3,548 posts across India is fewer than last time, and lakhs wi
 
 Two practical tips. Don't wait until November, because the site always slows down in the last few days. And do the live photo in daylight against a white wall, because bad photos are a common reason for rejection.
 
-If you're from a science background, also look at the [RRB Paramedical 2026](/rrb-paramedical-recruitment-2026) posts. Its last date is 14 October.
+If you're from a science background, also look at the [RRB Paramedical 2026](/rrb-paramedical-recruitment-2026) posts. Its last date is 14 October. If you have 12th with Maths and Physics or a diploma, [Coast Guard Navik and Yantrik 2026](/indian-coast-guard-cgept-recruitment-2026) (365 posts) closes on 21 October.
 
 ## What happens next
 
