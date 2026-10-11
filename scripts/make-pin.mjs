@@ -4,12 +4,15 @@
 // Usage:
 //   node scripts/make-pin.mjs <slug> --fact "Posts=858" --fact "Fee=Nil" --fact "Last date=26 Oct 2026"
 //        [--headline "CDAC Recruitment 2026"] [--label "GOVT JOB"] [--style photo|card|list]
-//        [--photo public/images/posts/<slug>-2.webp] [--out design/pins/name.png]
+//        [--photo public/images/posts/<slug>-2.webp] [--note "AI illustration, not from the film"]
+//        [--out design/pins/name.png]
 //
 // Styles (use a different one for each pin of the same post):
 //   photo  the post's real header photo on top, facts in tiles below (default)
 //   card   bold colour card, no photo, facts as a list
 //   list   photo strip on top, a numbered list below. Each --fact is one line, e.g. --fact "Epic=Netflix"
+//   poster full-size picture with the headline on top and facts in dark tiles at the bottom. Give the
+//          picture with --photo (for example an AI illustration) and say what it is with --note
 //
 // Headline defaults to the post title up to the first colon. 2–4 facts, each "Label=Value".
 // Output: design/pins/<slug>-<n>.png (gitignored).
@@ -215,17 +218,58 @@ function listStyle({ t, label, headline, facts, photo, photoCredit }) {
   ${footer(t)}`;
 }
 
-const STYLES = { photo: photoStyle, card: cardStyle, list: listStyle };
+// Full-size picture, headline in the dark top area, facts in dark tiles near the bottom.
+function posterStyle({ t, label, headline, facts, photo, note }) {
+  const { size, lines } = fit(headline, [[92, 17], [80, 20], [70, 23], [60, 27]], 3);
+  const lh = Math.round(size * 1.14);
+  const headTop = 150 + size;
+  const cols = facts.length === 3 ? 3 : 2;
+  const gap = 20;
+  const tw = (W - 120 - gap * (cols - 1)) / cols;
+  const th = 150;
+  const rows = Math.ceil(facts.length / cols);
+  const tilesTop = H - 116 - (note ? 64 : 40) - rows * th - (rows - 1) * gap;
+  const tiles = facts
+    .map((f, i) => {
+      const x = 60 + (i % cols) * (tw + gap);
+      const y = tilesTop + Math.floor(i / cols) * (th + gap);
+      return `<g transform="translate(${x}, ${y})">
+      <rect width="${tw}" height="${th}" rx="26" fill="#0b1220" fill-opacity="0.78" stroke="#ffffff" stroke-opacity="0.18"/>
+      <text x="28" y="${th / 2 - 18}" font-size="23" font-weight="700" fill="${t.soft}" letter-spacing="1.5">${esc(f.k.toUpperCase())}</text>
+      <text x="28" y="${th / 2 + 36}" font-size="${sizeFor(f.v, tw - 56, 46)}" font-weight="800" fill="#ffffff">${esc(f.v)}</text>
+    </g>`;
+    })
+    .join('\n    ');
+
+  return `<defs>
+    <linearGradient id="shade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#000000" stop-opacity="0.8"/>
+      <stop offset="0.34" stop-color="#000000" stop-opacity="0.15"/>
+      <stop offset="0.62" stop-color="#000000" stop-opacity="0.1"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0.75"/>
+    </linearGradient>
+  </defs>
+  <image href="${photo}" x="0" y="0" width="${W}" height="${H}" preserveAspectRatio="xMidYMid slice"/>
+  <rect width="${W}" height="${H}" fill="url(#shade)"/>
+  ${pill(60, 56, label, t.color, '#ffffff')}
+  ${lines.map((l, i) => `<text x="60" y="${headTop + i * lh}" font-size="${size}" font-weight="800" fill="#ffffff" letter-spacing="-1.5">${esc(l)}</text>`).join('\n  ')}
+  ${tiles}
+  ${note ? `<text x="${W / 2}" y="${H - 116 - 24}" font-size="22" font-weight="500" fill="#ffffff" fill-opacity="0.85" text-anchor="middle">${esc(note)}</text>` : ''}
+  ${footer(t)}`;
+}
+
+const STYLES = { photo: photoStyle, card: cardStyle, list: listStyle, poster: posterStyle };
 
 // facts: [{ k, v }]. Returns the path of the PNG it wrote.
-export async function makePin({ slug, style = 'photo', headline, label, facts = [], photo, out }) {
+export async function makePin({ slug, style = 'photo', headline, label, facts = [], photo, note, out }) {
   if (!slug) fail('Give a post slug. See usage at the top of scripts/make-pin.mjs');
   const postFile = `src/content/posts/${slug}.md`;
   if (!existsSync(postFile)) fail(`No post found: ${postFile}`);
   const { data: post } = matter(readFileSync(postFile, 'utf8'));
   const t = THEMES[post.category];
   if (!t) fail(`No pin colours for category "${post.category}".`);
-  if (!STYLES[style]) fail(`Unknown style "${style}". Use photo, card or list.`);
+  if (!STYLES[style]) fail(`Unknown style "${style}". Use photo, card, list or poster.`);
+  if (style === 'poster' && !photo) fail('The poster style needs a picture: --photo path/to/image.png');
   const [min, max] = style === 'list' ? [3, 8] : [2, 4];
   if (facts.length < min || facts.length > max || facts.some((f) => !f.k || !f.v))
     fail(`The ${style} style needs ${min}–${max} facts, each with a label and a value.`);
@@ -239,6 +283,7 @@ export async function makePin({ slug, style = 'photo', headline, label, facts = 
     photo: usesPhoto ? await photoData(photo ?? join('public', post.image)) : null,
     // The credit printed on the pin only fits the header photo; other photos are credited in the pin description.
     photoCredit: usesPhoto && !photo ? post.imageCredit : null,
+    note,
   });
   const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" font-family="Plus Jakarta Sans">
   ${body}
@@ -273,6 +318,7 @@ if (import.meta.url === pathToFileURL(process.argv[1]).href) {
       fact: { type: 'string', multiple: true, default: [] },
       style: { type: 'string', default: 'photo' },
       photo: { type: 'string' },
+      note: { type: 'string' },
       out: { type: 'string' },
     },
   });

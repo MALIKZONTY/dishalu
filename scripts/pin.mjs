@@ -312,6 +312,7 @@ async function pinImage(item, dir) {
     label: item.label,
     facts: item.facts.map(([k, v]) => ({ k, v })),
     photo: item.photo,
+    note: item.note,
     out: join(dir, `${item.id}.png`),
   });
 }

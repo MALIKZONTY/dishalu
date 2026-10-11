@@ -49,6 +49,7 @@ Made by `scripts/make-pin.mjs` (no AI, exact text, site colours and font):
 | `photo` (default) | The post's real header photo on top, headline and 2–4 fact tiles below | Recruitment, schemes, anything with a strong real photo |
 | `card` | Bold colour card, no photo, facts as a list | Deadlines and key numbers; a second pin for the same post |
 | `list` | Photo strip on top, numbered list of 3–8 lines below | Weekly OTT and movie lists, step-by-step guides, "documents needed" |
+| `poster` | Full-size picture (`--photo`, e.g. an AI illustration), headline on top, 2–4 facts in dark tiles at the bottom, `--note` line above the footer | Cinema and other topics with no usable real photo. Never an AI image of a real person; add `--note "AI illustration, not from the film"` |
 
 `--photo public/images/posts/<slug>-2.webp` uses another photo from the post; then put that photo's credit in the pin description.
 
