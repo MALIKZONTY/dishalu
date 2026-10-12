@@ -132,7 +132,7 @@ NLSIU Bengaluru, NALSAR Hyderabad, NLIU Bhopal, WBNUJS Kolkata, NLU Jodhpur, HNL
 
 **For Telugu students:** two NLUs are close to home, **NALSAR Hyderabad** and **DSNLU Visakhapatnam**. Seat numbers, fees and state reservation rules differ for each NLU, so check its brochure on the Participating Universities page before you fill preferences.
 
-**NLU Delhi is not on this list.** It runs its own test, AILET. If you want NLU Delhi too, you'll need to apply for that separately.
+**NLU Delhi is not on this list.** It runs its own test, AILET, on 13 December. If you want NLU Delhi too, apply for that separately by 10 November. See our [AILET 2027 guide](/ailet-2027-registration-last-date) for the fee, seats and pattern.
 
 ## How to prepare in the 8 weeks left
 
