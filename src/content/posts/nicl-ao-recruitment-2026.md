@@ -177,7 +177,7 @@ NICL has warned that some people are asking candidates to pay money into bank ac
 
 If you have 60% in your degree and you're already preparing for bank PO or IBPS exams, yes. The prelims pattern is the same English, reasoning and quant you're already practising. And a starting basic of ₹82,485 is very good for a first job open to any graduate.
 
-If you just wrote [IBPS Clerk prelims](/ibps-clerk-admit-card-2026), you're already in exam shape. Use these 5 weeks for speed in quant and reasoning.
+If you just wrote [IBPS Clerk prelims](/ibps-clerk-admit-card-2026), you're already in exam shape. Use these 5 weeks for speed in quant and reasoning. Took the NICL Assistant prelims in August? [Check the Phase I result here](/nicl-assistant-result-2026). Mains is on 30 October, so plan your AO prep around it.
 
 Skip it if you have under 60%, if you can't move out of your state, or if you're planning to leave within 4 years for something else. The bond is real money. If you're a graduate looking at railway jobs instead, [RRB NTPC Graduate 2026](/rrb-ntpc-graduate-recruitment-2026) is open till 6 November.
 
