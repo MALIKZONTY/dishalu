@@ -2,6 +2,7 @@
 title: "IBPS Clerk Admit Card 2026 Out: Download Link and Exam Dates"
 description: "IBPS Clerk admit card 2026 is out for the prelims on 10 and 11 October. Steps to download, what to check, documents to carry and a 7-day plan."
 date: 2026-10-03T14:40:00+05:30
+updated: 2026-10-12T17:10:00+05:30
 category: govt-exams
 tags: ["IBPS Clerk", "admit card", "banking exams", "IBPS"]
 image: /images/posts/ibps-clerk-admit-card-2026-hero.webp
@@ -17,23 +18,26 @@ faqs:
   - q: "What do I need to download the IBPS Clerk call letter?"
     a: "Your registration number or roll number, and your password or date of birth. Then enter the captcha shown on the login page."
   - q: "Till when can I download the IBPS Clerk prelims admit card?"
-    a: "The link stays active until 11 October 2026, the last exam day. Download it today and keep a spare printout."
+    a: "The link was active until 11 October 2026, the last exam day. The prelims are now over, so the next thing to download is your prelims result and scorecard when IBPS publishes them."
+  - q: "When will the IBPS Clerk prelims result 2026 come out?"
+    a: "IBPS hasn't announced the date yet. The result and scorecard will be published on ibps.in. Mains is on 27 December 2026, so the prelims result has to come out well before that."
   - q: "Is there negative marking in IBPS Clerk prelims?"
     a: "Yes. Each wrong answer costs 0.25 marks. Questions you leave blank carry no penalty."
   - q: "When is the IBPS Clerk mains exam 2026?"
     a: "The mains exam is scheduled for 27 December 2026 for candidates who clear the prelims."
 ---
 
-The **IBPS Clerk admit card 2026 is out**. IBPS released the prelims call letter on **1 October 2026**, and the exam is on **10 and 11 October 2026**. You can download it from **ibps.in** until 11 October.
+**Update (12 October):** The IBPS Clerk prelims were held on **10 and 11 October 2026**, and the admit card link has closed. Next comes the **prelims result** (date not announced yet) and the **mains on 27 December 2026**. See [what to do after the prelims](#ibps-clerk-prelims-2026-is-over-what-now) below.
 
-That gives you about a week. Download it today, not on the night before your exam.
+The **IBPS Clerk admit card 2026** was released on **1 October 2026** for the prelims on **10 and 11 October 2026**, on **ibps.in**.
 
 | Detail | Information |
 |---|---|
 | Recruitment | IBPS CRP CSA-XVI (Clerk / Customer Service Associate) |
 | Admit card released | 1 October 2026 |
-| Download available till | 11 October 2026 |
-| Prelims exam dates | 10 and 11 October 2026 |
+| Download available till | 11 October 2026 (closed) |
+| Prelims exam | Held on 10 and 11 October 2026 |
+| Prelims result | Not announced yet |
 | Mains exam date | 27 December 2026 |
 | Login details needed | Registration/roll number + password or date of birth |
 | Official website | [ibps.in](https://www.ibps.in/) |
@@ -107,6 +111,8 @@ So your score = correct answers − (0.25 × wrong answers). For example, 70 cor
 
 ## What to do in the last 7 days
 
+*This section was for the week before the prelims. If you've written the exam, skip to the next section.*
+
 You can't learn new topics this week. You can make sure you score what you already know.
 
 ![An open book, reading glasses and a cup of tea on a dark table](/images/posts/ibps-clerk-admit-card-2026-2.webp)
@@ -125,14 +131,20 @@ Honestly, no. Mock tests are often harder than the real exam, and many people wh
 
 What matters most is accuracy. With 0.25 negative marking, 65 attempts at 90% accuracy beat 85 attempts with lots of guesses. Attempt what you're sure about, and skip blind guesses.
 
-## What comes after the prelims?
+## IBPS Clerk prelims 2026 is over: what now?
 
-1. **Prelims result:** IBPS will publish the result on ibps.in. The date hasn't been announced yet.
+1. **Prelims result:** IBPS will publish it on ibps.in. The date hasn't been announced yet. The scorecard with your marks usually follows a few days after the result.
 2. **Mains exam:** scheduled for **27 December 2026** for candidates who qualify.
 3. **Provisional allotment:** final selection for Clerk is based on mains marks. There's no interview.
 
+**About answer keys:** IBPS doesn't usually publish an official answer key for the Clerk prelims. The "answer keys" and "expected cut-offs" you see on coaching sites are memory-based and unofficial. Use them only for a rough idea.
+
+**Work out your rough score** with the marking scheme above: correct answers minus 0.25 × wrong answers. Do it once, honestly, and then stop checking cut-off videos every hour.
+
+**Start mains prep now, not after the result.** 27 December is about 11 weeks away. If you wait for the result, you lose 3 to 4 of those weeks. The mains has a separate General/Financial Awareness section, so start reading banking and economy news daily from this week.
+
 We'll update this page when the prelims result date is announced.
 
-Also applying for central government jobs? The [SSC CHSL 2026 last date is 7 October](/ssc-chsl-2026-last-date), so finish that form this week too.
+Also preparing for central government exams? [SSC CHSL 2026 Tier 1](/ssc-chsl-2026-last-date) is proposed from 30 November to 31 December, so the two exams overlap with your mains prep.
 
 Always confirm dates and instructions on the official website, [ibps.in](https://www.ibps.in/), and on your own call letter. If anything on your call letter differs from this page, follow the call letter.

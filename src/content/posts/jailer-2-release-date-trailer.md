@@ -2,6 +2,7 @@
 title: "Jailer 2 Trailer Out: Release Date 15 Oct, Cast, Watch Links"
 description: "Jailer 2 trailer is out in Tamil, Telugu and Hindi. Official YouTube links by language, 15 October release date, cast, songs and ticket booking update."
 date: 2026-10-05T18:51:24+05:30
+updated: 2026-10-12T16:40:00+05:30
 category: cinema
 tags: ["Jailer 2", "Rajinikanth", "Nelson", "Anirudh", "Sun Pictures", "Tamil movies", "trailer"]
 image: /images/posts/jailer-2-release-date-trailer-hero.webp
@@ -18,13 +19,17 @@ faqs:
     a: "Not on the official channels yet, as of 5 October evening. Sun Udaya has posted the Kannada release-date teaser, so a Kannada version is coming. Videos called 'Malayalam trailer' on other channels are fan uploads, not official."
   - q: "What is the Hindi name of Jailer 2?"
     a: "The Hindi version is called 'Rajini The Jailer 2'. Its trailer is on the Sun Neo TV YouTube channel."
-  - q: "When will Jailer 2 ticket booking open?"
-    a: "Sun Pictures hasn't announced the advance booking date yet. For big releases, booking usually opens a few days before release. Book only on official ticketing apps or the theatre's own counter."
+  - q: "Is Jailer 2 ticket booking open?"
+    a: "Yes. Advance booking is open on ticketing apps and at theatre counters. Trade tracker Sacnilk reports over 5 lakh Day 1 tickets sold in India by 12 October. Book only on official apps or at the theatre."
+  - q: "What is the Jailer 2 certificate and runtime?"
+    a: "As reported on 7 October, the CBFC has given Jailer 2 a U/A 16+ certificate, with a runtime of 165 minutes 18 seconds (about 2 hours 45 minutes). That's about 3 minutes shorter than the first Jailer."
   - q: "Who is in the cast of Jailer 2?"
     a: "Rajinikanth returns as Muthuvel Pandian. Sun Pictures has officially introduced Suraj Venjaramoodu as Dileep and Vidya Balan as Kantha. Ramya Krishnan, S. J. Suryah, Mithun Chakraborty and Yogi Babu are also reported to be in the film."
 ---
 
-**The Jailer 2 trailer is out.** Sun Pictures released it on **5 October 2026** in **Tamil, Telugu and Hindi**, and the film hits theatres on **Thursday, 15 October 2026**. That's 10 days from now, right before the Dussehra holidays.
+**Update (12 October):** Jailer 2 has been certified **U/A 16+** with a runtime of about **2 hours 45 minutes**, as reported on 7 October, and **advance booking is open**. Details in the [ticket booking section](#jailer-2-ticket-booking-what-to-know) below.
+
+**The Jailer 2 trailer is out.** Sun Pictures released it on **5 October 2026** in **Tamil, Telugu and Hindi**, and the film hits theatres on **Thursday, 15 October 2026**. That's right before the Dussehra holidays.
 
 Below you'll find the official trailer links for each language, so you don't end up on one of the many fake "official trailer" uploads doing the rounds. Then the cast, songs, and what we know about ticket booking.
 
@@ -38,8 +43,10 @@ Below you'll find the official trailer links for each language, so you don't end
 | Release date | **15 October 2026** (Thursday), in theatres |
 | Languages | Tamil (original), Telugu, Hindi, Kannada |
 | Trailer released | 5 October 2026, 2 min 25 sec |
-| Ticket booking | Not open yet (as of 5 October) |
-| CBFC certificate, runtime | Not announced yet |
+| Ticket booking | **Open** (as of 12 October) |
+| CBFC certificate | U/A 16+ (as reported, 7 October) |
+| Runtime | 165 min 18 sec, about 2 h 45 min (as reported) |
+| Formats | Standard and IMAX (as reported) |
 
 ## Jailer 2 trailer: official YouTube links by language
 
@@ -73,7 +80,7 @@ Sun Pictures announced the date through a release-date teaser on 2 July 2026, po
 
 Why 15 October? It's a Thursday, so the film gets a 4-day opening weekend, and it lands right before the Dussehra holidays, when families go to theatres. It's the same playbook as the first Jailer, which opened on a Thursday in August 2023 and became the highest-grossing Tamil film of that year.
 
-It won't be alone that week. Telugu films like Ranabaali and Vishwambhara are reported to be lined up around 16 October too. If those dates hold, screen counts in Andhra Pradesh and Telangana could get tight.
+It won't be alone that week. Telugu films like Ranabaali and Vishwambhara are reported to be lined up around 16 October too. If those dates hold, screen counts in Andhra Pradesh and Telangana could get tight. Our [October 2026 movie releases list](/october-2026-movie-releases-theatres-ott) has the full week.
 
 ## Jailer 2 cast and crew
 
@@ -105,7 +112,11 @@ Sun TV's channel has put out these songs and themes before the trailer: **Ala Bo
 
 ## Jailer 2 ticket booking: what to know
 
-Booking hasn't opened yet. Sun Pictures hasn't announced the date. For a release this big, booking usually opens a few days before, and first-day shows in Chennai, Madurai, Coimbatore, Bengaluru and Hyderabad tend to fill within hours.
+**Booking is open.** You can book on the usual ticketing apps and at theatre counters. First-day shows are filling fast, especially in Tamil Nadu.
+
+Trade tracker Sacnilk's early numbers, as reported on 12 October: **over 5 lakh Day 1 tickets** sold in India, worth about **₹9.5 crore** (excluding blocked seats). Tamil Nadu leads with about ₹6.44 crore. These are trade estimates, not figures from Sun Pictures.
+
+**Certificate and runtime:** the CBFC has given the film a **U/A 16+** certificate, as reported on 7 October. That means children under 16 should watch only with a parent or guardian. The runtime is **165 minutes 18 seconds**, about 2 hours 45 minutes, roughly 3 minutes shorter than the first Jailer. Plan for a 3-hour slot with the interval and ads.
 
 A few practical tips:
 
@@ -117,12 +128,11 @@ And please skip pirated prints. Recording a film in a theatre or sharing pirated
 
 ## What we still don't know
 
-- CBFC certificate and runtime
-- Advance booking date
-- Kannada (and any Malayalam) trailer
+- Kannada (and any Malayalam) trailer: still not on the official channels as of 12 October
+- Official opening-day box office figures from Sun Pictures
 - Which OTT platform gets it after the theatrical run
 
-I'll update this page as each one comes out.
+I'll update this page as each one comes out, including the opening collection as claimed by the makers.
 
 ## My take
 

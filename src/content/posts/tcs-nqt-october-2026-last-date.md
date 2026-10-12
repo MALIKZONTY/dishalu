@@ -2,6 +2,7 @@
 title: "TCS NQT October 2026: Last Date 7 Oct, Fee, Is It Worth It?"
 description: "TCS NQT October 2026: apply by 7 October, test on 19 October. Fee from ₹599, who can apply, what the score really gets you, and who should skip it."
 date: 2026-10-04T15:57:00+05:30
+updated: 2026-10-12T17:00:00+05:30
 category: careers
 tags: ["TCS NQT", "TCS iON", "freshers jobs", "off campus", "aptitude test"]
 image: /images/posts/tcs-nqt-october-2026-last-date-hero.webp
@@ -11,7 +12,9 @@ imageCreditUrl: "https://commons.wikimedia.org/w/index.php?curid=60647907"
 sourceUrl: "https://www.tcsion.com/hub/national-qualifier-test/"
 faqs:
   - q: "What is the last date to apply for TCS NQT October 2026?"
-    a: "The last date is 7 October 2026. The test is on 19 October 2026 at TCS iON exam centres."
+    a: "The October cycle closed on 7 October 2026, and its test is on 19 October. If you missed it, the November cycle is open now: apply before 12 November 2026 for the test on 24 November 2026."
+  - q: "When is the next TCS NQT after October 2026?"
+    a: "The official TCS iON page now lists the November cycle: apply before 12 November 2026, test on 24 November 2026. Fee and eligibility are the same."
   - q: "What is the TCS NQT fee?"
     a: "The Cognitive and Non Tech variants cost ₹599 right now (listed price ₹800). The IT and BFSI variants cost ₹999. Prices include taxes and are offer prices, so check the official page before paying."
   - q: "Does clearing TCS NQT guarantee a job at TCS?"
@@ -24,7 +27,9 @@ faqs:
     a: "Your score is valid for 2 years from the date the result is published. You can retake the test, and only your best score is shown."
 ---
 
-**TCS NQT October 2026 applications close on 7 October 2026**, and the test is on **19 October 2026**. It's open to final and pre-final year students and to freshers who passed between 2022 and 2028. The cheapest version costs ₹599.
+**Update (12 October):** October registrations closed on 7 October, and that test is on **19 October**. If you missed it, the **November cycle is open now**: apply before **12 November 2026** for the test on **24 November 2026**, per the official TCS iON page. Same fee and eligibility.
+
+**TCS NQT October 2026 applications closed on 7 October 2026**, and the test is on **19 October 2026**. It's open to final and pre-final year students and to freshers who passed between 2022 and 2028. The cheapest version costs ₹599.
 
 Before you pay, know one thing. **TCS NQT is a paid test, not a job application.** The score helps you apply to companies, but it doesn't give you a job or even an interview by itself. Read the "Is it worth it?" section before you register.
 
@@ -32,8 +37,8 @@ Before you pay, know one thing. **TCS NQT is a paid test, not a job application.
 |---|---|
 | Test | TCS iON National Qualifier Test (NQT) |
 | Conducted by | TCS iON (a TCS business unit) |
-| Last date to apply | **7 October 2026** |
-| Test date | **19 October 2026** |
+| October cycle | Applications closed 7 October; test on **19 October 2026** |
+| **November cycle** | **Apply before 12 November 2026; test on 24 November 2026** |
 | Hall ticket | By email, 2 days before the test |
 | Fee | ₹599 (Cognitive, Non Tech) / ₹999 (IT, BFSI) |
 | Mode | Only at TCS iON exam centres (no home test) |
@@ -46,9 +51,18 @@ Before you pay, know one thing. **TCS NQT is a paid test, not a job application.
 
 ## TCS NQT October 2026 last date and test date
 
-The official TCS iON page lists **7 October 2026** as the last date and **19 October 2026** as the test date for the October cycle.
+The October cycle closed on **7 October 2026**, and its test is on **19 October 2026**. There's no late window.
 
-TCS iON says applications close 10 to 15 days before each cycle's exam date, so there's no late window after 7 October. If you miss it, you'll have to wait for the next cycle. TCS iON says it runs NQT every 2 to 4 weeks, so the next one won't be far away.
+The official TCS iON page now shows the next cycle:
+
+| Cycle | Apply before | Test date |
+|---|---|---|
+| October 2026 | 7 October 2026 (closed) | 19 October 2026 |
+| **November 2026** | **12 November 2026** | **24 November 2026** |
+
+If you registered for October, you'll get your hall ticket by email about 2 days before the test, so watch your inbox (and spam folder) around 17 October.
+
+Missed October? The November cycle is honestly the better pick if you haven't practised yet. You get 6 weeks to prepare instead of one.
 
 ## Who can apply (eligibility)
 
@@ -136,13 +150,17 @@ What you do get: a scorecard valid for 2 years, and access to the TCS iON job li
 
 Honestly, for most freshers without a job, ₹599 to ₹999 is a fair price for a score that many companies recognise. Just go in knowing it's a ticket to apply, not a job offer.
 
-## How to use the next 2 weeks
+## How to prepare
 
-- **Days 1–5:** Numerical ability. Percentages, ratios, time and work, averages, and data interpretation tables.
-- **Days 6–9:** Reasoning. Series, coding-decoding, puzzles and seating arrangements.
-- **Days 10–12:** Verbal. Grammar, sentence correction and reading passages.
-- **Days 13–14:** Take the free practice test that comes with your variant, under a timer.
+**Writing on 19 October (one week left):** don't start new topics. Spend 3 days on numerical ability (percentages, ratios, data interpretation), 2 days on reasoning puzzles, 1 day on verbal, and take the free practice test under a timer on the last day.
+
+**Going for the 24 November cycle (6 weeks):**
+
+- **Weeks 1–2:** Numerical ability. Percentages, ratios, time and work, averages, and data interpretation tables.
+- **Weeks 3–4:** Reasoning. Series, coding-decoding, puzzles and seating arrangements.
+- **Week 5:** Verbal. Grammar, sentence correction and reading passages.
+- **Week 6:** Timed practice tests, including the free one that comes with your variant.
 
 If you're taking the IT version, solve 2 coding problems a day in C, C++, Java or Python, whichever you're fastest in.
 
-Also looking at government jobs? The [SSC CHSL 2026 last date](/ssc-chsl-2026-last-date) is also 7 October, for 12th-pass candidates.
+Also looking at government jobs? See the [SSC CHSL 2026 exam dates](/ssc-chsl-2026-last-date) (Tier 1 from 30 November) and [CDAC Recruitment 2026](/cdac-recruitment-2026), which has some fresher posts and closes on 26 October.
