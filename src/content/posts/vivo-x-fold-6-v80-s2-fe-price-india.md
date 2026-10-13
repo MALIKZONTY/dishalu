@@ -2,6 +2,7 @@
 title: "Vivo X Fold 6, V80, S2 FE Price in India, Sale Date, Specs"
 description: "Vivo X Fold 6 price in India is ₹2,19,999, V80 starts at ₹62,999 and S2 FE at ₹38,999. Sale dates, launch offers, key specs and which one is worth buying."
 date: 2026-10-06T17:30:00+05:30
+updated: 2026-10-13
 category: tech-news
 tags: ["vivo", "Vivo X Fold 6", "Vivo V80", "Vivo S2 FE", "smartphones"]
 image: /images/posts/vivo-x-fold-6-v80-s2-fe-price-india-hero.webp
@@ -13,9 +14,9 @@ faqs:
   - q: "What is the Vivo X Fold 6 price in India?"
     a: "The Vivo X Fold 6 costs ₹2,19,999 in India for its only variant, 12GB RAM and 512GB storage. Vivo offers instant cashback of up to ₹26,400 on select bank cards at launch."
   - q: "When does the Vivo X Fold 6 go on sale in India?"
-    a: "Pre-booking is open now, and the sale starts on 13 October 2026 on vivo's online store, Flipkart, Amazon and retail stores."
+    a: "It went on sale on 13 October 2026 on vivo's online store, Flipkart, Amazon and retail stores, at ₹2,19,999. Launch offers include up to ₹26,400 instant cashback on select banks or 30 months of No Cost EMI."
   - q: "What is the Vivo V80 price in India?"
-    a: "The Vivo V80 starts at ₹62,999 for 8GB + 128GB. The 8GB + 256GB model costs ₹69,999 and 8GB + 512GB costs ₹79,999. The sale starts on 13 October 2026."
+    a: "The Vivo V80 starts at ₹62,999 for 8GB + 128GB. The 8GB + 256GB model costs ₹69,999 and 8GB + 512GB costs ₹79,999. It went on sale on 13 October 2026, with 10% instant cashback on SBI Card, HDFC, IDFC First, Kotak, Amex, DBS, BOBCARD, YES Bank and UPI till 20 October."
   - q: "What is the Vivo S2 FE price and sale date?"
     a: "The Vivo S2 FE costs ₹38,999 for 6GB + 128GB and ₹42,999 for 8GB + 128GB. It goes on sale on 20 October 2026."
   - q: "Which vivo phone has a 10,000mAh battery?"
@@ -24,7 +25,9 @@ faqs:
     a: "Yes. Vivo says the X Fold 6 is rated IPX8 and IPX9 for water and IP5X for dust. The V80 and S2 FE are rated IP68 and IP69."
 ---
 
-**Vivo launched three phones in India today (6 October 2026).** The **Vivo X Fold 6 price in India is ₹2,19,999**, the **V80 starts at ₹62,999**, and the **S2 FE starts at ₹38,999**. The X Fold 6 and V80 go on sale on **13 October**, and the S2 FE on **20 October**.
+**Update (13 October 2026):** The **X Fold 6 and V80 are on sale now** on vivo.com/in, Flipkart, Amazon and in shops. Prices haven't changed. The V80's **10% instant cashback** works on SBI Card, HDFC Bank, IDFC First, Kotak, American Express, DBS, BOBCARD, YES Bank and UPI, **till 20 October**. For the X Fold 6, vivo hasn't named the banks for its ₹26,400 cashback. The S2 FE sale is still on **20 October**. Offer details are updated below.
+
+**Vivo launched three phones in India on 6 October 2026.** The **Vivo X Fold 6 price in India is ₹2,19,999**, the **V80 starts at ₹62,999**, and the **S2 FE starts at ₹38,999**. The X Fold 6 and V80 go on sale on **13 October**, and the S2 FE on **20 October**.
 
 All prices and specs below are from vivo's official press releases. Here's what each phone offers and who should actually consider it.
 
@@ -32,7 +35,7 @@ All prices and specs below are from vivo's official press releases. Here's what 
 |---|---|---|---|
 | Starting price | **₹2,19,999** | **₹62,999** | **₹38,999** |
 | Variants | 12GB + 512GB only | 8+128 / 8+256 / 8+512GB | 6+128 / 8+128GB |
-| Sale date | **13 October 2026** | **13 October 2026** | **20 October 2026** |
+| Sale date | **On sale (13 October)** | **On sale (13 October)** | **20 October 2026** |
 | Processor | Dimensity 9500 Super Edition | Snapdragon 7 Gen 4 | Dimensity 7300e |
 | Battery | 6,900mAh | 7,200mAh | **10,000mAh** |
 | Charging | 80W wired, 40W wireless | 90W | Reverse charging (speed not stated) |
@@ -43,17 +46,21 @@ All prices and specs below are from vivo's official press releases. Here's what 
 
 ## Vivo X Fold 6 price in India and launch offers
 
-The X Fold 6 comes in one variant, **12GB RAM + 512GB storage, for ₹2,19,999**. Colours are Nebula Teal and Prism Black. Pre-booking is already open.
+The X Fold 6 comes in one variant, **12GB RAM + 512GB storage, for ₹2,19,999**. Colours are Nebula Teal and Prism Black. It **went on sale on 13 October 2026**.
 
-Launch offers from vivo:
+Sale offers from vivo (pick **one** of the first three):
 
-- **Instant cashback up to ₹26,400** on select bank cards
-- **No Cost EMI for 30 months** at ₹7,333 a month
-- Up to 12% exchange bonus
-- 3 months of Google AI Pro free
-- 50% off on a JioHotstar annual plan
+| In shops | Online (vivo.com/in, Flipkart, Amazon) |
+|---|---|
+| No Cost EMI for 30 months at ₹7,333 a month, zero down payment | Up to 24 months No Cost EMI |
+| **Or** instant cashback up to ₹26,400 on eligible transactions | **Or** ₹26,400 instant cashback on selected banks |
+| **Or** up to 12% exchange bonus | **Or** 10% exchange bonus |
+| Up to 40% off V-Shield screen and warranty plans | |
+| 3 months of Google AI Pro free | 3 months of Google AI Pro free |
 
-With the full cashback, the effective price comes down to about **₹1,93,599**. Check which banks are included before you count on it.
+With the full cashback, the effective price comes down to about **₹1,93,599**. vivo's sale press release doesn't name the banks, so check the bank list on the payment page before you count on it.
+
+vivo also mentions 50% off a JioHotstar annual plan, but says that offer **isn't live yet** and has no fixed start date.
 
 ### Vivo X Fold 6 specs
 
@@ -75,9 +82,19 @@ With the full cashback, the effective price comes down to about **₹1,93,599**.
 | 8GB + 256GB | ₹69,999 |
 | 8GB + 512GB | ₹79,999 |
 
-Colours are Sunrise Anthem, Horizon Blue and Stellar Black. Pre-booking is open and the sale starts on **13 October 2026**.
+Colours are Sunrise Anthem, Horizon Blue and Stellar Black. It **went on sale on 13 October 2026**.
 
-Launch offers include a **flat 10% instant cashback** on select bank cards, up to 10% exchange bonus, EMI from ₹2,625 a month (24 months, zero down payment) and 6 months of Google One 100GB.
+Sale offers in shops (pick **one** of the first four):
+
+- EMI from **₹2,625 a month** (24 months, zero down payment, till 18 October)
+- **Or** "pay ₹101 to own" with a 10-month zero down payment scheme (till 20 October, processing fee extra)
+- **Or** **flat 10% instant cashback** with **SBI Card, HDFC Bank, IDFC First Bank, Kotak Mahindra Bank, American Express, DBS Bank, BOBCARD, YES Bank and UPI**, **till 20 October**
+- **Or** up to 10% exchange bonus (old phone picked up by vivo's partner)
+- Plus up to 40% off V-Shield plans and 6 months of Google One 100GB
+
+Online (vivo.com/in, Flipkart, Amazon), you get 10% instant discount on select banks **or** a 10% exchange bonus, plus **1 year of free extended warranty** and Google One.
+
+With 10% cashback, the 8GB + 128GB model works out to about **₹56,700**. vivo doesn't mention a maximum cap, so check the final price at checkout.
 
 ### Vivo V80 specs
 
@@ -124,11 +141,12 @@ Honestly, prices of many phones have gone up this year because memory chips cost
 
 ## Launch during the festive sales
 
-The X Fold 6 and V80 go on sale on 13 October, in the middle of the [Amazon Great Indian Festival and Flipkart Big Billion Days](/amazon-vs-flipkart-sale-2026). New launches usually don't get sale discounts beyond bank offers, but check both apps on 13 October. Vivo's bank cashback and the sale's card offers are separate, so check at checkout which one applies to your card.
+The X Fold 6 and V80 went on sale on 13 October, in the middle of the [Amazon Great Indian Festival and Flipkart Big Billion Days](/amazon-vs-flipkart-sale-2026). New launches usually don't get sale discounts beyond bank offers, and that's what happened here: both phones are listed at launch price, with vivo's bank and exchange offers on top. Vivo's bank cashback and the sale's card offers are separate, so check at checkout which one applies to your card.
 
 ## What's still not clear
 
-- Which exact banks give the cashback on each phone, and the maximum discount per card for the V80 and S2 FE
+- Which banks give the ₹26,400 cashback on the X Fold 6 (vivo hasn't listed them), and whether the V80's 10% has a cap per card
+- S2 FE sale-day bank list (it goes on sale on 20 October)
 - S2 FE charging speed (vivo's press release doesn't mention it)
 - Years of Android OS updates for the X Fold 6 and S2 FE
 - Real-world battery life and camera quality. Wait for reviews before you buy, especially the X Fold 6
