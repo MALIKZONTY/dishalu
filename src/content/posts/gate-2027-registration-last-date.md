@@ -2,6 +2,7 @@
 title: "GATE 2027 Registration: Last Date 12 Oct With ₹500 Late Fee"
 description: "GATE 2027 registration last date is 5 October without late fee; with ₹500 extra you can apply till 12 October. Fee, eligibility, DigiLocker steps, dates."
 date: 2026-10-05T11:08:00+05:30
+updated: 2026-10-13
 category: govt-exams
 tags: ["GATE 2027", "GATE", "IIT Madras", "M.Tech admission", "PSU jobs"]
 image: /images/posts/gate-2027-registration-last-date-hero.webp
@@ -11,7 +12,7 @@ imageCreditUrl: "https://commons.wikimedia.org/w/index.php?curid=145993383"
 sourceUrl: "https://gate2027.iitm.ac.in/important_dates"
 faqs:
   - q: "What is the last date for GATE 2027 registration?"
-    a: "The regular window (without late fee) closes on 5 October 2026. The extended window, with a late fee, stays open till 12 October 2026."
+    a: "Registration is closed. The regular window (without late fee) ended on 5 October 2026 and the late-fee window ended on 12 October 2026. There was no further extension."
   - q: "How much is the GATE 2027 late fee?"
     a: "It's ₹500 extra. For one paper, female, SC, ST and PwD candidates pay ₹1,500 instead of ₹1,000, and all others pay ₹2,500 instead of ₹2,000."
   - q: "When is the GATE 2027 exam?"
@@ -19,14 +20,16 @@ faqs:
   - q: "Can 3rd year students apply for GATE 2027?"
     a: "Yes. Students in the 3rd year or higher of any government-approved undergraduate degree can apply, including B.E., B.Tech, B.Sc, B.A., B.Com and BCA."
   - q: "Can I correct my GATE 2027 application later?"
-    a: "Yes. The application rectification window is open from 14 October to 21 October 2026. Log in to the GATE 2027 portal during these dates."
+    a: "Yes, from 14 to 21 October 2026. You can change your category, paper and exam city choices, add a second paper, and fix personal details. An additional fee may apply for each change."
   - q: "Is DigiLocker compulsory for GATE 2027?"
     a: "Yes, for all Indian nationals. A verified DigiLocker account (done through e-KYC) is recommended. Unverified accounts are allowed, but your documents will be checked in person at the exam hall."
 ---
 
-**GATE 2027 registration closes today, 5 October 2026, if you want to avoid the late fee.** Miss it and you can still apply till **12 October 2026** by paying ₹500 extra. The exam is in February 2027, and IIT Madras is the organising institute this year.
+**Update (13 October 2026):** GATE 2027 registration is now **closed**. The late-fee window ended on 12 October, and the official site says the application portal is closed, with no further extension. If you applied, the **correction window runs from 14 to 21 October 2026**. You can change your category, paper and exam city choices, add a second paper, and fix personal details (an extra fee may apply per change). The details are [below](#gate-2027-correction-window-14-to-21-october).
 
-Anyone in the 3rd year or higher of a recognised degree can apply. That includes B.Tech, B.Sc, B.Com, B.A. and BCA students, not just engineers.
+**GATE 2027 regular registration closed on 5 October 2026, and the late-fee window (₹500 extra) closed on 12 October 2026.** The exam is in February 2027, and IIT Madras is the organising institute this year.
+
+Anyone in the 3rd year or higher of a recognised degree could apply. That included B.Tech, B.Sc, B.Com, B.A. and BCA students, not just engineers.
 
 | Detail | Information |
 |---|---|
@@ -34,7 +37,8 @@ Anyone in the 3rd year or higher of a recognised degree can apply. That includes
 | Organised by | IIT Madras |
 | Last date (no late fee) | **5 October 2026** |
 | Last date (with late fee) | **12 October 2026** |
-| Correction window | 14 to 21 October 2026 |
+| Registration status | **Closed** (no further extension) |
+| Correction window | **14 to 21 October 2026** |
 | Exam dates | 6, 7, 13, 14, 20 and 21 February 2027 |
 | Result | 19 March 2027 |
 | Papers | 30 (new: Robotics and Automation) |
@@ -43,7 +47,7 @@ Anyone in the 3rd year or higher of a recognised degree can apply. That includes
 
 ## GATE 2027 registration last date and full schedule
 
-The deadline has already moved twice. Registration was first meant to close on 21 September, then 27 September, and now it's 5 October. **Don't count on a third extension.** Here's the current official schedule:
+The deadline moved twice. Registration was first meant to close on 21 September, then 27 September, then 5 October. The late-fee window ended on 12 October, and **there was no third extension**. Here's the current official schedule:
 
 | Event | Date |
 |---|---|
@@ -57,6 +61,31 @@ The deadline has already moved twice. Registration was first meant to close on 2
 | Result | 19 March 2027 |
 
 IIT Madras notes that all dates are liable to change. The date you're given for your own paper will come later.
+
+## GATE 2027 correction window (14 to 21 October)
+
+The correction window is only for people who have already applied and paid. You can't submit a new application in it.
+
+According to the GATE 2027 information brochure, **21 October 2026** is the last date to:
+
+- Change your **category**
+- Change your **test paper**
+- Change your **exam city** choices
+- **Add a second paper** (only an allowed two-paper pair)
+- Change your **personal details**
+
+The brochure says **an additional fee may apply for each change**. The exact amount shows on the portal when you make the change. Adding a paper will cost at least the fee for that extra paper.
+
+How to do it:
+
+1. Log in at [gate2027.iitm.ac.in](https://gate2027.iitm.ac.in/) with the same DigiLocker account you applied with.
+2. Check your **application status** first. If it says "defective", read the message. It tells you what to fix (often a blurry photo, a wrong signature, or a missing certificate).
+3. Make your changes, pay any extra fee, and save.
+4. Download the updated application and keep a copy.
+
+Separate from this window, IIT Madras is checking every application. If they find a defect, they'll tell you by email, SMS or WhatsApp and give you a deadline to fix it. Log in every few days until your status says **"Application accepted"**.
+
+**Don't wait till 21 October.** The portal gets slow on the last day, just like it did during registration.
 
 ## GATE 2027 application fee
 
@@ -135,20 +164,15 @@ And your score stays valid for 3 years, so one good attempt keeps doors open for
 ![Central Library building at IIT Roorkee with steps and a fountain in front](/images/posts/gate-2027-registration-last-date-3.webp)
 *Central Library, IIT Roorkee. Photo: Sidbij / Wikimedia, [CC BY-SA 4.0](https://commons.wikimedia.org/w/index.php?curid=3868165)*
 
-## Should you pay the late fee?
+## Missed the GATE 2027 deadline?
 
-Honestly, it depends on where you are.
+Registration is closed, and IIT Madras doesn't accept late or offline forms. Here's what you can do instead:
 
-**Apply today (or pay the late fee) if:**
-- You're in final year and want an M.Tech or a PSU job. ₹500 extra is nothing compared to waiting a full year.
-- You've already started preparing. Four months is enough to revise properly.
-- You're in 3rd year and want to see the real exam once. A trial attempt takes the fear out of next year's attempt that actually counts.
+- **If you're in 3rd year:** you haven't lost much. Start preparing now for GATE 2028. Registration usually opens around August or September. You'll go in with a full year of prep instead of four months.
+- **If you're in final year:** put the time into placements. If you want a private job soon, our [TCS NQT October 2026 guide](/tcs-nqt-october-2026-last-date) covers the next test window.
+- **If you wanted a PSU job:** PSUs that hire through GATE usually ask for a score from a specific recent GATE year, which they name in each notification. GATE 2028 is your next chance, so prepare for it properly.
 
-**You can skip it if:**
-- You're sure you want a private job right after college and have no plan for M.Tech or PSUs. Spend that time on placement prep instead. If that's you, read our [TCS NQT October 2026 guide](/tcs-nqt-october-2026-last-date).
-- You're thinking of writing it "just in case" with zero prep time between now and February. ₹2,000–2,500 for a guaranteed bad score isn't worth it.
-
-My advice: if you're even 50% sure, **apply today and save the ₹500**. Deciding late costs you money for nothing.
+Honestly, a rushed attempt in February with no prep wouldn't have helped much. A year of steady prep usually beats it.
 
 ## What to do after you apply
 
