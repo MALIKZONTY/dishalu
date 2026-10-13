@@ -2,13 +2,14 @@
 title: "APPSC ASO Notification 2026: 196 Posts, Apply by 2 Nov"
 description: "APPSC ASO notification 2026 is out for 196 Assistant Statistical Officer posts. Eligibility, pay scale, exam pattern, syllabus and how to apply by 2 November."
 date: 2026-10-11T12:28:45+05:30
+updated: 2026-10-13
 category: govt-exams
 tags: ["APPSC", "APPSC ASO", "Assistant Statistical Officer", "Andhra Pradesh", "statistics jobs"]
 image: /images/posts/appsc-aso-notification-2026-hero.webp
 imageAlt: "A black calculator and a silver pen lying on a printed sheet of figures with handwritten notes"
 imageCredit: "Photo: Rawpixel, CC0"
 imageCreditUrl: "https://www.rawpixel.com/image/5912338/image-background-public-domain-note"
-sourceUrl: "https://psc.ap.gov.in/Documents/NotificationDocuments/Assistant_Statistical_Officer_202026.pdf"
+sourceUrl: "https://psc.ap.gov.in/Documents/NotificationDocuments/ASO_202026.pdf"
 faqs:
   - q: "What is the last date to apply for APPSC ASO 2026?"
     a: "2 November 2026, up to 11:59 pm. Online applications open on 13 October 2026 on psc.ap.gov.in."
@@ -21,12 +22,14 @@ faqs:
   - q: "Is there a screening test for APPSC ASO 2026?"
     a: "No. APPSC says there will be a single-level computer-based exam and no screening test, whatever the number of applications. Shortlisted candidates then take a qualifying Computer Proficiency Test."
   - q: "What is the age limit and fee for APPSC ASO 2026?"
-    a: "Both will be in the detailed notification, due on or before 13 October 2026. In the 2024 cycle the age limit was 18 to 42 years and the fee was ₹250 plus ₹80, but wait for this year's figures."
+    a: "18 to 44 years as on 1 July 2026, with 5 years relaxation for SC, ST, BC and EWS and 10 years for PBD. The fee is ₹250 processing plus ₹80 exam fee; SC, ST, BC, PBD, ex-servicemen and AP white ration card families pay only ₹250."
+  - q: "Can I correct my APPSC ASO application after submitting it?"
+    a: "Yes, for 7 days after the last date (2 November), at ₹100 per correction. Name and the fields that decide fee and age relaxation can't be changed, so check your OTPR profile before you submit."
 ---
 
-**APPSC ASO notification 2026 is out for 196 Assistant Statistical Officer posts.** Online applications open on **13 October** and close on **2 November 2026** (11:59 pm). You need a degree with Statistics in it, either as a main subject or as a paper inside a Maths, Economics, Commerce or Computer Science degree.
+**APPSC ASO notification 2026 is out for 196 Assistant Statistical Officer posts.** Online applications opened on **13 October** and close on **2 November 2026** (11:59 pm). You need a degree with Statistics in it, either as a main subject or as a paper inside a Maths, Economics, Commerce or Computer Science degree.
 
-One thing to know before you read on. APPSC has released only the brief notification so far (No. 20/2026, dated 15 September). The detailed one, with age limit, fee and zone-wise vacancies, is due **on or before 13 October**. I've marked clearly below what is confirmed and what is from the last cycle.
+**Update (13 October 2026):** APPSC has published the detailed notification (No. 20/2026, dated 13 October) and the application link is live. The age limit is **18 to 44 years** as on 1 July 2026, the fee is **₹250 + ₹80**, and the zone-wise vacancy table is out. Zone IV (Guntur, Palnadu, Bapatla, Prakasam, Nellore) has the most posts, 41. All of it is filled in below.
 
 This is the *Statistical* Officer post. It's not the Assistant Section Officer post that comes under Group 2.
 
@@ -34,15 +37,36 @@ This is the *Statistical* Officer post. It's not the Assistant Section Officer p
 |---|---|
 | Recruiting body | Andhra Pradesh Public Service Commission (APPSC), Vijayawada |
 | Post | Assistant Statistical Officer, A.P. Economics & Statistical Subordinate Service |
-| Notification | Brief Notification No. 20/2026, dated 15 September 2026 |
+| Notification | No. 20/2026 (brief 15 September, detailed 13 October 2026) |
 | Vacancies | **196** (provisional) |
 | Pay scale | ₹37,640 to ₹1,15,500 |
 | Apply online | **13 October to 2 November 2026**, up to 11:59 pm |
 | Qualification | Degree with Statistics (details below) |
-| Age limit, fee | In the detailed notification, due by 13 October |
+| Age limit | **18 to 44 years** as on 1 July 2026 (relaxation below) |
+| Fee | ₹250 + ₹80 (₹250 only for exempted categories) |
+| Correction window | 7 days after 2 November, ₹100 per correction |
+| Exam centres | Visakhapatnam, Vijayawada, Tirupati, Ananthapuramu |
 | Selection | One computer-based exam (300 marks), then a qualifying Computer Proficiency Test |
 | Exam date | Not announced yet |
 | Official website | [psc.ap.gov.in](https://psc.ap.gov.in) |
+
+## Zone-wise vacancies
+
+This is a **zonal post**. 95% of the posts in each zone are reserved for local candidates of that zone (under the Presidential Order 2025), and your local zone depends on where you studied from Class 4 to Class 7.
+
+| Zone | Districts | Posts |
+|---|---|---|
+| Zone I | Srikakulam, Vizianagaram, Parvathipuram Manyam, Visakhapatnam, Anakapalli | 31 |
+| Zone II | Alluri Sitarama Raju, East Godavari, Kakinada, Konaseema | 21 |
+| Zone III | West Godavari, Eluru, NTR, Krishna | 28 |
+| Zone IV | Guntur, Palnadu, Bapatla, Prakasam, Nellore | 41 |
+| Zone V | Tirupati, Chittoor, Annamayya, YSR Kadapa | 39 |
+| Zone VI | Nandyal, Ananthapuramu, Kurnool, Sri Sathya Sai | 36 |
+| | **Total** | **196** |
+
+By category, across all zones: OC 83, BC 55 (A 17, B 16, C 3, D 12, E 7), SC 27 (I 2, II 12, III 13), ST 13 and EWS 18. Inside these, 45 posts are for women, 9 for sports persons and 9 for persons with benchmark disabilities. The full zone-by-category grid is in Annexure I of the PDF.
+
+Only 7 of the 196 are open (non-local) posts. So if you're from Zone II, you're mostly competing for Zone II's 21 posts, not all 196.
 
 ## Why 196 posts is a big deal
 
@@ -62,13 +86,19 @@ You must hold one of these from a recognised university:
 
 So a BCom or BSc Computers graduate can apply, but only if Statistics shows up as a paper on the marks memo. Check your memos before you pay the fee. A BTech, or a BA with no Statistics paper, doesn't fit the wording above.
 
-**Important:** you must have the qualification as on the date of the detailed notification. If your final-year result isn't out by then, you aren't eligible this time.
+**Important:** you must have the qualification as on the date of the detailed notification, which is **13 October 2026**. If your final-year result wasn't out by then, you aren't eligible this time.
 
 ### Age limit
 
-Not announced for 2026 yet. In the 2024 notification it was **18 to 42 years** as on 1 July of that year, with 5 years extra for SC, ST, BC and EWS candidates and 10 years for persons with benchmark disabilities.
+**18 to 44 years as on 1 July 2026.** That's 2 years more than the 42 allowed in 2024, the same upper limit as this year's [APPSC Group 1 notification](/appsc-group-1-recruitment-2026).
 
-This year's [APPSC Group 1 notification](/appsc-group-1-recruitment-2026) uses 18 to 44 years, so the upper limit here may also be higher. That's my guess, not an official figure. I'll update this page when the detailed PDF is out.
+| Category | Relaxation |
+|---|---|
+| SC, ST, BC, EWS | 5 years |
+| Persons with benchmark disabilities | 10 years |
+| Ex-servicemen, NCC instructors | 3 years plus length of service |
+| Regular AP state government employees | Length of service, up to 5 years |
+| Retrenched AP Census Department temporary staff (6+ months) | 3 years |
 
 ## Selection process and exam pattern
 
@@ -85,6 +115,8 @@ There are two steps, and APPSC has confirmed there's **no screening test**, what
 - Objective type, taken on a computer at an exam centre.
 - **Negative marking:** one-third of the question's marks is cut for each wrong answer.
 - If the exam runs in more than one session, APPSC will normalise the marks.
+- Minimum qualifying marks on the total: **40% for OC, EWS, sports persons and ex-servicemen, 35% for BC, 30% for SC, ST and PBD**.
+- Exam date: not announced yet. Hall tickets will be on psc.ap.gov.in.
 
 ### Step 2: Computer Proficiency Test (qualifying)
 
@@ -120,22 +152,27 @@ The notified scale is **₹37,640 to ₹1,15,500**. Your basic pay starts at ₹
 
 ## Application fee
 
-Not announced for 2026 yet. In 2024 it was ₹250 processing fee plus ₹80 exam fee, and SC, ST, BC, PBD, ex-servicemen and AP white ration card families paid only the ₹250. This year's Group 1 notification charges ₹250 plus ₹120, so expect something close to that.
+| Category | Fee |
+|---|---|
+| General (and all applicants from other states) | ₹250 processing + ₹80 exam = **₹330** |
+| SC, ST, BC, PBD, ex-servicemen, AP white ration card families, unemployed youth (G.O. 439) | ₹250 only |
+
+Pay online by net banking, debit or credit card. The fee isn't refunded. Note that nobody is fully exempt: the ₹250 processing fee is for everyone. (I had guessed ₹250 + ₹120 earlier from the Group 1 notice; the actual exam fee is ₹80, same as 2024.)
 
 ## How to apply
 
 1. Go to [psc.ap.gov.in](https://psc.ap.gov.in). If you've never applied to APPSC, do the **One Time Profile Registration (OTPR)** first. It gives you an OTPR ID. Registering alone isn't an application.
-2. From 13 October, log in with your OTPR ID and open the online application for Notification No. 20/2026.
+2. Log in with your OTPR ID and open the online application for Notification No. 20/2026 (live from 13 October).
 3. Check the details pulled in from your OTPR profile. Name, community and local status decide your fee and age relaxation, so fix mistakes in the OTPR profile before you submit.
-4. Fill in your qualification and choose exam centres.
+4. Fill in your qualification and pick up to 3 exam centres in order of preference (Visakhapatnam, Vijayawada, Tirupati, Ananthapuramu).
 5. Pay the fee online and download the submitted application.
 
-Do the OTPR today if you don't have one. It's the step that goes wrong most often, and you don't need to wait for the 13th.
+If you make a mistake, corrections open after 2 November for 7 days, at ₹100 per correction. Name, community and anything that changes your fee or age relaxation can't be corrected at all, so get the OTPR profile right first.
 
 ## Common mistakes to avoid
 
 - **Applying without Statistics on your memo.** Your application can be rejected at certificate verification, even after you clear the exam.
-- **Reading only the brief notification.** The zone-wise vacancies and category break-up come in the detailed one. In 2024 this was a zonal post, so your local zone mattered.
+- **Not knowing your local zone.** It's decided by where you studied (Class 4 to 7), not where you live now. Keep the study certificates ready; a residence certificate isn't accepted if you studied in a school.
 - **Guessing in the exam.** With one-third negative marking, four wrong answers wipe out more than one right one.
 - **Ignoring the computer test.** It's only qualifying, but if you fail it you aren't appointed.
 
@@ -145,4 +182,4 @@ Yes, if your degree fits. The eligibility rule keeps out most graduates, so the 
 
 Think twice if you're banking on Statistics alone. Paper II needs economics and accounting too, and Paper I is a full general studies paper. Start with the units you've never studied.
 
-Next step: get your OTPR ID, keep your degree marks memos ready, and check this page on 13 October. I'll add the age limit, fee and vacancy break-up the day the detailed notification is published.
+Next step: check your memos for the Statistics paper, find your zone in the table above, and apply before 2 November. I'll update this page when APPSC announces the exam date and hall tickets.
