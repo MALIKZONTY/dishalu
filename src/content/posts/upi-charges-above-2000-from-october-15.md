@@ -2,6 +2,7 @@
 title: "UPI Charges Above ₹2,000 From 15 Oct: Do You Have to Pay?"
 description: "UPI charges above ₹2,000 start 15 October as a 0.4% merchant fee (MDR). Who pays, what stays free, small shop rules and what changes for you."
 date: 2026-10-04T13:00:00+05:30
+updated: 2026-10-14
 category: tech-news
 tags: ["UPI", "UPI MDR", "NPCI", "digital payments"]
 image: /images/posts/upi-charges-above-2000-from-october-15-hero.webp
@@ -10,29 +11,31 @@ imageCredit: "Photo: नमन भगत / Wikimedia, CC BY-SA 4.0"
 imageCreditUrl: "https://commons.wikimedia.org/w/index.php?curid=79912959"
 sourceUrl: "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2310586"
 faqs:
-  - q: "Will I be charged for UPI payments above ₹2,000 from 15 October?"
+  - q: "Do UPI charges above ₹2,000 start on 15 October 2026?"
+    a: "No. On 13 October NPCI postponed the 0.4% merchant fee. It will now start right after Diwali, on a date NPCI will announce separately. Even when it starts, customers don't pay it."
+  - q: "Will I be charged for UPI payments above ₹2,000?"
     a: "No. The 0.4% MDR is a fee paid by the merchant's side, not by the customer. The Finance Ministry says banks have been told to make sure merchants don't pass it on to customers."
   - q: "Is sending money to friends and family on UPI still free?"
     a: "Yes. All person-to-person (P2P) UPI transfers stay completely free, whatever the amount."
-  - q: "What is the UPI MDR rate from 15 October 2026?"
+  - q: "What is the UPI MDR rate?"
     a: "0.4% on person-to-merchant payments above ₹2,000, capped at ₹300 for payments of ₹75,000 and above. Railways, telecom, insurance, fuel and agricultural inputs pay a flat ₹5 per payment above ₹2,000, and mutual funds and stockbroking pay 0.02%, capped at ₹300."
   - q: "Do small shops have to pay MDR on UPI?"
     a: "Not if they receive up to ₹1 lakh a month through UPI QR under the P2PM (small merchant) category. They keep zero MDR on all payments, even single payments above ₹2,000."
   - q: "What should I do if a shop asks for extra money for a UPI payment?"
     a: "Refuse politely and pay the bill amount. If they insist, complain to the shop's bank or the UPI app's support, and you can also raise a complaint through the NPCI dispute redressal page."
-  - q: "Is the UPI MDR a tax collected by the government?"
-    a: "No. The Finance Ministry has clarified that MDR is neither a tax nor a charge collected by the government or NPCI. It is shared among banks, payment companies and UPI apps."
 ---
 
-**UPI charges above ₹2,000 start on 15 October 2026**, but not in the way most WhatsApp forwards say. It's a 0.4% fee called MDR, and it's paid by the merchant's side. **You, the customer, don't pay it.** Sending money to friends and family stays completely free.
+**Update (14 October 2026):** The fee will **not** start on 15 October. On 13 October, NPCI's UPI and Services Steering Committee postponed it "keeping in mind the festive season". NPCI says it will start "immediately post Diwali at a date to be notified separately". Diwali is on 8 November, so expect the new date after that. The rates and free categories below haven't changed.
+
+**UPI charges above ₹2,000 were due to start on 15 October 2026 and are now pushed to after Diwali.** Either way, it doesn't work the way most WhatsApp forwards say. It's a 0.4% fee called MDR, and it's paid by the merchant's side. **You, the customer, don't pay it.** Sending money to friends and family stays completely free.
 
 Here's exactly what changes, what doesn't, and what to do if a shopkeeper tries to add "UPI charges" to your bill.
 
 | Detail | Information |
 |---|---|
 | What | Merchant Discount Rate (MDR) on UPI merchant payments |
-| Starts | **15 October 2026** |
-| Announced by | NPCI circular OC-No.237/2026-27, dated 15 September 2026 |
+| Starts | **After Diwali (8 Nov), new date to be announced** (was 15 October 2026) |
+| Announced by | NPCI circular OC-No.237/2026-27, dated 15 September 2026; postponed by NPCI on 13 October 2026 |
 | Rate | **0.4%** on person-to-merchant (P2M) payments above ₹2,000 |
 | Maximum fee | ₹300 per payment (for payments of ₹75,000 and above) |
 | Railways, telecom, insurance, fuel, farm inputs | Flat ₹5 per payment above ₹2,000 |
@@ -48,7 +51,7 @@ Here's exactly what changes, what doesn't, and what to do if a shopkeeper tries 
 
 MDR (Merchant Discount Rate) is a small fee taken from a shop's payment when it accepts digital money. Card payments have always had it. That's why some shops used to say "card pe 2% extra".
 
-UPI had zero MDR for about six years. Banks and apps like PhonePe, Google Pay and Paytm ran the system without earning anything on most payments. From 15 October, they'll get a small cut on bigger merchant payments.
+UPI had zero MDR for about six years. Banks and apps like PhonePe, Google Pay and Paytm ran the system without earning anything on most payments. Once MDR starts (now after Diwali), they'll get a small cut on bigger merchant payments.
 
 The Finance Ministry has said clearly that **MDR is not a tax**, and the government or NPCI doesn't collect it. It's split among the banks, payment companies and UPI apps that process the payment.
 
@@ -64,7 +67,7 @@ The Finance Ministry's 15 September press release says three things that matter 
 - UPI apps are **expressly prohibited** from adding platform fees or hidden charges.
 - There's **no monthly limit** on free UPI use for individuals. No quotas, no tiers.
 
-So if your UPI app suddenly shows a "convenience fee" on a normal payment after 15 October, that's against the rules.
+So if your UPI app shows a "convenience fee" on a normal payment, now or after MDR starts, that's against the rules.
 
 ## What stays completely free
 
@@ -114,7 +117,7 @@ Again, all of these are paid by the receiving side, not by you.
 
 ## What if a shop asks you to pay extra?
 
-This will happen. Some shops already add "card charges", and a few will try "UPI charges" after 15 October.
+This will happen. Some shops already add "card charges", and a few may try "UPI charges", especially once the news about MDR spreads. Right now there is no MDR at all, so any "UPI charge" at a shop has no basis.
 
 1. Politely say the fee is on the merchant's side and the government has said it can't be passed on.
 2. If they still insist, pay the bill amount only if you're comfortable, or pay in cash.
@@ -123,15 +126,22 @@ This will happen. Some shops already add "card charges", and a few will try "UPI
 
 Honestly, for small amounts most people won't bother arguing. But for ₹20,000+ purchases, 0.4% is ₹80 or more, so it's worth pushing back.
 
+## Why was it postponed?
+
+Traders' groups, fintech companies and payment firms asked NPCI for more time. Their worry was the cost for merchants during the festive season, when shops make a big part of the year's sales. They also said the rules on which payments attract the fee needed more clarity.
+
+The postponement doesn't cancel the fee. NPCI has kept the same structure and only moved the start date. Some news reports had said 1 January 2027 was being discussed, but NPCI's statement only says "post Diwali", so don't trust any specific date until NPCI announces it.
+
 ## What's still unclear
 
+- **The new start date.** NPCI will announce it separately. I'll update this page when it does.
 - How strictly banks will stop merchants from adding surcharges. The rule exists, but enforcement at the shop counter is a different story.
 - Whether big merchants will quietly raise prices instead of adding a visible fee.
 - The exact process for moving a shop from P2PM to the regular merchant category (see above).
 
 ## My take
 
-The headline "UPI is no longer free" is wrong for 96% of payments and for every transfer between people. If you're a student or job seeker paying for food, recharges and small things, nothing changes for you.
+The headline "UPI is no longer free" is wrong for 96% of payments and for every transfer between people. If you're a student or job seeker paying for food, recharges and small things, nothing changes for you. And for now, with the fee postponed, nothing changes for shops either.
 
 The one habit worth building: **check your final amount before you pay above ₹2,000 at any shop.** If you see an extra "UPI charge", you now know it isn't allowed.
 
