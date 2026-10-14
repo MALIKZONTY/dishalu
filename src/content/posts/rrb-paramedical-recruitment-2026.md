@@ -2,6 +2,7 @@
 title: "RRB Paramedical Recruitment 2026: 590 Posts, Apply by 14 Oct"
 description: "RRB Paramedical recruitment 2026 (CEN 05/2026): 590 posts incl. 365 Nursing Superintendent. Eligibility, age, fee, RRB-wise vacancies, how to apply by 14 Oct."
 date: 2026-10-07T10:47:39+05:30
+updated: 2026-10-14
 category: govt-exams
 tags: ["RRB Paramedical", "Railway jobs", "Nursing Superintendent", "Pharmacist", "RRB"]
 image: /images/posts/rrb-paramedical-recruitment-2026-hero.webp
@@ -24,7 +25,9 @@ faqs:
     a: "Yes. One-third of a mark is cut for every wrong answer in the CBT, which has 100 questions in 90 minutes."
 ---
 
-**RRB Paramedical recruitment 2026 (CEN 05/2026) is open for 590 posts, and the last date is 14 October 2026 at 11:59 pm.** That's one week from today. If you hold a GNM or B.Sc Nursing, B.Pharm, DMLT, a radiography diploma or a similar paramedical qualification, you can apply.
+**Update (14 October 2026):** Today is the last day to apply, up to 11:59 pm. As of this morning there's no extension notice on rrbapply.gov.in or rrb.indianrailways.gov.in. If you've already submitted the form, you can still pay the fee until **16 October**, and fix mistakes in the correction window from **17 to 26 October** (₹250 each time). Don't leave it to the last hour, the portal usually slows down tonight.
+
+**RRB Paramedical recruitment 2026 (CEN 05/2026) is open for 590 posts, and the last date is 14 October 2026 at 11:59 pm.** If you hold a GNM or B.Sc Nursing, B.Pharm, DMLT, a radiography diploma or a similar paramedical qualification, you can apply.
 
 Nursing Superintendent alone has 365 posts at Level 7 (₹44,900 starting basic pay). Selection is a single computer-based test (CBT), then document verification and a medical test. No interview.
 
