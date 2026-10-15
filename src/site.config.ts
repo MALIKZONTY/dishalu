@@ -18,7 +18,7 @@ export const SITE = {
   locale: 'en_IN',
   // Paste your AdSense publisher id (ca-pub-XXXXXXXXXXXXXXXX) after you apply.
   // Leave empty until then: no ad code is added to the site.
-  adsenseClient: '',
+  adsenseClient: 'ca-pub-5165925013935980',
   social: {
     telegram: '',                           // e.g. https://t.me/yourchannel
     instagram: '',
