@@ -166,4 +166,4 @@ If you're from a science background, also look at the [RRB Paramedical 2026](/rr
 - **9–18 November:** correction window.
 - **CBT 1 date:** not announced yet. RRB will post it on [rrb.indianrailways.gov.in](https://rrb.indianrailways.gov.in), and you'll get an SMS and email. City slips usually come about 10 days before the exam, and admit cards about 4 days before.
 
-I'll update this page when the exam date, city slip and admit card come out. The separate NTPC Undergraduate (12th pass) notification, CEN 07/2026, has 1,688 posts with applications from 15 October to 13 November (tentative). Details are in our [RRB NTPC Undergraduate 2026 post](/rrb-ntpc-undergraduate-recruitment-2026). If you're a graduate, you can apply for both.
+I'll update this page when the exam date, city slip and admit card come out. The separate NTPC Undergraduate (12th pass) notification, CEN 07/2026, has 1,688 posts, with applications open from 15 October to 13 November and no typing test. Details are in our [RRB NTPC Undergraduate 2026 post](/rrb-ntpc-undergraduate-recruitment-2026). If you're a graduate, you can apply for both.
