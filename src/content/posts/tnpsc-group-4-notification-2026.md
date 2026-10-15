@@ -40,7 +40,7 @@ It's one exam, one paper, no interview. Below are the facts from the official no
 | Qualification | SSLC (10th) for most posts |
 | Exam fee | ₹100 (plus ₹150 one-time registration if you're new) |
 | Selection | Written exam, then certificate verification and counselling |
-| Apply at | [tnpscexams.in](https://www.tnpscexams.in/) |
+| Apply at | [tnpscexams.in](https://tnpscexams.in/) |
 
 ## TNPSC Group 4 vacancies 2026: post-wise
 
@@ -190,7 +190,7 @@ Payment is online only: net banking, credit or debit card, or UPI.
 
 ## How to apply for TNPSC Group 4 2026
 
-1. Go to [tnpscexams.in](https://www.tnpscexams.in/).
+1. Go to [tnpscexams.in](https://tnpscexams.in/).
 2. New user? Complete **One-Time Registration** first (₹150). Linking Aadhaar to your OTR is mandatory.
 3. Log in and open the application for **Combined Civil Services Examination IV (Group IV Services)**.
 4. Fill in your details and choose your **post option**: "All the Posts", or "Posts other than Forest Guard with Driving Licence / Forest Watcher".
