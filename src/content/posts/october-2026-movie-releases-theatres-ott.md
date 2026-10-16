@@ -77,7 +77,7 @@ Rajinikanth returns as "Tiger" Muthuvel Pandian, with Nelson Dilipkumar directin
 
 It opened big: about **₹59.70 crore net in India** and **₹125 crore gross worldwide** on day 1, as per Sacnilk's estimates (not official numbers from Sun Pictures). Public talk is mixed to positive: people like Rajinikanth's mass scenes and Anirudh's score, and many say the second half drags. The language-wise and state-wise numbers are in our [Jailer 2 day 1 collection post](/jailer-2-box-office-collection-day-1).
 
-<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/FW_PPcr1sPE" title="Jailer 2 official trailer (Tamil), Sun TV" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/FW_PPcr1sPE" title="Jailer 2 official trailer (Tamil), Sun TV" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 *Official Jailer 2 trailer (Tamil) from Sun TV. Telugu: [Sun Gemini](https://www.youtube.com/watch?v=-mYAvoEvX7I) · Hindi: [Sun Neo](https://www.youtube.com/watch?v=PWuJ5-WiEgY)*
 
@@ -87,7 +87,7 @@ Chiranjeevi's fantasy action film, directed by Mallidi Vassishta and produced by
 
 The makers haven't announced a new date. Some Telugu sites mention 20 November, others say summer 2027 because of pending VFX work. Neither is official, so ignore any "confirmed date" posts until UV Creations announces one. I'll add it here when they do.
 
-<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/NCv-wz1nSnE" title="Vishwambhara official teaser, UV Creations" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/NCv-wz1nSnE" title="Vishwambhara official teaser, UV Creations" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 *Official Vishwambhara teaser from UV Creations. The full trailer isn't on the makers' channel yet. Videos titled "Vishwambhara official trailer" on other channels aren't from the makers.*
 
@@ -99,7 +99,7 @@ It's in theatres from **today, 16 October**, in Telugu, Tamil, Hindi, Kannada an
 
 The film has a **U/A certificate with no cuts**, as reported by Telugu media. The runtime hasn't been confirmed by the makers (reports range from about 2.5 to 3 hours), so check the show length on your ticketing app.
 
-<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/W8EKIHOq9h8" title="Ranabaali official trailer (Telugu), Mythri Movie Makers" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/W8EKIHOq9h8" title="Ranabaali official trailer (Telugu), Mythri Movie Makers" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 *Official Ranabaali trailer (Telugu) from Mythri Movie Makers, released 8 October. Careful: a "Ranabaali Official Trailer" from a channel posing as T-Series is fake.*
 
@@ -119,7 +119,7 @@ Dates for both were moved to 16 October earlier this year. If one of them shifts
 
 The live-action film of the video game, directed by Kitao Sakurai. The Indian angle: **Vidyut Jammwal plays Dhalsim**, his Hollywood debut, alongside Noah Centineo, Andrew Koji and Jason Momoa. It releases in English, Hindi, Tamil and Telugu.
 
-<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/Xt4X4FvXk2A" title="Street Fighter official trailer, Paramount Pictures" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/Xt4X4FvXk2A" title="Street Fighter official trailer, Paramount Pictures" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 *Official Street Fighter trailer from Paramount Pictures.*
 

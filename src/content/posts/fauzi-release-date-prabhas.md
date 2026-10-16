@@ -94,7 +94,7 @@ Anupam Kher and Chaitra J Achar are also reported to be in the cast.
 
 Hanu Raghavapudi's last film was Sita Ramam, and he's working again with the same composer, Vishal Chandrasekhar. That's a good sign if you liked that film's music.
 
-<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/ixz12b3PGBg" title="Prabhas and Hanu Raghavapudi film launch (pooja ceremony), Mythri Movie Makers" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/ixz12b3PGBg" title="Prabhas and Hanu Raghavapudi film launch (pooja ceremony), Mythri Movie Makers" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 *The film's launch video from Mythri Movie Makers, August 2024. It was called "PrabhasHanu" then. This is the only official video of the film so far.*
 
