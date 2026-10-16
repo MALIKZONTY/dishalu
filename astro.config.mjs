@@ -20,6 +20,37 @@ const externalLinksNewTab = {
   },
 };
 
+// Photos inside posts: load only when scrolled near, and reserve their space so the page
+// doesn't jump. Width and height are read from the WebP file in public/.
+const webpSize = (buf) => {
+  const chunk = buf.toString('ascii', 12, 16);
+  if (chunk === 'VP8X') return [1 + buf.readUIntLE(24, 3), 1 + buf.readUIntLE(27, 3)];
+  if (chunk === 'VP8L') {
+    const bits = buf.readUInt32LE(21);
+    return [1 + (bits & 0x3fff), 1 + ((bits >> 14) & 0x3fff)];
+  }
+  if (chunk === 'VP8 ') return [buf.readUInt16LE(26) & 0x3fff, buf.readUInt16LE(28) & 0x3fff];
+  return null;
+};
+const lazyPostImages = {
+  name: 'lazy-post-images',
+  element: {
+    filter: ['img'],
+    visit(node, ctx) {
+      ctx.setProperty(node, 'loading', 'lazy');
+      ctx.setProperty(node, 'decoding', 'async');
+      const src = String(node.properties?.src ?? '');
+      if (!src.startsWith('/') || !src.endsWith('.webp')) return;
+      try {
+        const size = webpSize(readFileSync(new URL(`./public${src}`, import.meta.url)));
+        if (!size) return;
+        ctx.setProperty(node, 'width', String(size[0]));
+        ctx.setProperty(node, 'height', String(size[1]));
+      } catch {}
+    },
+  },
+};
+
 // Sitemap lastmod dates, read from post frontmatter (updated, else date). Home, archive
 // and category pages take the date of their newest post.
 const postsDir = new URL('./src/content/posts/', import.meta.url);
@@ -46,7 +77,7 @@ export default defineConfig({
   trailingSlash: 'never',
   build: { format: 'file' },
   markdown: {
-    processor: satteri({ hastPlugins: [externalLinksNewTab] }),
+    processor: satteri({ hastPlugins: [externalLinksNewTab, lazyPostImages] }),
   },
   integrations: [
     sitemap({
