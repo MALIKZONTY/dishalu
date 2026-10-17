@@ -2,6 +2,7 @@
 title: "Adobe University Hackathon 2026 Results: Top 8 Finalists"
 description: "Adobe University Hackathon 2026 Round 4 results are out: 8 teams reach the Grand Finale in Noida on 16 October. Full list, prizes, rounds and Team Nexora."
 date: 2026-10-07T20:01:00+05:30
+updated: 2026-10-17T11:20:33+05:30
 category: careers
 tags: ["Adobe University Hackathon", "Adobe", "hackathon results", "Unstop", "Aditya University", "PPI"]
 image: /images/posts/adobe-university-hackathon-2026-finalists-hero.webp
@@ -11,7 +12,7 @@ imageCreditUrl: "https://www.adityauniversity.in"
 sourceUrl: "https://unstop.com/hackathons/crp-adobe-university-hackathon-2026-adobe-1715333"
 faqs:
   - q: "Are the Adobe University Hackathon 2026 results out?"
-    a: "Yes, the Round 4 (Prototype Showcase) results are out on Unstop. 8 teams are selected for the Grand Finale. The final winners will be announced after the Grand Finale on 16 October 2026."
+    a: "Yes. The Grand Finale was held on 16 October 2026. Team Overclocked&Underpaid from Shiv Nadar University won, IIT Guwahati's Team Cyclops came second and IIT Delhi's Team 0xAlpha was announced third. See our Adobe University Hackathon 2026 winners post for details."
   - q: "When and where is the Adobe University Hackathon 2026 Grand Finale?"
     a: "The Grand Finale is on 16 October 2026, from 10 AM to 4 PM, offline at Adobe's office in Noida. Adobe pays for the finalists' travel and stay."
   - q: "What does the winner of Adobe University Hackathon 2026 get?"
@@ -21,6 +22,8 @@ faqs:
   - q: "How can I check my Adobe University Hackathon 2026 result?"
     a: "Log in to Unstop, open the Adobe University Hackathon 2026 page and click Round 4 - Prototype Showcase. The result list shows team names in alphabetical order, not by rank."
 ---
+
+**Update (17 October 2026):** The Grand Finale results are out. Shiv Nadar University's Team Overclocked&Underpaid won (MacBook Pro for each member), IIT Guwahati came second and IIT Delhi third. See the [Adobe University Hackathon 2026 winners](/adobe-university-hackathon-2026-winners), along with the goodies kit every finalist got.
 
 **The Adobe University Hackathon 2026 results for Round 4 (Prototype Showcase) are out on Unstop.** Only **8 teams** made it to the **Grand Finale on 16 October 2026** at Adobe's office in Noida. Last round, 40 teams were left. Now it's 8.
 
@@ -107,7 +110,7 @@ Also note the words "a chance". The top 50 are not promised an internship. They 
 ## What happens next
 
 - **16 October 2026:** the 8 teams present their solutions to Adobe's leadership in Noida.
-- **After the finale:** Adobe announces the winner and the first runners-up. We'll update this post with the result.
+- **After the finale:** the winners were announced on 16 October. Read the [Adobe University Hackathon 2026 winners](/adobe-university-hackathon-2026-winners) post.
 - **PPI and internship process:** Adobe hasn't shared exact dates for this yet. Watch your registered email and the Unstop page.
 
 If you're preparing for other off-campus routes in the meantime, read our post on [TCS NQT October 2026](/tcs-nqt-october-2026-last-date) before you pay for it.
