@@ -1,0 +1,27 @@
+---
+// "Join our WhatsApp channel" call-out for posts. Renders nothing if no channel is set.
+import WhatsAppIcon from './WhatsAppIcon.astro';
+import { SITE } from '../site.config';
+
+interface Props {
+  variant?: 'bar' | 'box';
+}
+const { variant = 'bar' } = Astro.props;
+const link = SITE.social.whatsapp;
+---
+{link && (variant === 'bar' ? (
+  <a class="wa-join wa-bar" href={link} rel="noopener" target="_blank">
+    <WhatsAppIcon size={20} />
+    <span><strong>Get daily updates on WhatsApp</strong><span class="wa-more">: exam alerts, results and tech news.</span></span>
+    <span class="wa-cta">Join</span>
+  </a>
+) : (
+  <aside class="wa-join wa-box">
+    <WhatsAppIcon size={36} />
+    <div>
+      <strong>Never miss an update</strong>
+      <p>Notifications, admit cards, answer keys, results, schemes and tech news, sent to your WhatsApp the day they're out.</p>
+    </div>
+    <a class="wa-cta" href={link} rel="noopener" target="_blank">Join WhatsApp Channel</a>
+  </aside>
+))}

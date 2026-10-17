@@ -39,10 +39,11 @@ const mail = (subject: string) => `mailto:${SITE.email}?subject=${encodeURICompo
     </div>
   </div>
 
-  {(SITE.social.telegram || SITE.social.instagram || SITE.social.linkedin) && (
+  {(SITE.social.whatsapp || SITE.social.telegram || SITE.social.instagram || SITE.social.linkedin) && (
     <>
       <h2>Follow us</h2>
       <ul>
+        {SITE.social.whatsapp && <li>WhatsApp channel: <a href={SITE.social.whatsapp}>{SITE.social.whatsapp}</a></li>}
         {SITE.social.telegram && <li>Telegram: <a href={SITE.social.telegram}>{SITE.social.telegram}</a></li>}
         {SITE.social.instagram && <li>Instagram: <a href={SITE.social.instagram}>{SITE.social.instagram}</a></li>}
         {SITE.social.linkedin && <li>LinkedIn: <a href={SITE.social.linkedin}>{SITE.social.linkedin}</a></li>}

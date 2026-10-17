@@ -75,6 +75,24 @@ code { background: var(--surface); padding: 0.1em 0.35em; border-radius: 4px; fo
 .strip-link::after { content: ''; position: absolute; inset: 0; }
 .strip-extra { position: relative; z-index: 1; }
 .strip-icon { flex: none; }
+/* WhatsApp channel pill, pinned to the right end of the strip */
+.top-strip.has-wa { padding-right: 230px; }
+.top-strip a.strip-wa { position: absolute; right: 16px; top: 50%; transform: translateY(-50%); z-index: 1; display: inline-flex; align-items: center; gap: 6px; background: #fff; color: #128c4a; padding: 4px 12px; border-radius: 999px; font-size: 0.82rem; font-weight: 700; }
+.top-strip a.strip-wa:hover { text-decoration: none; background: #e9fbef; }
+.strip-wa svg { flex: none; }
+
+/* WhatsApp channel call-outs inside posts */
+.wa-join { --wa: #128c4a; display: flex; align-items: center; gap: 12px; border: 1px solid #bfe9cf; background: #effbf3; border-radius: 12px; color: #14532d; }
+.wa-join svg { flex: none; color: var(--wa); }
+.wa-join .wa-cta { flex: none; margin-left: auto; background: var(--wa); color: #fff; font-weight: 700; border-radius: 999px; text-decoration: none; }
+.wa-bar { padding: 10px 14px; margin: 16px 0; font-size: 0.93rem; text-decoration: none; }
+.wa-bar .wa-cta { padding: 4px 14px; font-size: 0.85rem; }
+.wa-bar:hover .wa-cta, .wa-box .wa-cta:hover { background: #0e6b39; }
+.wa-box { padding: 18px 20px; margin: 28px 0; }
+.wa-box strong { font-size: 1.05rem; }
+.wa-box p { margin: 4px 0 0; font-size: 0.92rem; }
+.wa-box .wa-cta { padding: 9px 18px; font-size: 0.92rem; }
+@media (max-width: 640px) { .wa-bar { padding: 8px 12px; gap: 10px; font-size: 0.85rem; line-height: 1.35; } .wa-bar .wa-more { display: none; } .wa-bar .wa-cta { padding: 3px 12px; font-size: 0.8rem; } .wa-box { flex-wrap: wrap; } .wa-box div { flex: 1 1 calc(100% - 60px); } .wa-box .wa-cta { margin: 4px 0 0; width: 100%; text-align: center; } }
 /* Bell rings for a moment every 4s, with a soft glow, to draw the eye to the strip. */
 .strip-bell { transform-origin: 50% 10%; animation: bell-ring 4s ease-in-out infinite; }
 @keyframes bell-ring {
@@ -306,7 +324,7 @@ code { background: var(--surface); padding: 0.1em 0.35em; border-radius: 4px; fo
 
 .top-strip { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .strip-label { text-transform: uppercase; letter-spacing: 0.06em; font-size: 0.8rem; margin-right: 4px; }
-@media (max-width: 640px) { .strip-extra { display: none; } }
+@media (max-width: 640px) { .strip-extra { display: none; } .top-strip.has-wa { padding-right: 52px; } .top-strip a.strip-wa { right: 10px; padding: 5px; } .strip-wa span { display: none; } }
 
 /* ── Home: hero ────────────────────────────── */
 .hero { background: linear-gradient(100deg, #fff 0%, #fff6f3 45%, #fde9e2 100%); border-bottom: 1px solid var(--border); overflow: hidden; }

@@ -1,4 +1,5 @@
 ---
+import WhatsAppIcon from './WhatsAppIcon.astro';
 import { SITE, ACTIVE_CATEGORIES, TOP_STRIP } from '../site.config';
 import { getPosts } from '../lib/posts';
 import Logo from './Logo.astro';
@@ -19,7 +20,7 @@ const stripPost = pinned ?? posts[0];
 const stripLabel = pinned ? TOP_STRIP.label : 'Latest';
 ---
 
-<div class="top-strip">
+<div class:list={["top-strip", { "has-wa": SITE.social.whatsapp }]}>
   <img src="/icons/3d/bell.webp" alt="Notification bell" width="18" height="18" class="strip-icon strip-bell" />
   {stripPost ? (
     <a href={`/${stripPost.id}`} class="strip-link">{stripLabel && <strong class="strip-label">{stripLabel}:</strong>} {stripPost.data.title}</a>
@@ -27,6 +28,12 @@ const stripLabel = pinned ? TOP_STRIP.label : 'Latest';
     <a href="/archive" class="strip-link">{SITE.tagline}</a>
   )}
   <Icon name="chevron" size={16} class="strip-icon" />
+  {SITE.social.whatsapp && (
+    <a class="strip-wa" href={SITE.social.whatsapp} rel="noopener" target="_blank" aria-label="Join our WhatsApp channel">
+      <WhatsAppIcon />
+      <span>Join WhatsApp Channel</span>
+    </a>
+  )}
   {SITE.social.telegram && (
     <span class="strip-extra"> · <a href={SITE.social.telegram} rel="noopener" target="_blank">Join our Telegram</a></span>
   )}

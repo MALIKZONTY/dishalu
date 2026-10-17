@@ -20,6 +20,7 @@ export const SITE = {
   // Leave empty until then: no ad code is added to the site.
   adsenseClient: 'ca-pub-5165925013935980',
   social: {
+    whatsapp: 'https://whatsapp.com/channel/0029Vb9LH9n7dmeiiKPG4t0K',
     telegram: '',                           // e.g. https://t.me/yourchannel
     instagram: '',
     linkedin: '',

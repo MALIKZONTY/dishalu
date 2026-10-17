@@ -5,6 +5,7 @@ import PostRow from '../components/PostRow.astro';
 import Sidebar from '../components/Sidebar.astro';
 import ShareButtons from '../components/ShareButtons.astro';
 import AdSlot from '../components/AdSlot.astro';
+import WhatsAppJoin from '../components/WhatsAppJoin.astro';
 import { getPosts, formatDate, readingTime, slugifyTag, type Post } from '../lib/posts';
 import { SITE, CATEGORIES, type CategoryKey } from '../site.config';
 
@@ -103,6 +104,8 @@ if (faqs.length) {
         </div>
       </header>
 
+      <WhatsAppJoin variant="bar" />
+
       <figure class="post-figure">
         <img class="post-hero" src={image} alt={imageAlt} width="1200" height="630" loading="eager" fetchpriority="high" />
         {imageCredit && (
@@ -137,6 +140,8 @@ if (faqs.length) {
           <p class="small muted">Dates and details can change. Always confirm on the official page before applying or paying any fee.</p>
         </aside>
       )}
+
+      <WhatsAppJoin variant="box" />
 
       <ShareButtons url={url} title={title} />
 
