@@ -12,7 +12,7 @@ imageCreditUrl: "https://www.adityauniversity.in"
 sourceUrl: "https://unstop.com/hackathons/crp-adobe-university-hackathon-2026-adobe-1715333"
 faqs:
   - q: "Are the Adobe University Hackathon 2026 results out?"
-    a: "Yes. The Grand Finale was held on 16 October 2026. Team Overclocked&Underpaid from Shiv Nadar University won, IIT Guwahati's Team Cyclops came second and IIT Delhi's Team 0xAlpha was announced third. See our Adobe University Hackathon 2026 winners post for details."
+    a: "Yes. The Grand Finale was held on 16 October 2026. Team Overclocked&Underpaid from Shiv Nadar University won, IIT Guwahati's Team Cyclops came second and IIIT Delhi's Team 0xAlpha was announced third. See our Adobe University Hackathon 2026 winners post for details."
   - q: "When and where is the Adobe University Hackathon 2026 Grand Finale?"
     a: "The Grand Finale is on 16 October 2026, from 10 AM to 4 PM, offline at Adobe's office in Noida. Adobe pays for the finalists' travel and stay."
   - q: "What does the winner of Adobe University Hackathon 2026 get?"
@@ -23,7 +23,7 @@ faqs:
     a: "Log in to Unstop, open the Adobe University Hackathon 2026 page and click Round 4 - Prototype Showcase. The result list shows team names in alphabetical order, not by rank."
 ---
 
-**Update (17 October 2026):** The Grand Finale results are out. Shiv Nadar University's Team Overclocked&Underpaid won (MacBook Pro for each member), IIT Guwahati came second and IIT Delhi third. See the [Adobe University Hackathon 2026 winners](/adobe-university-hackathon-2026-winners), along with the goodies kit every finalist got.
+**Update (17 October 2026):** The Grand Finale results are out. Shiv Nadar University's Team Overclocked&Underpaid won (MacBook Pro for each member), IIT Guwahati came second and IIIT Delhi third. See the [Adobe University Hackathon 2026 winners](/adobe-university-hackathon-2026-winners), along with the goodies kit every finalist got.
 
 **The Adobe University Hackathon 2026 results for Round 4 (Prototype Showcase) are out on Unstop.** Only **8 teams** made it to the **Grand Finale on 16 October 2026** at Adobe's office in Noida. Last round, 40 teams were left. Now it's 8.
 

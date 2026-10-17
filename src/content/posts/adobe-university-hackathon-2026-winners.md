@@ -1,9 +1,9 @@
 ---
 title: "Adobe University Hackathon 2026 Winners: SNU, IITs Top 3"
-description: "Adobe University Hackathon 2026 winners: Shiv Nadar University team wins MacBook Pros, IIT Guwahati 2nd, IIT Delhi 3rd. Prizes, finalist goodies and next steps."
+description: "Adobe University Hackathon 2026 winners: Shiv Nadar University team wins MacBook Pros, IIT Guwahati 2nd, IIIT Delhi 3rd. Prizes, finalist goodies, next steps."
 date: 2026-10-17T11:20:33+05:30
 category: careers
-tags: ["Adobe University Hackathon", "Adobe", "hackathon results", "Shiv Nadar University", "IIT Guwahati", "IIT Delhi", "Unstop"]
+tags: ["Adobe University Hackathon", "Adobe", "hackathon results", "Shiv Nadar University", "IIT Guwahati", "IIIT Delhi", "Unstop"]
 image: /images/posts/adobe-university-hackathon-2026-winners-hero.webp
 imageAlt: "The red Adobe wall with the white Adobe logo in the lobby of Adobe's office in Noida, with orange chairs in front"
 imageCredit: "Photo: Team Nexora (used with permission)"
@@ -13,7 +13,7 @@ faqs:
   - q: "Who won Adobe University Hackathon 2026?"
     a: "Team Overclocked&Underpaid from Shiv Nadar University, Greater Noida, led by Adya Singhal, won the Grand Finale on 16 October 2026. Each member gets a MacBook Pro."
   - q: "Who were the runners-up in Adobe University Hackathon 2026?"
-    a: "Team Cyclops from IIT Guwahati, led by Daksh Bhutani, came second and gets a MacBook Neo for each member. Team 0xAlpha from IIT Delhi, led by Saksham Bansal, was announced third."
+    a: "Team Cyclops from IIT Guwahati, led by Daksh Bhutani, came second and gets a MacBook Neo for each member. Team 0xAlpha from IIIT Delhi, led by Saksham Bansal, was announced third."
   - q: "Is there a prize for 3rd place in Adobe University Hackathon 2026?"
     a: "No separate prize was listed for 3rd place. Adobe's official prize list has only the winner (MacBook Pro) and first runners-up (MacBook Neo). The 3rd team was announced at the finale but has no extra prize beyond the finalist goodies."
   - q: "What did Adobe University Hackathon 2026 finalists get?"
@@ -26,7 +26,7 @@ faqs:
 
 **The Adobe University Hackathon 2026 winners are out.** Team **Overclocked&Underpaid** from **Shiv Nadar University (SNU), Greater Noida**, won the Grand Finale at Adobe's Noida office on **16 October 2026**. Each member takes home a **MacBook Pro**.
 
-**IIT Guwahati's Team Cyclops** came second (a MacBook Neo for each member), and **IIT Delhi's Team 0xAlpha** was announced third. That's out of more than 3 lakh registrations on Unstop and 8 teams in the finale.
+**IIT Guwahati's Team Cyclops** came second (a MacBook Neo for each member), and **IIIT Delhi's Team 0xAlpha** was announced third. That's out of more than 3 lakh registrations on Unstop and 8 teams in the finale.
 
 These results were announced at the finale and shared with us by a finalist team. Adobe hadn't posted an official results list online when we published this. We'll add the link here when it does.
 
@@ -35,7 +35,7 @@ These results were announced at the finale and shared with us by a finalist team
 | Grand Finale | 16 October 2026, Adobe office, Noida |
 | Winner | Overclocked&Underpaid, Shiv Nadar University (MacBook Pro each) |
 | 2nd place | Cyclops, IIT Guwahati (MacBook Neo each) |
-| 3rd place | 0xAlpha, IIT Delhi (no separate prize) |
+| 3rd place | 0xAlpha, IIIT Delhi (no separate prize) |
 | Teams in the finale | 8 |
 | Registrations on Unstop | 3,01,050 |
 | Every finalist got | Adobe backpack, bottle, diary and pen, Echo Dot, hackathon T-shirt |
@@ -48,15 +48,15 @@ These results were announced at the finale and shared with us by a finalist team
 |---|---|---|---|---|
 | 1st | Overclocked&Underpaid | Adya Singhal | Shiv Nadar University, Greater Noida | MacBook Pro for each member |
 | 2nd | Cyclops | Daksh Bhutani | IIT Guwahati | MacBook Neo for each member |
-| 3rd | 0xAlpha | Saksham Bansal | IIT Delhi | Recognised at the finale, no separate prize |
+| 3rd | 0xAlpha | Saksham Bansal | IIIT Delhi | Recognised at the finale, no separate prize |
 
 The team names and team leads are the same as in the Round 4 shortlist on Unstop. Each team had 3 members.
 
-A small note on 3rd place. Adobe's official prize list only ever had two prizes: the winner and the first runners-up. So IIT Delhi's team was announced third on stage, but there's no MacBook for 3rd. They still get the same finalist kit as everyone else (below).
+A small note on 3rd place. Adobe's official prize list only ever had two prizes: the winner and the first runners-up. So IIIT Delhi's team was announced third on stage, but there's no MacBook for 3rd. They still get the same finalist kit as everyone else (below).
 
 ## A private university beat two IITs
 
-This is the part worth talking about. The winning team isn't from an IIT. Shiv Nadar University is a private university in Greater Noida, and its team finished ahead of IIT Guwahati and IIT Delhi.
+This is the part worth talking about. The winning team isn't from an IIT. Shiv Nadar University is a private university in Greater Noida, and its team finished ahead of IIT Guwahati and IIIT Delhi.
 
 It's the same lesson as Team Nexora from Aditya University, Surampalem, reaching the final 8. Rounds 3 and 4 were about building a working product and showing it in a 5-minute demo. The judges looked at what you built, not where you study.
 
