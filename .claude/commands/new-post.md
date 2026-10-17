@@ -123,3 +123,10 @@ If they cancel, ask whether to delete the draft files or keep them with `draft: 
 3. If a git remote exists, `git push`. Cloudflare Pages deploys in about a minute.
    If there's no remote yet, say: "Committed locally. Connect GitHub + Cloudflare (see README) and push to go live."
 4. Reply with the live URL: `<SITE.url>/<slug>`, and remind them to request indexing for it in Google Search Console (optional, speeds things up), and to share it on their Telegram/WhatsApp/LinkedIn.
+5. Give a copy-ready WhatsApp channel message for the post, in one code block:
+   - Plain text only: no `*bold*`, `_italic_` or other WhatsApp formatting marks.
+   - Line 1: one fitting emoji + the post title (or a shorter version of it).
+   - Then a blank line and 2–3 short lines of the key facts (posts, last date, exam date, amount), each starting with an emoji (🗓️ ⏰ 🎓 💰 👔 📝 etc.).
+   - Then a blank line, one line saying what the post covers ending in 👇, and the full live URL on the next line.
+   - Only facts already in the post. Keep "as claimed by the makers" / "rumour" / "expected" wording where the post uses it.
+   - Keep it under about 8 lines.
