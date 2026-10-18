@@ -2,7 +2,7 @@
 title: "Jailer 2 Box Office Collection Day 1: ₹125 Cr Worldwide"
 description: "Jailer 2 box office collection day 1: ₹59.7 Cr India net, ₹125 Cr worldwide, 37 lakh footfalls (trade estimates), public talk and Ranabaali's day 1 status."
 date: 2026-10-15T23:27:00+05:30
-updated: 2026-10-16T23:30:00+05:30
+updated: 2026-10-18T12:45:00+05:30
 category: cinema
 tags: ["Jailer 2", "box office collection", "Rajinikanth", "Ranabaali", "Vijay Deverakonda", "footfalls", "Tamil movies", "Telugu movies"]
 image: /images/posts/jailer-2-box-office-collection-day-1-hero.webp
@@ -14,7 +14,9 @@ faqs:
   - q: "What is Jailer 2 box office collection on day 1?"
     a: "Trade tracker Sacnilk estimates Jailer 2 earned about ₹59.70 crore net in India on day 1 (15 October 2026), which is about ₹70.25 crore gross. With about ₹57 crore from overseas, the worldwide gross is about ₹127.25 crore. These are Sacnilk's final day 1 estimates (updated 16 October), not official figures from Sun Pictures."
   - q: "What is Jailer 2 box office collection on day 2?"
-    a: "Sacnilk estimates Jailer 2 earned about ₹35.60 crore net in India on day 2 (Friday, 16 October), as of 10:59 PM IST. That takes the 2-day India net total to about ₹95.30 crore and the worldwide gross to about ₹209.10 crore. Day 2 numbers are still early and may change by the next morning."
+    a: "Sacnilk's final estimate for day 2 (Friday, 16 October) is about ₹37.10 crore net in India, up from its early figure of ₹35.60 crore."
+  - q: "What is Jailer 2 box office collection on day 3?"
+    a: "Sacnilk estimates Jailer 2 earned about ₹47.25 crore net in India on day 3 (Saturday, 17 October), about 27% more than Friday. The 3-day India net total is about ₹144.05 crore, and the worldwide gross is about ₹321 crore. These are trade estimates, not figures from Sun Pictures."
   - q: "How many footfalls did Jailer 2 get on day 1?"
     a: "Sacnilk puts Jailer 2's day 1 footfalls in India at about 37.47 lakh (3,746,734 tickets). Advance booking alone had sold about 18 lakh tickets for the first day. Day 2 added about 23.84 lakh more, for about 61.31 lakh in 2 days."
   - q: "Did Jailer 2 beat Jailer's day 1 collection?"
@@ -24,10 +26,10 @@ faqs:
   - q: "What is the public talk for Jailer 2?"
     a: "Mixed to positive. Most viewers like Rajinikanth's mass moments, Anirudh's background score and the first half. Many say the second half slows down and the villains are weak."
   - q: "How did Ranabaali do on day 1?"
-    a: "Ranabaali released on Friday, 16 October 2026, and no trade tracker had a day 1 collection figure for it at the time of this update. Its day 1 India pre-sales, as per Sacnilk at 9:48 PM IST on 15 October, were about ₹3.89 crore gross (2.44 lakh tickets), most of it from Telangana and Andhra Pradesh."
+    a: "Sacnilk estimates Ranabaali earned about ₹9.25 crore net in India on day 1 (16 October) and ₹7.30 crore on day 2. After 2 days it stands at about ₹16.55 crore net in India and ₹26.65 crore gross worldwide."
 ---
 
-**Update (16 Oct, 11:30 PM):** Jailer 2 earned about **₹35.60 crore net in India on day 2** (Friday), as per Sacnilk at 10:59 PM IST. The 2-day India net total is now about **₹95.30 crore**, and the worldwide gross has crossed **₹209 crore**. Sacnilk's final day 1 worldwide figure is ₹127.25 crore (up from the early ₹125 crore). Day 2 details are [below](#jailer-2-box-office-collection-day-2).
+**Update (18 Oct, 12:45 PM):** Jailer 2 has **crossed ₹300 crore worldwide in 3 days**. Sacnilk puts day 3 (Saturday) at about **₹47.25 crore net in India**, up 27% from Friday. The 3-day India net total is about **₹144.05 crore**, and the worldwide gross is about **₹321 crore**. Day 3 details are [below](#jailer-2-box-office-collection-day-3). Sunday (day 4) numbers will be added tonight.
 
 **Jailer 2 has opened big.** Rajinikanth's sequel earned about **₹59.70 crore net in India** on day 1 (Thursday, 15 October 2026), and about **₹127 crore gross worldwide**, going by trade tracker Sacnilk's final day 1 estimates. That's well ahead of the first Jailer's opening.
 
@@ -49,7 +51,41 @@ Below: the Jailer 2 box office collection for day 1 and day 2, by language and s
 
 *Source: Sacnilk, final day 1 data as of 8:02 PM IST, 16 October 2026. Estimates, not producer figures.*
 
+## Jailer 2 box office collection day 3
+
+Saturday brought the jump that Friday's drop had raised questions about. India net went **up about 27%**, from ₹37.10 crore to ₹47.25 crore, and the film crossed ₹100 crore net in India.
+
+| Day | India net | Occupancy |
+|---|---|---|
+| Day 1 (Thu, 15 Oct) | ₹59.70 crore | 55.4% |
+| Day 2 (Fri, 16 Oct) | ₹37.10 crore | 48.2% |
+| Day 3 (Sat, 17 Oct) | **₹47.25 crore** | 53.9% |
+| **Total (3 days)** | **₹144.05 crore** | |
+
+| After 3 days | Figure |
+|---|---|
+| India gross | ₹169 crore |
+| Overseas gross | ₹152 crore (₹52 crore on day 3) |
+| Worldwide gross | **₹321 crore** |
+
+| Language | Day 3 net | Shows | Occupancy |
+|---|---|---|---|
+| Tamil | ₹33.80 crore | 7,802 | 69.1% |
+| Telugu | ₹8.50 crore | 2,100 | 58.4% |
+| Hindi | ₹4.50 crore | 4,554 | 26.0% |
+| Kannada | ₹0.45 crore | 148 | 49.0% |
+| **Total** | **₹47.25 crore** | **14,604** | **53.9%** |
+
+*Source: Sacnilk, day 3 data, page updated about 10:24 AM IST, 18 October 2026. Trade estimates, not producer figures. Other trackers give slightly different totals (₹47.80 crore for day 3, ₹317 crore worldwide).*
+
+**Three things stand out:**
+- **Telugu went up on Saturday** (₹7.25 crore to ₹8.50 crore) even with Ranabaali in its second day. Rajini is still leading in the Telugu states.
+- **Hindi is finally growing.** ₹4.50 crore is its best day so far, though occupancy is still only 26%.
+- **Overseas is almost as big as India.** ₹152 crore from abroad in 3 days is a huge number for a Tamil film.
+
 ## Jailer 2 box office collection day 2
+
+**Note:** Sacnilk's final day 2 figure is **₹37.10 crore net**, a little higher than the early ₹35.60 crore in the tables below. The language-wise split below is from the early data.
 
 Friday was a working day outside the festive pockets, and Ranabaali opened in the Telugu states. Even so, Jailer 2 held on well.
 
@@ -141,9 +177,22 @@ The word of mouth is **mixed to positive**. Here's what most first-day viewers a
 ![A modern grey cinema building with a red-trimmed entrance, palm trees and a parking area in front](/images/posts/jailer-2-box-office-collection-day-1-2.webp)
 *Balaji Cine Villa at Poranki, near Vijayawada. Photo: Saishna96 / Wikimedia, [CC BY-SA 4.0](https://commons.wikimedia.org/w/index.php?curid=169873416)*
 
-## Ranabaali day 1: where it stands
+## Ranabaali box office collection: day 1 and day 2
 
-Vijay Deverakonda's **Ranabaali** released on **Friday 16 October**. At the time of this update, no trade tracker had a day 1 collection figure for it yet. Here's its advance booking, as per Sacnilk at 9:48 PM IST on 15 October:
+Vijay Deverakonda's **Ranabaali** released on **Friday 16 October**. Here's how it has done so far, as per Sacnilk (updated 18 October, 12:06 AM IST):
+
+| Ranabaali | India net | Occupancy |
+|---|---|---|
+| Day 1 (Fri, 16 Oct) | ₹9.25 crore | 57.0% |
+| Day 2 (Sat, 17 Oct) | ₹7.30 crore | 53.0% |
+| **Total (2 days)** | **₹16.55 crore** | |
+| India gross | ₹19.25 crore | |
+| Overseas gross | ₹7.40 crore | |
+| **Worldwide gross** | **₹26.65 crore** | |
+
+The worrying sign: Ranabaali **dropped about 21% on Saturday**, a day when most films go up. On the same Saturday, Jailer 2's Telugu version alone made ₹8.50 crore, more than Ranabaali's full India number.
+
+Before release, its advance booking (Sacnilk, 9:48 PM IST on 15 October) looked like this:
 
 | Ranabaali, Day 1 pre-sales (India) | Figure |
 |---|---|
@@ -157,14 +206,14 @@ Vijay Deverakonda's **Ranabaali** released on **Friday 16 October**. At the time
 
 Overseas, TrackTollywood puts Ranabaali's worldwide pre-sales at about ₹8.5 crore gross, and Koimoi reports USA sales past **$200K** including premieres.
 
-Put that next to Jailer 2: the Rajini film's **Telugu version alone made about ₹12.50 crore net** on day 1. Ranabaali's full day 1 pre-sales are less than a third of that. Telugu films do sell a lot of tickets at the counter on release day, so expect the final day 1 figure to be much higher than its pre-sales. But Jailer 2 has clearly taken the first round in the Telugu states.
+Counter sales did lift it: a ₹9.25 crore net day 1 is more than double its pre-sales. But Jailer 2 has clearly taken the first round in the Telugu states.
 
-The real test for Ranabaali is its first-weekend talk. A period drama like this needs good word of mouth more than a big opening. Our [Jailer 2 vs Ranabaali clash post](/jailer-2-vs-ranabaali-box-office-clash) has the full side-by-side on cast, runtime and certificates.
+The real test for Ranabaali is Sunday. If it can't grow on a holiday weekend, the second week will be hard. A period drama like this needs good word of mouth more than a big opening. Our [Jailer 2 vs Ranabaali clash post](/jailer-2-vs-ranabaali-box-office-clash) has the full side-by-side on cast, runtime and certificates.
 
 ## What to watch for next
 
-- **Day 3 and 4 (Saturday, Sunday):** after a 40% fall on Friday, the weekend should push daily numbers back up. If Saturday beats Friday clearly, the mixed talk isn't hurting much.
-- **₹100 crore India net:** at ₹95.30 crore after 2 days, Jailer 2 should cross this on Saturday.
+- **Day 4 (Sunday, 18 Oct):** Saturday went up 27%, so the mixed talk isn't hurting much yet. If Sunday crosses ₹50 crore net, a ₹200 crore India net run looks likely.
+- **Monday test:** the first working day after the weekend shows the real hold. A drop of 50% or less from Sunday would be good.
 - **Opening weekend:** the Dussehra holiday week should help both films. Jailer 2's long weekend total will show whether the mixed second-half talk is hurting it.
 - **Official numbers:** Sun Pictures usually posts collection posters on its social accounts. When it does, treat those as "as claimed by the makers".
 
@@ -172,6 +221,6 @@ Planning to watch? Book only on official apps or at the theatre counter. "FDFS t
 
 ## My take
 
-A ₹127 crore worldwide start, and ₹209 crore in 2 days, is a strong result in a crowded week. The occupancy says Tamil Nadu and Kerala audiences turned up in full, and Hindi didn't.
+A ₹127 crore worldwide start, and ₹321 crore in 3 days, is a strong result in a crowded week. The occupancy says Tamil Nadu and Kerala audiences turned up in full, and Hindi didn't.
 
 What decides the final total now is the second half. If you go in expecting a fun Rajini outing and not a tighter film than the first Jailer, you'll probably enjoy it. If you were on the fence about Ranabaali, wait for the weekend talk before booking. Shows will be easy to get.

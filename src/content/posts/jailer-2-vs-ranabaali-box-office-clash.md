@@ -2,6 +2,7 @@
 title: "Jailer 2 vs Ranabaali Box Office: Rajini Leads Telugu States"
 description: "Jailer 2 vs Ranabaali compared: release dates, advance booking numbers, cast, certificate and runtime, and which film to book first this Dussehra week."
 date: 2026-10-14T19:40:47+05:30
+updated: 2026-10-18T12:50:00+05:30
 category: cinema
 tags: ["Jailer 2", "Ranabaali", "Rajinikanth", "Vijay Deverakonda", "box office", "advance booking", "Telugu movies", "Tamil movies"]
 image: /images/posts/jailer-2-vs-ranabaali-box-office-clash-hero.webp
@@ -23,6 +24,17 @@ faqs:
   - q: "Is Ranabaali releasing in Hindi?"
     a: "The makers announced Ranabaali in Telugu, Tamil, Hindi, Kannada and Malayalam. As of 14 October evening, ticketing data shows only Telugu and Tamil shows in India, so check your app before booking another language."
 ---
+
+**Update (18 Oct, 12:50 PM): the box office so far.** Both films are now in theatres, and Jailer 2 is far ahead, including in the Telugu states. Sacnilk's trade estimates:
+
+| As of 18 Oct morning | Jailer 2 (3 days) | Ranabaali (2 days) |
+|---|---|---|
+| India net | **₹144.05 crore** | **₹16.55 crore** |
+| Worldwide gross | **₹321 crore** | **₹26.65 crore** |
+| Saturday (17 Oct) India net | ₹47.25 crore (up 27%) | ₹7.30 crore (down 21%) |
+| Telugu version, Saturday | ₹8.50 crore | ₹7.30 crore (all languages) |
+
+Day-by-day numbers are in our [Jailer 2 box office collection post](/jailer-2-box-office-collection-day-1). Below is the original pre-release comparison.
 
 **Two big films, one day apart.** Rajinikanth's **Jailer 2** opens on **Thursday, 15 October 2026**, and Vijay Deverakonda's **Ranabaali** follows on **Friday, 16 October**. Right now, Jailer 2 is far ahead in advance booking, even in Telangana and Andhra Pradesh, Ranabaali's home ground.
 
