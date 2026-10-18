@@ -13,6 +13,9 @@ export const SITE = {
     name: 'Antuparthi Manoha Malik Paul',
     photo: '/images/author.webp', // square photo; original in design/author-original.png
     bio: 'B.Tech graduate and software professional. I track notifications, results, schemes and tech news every day and explain them simply.',
+    // personal profiles (shown on the About page); site accounts go in `social` below
+    linkedin: 'https://www.linkedin.com/in/malik-antuparthi/',
+    instagram: 'https://www.instagram.com/malik_zonty',
   },
   email: 'malikantuparthi@gmail.com',
   locale: 'en_IN',

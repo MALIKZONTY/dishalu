@@ -14,6 +14,11 @@ const mail = (subject: string) => `mailto:${SITE.email}?subject=${encodeURICompo
     We read every message. The quickest way to reach us is email:
     {' '}<a href={`mailto:${SITE.email}`}><strong>{SITE.email}</strong></a>. We usually reply within 2–3 working days.
   </p>
+  <p>
+    You can also reach out to {SITE.author.name}, who writes the posts here, on
+    {' '}<a href={SITE.author.linkedin} target="_blank" rel="noopener">LinkedIn</a> or
+    {' '}<a href={SITE.author.instagram} target="_blank" rel="noopener">Instagram (@malik_zonty)</a>.
+  </p>
 
   <h2>What can we help with?</h2>
   <div class="info-grid">

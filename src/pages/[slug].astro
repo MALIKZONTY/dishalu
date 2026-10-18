@@ -49,7 +49,7 @@ const jsonLd: object[] = [
     image: new URL(image, SITE.url).href,
     datePublished: date.toISOString(),
     dateModified: (updated ?? date).toISOString(),
-    author: { '@type': 'Person', name: SITE.author.name, url: new URL('/about', SITE.url).href, image: new URL(SITE.author.photo, SITE.url).href },
+    author: { '@type': 'Person', name: SITE.author.name, url: new URL('/about', SITE.url).href, image: new URL(SITE.author.photo, SITE.url).href, sameAs: [SITE.author.linkedin, SITE.author.instagram] },
     publisher: { '@type': 'Organization', name: SITE.name, url: SITE.url },
     mainEntityOfPage: url,
   },
@@ -156,7 +156,7 @@ if (faqs.length) {
         <div>
           <strong>{SITE.author.name}</strong>
           <p>{SITE.author.bio}</p>
-          <p class="small"><a href="/about">More about us</a> · <a href="/editorial-policy">How we check facts</a></p>
+          <p class="small"><a href="/about">More about us</a> · <a href="/editorial-policy">How we check facts</a> · <a href={SITE.author.linkedin} target="_blank" rel="noopener me">LinkedIn</a> · <a href={SITE.author.instagram} target="_blank" rel="noopener me">Instagram</a></p>
         </div>
       </aside>
 
