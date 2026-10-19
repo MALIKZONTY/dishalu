@@ -1,5 +1,5 @@
 ---
-title: "AI Entry-Level Jobs 2026: What Anthropic's Hiring Data Shows"
+title: "AI Entry-Level Jobs 2026: Junior Tech Hires Fall to 9%"
 description: "AI entry-level jobs data from Anthropic: junior share of tech hires fell from 27% to 9%. What the October 2026 report found and what freshers should do now."
 date: 2026-10-19T15:16:00+05:30
 category: tech-news
