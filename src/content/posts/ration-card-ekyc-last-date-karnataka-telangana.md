@@ -1,7 +1,8 @@
 ---
-title: "Ration Card e-KYC Last Date: Karnataka 20 Oct, Telangana"
-description: "Ration card e-KYC last date is 20 October 2026 in Karnataka and end of October in Telangana. How to do it at the ration shop or on your phone and check status."
+title: "Ration Card e-KYC Last Date: Karnataka 10 Nov, Telangana"
+description: "Ration card e-KYC last date is now 10 November 2026 in Karnataka, end of October in Telangana. How to do it at the ration shop or on your phone, check status."
 date: 2026-10-11T11:57:14+05:30
+updated: 2026-10-20
 category: govt-schemes
 tags: ["ration card", "e-KYC", "Karnataka", "Telangana", "Aadhaar", "PDS"]
 image: /images/posts/ration-card-ekyc-last-date-karnataka-telangana-hero.webp
@@ -11,7 +12,7 @@ imageCreditUrl: "https://commons.wikimedia.org/w/index.php?curid=31070283"
 sourceUrl: "https://ahara.karnataka.gov.in/"
 faqs:
   - q: "What is the ration card e-KYC last date in Karnataka?"
-    a: "20 October 2026. The Karnataka government extended it from 30 September, and the state's Department of Information and Public Relations announced the new date."
+    a: "10 November 2026. The Department of Food, Civil Supplies and Consumer Affairs extended it from 20 October, as reported on 18 October. It was first 30 September, so this is the second extension."
   - q: "What is the ration card e-KYC last date in Telangana?"
     a: "The end of October 2026, according to district officials quoted in a 26 September report. The last date announced state-wide by the Civil Supplies Department was 31 August, and I couldn't find a state-wide order online for the October date, so finish it as early as you can."
   - q: "Is there a fee for ration card e-KYC?"
@@ -24,14 +25,16 @@ faqs:
     a: "The member's name can be suspended or removed from the card, which cuts that person's share of ration. Central guidelines say a genuine beneficiary shouldn't be deleted only because of a technical failure, so if your fingerprint fails, report it and try again."
 ---
 
-**The ration card e-KYC last date is 20 October 2026 in Karnataka. In Telangana, officials say you have till the end of October.** Every member on the card has to verify with Aadhaar once, either by fingerprint at the ration shop or by a face scan on a phone. It's free.
+**Update (20 October 2026):** Karnataka has extended the ration card e-KYC last date again, from 20 October to **10 November 2026**. The Food, Civil Supplies and Consumer Affairs Department announced it, as reported on 18 October. Telangana's date hasn't changed.
+
+**The ration card e-KYC last date is 10 November 2026 in Karnataka. In Telangana, officials say you have till the end of October.** Every member on the card has to verify with Aadhaar once, either by fingerprint at the ration shop or by a face scan on a phone. It's free.
 
 If your whole family has already done it, you don't need to do anything. This guide is for everyone else, and for people working away from home who think they must travel back for it. You don't.
 
 | Detail | Information |
 |---|---|
 | What | Aadhaar e-KYC of every member on a ration card |
-| Karnataka last date | **20 October 2026** (extended from 30 September) |
+| Karnataka last date | **10 November 2026** (extended from 20 October, earlier 30 September) |
 | Telangana last date | **End of October 2026**, as told by district officials (earlier 31 August) |
 | Who must do it | Every member on the card who hasn't done it yet |
 | Where | Any fair price shop (fingerprint), or the Mera eKYC app (face scan) |
@@ -45,7 +48,9 @@ If your whole family has already done it, you don't need to do anything. This gu
 
 There is **no single all-India last date**. Each state sets its own. So ignore forwards that say "ration stops across India from this date".
 
-**Karnataka.** The date is firm: 20 October 2026. The state's Department of Information and Public Relations announced the extension from 30 September. In the same announcement, daily ration distribution time went up from 6 hours to 8 hours. News reports put the reason down to long queues and server trouble at shops, with over 1 crore cards still pending in mid-September.
+**Karnataka.** The last date is now **10 November 2026**. This is the second extension: the first deadline was 30 September, then 20 October (announced by the state's Department of Information and Public Relations, along with longer ration distribution hours, 8 instead of 6). The Food, Civil Supplies and Consumer Affairs Department moved it to 10 November, as reported on 18 October.
+
+The numbers show why. As reported, about 1.16 crore beneficiaries whose e-KYC is more than a year old have to redo it, 3.82 lakh have never done it, and 54.27 lakh were last verified more than five years ago. The department has warned of action as per rules against those who don't finish, so don't treat a third extension as guaranteed.
 
 **Telangana.** This one is less clear, and I'd rather tell you that than give you a neat date. The Civil Supplies Department first set 31 July, then extended it to 31 August. A 26 September report from Mancherial district quotes officials saying the government has extended it to the end of October, with about 20% of beneficiaries in that district still pending. I couldn't find a state-wide order online for the October date.
 
@@ -69,7 +74,7 @@ This is the route that works for everyone. It takes a couple of minutes per pers
 3. Each member places a finger on the scanner. Central guidelines also allow an iris scan where the machine supports it.
 4. Wait for the success message for each member before you leave.
 
-Every member has to be there in person, because the fingerprint is theirs. In Karnataka, news reports say Grama One, Karnataka One and Bengaluru One centres are also doing it when a shop's machine is down.
+Every member has to be there in person, because the fingerprint is theirs. In Karnataka, news reports say Grama One, Karnataka One and Bengaluru One centres are also doing it when a shop's machine is down. Shops use the state's AHARA software for this.
 
 ![People standing in marked circles in an open yard while workers hand out ration grain from sacks](/images/posts/ration-card-ekyc-last-date-karnataka-telangana-2.webp)
 *Queues get longer in the last week before a deadline. Go on a weekday morning if you can. Photo: Prashant Kharote / Wikimedia, [CC BY-SA 4.0](https://commons.wikimedia.org/w/index.php?curid=110055225)*
@@ -87,7 +92,7 @@ You need a smartphone with a decent front camera and the mobile number linked to
 5. Tap face e-KYC. The Aadhaar FaceRD app opens. Hold the phone at eye level in good light and blink when asked.
 6. A success message confirms it. Repeat for the next member.
 
-An honest warning: the app doesn't work equally well in every state. Karnataka and Telangana run their own ration shop software, and Karnataka reports mention the Mera Ration app instead. If your state doesn't show up, or the face scan keeps failing, stop trying and go to the shop. Three failed attempts on the app is my limit.
+An honest warning: the app doesn't work equally well in every state. Karnataka and Telangana run their own ration shop software. **For Karnataka, the department now points people to its own Anna Seva app**, which reports say works in all 31 districts and for Karnataka card holders living in other states. Update it from the Play Store before you try. If your state doesn't show up, or the face scan keeps failing, stop trying and go to the shop. Three failed attempts on the app is my limit.
 
 Install only from the official app store. Never install an APK sent on WhatsApp.
 
@@ -123,4 +128,4 @@ If you're on LPG subsidy too, that's a separate check with your gas company. I'v
 
 Do it this week, at the shop. The app is handy if it works for your state on the first or second try, but the fingerprint at the counter is the one route nobody argues with later.
 
-Karnataka readers have 9 days left and the queues will only grow. Telangana readers have a little more time, but the date isn't backed by a clear public order, so I wouldn't bet a month's rice on it. After you finish, check the status online once and take a screenshot.
+Karnataka readers now have till 10 November, but this is already the second extension, so don't plan around a third. Telangana readers have a little more time, but the date isn't backed by a clear public order, so I wouldn't bet a month's rice on it. After you finish, check the status online once and take a screenshot.

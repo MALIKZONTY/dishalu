@@ -2,6 +2,7 @@
 title: "PM Kisan 24th Installment Date 2026: Is 20 Oct Confirmed?"
 description: "PM Kisan 24th installment date 2026 isn't announced yet. Why 20 October is only a rumour, when ₹2,000 may come, and how to fix e-KYC and status problems."
 date: 2026-10-16T14:22:21+05:30
+updated: 2026-10-20
 category: govt-schemes
 tags: ["PM Kisan", "PM Kisan 24th installment", "e-KYC", "farmers", "DBT"]
 image: /images/posts/pm-kisan-24th-installment-date-2026-hero.webp
@@ -11,9 +12,9 @@ imageCreditUrl: "https://commons.wikimedia.org/w/index.php?curid=81531846"
 sourceUrl: "https://pmkisan.gov.in/"
 faqs:
   - q: "When will the PM Kisan 24th installment come?"
-    a: "The government hasn't announced a date yet. As of 16 October 2026, the official portal still shows the 23rd installment (20 June 2026) as the latest. The 24th belongs to the August–November 2026 period, so it is expected by the end of November, but no exact date is official."
+    a: "The government hasn't announced a date yet. As of 20 October 2026, the official portal still shows the 23rd installment (20 June 2026) as the latest. The 24th belongs to the August–November 2026 period, so it is expected by the end of November, but no exact date is official."
   - q: "Is 20 October the PM Kisan 24th installment date?"
-    a: "No, not officially. The 20 October date is going around on social media and some websites, but there is no notice on pmkisan.gov.in or PIB about it. Wait for the official announcement."
+    a: "No. The 20 October date went around on social media and some websites, but there was no notice on pmkisan.gov.in or PIB, and as of 20 October the portal still shows the 23rd installment as the latest. Wait for the official announcement."
   - q: "How much money will I get in the 24th installment?"
     a: "₹2,000. PM Kisan gives ₹6,000 a year to eligible farmer families in three equal installments of ₹2,000, sent straight to the Aadhaar-seeded bank account."
   - q: "Is e-KYC compulsory for the PM Kisan 24th installment?"
@@ -24,7 +25,9 @@ faqs:
     a: "The common reasons are pending e-KYC, a bank account not seeded with Aadhaar, land details not verified, or your case being held for physical verification (for example, land bought after 1 February 2019 or two family members both getting the benefit). Check Know Your Status to see which one applies."
 ---
 
-**The PM Kisan 24th installment date has not been announced yet.** As of 16 October 2026, pmkisan.gov.in still shows the 23rd installment, paid on 20 June 2026, as the latest. The "20 October" date you may have seen on WhatsApp or YouTube is not confirmed by the government.
+**Update (20 October 2026):** The rumoured 20 October date has come, and there's still **no official announcement**. pmkisan.gov.in shows the 23rd installment (20 June) as the latest, and there's no PIB release about the 24th. If you saw "₹2,000 credited today" messages, check Know Your Status yourself before believing them.
+
+**The PM Kisan 24th installment date has not been announced yet.** As of 20 October 2026, pmkisan.gov.in still shows the 23rd installment, paid on 20 June 2026, as the latest. The "20 October" date you may have seen on WhatsApp or YouTube is not confirmed by the government.
 
 What you can do now is make sure nothing blocks your ₹2,000 when it does come. That means finishing e-KYC and checking your status. Both take about 5 minutes.
 
@@ -47,7 +50,7 @@ Here's what is official:
 - The 23rd installment (April–July 2026-27 period) was released by the Prime Minister on 20 June 2026 from Tarakeswar, Hooghly, West Bengal. [PIB says](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2275744) over ₹18,880 crore went to about 9.44 crore farmers, including 2.18 crore women.
 - So the 24th installment is the one for the **August–November 2026** period.
 
-What is **not** official: any exact date. Not 20 October, not "before Diwali", not any date a YouTube thumbnail shows. When the date is fixed, it will appear on pmkisan.gov.in and in a PIB press release, usually a few days before a big event where the Prime Minister presses the button.
+What is **not** official: any exact date. Not 20 October (that day has passed with no release), not "before Diwali", not any date a YouTube thumbnail shows. When the date is fixed, it will appear on pmkisan.gov.in and in a PIB press release, usually a few days before a big event where the Prime Minister presses the button.
 
 ## When did the last few installments come?
 
