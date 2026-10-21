@@ -181,7 +181,7 @@ A documentary about Cilvaringz, a Dutch-Moroccan fan who talked his way into the
 
 ### No Spanish releases this weekend
 
-I couldn't find a new Spanish film or series on Indian OTT for 16–18 October. Next week, Netflix has the Spanish comedy series **Fading Grandeur** (23 October), and Prime Video has the Korean drama **Final Table** with Ahn Hyo-seop (24 October). I'll cover both in next Friday's list.
+I couldn't find a new Spanish film or series on Indian OTT for 16–18 October. Next week, Netflix has the Spanish comedy series **Fading Grandeur** (23 October), and Prime Video has the Korean drama **Final Table** with Ahn Hyo-seop (24 October). Both are in [next weekend's OTT list (23–25 October)](/ott-releases-this-weekend-october-23-25-2026).
 
 ## What to watch, by mood
 
