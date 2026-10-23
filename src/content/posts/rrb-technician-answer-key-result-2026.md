@@ -2,6 +2,7 @@
 title: "RRB Technician Answer Key 2026 Out, Result and Cut-Off"
 description: "RRB Technician answer key 2026 is out for Grade I and III. Objections till 22 Oct at ₹50, how to calculate your score, the 7,002 revised posts and result."
 date: 2026-10-20T09:33:59+05:30
+updated: 2026-10-23
 category: govt-exams
 tags: ["RRB Technician", "answer key", "RRB", "railway jobs", "CEN 02/2026"]
 image: /images/posts/rrb-technician-answer-key-result-2026-hero.webp
@@ -11,7 +12,7 @@ imageCreditUrl: "https://commons.wikimedia.org/w/index.php?curid=17839383"
 sourceUrl: "https://rrb.indianrailways.gov.in/"
 faqs:
   - q: "What is the last date to raise objections in the RRB Technician answer key 2026?"
-    a: "22 October 2026 at 11:55 PM, for both Grade I Signal and Grade III. Some websites say 21 October, but the official RRB notice dated 15 October says 22 October."
+    a: "It was 22 October 2026 at 11:55 PM, for both Grade I Signal and Grade III, as per the official RRB notice dated 15 October. The window is now closed, and RRB says no representation is entertained after it."
   - q: "What is the fee to challenge the RRB Technician answer key?"
     a: "₹50 per question plus bank charges, paid by debit card, credit card, UPI or net banking. If your objection is found correct, the fee is refunded (minus bank charges) to the same account."
   - q: "Is there negative marking in the RRB Technician CBT?"
@@ -21,10 +22,12 @@ faqs:
   - q: "What are the minimum qualifying marks for RRB Technician 2026?"
     a: "40% for UR and EWS, 30% for OBC (Non-Creamy Layer) and SC, and 25% for ST. Qualifying only makes you eligible. Shortlisting for document verification is done RRB-wise, equal to the number of vacancies."
   - q: "When will the RRB Technician result 2026 come out?"
-    a: "RRB hasn't announced a date. The result is prepared after all objections are reviewed and the final key is fixed, and it will be posted on the official RRB websites."
+    a: "RRB hasn't announced a date. The objection window closed on 22 October; the result is prepared after all objections are reviewed and the final key is fixed, and it will be posted on the official RRB websites under Exam Results for CEN 02/2026."
 ---
 
-**The RRB Technician answer key 2026 is out** for both Grade I Signal and Grade III (CEN 02/2026). You can see your questions, your responses and the provisional key, and challenge any answer until **22 October 2026, 11:55 PM**, at **₹50 per question**.
+**Update (23 October 2026):** The objection window **closed on 22 October at 11:55 PM**. RRB is now reviewing the objections. As of today, the CEN 02/2026 section on the RRB websites has no "Exam Results" entry yet, so the result isn't out. I'll add it here, with the official cut-offs, when it is.
+
+**The RRB Technician answer key 2026 is out** for both Grade I Signal and Grade III (CEN 02/2026). Candidates could see their questions, responses and the provisional key, and challenge answers until **22 October 2026, 11:55 PM**, at **₹50 per question**.
 
 There's also good news for Grade III candidates: on 16 October, RRB **increased Grade III vacancies from 6,234 to 7,002**. If you applied for Fitter, C&W or Welder in some zones, your chances just went up. Details below.
 
@@ -35,17 +38,17 @@ There's also good news for Grade III candidates: on 16 October, RRB **increased 
 | Vacancies | Grade I: 323, Grade III: 7,002 (revised), **total 7,325** |
 | CBT dates | Grade I: 9 October 2026; Grade III: 6 to 9 October 2026 |
 | Answer key released | 15 October 2026, 4:00 PM |
-| **Objection last date** | **22 October 2026, 11:55 PM** |
+| **Objection last date** | **22 October 2026, 11:55 PM (closed)** |
 | Objection fee | ₹50 per question + bank charges (refunded if correct) |
 | Negative marking | 1/3 mark per wrong answer |
-| Result date | Not announced yet |
+| Result date | Not announced yet (objections under review) |
 | Official website | [rrb.indianrailways.gov.in](https://rrb.indianrailways.gov.in/) and regional RRB websites |
 
 ## 21 or 22 October? The official date
 
 Several websites are telling you the objection window closes on 21 October. **The official notice says 22 October 2026 at 11:55 PM.** Both notices (one for Grade I, one for Grade III), signed by the Chairpersons of the Railway Recruitment Boards and dated 15 October, give the same date.
 
-That said, don't wait for the last night. RRB portals slow down badly in the final hours, and once the window closes, RRB says no representation will be entertained.
+That window has now closed, and RRB says no representation will be entertained after it.
 
 ## How to check the RRB Technician answer key 2026
 
@@ -53,7 +56,7 @@ That said, don't wait for the last night. RRB portals slow down badly in the fin
 2. In the recruitment updates, go to **Post-Examination Phase**. Pick your RRB and **CEN 02/2026**, and set the category to **Objection Tracker**.
 3. You'll see two entries dated 15-10-2026: one for **Technician Gr. I** and one for **Technician Gr. III**. Click the link icon next to yours.
 4. Log in with the details you used to apply (usually your registration number and date of birth or password).
-5. Your question paper opens with your marked option and the provisional correct answer for each question. Download or save it, because the link stops working after 22 October.
+5. Your question paper opens with your marked option and the provisional correct answer for each question. (The objection link was meant to work only till 22 October, so if it no longer opens, use the response sheet you saved, or wait for the final key.)
 
 The notice PDF and the login link sit side by side in that row. The PDF only has the dates and rules. The link icon is where your actual answers are.
 
@@ -120,9 +123,9 @@ Corrigendum No. 1, dated 16 October 2026, added **768 posts** to Technician Grad
 
 Kolkata Fitter more than five times bigger. Ranchi Fitter more than five times. Secunderabad Fitter four times. Since shortlisting is 1:1 per RRB, more posts in your RRB means more people get called for DV, which usually pulls the cut-off down. If you applied to one of these RRBs and listed these posts in your preferences, a borderline score is now worth taking seriously.
 
-## Should you raise an objection?
+## How objections are decided
 
-Only if you're sure. A few practical tips:
+The objection window is closed, but this is how it works (and what to keep in mind next time):
 
 - **Check with a book or a trusted source, not memory.** ₹50 isn't much, but you get it back only if RRB agrees.
 - **Look for "bonus" cases:** a question with no correct option, two correct options, or a translation mistake between Hindi and English. These are the objections that usually succeed.
@@ -146,4 +149,4 @@ Preparing for the next railway exam while you wait? See the open [RRB NTPC Gradu
 
 ## My take
 
-If your raw score is comfortably above 60 in Grade III, prepare your DV documents now instead of waiting for the result. If you're in the 45 to 55 range, your chances depend heavily on your RRB and post, and the 16 October vacancy increase could make the difference in the zones listed above. Either way, check your key today and file any genuine objection well before 22 October.
+If your raw score is comfortably above 60 in Grade III, prepare your DV documents now instead of waiting for the result. If you're in the 45 to 55 range, your chances depend heavily on your RRB and post, and the 16 October vacancy increase could make the difference in the zones listed above. Either way, keep your saved response sheet handy, because the final key can shift your score by a mark or two.
