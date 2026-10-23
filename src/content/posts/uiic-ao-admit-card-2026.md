@@ -2,6 +2,7 @@
 title: "UIIC AO Admit Card 2026 Out: Prelims on 22 Oct, 225 Posts"
 description: "UIIC AO admit card 2026 is out for the 22 October prelims. Download steps, exam pattern, documents to carry, exam-day rules and what comes after Tier I."
 date: 2026-10-19T09:10:00+05:30
+updated: 2026-10-23
 category: govt-exams
 tags: ["UIIC AO", "admit card", "UIIC", "insurance jobs", "AO Generalist", "Hindi Officer"]
 image: /images/posts/uiic-ao-admit-card-2026-hero.webp
@@ -14,19 +15,19 @@ faqs:
     a: "Yes. The call letter for the Online Preliminary Examination (Tier I) is out on uiic.co.in, under Careers > Recruitment of Administrative Officers (Scale I) Generalists and Hindi Officers 2026. It was reported to go live on 15 October 2026."
   - q: "What is the UIIC AO prelims exam date 2026?"
     a: "22 October 2026, as per the UIIC notification (marked tentative). Your call letter shows your exact date, reporting time, shift and venue, so go by that."
-  - q: "How do I download the UIIC AO call letter?"
-    a: "Open uiic.co.in, go to Careers > Recruitment, open the AO 2026 recruitment, and click the call letter link for the Online Preliminary Examination (Tier I). Log in with your Registration Number or Roll Number and your Password or Date of Birth, then download and print it."
   - q: "What is the UIIC AO prelims exam pattern?"
     a: "100 questions for 100 marks in 60 minutes: English Language (30 questions, 20 minutes), Reasoning (35, 20 minutes) and Quantitative Aptitude (35, 20 minutes). Each section is separately timed, and 1/4 mark is cut for each wrong answer."
+  - q: "When will the UIIC AO prelims result 2026 come out?"
+    a: "UIIC hasn't announced a date. The prelims was on 22 October and the mains is tentatively on 30 November, so the result should come in early to mid November. UIIC doesn't publish an answer key for this exam."
   - q: "When is the UIIC AO mains exam 2026?"
     a: "The Tier II Main Examination is tentatively on 30 November 2026. Only candidates who clear the prelims cut-offs (section-wise and overall) will be called."
   - q: "What is the salary of UIIC AO?"
     a: "Basic pay starts at ₹82,485 a month in the scale ₹82,485 to ₹1,56,745. UIIC says the gross pay is about ₹1,10,000 a month at metro centres."
 ---
 
-The **UIIC AO admit card 2026 is out** for the Tier I prelims on **22 October 2026**. United India Insurance has put the call letter link on **uiic.co.in**, and you log in with your registration number and password (or date of birth). This exam is for **225 Administrative Officer (Scale I) posts**: 200 Generalists and 25 Hindi Officers.
+**Update (23 October 2026):** The Tier I prelims was held on **22 October**. UIIC hasn't announced a result date yet, and its recruitment page has no new notice since the call letter. With the mains tentatively on **30 November**, expect the prelims result in early to mid November. There's no official answer key for this exam, so don't trust "UIIC AO answer key" PDFs online.
 
-The exam is 3 days away. Download and print your call letter today, not on the morning of the exam.
+The **UIIC AO admit card 2026 is out** for the Tier I prelims on **22 October 2026**. United India Insurance has put the call letter link on **uiic.co.in**, and you log in with your registration number and password (or date of birth). This exam is for **225 Administrative Officer (Scale I) posts**: 200 Generalists and 25 Hindi Officers.
 
 | Detail | Information |
 |---|---|
@@ -35,7 +36,8 @@ The exam is 3 days away. Download and print your call letter today, not on the m
 | Vacancies | 225 (200 Generalists, 25 Hindi Officers) |
 | Notification | HO:HRM:REC:AO:1:2026, dated 7 September 2026 |
 | Admit card | Out (reported to be released on 15 October 2026) |
-| Tier I prelims | **22 October 2026** (tentative, as per notification) |
+| Tier I prelims | **22 October 2026** (held) |
+| Prelims result | Not announced yet (expected early to mid November) |
 | Tier II mains | 30 November 2026 (tentative) |
 | Prelims paper | 100 questions, 100 marks, 60 minutes, 1/4 negative marking |
 | Login needs | Registration No. / Roll No. + Password / Date of Birth |
@@ -120,7 +122,7 @@ On exam day:
 
 For **Generalists**, the final merit list uses the mains objective score and the interview in a **75:25** ratio. The descriptive test is qualifying. For **Hindi Officers**, both the objective and descriptive parts of the mains count, again 75:25 with the interview.
 
-UIIC hasn't said when the prelims result will come. With mains on 30 November, expect it in the first half of November. I'll add it here when it's out.
+UIIC hasn't said when the prelims result will come. With mains on 30 November, expect it in the first half of November, as a list of shortlisted roll numbers on uiic.co.in. I'll add it here when it's out.
 
 ## Salary and posting: know this before the mains
 
@@ -134,6 +136,6 @@ That's a strong package for a graduate-level job. But if you're from North or Ea
 
 225 posts across India is a small number for a ₹1 lakh+ a month PSU job, so expect tough competition and a high prelims cut-off. With 20 minutes per section, speed matters more than anything else.
 
-In the last 3 days, don't start new topics. Take 2 full mocks with strict 20-minute section timers, and practise reading comprehension quickly, because English is where many science and commerce graduates lose the section cut-off.
+The prelims is done, so don't sit and wait for the result. The mains is only 5 weeks away and is a much bigger paper (250 marks for Generalists, plus a typed letter and essay). Start mains prep now, and practise one typed letter and essay every week so the descriptive part doesn't catch you out.
 
 If you also wrote the NICL exams, our [NICL AO recruitment post](/nicl-ao-recruitment-2026) and [NICL Assistant result post](/nicl-assistant-result-2026) cover that side. For general bank-style exam-day prep, see our [IBPS Clerk admit card guide](/ibps-clerk-admit-card-2026).
