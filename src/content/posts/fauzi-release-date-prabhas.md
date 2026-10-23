@@ -2,12 +2,12 @@
 title: "Fauzi Release Date: 18 March 2027, Official Word Awaited"
 description: "Fauzi release date: Prabhas's film is now expected on 18 March 2027, with the makers' official announcement awaited. Why it moved, cast, story, teaser."
 date: 2026-10-10T14:31:48+05:30
+updated: 2026-10-23
 category: cinema
 tags: ["Fauzi", "Fauji", "Prabhas", "Hanu Raghavapudi", "Mythri Movie Makers", "Telugu movies"]
 image: /images/posts/fauzi-release-date-prabhas-hero.webp
-imageAlt: "Prabhas adjusting a golden helmet on the set of Baahubali, with crew members and a green screen behind him"
-imageCredit: "Photo: Sabu cyril / Wikimedia, CC BY-SA 4.0"
-imageCreditUrl: "https://commons.wikimedia.org/w/index.php?curid=52241312"
+imageAlt: "Illustration of a soldier in a 1940s khaki uniform with a rifle, seen from behind, watching a battalion march past a burning village at sunset"
+imageCredit: "AI-generated illustration by Dishalu, not a still from the film"
 sourceUrl: "https://www.youtube.com/watch?v=ixz12b3PGBg"
 faqs:
   - q: "What is the release date of Fauzi?"
@@ -15,16 +15,18 @@ faqs:
   - q: "Is Fauzi postponed?"
     a: "Yes. Producer Y. Ravi Shankar of Mythri Movie Makers confirmed in September 2026 that Fauzi will not release on 3 December 2026 and will come at a later date."
   - q: "Is 18 March 2027 the confirmed release date of Fauzi?"
-    a: "It is widely reported and fits the film's shooting schedule, but Mythri Movie Makers has not announced it officially as of 10 October 2026. The announcement is expected soon, possibly on 23 October, Prabhas's birthday."
-  - q: "Is the Fauzi teaser out?"
-    a: "No. There is no official Fauzi teaser or trailer yet. Videos titled 'Fauzi teaser' on YouTube are fan-made concept videos. Reports say the makers may release a teaser on 23 October 2026, Prabhas's birthday, but this is not confirmed."
+    a: "It is widely reported and fits the film's shooting schedule, but Mythri Movie Makers has not announced it officially as of 23 October 2026. The birthday poster released on 23 October does not carry a release date."
+  - q: "Is the Fauzi glimpse or teaser out?"
+    a: "The makers announced a short glimpse video for 23 October 2026, Prabhas's birthday. Producer Y. Ravi Shankar said it is a glimpse into the film's world, not a teaser or trailer. There is no official trailer yet. Videos titled 'Fauzi teaser' or 'Fauzi trailer' from other channels are fan-made."
   - q: "Who is in the cast of Fauzi?"
     a: "Prabhas plays the lead, with Imanvi, Mithun Chakraborty and Jaya Prada in the cast announced by the makers. Anupam Kher and Chaitra J Achar are also reported to be part of the film. Hanu Raghavapudi is the writer and director."
   - q: "Is it Fauzi or Fauji?"
     a: "The makers spell the title 'Fauzi'. Many websites and fans write 'Fauji', which is the more common spelling of the Hindi word for soldier. Both refer to the same Prabhas film."
 ---
 
-**Fauzi is now expected in theatres on 18 March 2027.** That is the date nearly every report agrees on since 8 October, and it fits the film's shooting schedule. The makers, Mythri Movie Makers, haven't put out the official announcement yet. It is expected soon, most likely with a teaser on **23 October**, Prabhas's birthday.
+**Update (23 October 2026):** For Prabhas's birthday, the makers released a new Fauzi poster and announced a short **glimpse video for today**. The poster has **no release date** on it, so 18 March 2027 is still only the reported date. The glimpse isn't on the Mythri Movie Makers YouTube channel yet as I write this. I'll add the link here once it is.
+
+**Fauzi is now expected in theatres on 18 March 2027.** That is the date nearly every report agrees on since 8 October, and it fits the film's shooting schedule. The makers, Mythri Movie Makers, haven't announced it officially yet, and the birthday poster didn't settle it either.
 
 The earlier date, **3 December 2026**, is gone: a producer confirmed that in September. Here's what is confirmed, what is expected, and why the film moved.
 
@@ -39,7 +41,9 @@ The earlier date, **3 December 2026**, is gone: a producer confirmed that in Sep
 | Status of that date | **Dropped.** Producer confirmed the delay in September 2026 |
 | New release date | **18 March 2027** (widely reported; official announcement awaited) |
 | Languages | Telugu, Tamil, Kannada, Malayalam, Hindi |
-| Teaser, trailer | Not released yet |
+| Birthday poster | Released 23 October 2026, no release date on it |
+| Glimpse video | Announced for 23 October 2026 (not a teaser or trailer) |
+| Trailer | Not released yet |
 
 ## Fauzi release date: confirmed vs expected
 
@@ -50,7 +54,8 @@ Most pages mix these up, so here it is in one table.
 | Fauzi was set for 3 December 2026 | Confirmed | Announced by the makers on 16 July 2026 with a poster |
 | Fauzi will miss 3 December 2026 | Confirmed | Producer Y. Ravi Shankar, at a film event in September 2026 |
 | New date is 18 March 2027 | **Widely reported, official word awaited** | Media reports on 8 and 9 October 2026 |
-| Teaser on 23 October 2026 | **Reported, official word awaited** | The same reports (23 October is Prabhas's birthday) |
+| Poster and glimpse on 23 October 2026 | Confirmed | Poster released on Prabhas's birthday; producer announced the glimpse a day earlier |
+| Release date on the birthday poster | **No** | The 23 October poster carries no date |
 | Shoot ends by mid-December 2026 | **Reported** | The same reports |
 
 When director Hanu Raghavapudi announced the December date in July, he wrote, as [Outlook India reported](https://www.outlookindia.com/art-entertainment/south-cinema/prabhass-fauzi-release-date-announced-hanu-raghavapudi-film-out-in-dec-2026): "On 3rd DECEMBER 2026, the Fauzi march begins."
@@ -104,19 +109,30 @@ The makers described it at launch as **a historical fiction set in the 1940s**. 
 
 The poster released in July described it as the story of a battalion that fights alone. Reports also say the makers plan it as a **two-part story**, with the second film as a prequel to the first.
 
+![A 1944 radio transmitter used by the Indian National Army, with valves, a metal case and coiled wire, on display in a museum](/images/posts/fauzi-release-date-prabhas-2.webp)
+*A radio transmitter used by the Indian National Army (Azad Hind Fauj) in 1944, on display in Kolkata. Photo: Biswarup Ganguly / Wikimedia, [CC BY 3.0](https://commons.wikimedia.org/w/index.php?curid=55988366)*
+
 That's all that is officially known about the story. Anything more detailed you read online is a guess.
+
+## Fauzi birthday poster and glimpse (23 October)
+
+On Prabhas's birthday, the makers shared a new poster. As [Sakshi Post reported](https://www.sakshipost.com/news/entertainment/prabhas-fauzi-gets-fiery-new-poster-character-reveal-video-drop-today-482756), it shows Prabhas's profile on a golden coin surrounded by flames, with the line "A Battalion Who Fights Alone". There's no release date on it.
+
+The bigger news is the **glimpse video**, which the makers promised would answer one question: "Who is he?" A day earlier, at a Mythri film event, producer Y. Ravi Shankar described it as a glimpse into the world of Fauzi and Prabhas's character, **not a teaser or trailer**. He also asked fans not to expect something on the scale of Baahubali.
+
+So keep your hopes realistic. Expect a short video that sets up the 1940s world, not a full look at the story.
 
 ## Is the Fauzi teaser out? Watch out for fakes
 
-**No. There is no official Fauzi teaser or trailer yet.**
+**There is no official Fauzi teaser or trailer yet.** When the birthday glimpse drops, it will be the first official video since the 2024 launch.
 
-YouTube is full of videos titled "Fauzi First Teaser", "Fauzi Concept Trailer" and "Fauzi official release date confirmed". I checked the channels behind the popular ones. None of them is Mythri Movie Makers or T-Series. They are fan-made edits, often using clips from older Prabhas films.
+YouTube is full of videos titled "Fauzi First Teaser", "Fauzi Hindi Trailer" and "Fauzi official release date confirmed". On 23 October I checked the channels behind the top results. None of them is Mythri Movie Makers or T-Series. They are fan-made edits, often using clips from older Prabhas films.
 
-A real teaser will appear on the **Mythri Movie Makers** YouTube channel. If the makers do release it on 23 October, I'll add the link here.
+The real glimpse will be on the **Mythri Movie Makers** YouTube channel. I'll add it here as soon as it's up.
 
 ## When will the official announcement come?
 
-The most likely moment is **23 October 2026**, Prabhas's birthday. Makers of his films usually share something that day, and reports expect a teaser with the release date on it.
+Many fans expected the release date on the birthday poster. It didn't come. The next chances are the glimpse video itself (it may end with a date card) or a separate announcement once the shoot wraps, which is reported for mid-December.
 
 Until then:
 
