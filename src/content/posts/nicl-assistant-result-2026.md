@@ -2,6 +2,7 @@
 title: "NICL Assistant Result 2026 Out: 16,575 Qualify for Mains"
 description: "NICL Assistant result 2026 is out: 16,575 roll numbers qualify for the 30 Oct Mains. How to check, state-wise competition, Mains pattern and next steps."
 date: 2026-10-12T20:57:00+05:30
+updated: 2026-10-24T09:15:00+05:30
 category: govt-exams
 tags: ["NICL Assistant", "result", "insurance jobs", "NICL"]
 image: /images/posts/nicl-assistant-result-2026-hero.webp
@@ -13,7 +14,7 @@ faqs:
   - q: "Is the NICL Assistant result 2026 out?"
     a: "Yes. National Insurance Company published the Phase I (prelims) result on 8 October 2026 as a list of roll numbers. 16,575 candidates have qualified for the Main exam."
   - q: "When is the NICL Assistant Mains exam 2026?"
-    a: "30 October 2026. NICL says call letters with your date and venue will be available for download shortly on nationalinsurance.nic.co.in/recruitment."
+    a: "30 October 2026. The Mains call letter and information handout are now available on nationalinsurance.nic.co.in/recruitment (the page was updated on 22 October). Log in with your registration number and password or date of birth."
   - q: "Where can I see my NICL Assistant prelims marks and cut-off?"
     a: "Not yet. NICL says the cut-offs will be put up 'in due course', and individual marks will be given only after the final selection list is published."
   - q: "How many vacancies are there in NICL Assistant 2026?"
@@ -23,6 +24,8 @@ faqs:
   - q: "Is there an interview for NICL Assistant?"
     a: "No. After Mains there's a Regional Language Test, which is qualifying only. Final selection is based on Mains marks, state-wise and category-wise."
 ---
+
+**Update (24 Oct):** The **NICL Assistant Mains call letter is out**. Download it from [nationalinsurance.nic.co.in/recruitment](https://nationalinsurance.nic.co.in/recruitment) under "Recruitment of 500 Assistant (Class-III) 2026-27": tap **Click here to download Call Letter and Information Handout for Phase - II (Main Examination)**. The Mains is still on **30 October**. Steps are [below](#how-to-download-the-nicl-assistant-mains-call-letter).
 
 The **NICL Assistant result 2026 is out**. National Insurance Company has published the Phase I (prelims) result as a list of roll numbers, and **16,575 candidates have qualified for the Main exam on 30 October 2026**.
 
@@ -38,7 +41,7 @@ The prelims were held on 27 August for **500 Assistant (Class III) posts**. NICL
 | Result date | 8 October 2026 (roll number list) |
 | Qualified for Mains | 16,575 |
 | Mains date | 30 October 2026 |
-| Mains call letter | "Shortly" (no date given yet) |
+| Mains call letter | **Out** (page updated 22 Oct 2026) |
 | Cut-off and marks | Cut-off "in due course"; marks only after final selection |
 | Official page | [nationalinsurance.nic.co.in/recruitment](https://nationalinsurance.nic.co.in/recruitment) |
 
@@ -54,6 +57,16 @@ There's no login for this result. It's one PDF of roll numbers.
 Lost your roll number? It is on your prelims call letter. The prelims call letter link is still listed on the same page, so try logging in there with your registration details.
 
 **Qualifying doesn't lock your eligibility.** NICL's notice says you should make sure you meet the age, qualification and caste rules yourself. If you're found ineligible, you can be removed at any stage.
+
+## How to download the NICL Assistant Mains call letter
+
+1. Open [nationalinsurance.nic.co.in/recruitment](https://nationalinsurance.nic.co.in/recruitment).
+2. Under **Recruitment of 500 Assistant (Class-III) 2026-27**, tap **Click here to download Call Letter and Information Handout for Phase - II (Main Examination)**. It opens the IBPS login page.
+3. Enter your registration number and your password or date of birth, and the captcha.
+4. Download the call letter and the information handout, and print the call letter.
+5. Check your name, roll number, exam date and time, reporting time and venue address. Visit the venue a day early if you can.
+
+Read the information handout too. It explains the section timers and what to carry. Take the printed call letter and an original photo ID (with a photocopy) to the centre.
 
 ## State-wise competition: how tough is it?
 
@@ -127,4 +140,4 @@ The [NICL AO recruitment 2026](/nicl-ao-recruitment-2026) for 321 officer posts 
 
 33 candidates per post is tough, but not hopeless. In most exams like this, not everyone who qualifies prepares seriously for Mains, and some don't turn up at all. The ones who get through usually fill GA and Computer Knowledge quickly and leave enough time and focus for the reasoning puzzles.
 
-Bookmark the NICL recruitment page and check it every 2 days for the Mains call letter. And if anyone asks you to pay money "for selection", don't. NICL has warned that it never asks for anything beyond the application fee.
+The Mains call letter is out, so download it today rather than on 29 October, when the IBPS site is usually slow. And if anyone asks you to pay money "for selection", don't. NICL has warned that it never asks for anything beyond the application fee.
