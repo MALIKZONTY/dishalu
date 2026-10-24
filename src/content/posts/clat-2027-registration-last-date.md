@@ -2,6 +2,7 @@
 title: "CLAT 2027 Last Date 31 October: Registration, Fee, Exam Date"
 description: "CLAT 2027 last date to apply is 31 October 2026 (11:59 PM). Exam on 6 December, 2–4 PM. Fee, eligibility, exam pattern, 26 NLUs and how to fill the form."
 date: 2026-10-08T19:14:10+05:30
+updated: 2026-10-24T09:45:00+05:30
 category: careers
 tags: ["CLAT 2027", "CLAT", "law entrance exam", "NLU", "entrance exams"]
 image: /images/posts/clat-2027-registration-last-date-hero.webp
@@ -100,6 +101,17 @@ The fee is **online only** and **non-refundable**. Bank charges are extra. Hones
 ### Test centre change: Vellore and Tiruvarur removed
 
 On 3 September 2026, the Consortium removed **Vellore and Tiruvarur** as CLAT 2027 test cities. If you chose either one, log in, open **Edit Application Form → Test Centre Preference**, pick another city and save it before 31 October.
+
+### New reservation categories at MNLU Mumbai (16 October)
+
+A Consortium [notification dated 16 October 2026](https://s3.ap-south-1.amazonaws.com/files2027.consortiumofnlus.ac.in/sites/consortiumofnlus.ac.in/entity-uploads/notification/attachment/Attachment_34d8ebdd50874ca89c1fc1551e97de5f_74229.pdf) adds a **Transgender** category and an **Orphan** category at Maharashtra National Law University, Mumbai, for both UG and PG. If either applies to you, update it by **31 October 2026**:
+
+1. Log in and click **Edit Application Form**.
+2. Open the **Reservations** tab.
+3. Under MNLU Mumbai, answer "Are you a domicile of Maharashtra" and tick the category you want to claim.
+4. Click **Save/Submit**.
+
+Check MNLU Mumbai's updated brochure on the Participating Universities page first. If neither category applies to you, you don't need to do anything.
 
 ## CLAT 2027 exam pattern
 
