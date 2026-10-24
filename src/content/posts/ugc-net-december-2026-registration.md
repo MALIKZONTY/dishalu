@@ -1,7 +1,8 @@
 ---
-title: "UGC NET December 2026: Apply by 28 Oct, Exam 14–19 Dec"
-description: "UGC NET December 2026 registration is open till 28 October. Exam 14–19 December. Fee, eligibility, JRF age limit, exam pattern and how to apply."
+title: "UGC NET December 2026: Apply by 28 Oct, Exam from 14 Dec"
+description: "UGC NET December 2026 registration is open till 28 October. Exam 14–18 and 21 Dec. Fee, eligibility, JRF age limit, exam pattern and how to apply."
 date: 2026-10-15T13:39:05+05:30
+updated: 2026-10-24T09:30:00+05:30
 category: govt-exams
 tags: ["UGC NET", "UGC NET December 2026", "NTA", "JRF", "Assistant Professor"]
 image: /images/posts/ugc-net-december-2026-registration-hero.webp
@@ -13,7 +14,7 @@ faqs:
   - q: "What is the last date for UGC NET December 2026 registration?"
     a: "28 October 2026, up to 11:50 PM, including fee payment. After that you can still apply from 29 to 31 October with a late fee of ₹500 on top of the normal fee."
   - q: "When is the UGC NET December 2026 exam?"
-    a: "Between 14 and 19 December 2026, in computer-based mode. Your exact date, shift and centre will be on the admit card. The city slip and admit card dates haven't been announced yet."
+    a: "On 14 to 18 December and 21 December 2026, in computer-based mode, as per NTA's corrigendum of 16 October. The exam city slip comes from 23 November and the admit card from 7 December. Your exact date, shift and centre will be on the admit card."
   - q: "What is the UGC NET December 2026 application fee?"
     a: "₹1,150 for General, ₹600 for General-EWS and OBC-NCL, and ₹325 for SC, ST, PwD and third gender candidates. Pay online by card, net banking or UPI."
   - q: "What is the age limit for UGC NET JRF December 2026?"
@@ -24,9 +25,11 @@ faqs:
     a: "No. Each question carries 2 marks and there is no negative marking. Attempt every question; a blank gets zero anyway."
 ---
 
-**UGC NET December 2026 registration is open till 28 October 2026 (11:50 PM).** The exam is from **14 to 19 December 2026** in 87 subjects, as a computer-based test. If you have a Master's degree with 55% (50% for reserved categories), or you're in the final year of one, you can apply.
+**Update (24 Oct):** NTA issued a **corrigendum on 16 October** with an updated Information Bulletin. The exam is now on **14 to 18 December and 21 December 2026** (earlier 14 to 19 December). The **exam city slip comes from 23 November** and the **admit card from 7 December**. A few exam-day rules changed too. See [what changed](#what-the-16-october-corrigendum-changed).
 
-These dates and rules are from NTA's public notice dated 8 October and the Information Bulletin for UGC NET December 2026. I've added what the bulletin doesn't say plainly: which category to aim for and how to use the 2 months you have left.
+**UGC NET December 2026 registration is open till 28 October 2026 (11:50 PM).** The exam is on **14 to 18 and 21 December 2026** in 87 subjects, as a computer-based test. If you have a Master's degree with 55% (50% for reserved categories), or you're in the final year of one, you can apply.
+
+These dates and rules are from NTA's public notice dated 8 October, the corrigendum of 16 October and the updated Information Bulletin for UGC NET December 2026. I've added what the bulletin doesn't say plainly: which category to aim for and how to use the 2 months you have left.
 
 | Detail | Information |
 |---|---|
@@ -36,7 +39,7 @@ These dates and rules are from NTA's public notice dated 8 October and the Infor
 | Apply online | **8 October to 28 October 2026** (11:50 PM) |
 | Late application | 29 to 31 October 2026, with ₹500 late fee |
 | Correction window | 2 to 4 November 2026 |
-| Exam dates | **14 to 19 December 2026** |
+| Exam dates | **14 to 18 and 21 December 2026** |
 | City slip / admit card | To be announced |
 | Mode | Computer-based test, 3 hours, no break |
 | Fee | ₹1,150 General, ₹600 EWS/OBC-NCL, ₹325 SC/ST/PwD/third gender |
@@ -51,12 +54,29 @@ These dates and rules are from NTA's public notice dated 8 October and the Infor
 | Online application and fee payment | 8 to 28 October 2026 (11:50 PM) |
 | Late application with ₹500 extra | 29 to 31 October 2026 (11:50 PM) |
 | Correction in application form | 2 to 4 November 2026 (11:50 PM) |
-| Exam city intimation | To be announced |
-| Admit card | To be announced |
-| Exam | 14 to 19 December 2026 |
+| Exam city intimation | From **23 November 2026** |
+| Admit card | From **7 December 2026** |
+| Exam | 14 to 18 and 21 December 2026 (subject-wise schedule later) |
 | Answer key and result | To be announced |
 
 NTA says all dates are tentative. The late-fee window is a backup, not a plan. Apply before 28 October and save ₹500.
+
+## What the 16 October corrigendum changed
+
+NTA's [corrigendum and updated bulletin](https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/10/202610161905649093.pdf) says the updated bulletin wins wherever the two differ. The changes that matter most:
+
+| What | Earlier bulletin | Now |
+|---|---|---|
+| Exam dates | 14–19 Dec, buffer 20–21 Dec | **14–18 Dec and 21 Dec**; subject-wise schedule later |
+| City slip / admit card | "To be intimated later" | City slip from **23 Nov**, admit card from **7 Dec** |
+| Pen | Listed as a barred item | **Pen given at the centre**; don't bring one |
+| Marked for review | Got no marks | **Answered questions marked for review are evaluated**; unanswered ones aren't |
+| Watches | Only electronic watches with a calculator barred | **All watches** barred |
+| Gate closing | Not stated | Gates close **30 minutes before** the exam |
+| Exam cities | Only your state | If your state has fewer than 4 exam cities, pick from the ones shown; you can revise cities in the correction window |
+| Late fee | ₹500 | ₹500 **on top of** your category fee |
+
+The disability (scribe) certificate rules were also rewritten. If you're applying as PwBD, read Annexure-A of the corrigendum before you fill the form.
 
 ## What UGC NET qualifies you for
 
@@ -120,7 +140,7 @@ One 3-hour sitting with **no break** between the two papers:
 
 - Each question carries **2 marks**.
 - **No negative marking.** Answer every question.
-- Questions are in **English and Hindi only** (except language papers). Choose your medium carefully on the form, because it can't be changed.
+- Papers are **bilingual, in English and Hindi** (language papers are in that language). Still choose your medium carefully on the form.
 - Syllabus for every subject is on the UGC site ([ugcnetonline.in](https://www.ugcnetonline.in/syllabus-new.php)). NTA doesn't send it.
 
 ### How the cut-off works
@@ -170,4 +190,4 @@ Yes, if you have a PG degree (or will finish one soon) and see yourself in teach
 
 Be realistic about JRF, though. Only a small part of the qualified candidates get it, so plan for more than one attempt if JRF is your goal. If you're also looking at state-level eligibility, our [TG SET answer key post](/tg-set-answer-key-2026) covers Telangana's own test, which many people write alongside NET.
 
-Next step: open the bulletin, check your PG percentage against the 55%/50% rule, and apply before 28 October. I'll update this page when NTA announces the exam city slip and admit card.
+Next step: open the bulletin, check your PG percentage against the 55%/50% rule, and apply before 28 October. I'll update this page when the subject-wise schedule, city slip (23 November) and admit card (7 December) come out.
