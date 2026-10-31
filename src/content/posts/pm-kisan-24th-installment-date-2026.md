@@ -1,8 +1,8 @@
 ---
-title: "PM Kisan 24th Installment Date 2026: Is 20 Oct Confirmed?"
-description: "PM Kisan 24th installment date 2026 isn't announced yet. Why 20 October is only a rumour, when ₹2,000 may come, and how to fix e-KYC and status problems."
+title: "PM Kisan 24th Installment Date 2026: Released 30 Oct"
+description: "PM Kisan 24th installment date 2026: ₹2,000 was released on 30 October. How to check your status and what to do if the money hasn't come (e-KYC, Aadhaar)."
 date: 2026-10-16T14:22:21+05:30
-updated: 2026-10-20
+updated: 2026-10-31
 category: govt-schemes
 tags: ["PM Kisan", "PM Kisan 24th installment", "e-KYC", "farmers", "DBT"]
 image: /images/posts/pm-kisan-24th-installment-date-2026-hero.webp
@@ -11,10 +11,10 @@ imageCredit: "Photo: Phil Bus / Wikimedia, CC BY-SA 2.0"
 imageCreditUrl: "https://commons.wikimedia.org/w/index.php?curid=81531846"
 sourceUrl: "https://pmkisan.gov.in/"
 faqs:
-  - q: "When will the PM Kisan 24th installment come?"
-    a: "The government hasn't announced a date yet. As of 20 October 2026, the official portal still shows the 23rd installment (20 June 2026) as the latest. The 24th belongs to the August–November 2026 period, so it is expected by the end of November, but no exact date is official."
-  - q: "Is 20 October the PM Kisan 24th installment date?"
-    a: "No. The 20 October date went around on social media and some websites, but there was no notice on pmkisan.gov.in or PIB, and as of 20 October the portal still shows the 23rd installment as the latest. Wait for the official announcement."
+  - q: "When was the PM Kisan 24th installment released?"
+    a: "On 30 October 2026. The Prime Minister released it at an event in Banaskantha, Gujarat, as announced on pmkisan.gov.in. Reports quoting the Agriculture Ministry put it at about ₹18,690 crore for around 9.34 crore farmers."
+  - q: "I didn't get the PM Kisan 24th installment. What should I do?"
+    a: "Wait 2–3 days, because DBT credits can take time to reach every bank. Then check Know Your Status on pmkisan.gov.in. If e-KYC, Aadhaar seeding or land verification shows a problem, fix that. If everything looks fine and there's still no money, raise a complaint through the Helpdesk on the portal."
   - q: "How much money will I get in the 24th installment?"
     a: "₹2,000. PM Kisan gives ₹6,000 a year to eligible farmer families in three equal installments of ₹2,000, sent straight to the Aadhaar-seeded bank account."
   - q: "Is e-KYC compulsory for the PM Kisan 24th installment?"
@@ -25,36 +25,38 @@ faqs:
     a: "The common reasons are pending e-KYC, a bank account not seeded with Aadhaar, land details not verified, or your case being held for physical verification (for example, land bought after 1 February 2019 or two family members both getting the benefit). Check Know Your Status to see which one applies."
 ---
 
-**Update (20 October 2026):** The rumoured 20 October date has come, and there's still **no official announcement**. pmkisan.gov.in shows the 23rd installment (20 June) as the latest, and there's no PIB release about the 24th. If you saw "₹2,000 credited today" messages, check Know Your Status yourself before believing them.
+**Update (31 October 2026):** The 24th installment **has been released**. The Prime Minister sent it on **30 October 2026** from Banaskantha, Gujarat, as announced on pmkisan.gov.in. Reports quoting the Agriculture Ministry say about **₹18,690 crore** went to around **9.34 crore farmers**. Check your status below.
 
-**The PM Kisan 24th installment date has not been announced yet.** As of 20 October 2026, pmkisan.gov.in still shows the 23rd installment, paid on 20 June 2026, as the latest. The "20 October" date you may have seen on WhatsApp or YouTube is not confirmed by the government.
+**PM Kisan 24th installment date: 30 October 2026.** ₹2,000 has been sent by DBT to the Aadhaar-seeded bank accounts of eligible farmers. Some of you may have seen an SMS already. Others may get it in a day or two, since bank credits don't all land at the same minute.
 
-What you can do now is make sure nothing blocks your ₹2,000 when it does come. That means finishing e-KYC and checking your status. Both take about 5 minutes.
+If nothing has come by 2 November, don't wait. Check Know Your Status, look at e-KYC and Aadhaar seeding, and fix what's pending. Both checks take about 5 minutes.
 
 | Detail | Information |
 |---|---|
 | Scheme | Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) |
 | Run by | Department of Agriculture and Farmers Welfare, Government of India |
 | Benefit | ₹6,000 a year, in 3 installments of ₹2,000 |
-| Latest installment paid | 23rd, on **20 June 2026** (₹18,880 crore to 9.44 crore farmers) |
+| 24th installment date | **30 October 2026** (released from Banaskantha, Gujarat) |
+| 24th installment amount | ₹2,000 per farmer; about ₹18,690 crore to 9.34 crore farmers (as reported, quoting the Agriculture Ministry) |
 | 24th installment period | August–November 2026 |
-| 24th installment date | **Not announced yet** |
+| Previous (23rd) installment | 20 June 2026 (₹18,880 crore to 9.44 crore farmers) |
 | Must do before payment | e-KYC (mandatory) and Aadhaar-seeded bank account |
 | Official portal | [pmkisan.gov.in](https://pmkisan.gov.in/) |
 
-## PM Kisan 24th installment date: what's confirmed and what isn't
+## PM Kisan 24th installment date: what happened
 
-Here's what is official:
+- pmkisan.gov.in announced that the Prime Minister would release the 24th installment on **30 October 2026** in Banaskantha, Gujarat. It was released that day by DBT.
+- According to reports quoting an official statement from the Agriculture Ministry, about ₹18,690 crore went to around 9.34 crore farmers. Agriculture Minister Shivraj Singh Chouhan joined from Raisen, Madhya Pradesh.
+- This installment is for the **August–November 2026** period. PM Kisan pays ₹2,000 every four months: April–July, August–November and December–March.
+- The previous one, the 23rd, came on 20 June 2026 from Tarakeswar, West Bengal. [PIB says](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2275744) over ₹18,880 crore went to about 9.44 crore farmers then.
 
-- PM Kisan pays ₹2,000 every four months, in three periods: April–July, August–November and December–March.
-- The 23rd installment (April–July 2026-27 period) was released by the Prime Minister on 20 June 2026 from Tarakeswar, Hooghly, West Bengal. [PIB says](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2275744) over ₹18,880 crore went to about 9.44 crore farmers, including 2.18 crore women.
-- So the 24th installment is the one for the **August–November 2026** period.
+Notice the number of farmers went down slightly, from 9.44 crore to 9.34 crore. That usually means some accounts were held for e-KYC, Aadhaar seeding or land checks. If you're one of them, the fixes are in the sections below.
 
-What is **not** official: any exact date. Not 20 October (that day has passed with no release), not "before Diwali", not any date a YouTube thumbnail shows. When the date is fixed, it will appear on pmkisan.gov.in and in a PIB press release, usually a few days before a big event where the Prime Minister presses the button.
+The rumoured 20 October date turned out to be wrong, by the way. That's why we waited for the portal.
 
 ## When did the last few installments come?
 
-This helps you guess sensibly, without trusting rumours.
+This helps you guess when the next one may come.
 
 | Installment | Period | Date paid |
 |---|---|---|
@@ -62,8 +64,11 @@ This helps you guess sensibly, without trusting rumours.
 | 21st | August–November 2025-26 | 19 November 2025 |
 | 22nd | December–March 2025-26 | 13 March 2026 (from Guwahati) |
 | 23rd | April–July 2026-27 | 20 June 2026 (from Tarakeswar) |
+| 24th | August–November 2026-27 | **30 October 2026** (from Banaskantha) |
 
-Look at the 21st row. Last year, the August–November installment came on **19 November**, close to the end of the period. Honestly, I won't be surprised if this year's 24th also comes in November rather than October. But that's a guess based on last year, not a date.
+This year's August–November installment came about three weeks earlier than last year's (19 November 2025).
+
+**When will the 25th installment come?** It's for the December 2026–March 2027 period. No date is announced. Last year the same period's installment came on 13 March, so somewhere between February and March 2027 is a fair guess, but treat that as a guess, not a date.
 
 ## Who gets the 24th installment
 
@@ -128,11 +133,11 @@ You can also check through the PM-KISAN app, or ask the Kisan e-Mitra chatbot on
 | Mobile number changed | Use **Update Mobile Number** in the Farmers Corner on the portal. |
 | Name or details wrong | Use **Update Missing Information**, or contact your village agriculture officer. |
 | "Held for physical verification" | Contact your state's PM Kisan nodal officer (listed under Contact Us on the portal) and keep your land papers ready. |
-| Got the 23rd but not the 24th, after the date | Wait 2–3 days, then raise a complaint in **Helpdesk - Query Form** on the portal. |
+| Got the 23rd but not the 24th | Wait until 2 November, check Know Your Status, then raise a complaint in **Helpdesk - Query Form** on the portal. |
 
 ## Beware of fake links and agents
 
-You'll see many "PM Kisan 24th kist" videos and WhatsApp messages in the next few weeks. Keep these in mind:
+Right after a release, scam messages go up, like "your 24th kist is stuck, click here" or "pay to get pending installments". Keep these in mind:
 
 - The only official site is **pmkisan.gov.in**. Not .com, not .in with extra words.
 - No one needs your bank PIN, ATM card or UPI PIN to "release" your installment.
@@ -143,8 +148,8 @@ We wrote about another Aadhaar check that blocks benefits in [LPG Aadhaar biomet
 
 ## What to do now
 
-1. Check **Know Your Status** today. Make sure e-KYC says "Yes" and your bank account is seeded.
-2. If anything is pending, fix it this week. You have time before the payment, but not much.
-3. Ignore any date until it shows up on pmkisan.gov.in or PIB.
+1. Check your bank SMS or passbook for a ₹2,000 credit dated 30 October or later.
+2. No credit by 2 November? Open **Know Your Status** and check e-KYC, Aadhaar seeding and land verification.
+3. Fix whatever is pending now, so you don't miss the 25th installment as well. Pending installments are usually paid once the problem is fixed, but only after your state verifies it.
 
-I'll update this page the day the government announces the 24th installment date, and again when the money is sent.
+I'll add the 25th installment date here as soon as it appears on pmkisan.gov.in.
