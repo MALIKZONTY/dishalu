@@ -1,7 +1,8 @@
 ---
-title: "NSP Scholarship 2026-27: Last Date 31 Oct, Who Can Apply"
-description: "NSP scholarship 2026-27 last date is 31 October. The main scholarships open now, amounts up to ₹50,000 a year, who can apply, and how to avoid rejection."
+title: "NSP Scholarship 2026-27: Last Date 30 Nov, Who Can Apply"
+description: "NSP scholarship 2026-27 last date extended to 30 November (NMMS 15 Nov). Schemes open, amounts up to ₹50,000 a year, who can apply, how to avoid rejection."
 date: 2026-10-04T17:06:00+05:30
+updated: 2026-11-02
 category: govt-schemes
 tags: ["NSP", "scholarship", "AICTE Pragati", "students", "National Scholarship Portal"]
 image: /images/posts/nsp-scholarship-2026-27-last-date-hero.webp
@@ -11,7 +12,9 @@ imageCreditUrl: "https://commons.wikimedia.org/w/index.php?curid=94619003"
 sourceUrl: "https://scholarships.gov.in/All-Scholarships"
 faqs:
   - q: "What is the last date for NSP scholarship 2026-27?"
-    a: "For most central scholarships on NSP, students can apply till 31 October 2026. Your college must verify your application by 15 November 2026."
+    a: "The last date was extended. Most central scholarships on NSP are now open till 30 November 2026, with college verification till 15 December. NMMS and PM YASASVI (School) close earlier, on 15 November 2026."
+  - q: "Is the NSP last date extended in 2026?"
+    a: "Yes. The NSP scheme list now shows 30 November 2026 for most scholarships, up from 31 October. NMMS and PM YASASVI (School) were extended only till 15 November. Beedi/Cine/IOMC/LSDM workers' wards scholarships and the Pre-Matric scholarship for students with disabilities closed on 31 October."
   - q: "Can a 2nd or 3rd year B.Tech student apply for an NSP scholarship?"
     a: "For AICTE Pragati and Saksham, fresh applications are only for 1st year students or 2nd year lateral entry students. AICTE Swanath accepts students from any year if they meet its special conditions. Others in later years can only renew a scholarship they already have."
   - q: "How much is the AICTE Pragati scholarship?"
@@ -22,24 +25,34 @@ faqs:
     a: "The most common reasons are the college not verifying the application in time, a bank account not linked with Aadhaar, wrong income or caste certificate details, and name mismatches between documents."
 ---
 
-The **NSP scholarship 2026-27 last date is 31 October 2026** for most central scholarships on the National Scholarship Portal (scholarships.gov.in). Some scholarships pay **₹50,000 a year**, and applying is free.
+**Update (2 November 2026):** The deadline has been extended. The official NSP scheme list now shows **30 November 2026** for most central scholarships (it was 31 October). **NMMS and PM YASASVI (School) close earlier, on 15 November.** Three schemes were not extended and closed on 31 October (list below).
 
-There's one catch most students miss. After you apply, **your college has to verify your application by 15 November**. If it doesn't, your application won't move ahead. So apply early and tell your college's scholarship desk.
+The **NSP scholarship 2026-27 last date is now 30 November 2026** for most central scholarships on the National Scholarship Portal (scholarships.gov.in). Some scholarships pay **₹50,000 a year**, and applying is free.
+
+There's one catch most students miss. After you apply, **your college has to verify your application by 15 December** (30 November for NMMS and PM YASASVI School). If it doesn't, your application won't move ahead. So apply early and tell your college's scholarship desk.
 
 | Detail | Information |
 |---|---|
 | Portal | National Scholarship Portal (NSP), [scholarships.gov.in](https://scholarships.gov.in/) |
 | Academic year | 2026-27 |
 | Applications opened | 1 June 2026 (most schemes) |
-| **Last date for students** | **31 October 2026** |
-| College (institute) verification | Till 15 November 2026 |
-| District/state verification | Till 30 November 2026 |
+| **Last date for students** | **30 November 2026** (extended from 31 October) |
+| NMMS and PM YASASVI (School) | **15 November 2026** |
+| College (institute) verification | Till 15 December 2026 (30 November for NMMS, PM YASASVI School) |
+| District/state verification | Till 31 December 2026 for most schemes (15 December for NMMS, PM YASASVI School) |
 | Application fee | None |
 | Payment | Directly to your Aadhaar-linked bank account |
 
 ## NSP scholarship 2026-27 last date: what the official portal shows
 
-We checked every scholarship on the official NSP scheme list on 4 October 2026. **Every scholarship below is open for fresh applications till 31 October 2026.** Schemes that are closed, or open only for renewals, are left out.
+We first checked every scholarship on the official NSP scheme list on 4 October 2026, and checked it again on 2 November 2026 after the extension. **Every scholarship below is open for fresh applications till 30 November 2026, except NMMS (15 November).** Schemes open only for renewals are left out.
+
+### Closed on 31 October (not extended)
+
+- Financial Assistance for wards of beedi, cine, IOMC and LSDM workers (Pre-Matric and Post-Matric)
+- Pre-Matric Scholarship for Students with Disabilities
+
+If you applied for one of these before 31 October, your form is still in the verification stage. Your institute has till 15 November to verify it.
 
 ## Scholarships you can apply for now
 
@@ -47,25 +60,24 @@ Amounts and rules are from each scheme's guidelines published on NSP. The AICTE 
 
 | Scholarship | Who can apply | Amount |
 |---|---|---|
-| **AICTE Pragati** <br>Apply by **31 Oct** | Girls in 1st year (or lateral entry) of an AICTE course; income up to ₹8 lakh | ₹50,000 a year |
-| **AICTE Saksham** <br>Apply by **31 Oct** | 40%+ disability, 1st year (or lateral entry) of an AICTE course; income up to ₹8 lakh | ₹50,000 a year |
-| **AICTE Swanath** <br>Apply by **31 Oct** | Orphans, martyrs' wards, or students who lost a parent or have a critically ill parent; any year; income up to ₹8 lakh | ₹50,000 a year |
-| **UGC PG Scholarship** <br>Apply by **31 Oct** | 1st year of your first PG degree, regular mode, under 30 | ₹15,000 a month (10 months a year, 2 years) |
-| **Top Class (SC)** <br>Apply by **31 Oct** | SC students at notified top institutes; income up to ₹8 lakh | Tuition (up to ₹2 lakh) + ₹86,000 in 1st year, ₹41,000 later |
-| **PM YASASVI (College)** <br>Apply by **31 Oct** | OBC, EBC, DNT students at notified top institutes; income up to ₹2.5 lakh | Tuition (up to ₹2 lakh) + ₹3,000 a month + books and laptop aid |
-| **NMMS** <br>Apply by **31 Oct** | Class 9 students selected in the state's class 8 test; income up to ₹3.5 lakh | ₹12,000 a year |
+| **AICTE Pragati** <br>Apply by **30 Nov** | Girls in 1st year (or lateral entry) of an AICTE course; income up to ₹8 lakh | ₹50,000 a year |
+| **AICTE Saksham** <br>Apply by **30 Nov** | 40%+ disability, 1st year (or lateral entry) of an AICTE course; income up to ₹8 lakh | ₹50,000 a year |
+| **AICTE Swanath** <br>Apply by **30 Nov** | Orphans, martyrs' wards, or students who lost a parent or have a critically ill parent; any year; income up to ₹8 lakh | ₹50,000 a year |
+| **UGC PG Scholarship** <br>Apply by **30 Nov** | 1st year of your first PG degree, regular mode, under 30 | ₹15,000 a month (10 months a year, 2 years) |
+| **Top Class (SC)** <br>Apply by **30 Nov** | SC students at notified top institutes; income up to ₹8 lakh | Tuition (up to ₹2 lakh) + ₹86,000 in 1st year, ₹41,000 later |
+| **PM YASASVI (College)** <br>Apply by **30 Nov** | OBC, EBC, DNT students at notified top institutes; income up to ₹2.5 lakh | Tuition (up to ₹2 lakh) + ₹3,000 a month + books and laptop aid |
+| **NMMS** <br>Apply by **15 Nov** | Class 9 students selected in the state's class 8 test; income up to ₹3.5 lakh | ₹12,000 a year |
 
-### Other scholarships open till 31 October 2026
+### Other scholarships open till 30 November 2026
 
 | Scholarship | For |
 |---|---|
-| Pre- and Post-Matric for Students with Disabilities | School and college students with disabilities |
+| Post-Matric for Students with Disabilities | College students with disabilities |
 | Top Class for Students with Disabilities | Students with disabilities at notified institutes |
 | National Fellowship and Scholarship for ST Students | ST students in higher education |
 | Ishan Uday (UGC) | Students from the North Eastern Region |
 | ICAR scholarships (UG and PG) | Agriculture students |
 | PM's Scholarship (CAPF, Assam Rifles, Railways, martyred police) | Children of these personnel |
-| Financial Assistance for workers' wards | Children of beedi, cine, IOMC and LSDM workers |
 | Free Coaching for SC and OBC students | Coaching for competitive exams |
 
 Many **post-matric scholarships for SC, ST, OBC and minority students** are given through **state scholarship portals**, not the central list above. Check your state's official scholarship website too.
@@ -109,8 +121,8 @@ Keep these ready before you start:
 3. Log in and click **Apply for Scholarship**.
 4. Fill in your details: course, marks, income, category and bank details.
 5. Choose the scholarship you're eligible for. The portal shows schemes based on your details.
-6. Upload documents and **submit before 31 October 2026**.
-7. Tell your college. **Your institute must verify it by 15 November**, then the district or state verifies it by 30 November.
+6. Upload documents and **submit before 30 November 2026** (15 November for NMMS and PM YASASVI School).
+7. Tell your college. **Your institute must verify it by 15 December** (30 November for NMMS), then the district or state verifies it.
 8. Track it with **Application Status** and **Track Your Payment** on the NSP homepage.
 
 ## Why applications get rejected (and how to avoid it)
