@@ -1,7 +1,8 @@
 ---
 title: "SSC JE Admit Card 2026: Paper 1 on 2–6 Nov, Download Steps"
-description: "SSC JE admit card 2026 for Paper 1 (2–6 Nov) comes 3–4 days before your exam. How to download it, ID rules, exam pattern, qualifying marks and what's next."
+description: "SSC JE admit card 2026 for Paper 1 (2–6 Nov) comes 2–3 days before your exam. How to download it, ID rules, exam pattern, qualifying marks and what's next."
 date: 2026-10-27T13:57:18+05:30
+updated: 2026-11-03
 category: govt-exams
 tags: ["SSC JE", "admit card", "SSC", "junior engineer", "diploma jobs"]
 image: /images/posts/ssc-je-admit-card-2026-hero.webp
@@ -10,10 +11,10 @@ imageCredit: "Photo: Arunvrparavur / Wikimedia, CC BY-SA 4.0"
 imageCreditUrl: "https://commons.wikimedia.org/w/index.php?curid=50667501"
 sourceUrl: "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_adv_je_2026.pdf"
 faqs:
-  - q: "When will the SSC JE admit card 2026 be released?"
-    a: "The SSC notification says the admission certificate can be downloaded 3–4 days before your exam date. For the first day of Paper 1 (2 November 2026), expect it around 29–30 October."
+  - q: "Is the SSC JE admit card 2026 out?"
+    a: "Yes, for Paper 1. SSC issues each admission certificate 2–3 days before the exam date, so candidates for 2–6 November can download theirs from the SSC login. JE (Telecom) candidates, whose exam is on 30 November–1 December, will get theirs later."
   - q: "What is the SSC JE Paper 1 exam date in 2026?"
-    a: "SSC's notice dated 1 October 2026 fixes Paper 1 (computer based) from 2 to 6 November 2026. Your own date and shift are in your exam city details and on the admission certificate."
+    a: "2 to 6 November 2026 for Civil, Electrical, Mechanical and the IMD Scientific Assistant papers. As per SSC's corrigendum dated 26 October 2026, JE (Telecommunication) Paper 1 is on 30 November and 1 December 2026."
   - q: "Is SSC JE Paper 1 qualifying in 2026?"
     a: "Yes. From this year Paper 1 is only qualifying. Its normalised marks shortlist candidates for Paper 2, and only Paper 2 marks decide the final merit."
   - q: "What are the minimum qualifying marks in SSC JE Paper 1?"
@@ -24,19 +25,21 @@ faqs:
     a: "No physical calculator is allowed. A scientific calculator, the IS 456:2000 tables and the steam table are available on the computer screen during the exam."
 ---
 
-**The SSC JE admit card 2026 for Paper 1 will open 3–4 days before your exam date.** Paper 1 of the Junior Engineer Examination 2026 is on **2 to 6 November 2026**, as per SSC's notice dated 1 October. So if your exam is on 2 November, keep checking ssc.gov.in from **29–30 October**.
+**Update (3 November 2026):** Paper 1 started on 2 November and the **admission certificates are out** in the SSC login for 2–6 November. SSC's notice of 23 October says each card comes 2–3 days before that exam date. Also, SSC's corrigendum dated **26 October** confirms that **JE (Telecommunication)** Paper 1 is on **30 November and 1 December 2026**, with its exam city details 8–10 days before.
 
-This exam fills **1,748 tentative vacancies** for Junior Engineer (Civil, Electrical, Mechanical, Telecom) and Scientific Assistant in IMD, all Group B posts at Pay Level 6. Below: how to download the card, the ID rule that sends people back from the gate, and the big change in how Paper 1 is counted this year.
+**The SSC JE admit card 2026 for Paper 1 is out** for exams from 2 to 6 November 2026. You get it in your SSC login 2–3 days before your own exam date. So if your exam is on 6 November, it should be there by 3–4 November.
+
+This exam fills **1,699 tentative vacancies** (SSC list dated 8 October 2026) for Junior Engineer (Civil, Electrical, Mechanical, Telecom) and Scientific Assistant in IMD, all Group B posts at Pay Level 6. Below: how to download the card, the ID rule that sends people back from the gate, and the big change in how Paper 1 is counted this year.
 
 | Detail | Information |
 |---|---|
 | Exam | SSC Junior Engineer Examination, 2026 |
 | Posts | JE (Civil, Electrical, Mechanical, Telecom), Scientific Assistant (IMD) |
-| Vacancies | **1,748** (tentative) |
+| Vacancies | **1,699** (tentative, 8 Oct list) |
 | Pay | Level 6, ₹35,400–1,12,400 |
 | Exam city details | About 10 days before your exam, in your SSC login |
-| Admit card | **3–4 days before your exam date** |
-| Paper 1 date | **2 to 6 November 2026** (computer based) |
+| Admit card | **Out**, 2–3 days before each exam date |
+| Paper 1 date | **2 to 6 November 2026** (computer based); JE Telecom on **30 Nov–1 Dec** |
 | Paper 1 pattern | 200 questions, 200 marks, 2 hours, −0.25 per wrong answer |
 | Paper 2 | December 2026 (tentative) |
 | Official site | [ssc.gov.in](https://ssc.gov.in) |
@@ -47,7 +50,7 @@ SSC puts up the exam city and date about 10 days before the exam. Many of you ca
 
 Here's the rule people miss: **if you can't find your details one week before your exam date, you must contact your SSC Regional Office right away**, with proof that you applied. The notification says that if you don't, you lose any claim later. With exams starting 2 November, that week is now.
 
-JE (Telecom) is a new post this year, and its Part-G paper runs in a **separate batch**. If you applied only for Telecom, your date may not fall within 2–6 November. Go by the date in your own login.
+JE (Telecom) is a new post this year, and its Part-G paper runs in a **separate batch on 30 November and 1 December 2026** (SSC corrigendum, 26 October). Its city details come 8–10 days before. If you also chose Scientific Assistant with Telecom, SSC set EC/TC as your default SA subject; the window to switch to CS/IT or Physics closed on 27 October.
 
 ## How to download the SSC JE admit card 2026
 
@@ -57,7 +60,7 @@ JE (Telecom) is a new post this year, and its Part-G paper runs in a **separate 
 4. Download the admission certificate PDF.
 5. Print it in colour if you can, and keep **one extra copy**. SSC itself tells you to keep a spare for later stages.
 
-SSC will **not** send the admit card by post or email. If the link isn't showing, it's most likely because your exam is more than 3–4 days away. Candidates with 6 November exams will get their cards later than those with 2 November exams.
+SSC will **not** send the admit card by post or email. If the link isn't showing, it's most likely because your exam is more than 2–3 days away. Candidates with 6 November exams will get their cards later than those with 2 November exams.
 
 ## Details to check on the admit card
 
