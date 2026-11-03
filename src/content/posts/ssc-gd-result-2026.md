@@ -2,6 +2,7 @@
 title: "SSC GD Result 2026 Out: Cut-Off, 1.97 Lakh Qualify for PET"
 description: "SSC GD result 2026 is out: 1,97,408 candidates qualify for PET/PST. State-wise cut-off for men and women, how to check your name and what comes next."
 date: 2026-10-12T20:16:00+05:30
+updated: 2026-11-03
 category: govt-exams
 tags: ["SSC GD", "SSC", "result", "cut-off", "CAPF"]
 image: /images/posts/ssc-gd-result-2026-hero.webp
@@ -18,11 +19,13 @@ faqs:
     a: "It depends on your state, gender and area. For UR men in the General area, it ranges from about 65 in Kerala to 127 in Rajasthan and 126 in Uttar Pradesh. For the SSF (All-India), the UR male cut-off is 146.17817."
   - q: "When is the SSC GD PET/PST 2026?"
     a: "The date isn't announced yet. CRPF is the nodal force this time and will put out the schedule and admit cards on rect.crpf.gov.in."
-  - q: "When will SSC GD 2026 marks be released?"
-    a: "SSC says marks, the final answer key and the response sheets will be available 'in due course' through your login on ssc.gov.in. No date has been given yet."
+  - q: "Are SSC GD 2026 marks out?"
+    a: "Yes. SSC put out the CBT marks, final answer keys and question paper cum response sheets on 3 November 2026. You can see them from 3 November (5 PM) to 17 November 2026 (5 PM) by logging in on ssc.gov.in. Take a printout, because they won't be available after that."
   - q: "What are the minimum qualifying marks in SSC GD 2026?"
     a: "30% for UR, 25% for OBC and EWS, and 20% for SC, ST and ex-servicemen, without NCC bonus marks. Scoring this much doesn't mean you're shortlisted. You also have to reach your state's cut-off."
 ---
+
+**Update (3 November 2026):** SSC has uploaded the **CBT marks, final answer keys and response sheets** (notice dated 3 November). Log in on ssc.gov.in to see yours from **3 November, 5 PM to 17 November, 5 PM**, and save a printout. There's still no PET/PST date from CRPF.
 
 The **SSC GD result 2026 is out**. The Staff Selection Commission declared the Constable (GD) CBT result on **12 October 2026**, and **1,97,408 candidates** have been shortlisted for the physical test (PET/PST).
 
@@ -171,11 +174,22 @@ Don't wait for the call letter to start gathering papers. The usual list:
 
 The NCC bonus was **8 marks for 'C', 4.8 for 'B' and 3.2 for 'A'** certificates (not given to ex-servicemen). It was added "provisionally", so a missing certificate at DV can push you below the cut-off.
 
+## SSC GD 2026 marks and final answer key
+
+As per SSC's notice dated 3 November 2026 (No. HQ-C-3/2/2026-C-3), two things are now in your login:
+
+- **Your CBT marks** (score card): in the candidate login on [ssc.gov.in](https://ssc.gov.in) with your registration ID and password.
+- **Final answer key with your question paper and response sheet**: through the link given in the notice, with your roll number and password.
+
+Both stay open only from **3 November 2026 (5 PM) to 17 November 2026 (5 PM)**. SSC says clearly they won't be available after that, so download and print them now.
+
+Why bother if you're already shortlisted? Your CBT marks (plus any NCC bonus) decide your final merit and force allotment after the physical and medical tests. Knowing your exact score tells you how safe you are.
+
 ## If your name isn't in the list
 
 Check the withheld list (List-III) first. Your result may be on hold for a document issue, not because you failed.
 
-If it isn't there either, wait for SSC to release marks. Compare your score with your state's cut-off in the tables above. If you were close, the next GD cycle is a realistic target.
+If it isn't there either, check your marks in the SSC login (open till 17 November). Compare your score with your state's cut-off in the tables above. If you were close, the next GD cycle is a realistic target.
 
 Meanwhile, the [Coast Guard Navik and Yantrik recruitment](/indian-coast-guard-cgept-recruitment-2026) is open till 21 October, and it's another uniformed job for 10th pass, 12th pass (Maths and Physics) and diploma holders, if you were born between 2005 and 2009. If you've passed 12th, the [SSC CHSL 2026](/ssc-chsl-2026-last-date) Tier 1 exam is coming up too, though applications for it have closed.
 
