@@ -2,6 +2,7 @@
 title: "Ramayana Release Date 5 Nov: Booking, IMAX, Runtime, Cast"
 description: "Ramayana Part 1 release date is 5 November 2026, worldwide in 5 Indian languages and IMAX. Advance booking, ticket prices, runtime, cast and trailers."
 date: 2026-10-28T18:19:58+05:30
+updated: 2026-11-03
 category: cinema
 tags: ["Ramayana", "Ramayana Part 1", "Ranbir Kapoor", "Yash", "Sai Pallavi", "Nitesh Tiwari", "Hindi movies"]
 image: /images/posts/ramayana-part-1-release-date-hero.webp
@@ -15,7 +16,7 @@ faqs:
   - q: "Has Ramayana advance booking started?"
     a: "Yes. Advance booking in India opened on Dussehra, 20 October 2026, on BookMyShow and District. It started in a limited number of theatres because of a reported revenue-share dispute, and the makers later said bookings were open across India."
   - q: "What is the runtime of Ramayana Part 1?"
-    a: "Trade reports say the film runs 3 hours 15 minutes (195 minutes) with a U certificate. The makers haven't officially announced the runtime or the CBFC certificate for the full film yet, so check the certificate shown on your booking app."
+    a: "3 hours 15 minutes (195 minutes) for the Hindi version. The film was cleared with a U certificate and no cuts on 30 October 2026, as reported by Sacnilk from the CBFC certification."
   - q: "In which languages is Ramayana releasing?"
     a: "Hindi, Tamil, Telugu, Kannada and Malayalam. An English version is reported for overseas markets. It plays in premium formats, including IMAX."
   - q: "Who plays Ravana and Hanuman in Ramayana?"
@@ -23,6 +24,8 @@ faqs:
   - q: "When will Ramayana Part 2 release?"
     a: "Part 2 is planned for Diwali 2027. No exact date has been announced yet."
 ---
+
+**Update (3 November 2026):** The film is now certified **U with no cuts**, runtime **195 minutes** (Hindi version, 30 October, as reported by Sacnilk). Advance booking in India crossed **₹72.91 crore gross** (₹57.9 crore without blocked seats) by 9 AM on 3 November, as per Sacnilk via Business Today. These are trade numbers, not figures from the makers.
 
 **Ramayana: Part 1 releases in theatres worldwide on Thursday, 5 November 2026**, three days before Diwali. It comes out in Hindi, Tamil, Telugu, Kannada and Malayalam, and in premium formats including IMAX.
 
@@ -40,8 +43,8 @@ Advance booking in India has been open since Dussehra (20 October). If you want 
 | Music | Hans Zimmer and A.R. Rahman (soundtrack on T-Series) |
 | Distribution | Dharma Productions (Hindi markets in North India), Sony Pictures (outside India) |
 | Advance booking | Open since 20 October 2026 |
-| Runtime | 3 hours 15 minutes (reported, not announced by the makers) |
-| Certificate | U (reported, not yet confirmed by the makers) |
+| Runtime | 3 hours 15 minutes (195 min, Hindi version, per CBFC certification as reported) |
+| Certificate | U, no cuts (30 October 2026, as reported) |
 | Part 2 | Diwali 2027 |
 
 ## Ramayana release date: 5 November, not 6
@@ -69,6 +72,17 @@ What the trackers reported after the first day (these are trade numbers, not off
 | IMAX share | About 24% of day-one advance gross from only 3.4% of shows | Sacnilk |
 | Highest ticket | ₹2,770 for an IMAX recliner seat in Mumbai | Media reports |
 
+**Latest (as of 9 AM, 3 November, Sacnilk via Business Today):**
+
+| Figure | Reported |
+|---|---|
+| Total India advance (5 show days) | ₹72.91 crore gross; ₹57.9 crore without blocked seats |
+| Tickets sold | 18.56 lakh across 59,822 shows |
+| Opening day (5 Nov) alone | ₹32.37 crore gross; 8.09 lakh tickets |
+| Hindi share | ₹57.83 crore (about 82%) |
+| Kannada / Telugu | ₹5.87 crore / ₹5.27 crore |
+| Worldwide opening weekend pre-sales | Over ₹100 crore gross (India + overseas) |
+
 The IMAX number is the one to note. Very few shows are IMAX, but they are making about a quarter of the money. If you want IMAX, the first weekend in your city may already be close to full.
 
 In the US, tickets are on sale through Fandango, with IMAX and 3D shows at selected theatres.
@@ -84,9 +98,9 @@ But don't pay ₹2,000+ just for a recliner. A regular IMAX or 3D seat in a good
 
 ## Runtime and certificate
 
-Trade reports say the film runs **3 hours 15 minutes** and has a **U certificate**. Sacnilk itself says the CBFC record for the full film wasn't public when it reported this; the public record covers the July trailer, which got a U certificate.
+The film was certified **U** by the CBFC on **30 October 2026**, **without any cuts**, as reported by Sacnilk. The Hindi version runs **195 minutes (3 hours 15 minutes)**. U means anyone can watch it, so it's fine for a family show.
 
-So treat 195 minutes as likely, not final. Your booking app will show the certificate and runtime once the theatre lists it. Plan for a long show with an interval, especially if you're going with kids or older family members.
+Plan for a long show with an interval, especially if you're going with kids or older family members.
 
 In the US, the film is reported to be rated PG-13 for strong violence and action.
 
