@@ -1,19 +1,22 @@
 ---
-title: "SSC CGL Answer Key 2026: Expected Date, Fee, Cut-Off"
-description: "SSC CGL answer key 2026 for Tier 1 (30 Sep–30 Oct) is likely in early November. Objection fee, how to calculate your score and last year's cut-off."
+title: "SSC CGL Answer Key 2026 Out: Challenge Till 7 Nov, ₹50 Fee"
+description: "SSC CGL answer key 2026 for Tier 1 is out with response sheets. Challenge till 7 Nov, 9 PM at ₹50 per question. Score calculation and last year's cut-off."
 date: 2026-10-17T10:39:15+05:30
+updated: 2026-11-06
 category: govt-exams
 tags: ["SSC CGL", "answer key", "cut-off", "SSC"]
 image: /images/posts/ssc-cgl-answer-key-2026-hero.webp
 imageAlt: "Rows of computers in partitioned desks inside a computer lab in Chennai, similar to an online exam centre"
 imageCredit: "Photo: User:Kprateek88 / Wikimedia, CC BY-SA 3.0"
 imageCreditUrl: "https://commons.wikimedia.org/w/index.php?curid=1168325"
-sourceUrl: "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_adv_cgl_2026.pdf"
+sourceUrl: "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/writeup_04112026.pdf"
 faqs:
-  - q: "When will the SSC CGL answer key 2026 be released?"
-    a: "SSC hasn't announced a date yet. Tier 1 ends on 30 October 2026. Last year the tentative key came 2 days after the last exam, and in 2024 it came 7 days after, so early November 2026 is likely."
+  - q: "Is the SSC CGL answer key 2026 out?"
+    a: "Yes. SSC put up the Tier 1 tentative answer key with candidates' response sheets on 4 November 2026. Log in at ssc.gov.in with your registration number and password to see it."
+  - q: "What is the last date to challenge the SSC CGL 2026 answer key?"
+    a: "Challenges are open from 4 November 2026 (9 PM) to 7 November 2026 (9 PM). SSC says nothing received after 9 PM on 7 November will be accepted, and response sheets won't be available after that."
   - q: "What is the fee to challenge the SSC CGL 2026 answer key?"
-    a: "The CGL 2026 notice says ₹100 per question, non-refundable. In 2025 SSC charged ₹50 per question in the answer key notice, so check the fee in the 2026 answer key notice when it comes out."
+    a: "₹50 per question or answer challenged, paid online, as per SSC's answer key notice of 4 November 2026."
   - q: "How do I calculate my SSC CGL Tier 1 score?"
     a: "Each correct answer gets 2 marks and each wrong answer loses 0.50 marks. Unattempted questions get 0. Tier 1 has 100 questions for 200 marks."
   - q: "What was the SSC CGL 2025 Tier 1 cut-off?"
@@ -24,47 +27,46 @@ faqs:
     a: "The CGL 2026 notice gives December 2026 as the tentative Tier 2 schedule. SSC hasn't confirmed exact dates yet."
 ---
 
-The **SSC CGL answer key 2026** isn't out yet. Tier 1 is running from **30 September to 30 October 2026**, and SSC puts up the tentative answer key with your response sheet only after the last shift.
+**Update (6 November 2026):** The **SSC CGL answer key 2026** for Tier 1 is out. SSC put up the tentative key with your response sheet on **4 November 2026**. You can challenge any answer until **7 November 2026, 9 PM**, at **₹50 per question**.
 
-Going by the last two years, expect it in **early November 2026**. When it comes, you'll get a short window (3–5 days) to check your answers and challenge any wrong ones. Here's how to get ready for that, how to work out your score, and what last year's cut-off tells you.
+Log in at [ssc.gov.in](https://ssc.gov.in/) with your registration number and password. Download your response sheet now: SSC says it won't be available after the window closes. Below: how to check it, how to work out your score, and what last year's cut-off tells you.
 
 | Detail | Information |
 |---|---|
 | Exam | Combined Graduate Level Examination (CGLE) 2026, Tier 1 |
 | Conducting body | Staff Selection Commission (SSC) |
-| Tier 1 dates | 30 September to 30 October 2026 |
+| Tier 1 dates | 30 September to 28 October 2026 |
 | Tentative vacancies | 10,731 (as on 24 September 2026) |
-| Answer key date | Not announced (likely early November 2026) |
-| Challenge fee | ₹100 per question as per the notice (₹50 was charged in 2025) |
+| Answer key out | 4 November 2026 |
+| Challenge window | 4 Nov (9 PM) to **7 Nov 2026 (9 PM)** |
+| Challenge fee | ₹50 per question, online only |
 | Marking | +2 for correct, −0.50 for wrong |
 | Tier 2 | December 2026 (tentative, as per the notice) |
-| Official site | [ssc.gov.in](https://ssc.gov.in/) |
+| Official notice | [SSC notice, 4 Nov 2026 (PDF)](https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/writeup_04112026.pdf) |
 
-## SSC CGL answer key 2026 date: what to expect
+## SSC CGL answer key 2026: dates and how it compares
 
-SSC doesn't announce the answer key date in advance. It just puts up a notice on ssc.gov.in on the day. So the best guide is what happened in the last two cycles. These dates are from SSC's own notices:
+SSC's notice of 4 November says Tier 1 ran from 30 September to 28 October 2026. The key came 7 days after the last exam. Here's how that compares with the last two cycles, all from SSC's own notices:
 
 | Cycle | Last Tier 1 exam | Tentative key out | Challenge window |
 |---|---|---|---|
 | CGL 2024 | 26 Sep 2024 | 3 Oct 2024 | 3–6 Oct 2024 (₹100 per question) |
 | CGL 2025 | 14 Oct 2025 (re-exam) | 16 Oct 2025 | 16–21 Oct 2025, extended (₹50 per question) |
-| CGL 2026 | 30 Oct 2026 | Not announced | Not announced |
+| CGL 2026 | 28 Oct 2026 | 4 Nov 2026 | 4–7 Nov 2026, till 9 PM (₹50 per question) |
 
-The gap was 7 days in 2024 and 2 days in 2025. So for 2026, somewhere between 1 and 7 November looks likely. That's our estimate, not an official date. We'll update this page the day SSC puts out the notice.
-
-One more thing. In 2025, SSC extended the challenge window from 19 October to 21 October. Don't count on an extension. Treat the first deadline as the real one.
+In 2025, SSC extended the challenge window by two days. Don't count on that this time. The 2026 notice says challenges after 9 PM on 7 November "will not be entertained under any circumstances", and that challenges sent any other way (email, letter) won't be taken either.
 
 ## How to download the SSC CGL Tier 1 answer key
 
-Once the notice is out, the steps are the same as last year:
+The steps, as per SSC's 4 November notice:
 
 1. Go to [ssc.gov.in](https://ssc.gov.in/) and log in with your registration number and password.
 2. Open the **Answer Key Challenge** option.
 3. Click **Click Here**. This takes you to the exam agency's portal, where your response sheet opens.
 4. Your response sheet shows each question, the option you chose and the correct option as per SSC.
-5. Save or print it. SSC says response sheets won't be available after the window closes, and it won't send them on request later.
+5. Save or print it before 7 November, 9 PM. SSC says response sheets won't be available after that, and it won't send them on request later.
 
-Note: in the challenge module, the order of questions and options can be different from what you saw in the exam. SSC uses one common order for everyone in a shift. Your selected answers are still shown correctly.
+Note: in the challenge module, the order of questions and options can be different from what you saw in the exam. SSC uses one common order for everyone in a shift. Your selected answers are still shown correctly. The saved question paper is for your personal use only; you accept an undertaking about this when you log in.
 
 ![An OMR answer sheet with rows of bubbles and a sharpened orange pencil resting on it](/images/posts/ssc-cgl-answer-key-2026-2.webp)
 *CGL Tier 1 is online, but working out your score is the same idea. Photo: lecroitg / Wikimedia, [CC0](https://commons.wikimedia.org/w/index.php?curid=44388207)*
@@ -92,12 +94,12 @@ If you think SSC's answer is wrong, you can challenge it inside the same window:
 
 1. Pick the question in the challenge module.
 2. Choose the answer you think is correct and give your reason (a textbook reference or an official source helps).
-3. Pay the fee online. The 2026 notice says **₹100 per question, non-refundable**. Last year the answer key notice charged ₹50. Go by the fee in the 2026 answer key notice.
-4. Submit before the deadline. SSC doesn't accept challenges by email, letter or any other mode.
+3. Pay the fee online: **₹50 per question**, as per the 4 November notice (the CGL 2026 advertisement had said ₹100; the answer key notice is the one that applies).
+4. Submit before **7 November 2026, 9 PM**. SSC doesn't accept challenges by email, letter or any other mode.
 
 SSC checks all challenges and changes the key where needed. The final key is used for the result. You won't get a reply on your challenge. You only see the outcome in the final key.
 
-My advice: challenge only when you're sure, with a source. If SSC's answer is clearly wrong, other people will challenge it too. Paying ₹100 on a doubtful question rarely helps.
+My advice: challenge only when you're sure, with a source. If SSC's answer is clearly wrong, other people will challenge it too. Paying ₹50 on a doubtful question rarely helps.
 
 ## SSC CGL 2025 Tier 1 cut-off (last year)
 
@@ -133,7 +135,7 @@ Again: this is our estimate, not SSC data.
 
 ## What comes after the answer key
 
-- **Tentative key and challenges:** likely early November 2026.
+- **Tentative key and challenges:** out on 4 November; challenges close 7 November 2026, 9 PM.
 - **Tier 1 result and cut-off:** last year it came about 2 months after the key (16 October to 18 December 2025). No 2026 date yet.
 - **Final key and marks:** SSC puts these up after the result. In 2025 they came on 9 January 2026, about 3 weeks after the result.
 - **Tier 2:** the notice says December 2026 (tentative). Last year Tier 2 moved to January, so check ssc.gov.in.
@@ -142,8 +144,8 @@ If you're also writing other SSC exams this season, CHSL Tier 1 is proposed for 
 
 ## My take
 
-If your exam is already done, don't wait for the key to start Tier 2 prep. Tier 2 Paper-I has Maths, Reasoning, English, General Awareness, a computer test and a typing test (DEST), and the typing part catches many people out. Start 15 minutes of typing practice a day now.
+Don't wait for the result to start Tier 2 prep. Tier 2 Paper-I has Maths, Reasoning, English, General Awareness, a computer test and a typing test (DEST), and the typing part catches many people out. Start 15 minutes of typing practice a day now.
 
-When the key comes, download your response sheet on day one and save the PDF. Then check SSC's answers against good sources, not against Telegram channels.
+Download your response sheet today and save the PDF. Then check SSC's answers against good sources, not against Telegram channels.
 
 Always go by the official notice on [ssc.gov.in](https://ssc.gov.in/). If anything there differs from this page, follow SSC.
