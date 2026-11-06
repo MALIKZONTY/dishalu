@@ -2,7 +2,7 @@
 title: "Ramayana Release Date 5 Nov: Booking, IMAX, Runtime, Cast"
 description: "Ramayana Part 1 release date is 5 November 2026, worldwide in 5 Indian languages and IMAX. Advance booking, ticket prices, runtime, cast and trailers."
 date: 2026-10-28T18:19:58+05:30
-updated: 2026-11-03
+updated: 2026-11-06
 category: cinema
 tags: ["Ramayana", "Ramayana Part 1", "Ranbir Kapoor", "Yash", "Sai Pallavi", "Nitesh Tiwari", "Hindi movies"]
 image: /images/posts/ramayana-part-1-release-date-hero.webp
@@ -25,7 +25,9 @@ faqs:
     a: "Part 2 is planned for Diwali 2027. No exact date has been announced yet."
 ---
 
-**Update (3 November 2026):** The film is now certified **U with no cuts**, runtime **195 minutes** (Hindi version, 30 October, as reported by Sacnilk). Advance booking in India crossed **₹72.91 crore gross** (₹57.9 crore without blocked seats) by 9 AM on 3 November, as per Sacnilk via Business Today. These are trade numbers, not figures from the makers.
+**Update (6 November 2026):** Ramayana released on 5 November. Trade tracker Sacnilk puts its **opening day at ₹64.85 crore net in India** (₹77.50 crore gross) and about **₹127.50 crore gross worldwide**, including an estimated ₹50 crore from overseas. These are trade estimates. The makers haven't shared an official Day 1 figure yet. Details in the [Day 1 box office](#ramayana-box-office-collection-day-1) section below.
+
+**Earlier (3 November 2026):** The film is now certified **U with no cuts**, runtime **195 minutes** (Hindi version, 30 October, as reported by Sacnilk). Advance booking in India crossed **₹72.91 crore gross** (₹57.9 crore without blocked seats) by 9 AM on 3 November, as per Sacnilk via Business Today. These are trade numbers, not figures from the makers.
 
 **Ramayana: Part 1 releases in theatres worldwide on Thursday, 5 November 2026**, three days before Diwali. It comes out in Hindi, Tamil, Telugu, Kannada and Malayalam, and in premium formats including IMAX.
 
@@ -89,6 +91,27 @@ In the US, tickets are on sale through Fandango, with IMAX and 3D shows at selec
 
 ![Outside of the IMAX theatre building in Sydney, a curved grey tower with the IMAX name on its front and palm trees below](/images/posts/ramayana-part-1-release-date-2.webp)
 *An IMAX theatre in Sydney. The film was shot for IMAX and plays in IMAX in India and abroad. Photo: Vanbasten 23 / Wikimedia, [CC BY-SA 3.0](https://commons.wikimedia.org/w/index.php?curid=137663056)*
+
+## Ramayana box office collection Day 1
+
+The numbers below are from **Sacnilk**, a trade tracker, as of 6 November. They are estimates, not official figures. The makers haven't put out a Day 1 number yet; we'll add it here if they do, labelled as claimed by the makers.
+
+| Day 1 (5 Nov 2026) | Reported by Sacnilk |
+|---|---|
+| India net | ₹64.85 crore |
+| India gross | ₹77.50 crore |
+| Overseas gross | About ₹50 crore |
+| Worldwide gross | About ₹127.50 crore |
+| Footfalls in India | About 25.26 lakh |
+| Hindi net | ₹47.50 crore |
+| Kannada / Telugu net | ₹7.25 crore / ₹6.00 crore |
+| Tamil / Malayalam net | ₹2.60 crore / ₹1.50 crore |
+
+What this means, simply: a very big start, but not the ₹100 crore India opening some had predicted. Hindi brought in about three-quarters of the India money. In the South, Kannada did best, which makes sense with Yash as Ravana.
+
+Early-evening numbers on 5 November were lower (some reports said ₹40–55 crore) because night shows weren't counted yet. If you see a smaller Day 1 figure on another site, that's probably why.
+
+The real test is the Diwali weekend. From 6 November, Ramayana shares screens with new Tamil and Hollywood releases, so watch the Day 2 and Day 3 numbers.
 
 ## Is IMAX worth it for Ramayana?
 
@@ -156,4 +179,4 @@ And please skip "Ramayana full movie download" links. They're piracy sites, and 
 
 Book early if you care about the format. The IMAX numbers say the big screens will be full on the first weekend, and the regular shows will be easier to find in week two.
 
-The 3-hour-15-minute runtime is the real question. Dangal proved Nitesh Tiwari can hold attention for a long film, but a mythology epic that is mostly setup for Part 2 is harder. I'll update this page with the confirmed certificate, runtime and opening-day numbers (as claimed by the makers) after 5 November.
+The 3-hour-15-minute runtime is the real question. Dangal proved Nitesh Tiwari can hold attention for a long film, but a mythology epic that is mostly setup for Part 2 is harder. The certificate (U) and runtime are confirmed, and the opening day was big by trade estimates. I'll add the first-weekend numbers, and the makers' own figure if they share one, next week.
