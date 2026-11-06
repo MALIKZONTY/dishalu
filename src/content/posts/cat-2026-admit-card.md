@@ -1,7 +1,8 @@
 ---
-title: "CAT 2026 Admit Card on 4 Nov: Exam 29 Nov, 170 Cities"
-description: "CAT 2026 admit card comes out on 4 November at iimcat.ac.in for the 29 November exam. How to download it, details to check, and the exam-day rules to know."
+title: "CAT 2026 Admit Card Out 6 Nov: Exam 29 Nov, 170 Cities"
+description: "CAT 2026 admit card is out on 6 November at iimcat.ac.in for the 29 November exam. How to download it, details to check, and the exam-day rules to know."
 date: 2026-11-03T19:32:24+05:30
+updated: 2026-11-06
 category: careers
 tags: ["CAT 2026", "admit card", "IIM", "MBA entrance"]
 image: /images/posts/cat-2026-admit-card-hero.webp
@@ -11,7 +12,7 @@ imageCreditUrl: "https://commons.wikimedia.org/w/index.php?curid=56323433"
 sourceUrl: "https://iimidr.ac.in/wp-content/uploads/2026/07/CAT2026_Advertisement_.pdf"
 faqs:
   - q: "When will the CAT 2026 admit card be released?"
-    a: "On 4 November 2026, as per the official CAT 2026 advertisement by IIM Indore. You can download it on iimcat.ac.in any time from 4 November till the exam day, 29 November."
+    a: "On 6 November 2026. The advertisement had said 4 November, but IIM Indore's media release of 4 November moved the download window to 6–29 November 2026, on iimcat.ac.in only."
   - q: "How do I download the CAT 2026 admit card?"
     a: "Go to iimcat.ac.in, log in with the User ID and password you created at registration, and open the admit card link on your dashboard. Download the PDF and take a clear colour print on A4 paper."
   - q: "What is the CAT 2026 exam date?"
@@ -24,7 +25,9 @@ faqs:
     a: "IIM Indore. All disputes about CAT 2026 fall under the courts in Indore, as per the advertisement."
 ---
 
-The **CAT 2026 admit card comes out on 4 November 2026** on [iimcat.ac.in](https://iimcat.ac.in). You can download it any time until **29 November**, which is also the exam day. That's straight from the official CAT 2026 advertisement published by IIM Indore, the convening IIM this year.
+**Update (6 November 2026):** The **CAT 2026 admit card download begins today, 6 November 2026,** on [iimcat.ac.in](https://iimcat.ac.in). The advertisement had said 4 November, but IIM Indore's [media release of 4 November (PDF)](https://g03.tcsion.com//per/g03/pub/726/EForms/image/ImageDocUpload/71161/7/9901914301.pdf) moved the window to **6–29 November**. It also says admit cards have been generated for all eligible candidates, and a free mock test is live on the CAT website from 6 November.
+
+You can download the card any time until **29 November**, which is also the exam day. IIM Indore is the convening IIM this year.
 
 So if you registered by the 15 September deadline, keep your login ready. Download the card on the first or second day, not the night before.
 
@@ -32,7 +35,8 @@ So if you registered by the 15 September deadline, keep your login ready. Downlo
 |---|---|
 | Exam | Common Admission Test (CAT) 2026 |
 | Conducting IIM | IIM Indore |
-| Admit card download | 4 November to 29 November 2026 |
+| Admit card download | 6 November to 29 November 2026 (revised from 4 Nov) |
+| Mock test | Live on iimcat.ac.in from 6 November 2026 |
 | Exam date | 29 November 2026 (Sunday) |
 | Sessions | 3 |
 | Mode | Computer-based test |
@@ -42,7 +46,11 @@ So if you registered by the 15 September deadline, keep your login ready. Downlo
 
 ## CAT 2026 admit card release date and time
 
-The advertisement gives the admit card window as **"November 04 to 29, 2026"**. It doesn't give a time. In past years the link went live in the afternoon of the release day, so if it isn't there in the morning, wait.
+The advertisement first gave the window as "November 04 to 29, 2026". On 4 November, IIM Indore put out a media release saying admit cards can be downloaded **between 6 November and 29 November 2026**, only from iimcat.ac.in with your CAT login ID and password. The home page now lists "Nov 06, 2026: CAT 2026 Admit Card Download Begins".
+
+No time is given. In past years the link went live in the afternoon of the release day, so if it isn't there in the morning, wait.
+
+The same release says IIMs have added extra security this year: **face matching** at the centre and **mobile jammers** at select locations. So make sure the photo on your card looks like you on exam day, and don't carry a phone into the hall expecting to use it.
 
 On release day the site is usually slow because lakhs of candidates log in at once. If it doesn't load, try again after an hour. Nothing changes if you download on day 1 or day 3. What matters is that you check the details early, while there's time to fix a problem.
 
