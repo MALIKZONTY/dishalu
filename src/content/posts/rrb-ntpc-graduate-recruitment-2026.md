@@ -1,8 +1,8 @@
 ---
-title: "RRB NTPC Graduate Recruitment 2026: 3,548 Posts, Ends 6 Nov"
+title: "RRB NTPC Graduate Recruitment 2026: 3,548 Posts, Ends 8 Nov"
 description: "RRB NTPC Graduate recruitment 2026 (CEN 06/2026): 3,548 posts incl. 2,750 Goods Train Manager. Eligibility, age, fee, vacancies, exam pattern, how to apply."
 date: 2026-10-08T13:15:03+05:30
-updated: 2026-10-14
+updated: 2026-11-07
 category: govt-exams
 tags: ["RRB NTPC", "Railway jobs", "Goods Train Manager", "RRB", "Graduate jobs"]
 image: /images/posts/rrb-ntpc-graduate-recruitment-2026-hero.webp
@@ -12,7 +12,7 @@ imageCreditUrl: "https://commons.wikimedia.org/w/index.php?curid=82498466"
 sourceUrl: "https://www.rrbapply.gov.in/assets/forms/CEN_06_2026_NTPC_G.pdf"
 faqs:
   - q: "What is the last date to apply for RRB NTPC Graduate 2026?"
-    a: "The last date is 6 November 2026, 11:59 PM. You can pay the fee till 8 November 2026. Applications opened on 8 October 2026 at rrbapply.gov.in."
+    a: "The last date was extended from 6 November to 8 November 2026 (11:59 PM) through RRB's Corrigendum-1 dated 6 November, as widely reported. The fee also has to be paid by 8 November. The correction window stays 9 to 18 November."
   - q: "How many vacancies are there in RRB NTPC Graduate 2026?"
     a: "There are 3,548 posts under CEN 06/2026: 2,750 Goods Train Manager, 371 Senior Clerk cum Typist, 300 Junior Accounts Assistant cum Typist and 127 Chief Commercial cum Ticket Supervisor."
   - q: "What is the age limit for RRB NTPC Graduate 2026?"
@@ -25,7 +25,9 @@ faqs:
     a: "No. CEN 06/2026 has only 4 posts: Chief Commercial cum Ticket Supervisor, Goods Train Manager, Junior Accounts Assistant cum Typist and Senior Clerk cum Typist. There is no Station Master post this time."
 ---
 
-**RRB NTPC Graduate recruitment 2026 is out with 3,548 posts.** Online applications opened on **8 October 2026** and close on **6 November 2026 (11:59 PM)**. Any graduate aged **18 to 33** (as on 1 January 2027) can apply, with the usual age relaxation for reserved categories.
+**Update (7 November 2026):** RRB has **extended the last date to 8 November 2026 (11:59 PM)**, from 6 November, through Corrigendum-1 dated 6 November (as reported by several exam portals; the notice is listed on the RRB regional websites). Fee payment also ends on 8 November. The correction window is unchanged at 9–18 November. If you haven't applied, do it today, not at 11 PM tomorrow.
+
+**RRB NTPC Graduate recruitment 2026 is out with 3,548 posts.** Online applications opened on **8 October 2026** and now close on **8 November 2026 (11:59 PM)** after a 2-day extension. Any graduate aged **18 to 33** (as on 1 January 2027) can apply, with the usual age relaxation for reserved categories.
 
 Most of the posts this time (2,750) are for **Goods Train Manager**. There's no typing test and no Station Master post. Here's everything from the official notification, CEN 06/2026.
 
@@ -34,7 +36,7 @@ Most of the posts this time (2,750) are for **Goods Train Manager**. There's no 
 | Recruiting body | Railway Recruitment Boards (RRBs), Ministry of Railways |
 | Notification | CEN 06/2026, NTPC (Graduate) |
 | Total posts | **3,548** |
-| Apply online | 8 October to **6 November 2026** (11:59 PM) |
+| Apply online | 8 October to **8 November 2026** (11:59 PM), extended from 6 November |
 | Last date for fee payment | 8 November 2026 |
 | Correction window | 9 to 18 November 2026 (₹250 per correction) |
 | Qualification | Any graduate degree |
@@ -84,7 +86,7 @@ You can apply to **only one RRB**, so this table matters. Pick it carefully, bec
 
 A **degree from a recognised university** (or equivalent) for all 4 posts. Any stream works: BA, BCom, BSc, BTech and so on.
 
-You must have the degree **on or before 6 November 2026**. If you're still waiting for your final-year result, you can't apply. This is the most common reason applications get rejected at document verification.
+You must have the degree **on or before 6 November 2026** (the original closing date in the notification; reports on the corrigendum don't say whether this cut-off also moves, so play safe and go by 6 November). If you're still waiting for your final-year result, you can't apply. This is the most common reason applications get rejected at document verification.
 
 ### Age limit (as on 1 January 2027)
 
@@ -162,7 +164,7 @@ If you're from a science background, also look at the [RRB Paramedical 2026](/rr
 
 ## What happens next
 
-- **6 November:** applications close (fee by 8 November).
+- **8 November (11:59 PM):** applications and fee payment close (extended from 6 November).
 - **9–18 November:** correction window.
 - **CBT 1 date:** not announced yet. RRB will post it on [rrb.indianrailways.gov.in](https://rrb.indianrailways.gov.in), and you'll get an SMS and email. City slips usually come about 10 days before the exam, and admit cards about 4 days before.
 
