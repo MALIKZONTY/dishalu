@@ -1,7 +1,8 @@
 ---
-title: "UPSSSC PET Answer Key 2026 Out: 6 Shift PDFs, Till 8 Nov"
+title: "UPSSSC PET Answer Key 2026 Out: Objection Till 12 Nov"
 description: "UPSSSC PET answer key 2026 is out for all 6 shifts. Shift-wise links, how to calculate your score with negative marking, objection status and what comes next."
 date: 2026-11-03T19:27:49+05:30
+updated: 2026-11-07
 category: govt-exams
 tags: ["UPSSSC PET", "answer key", "UPSSSC", "UP govt jobs"]
 image: /images/posts/upsssc-pet-answer-key-2026-hero.webp
@@ -13,7 +14,7 @@ faqs:
   - q: "Is the UPSSSC PET answer key 2026 out?"
     a: "Yes. UPSSSC released the provisional answer key for all 6 shifts on 2 November 2026 (notice No. 249). The keys are master-set keys, shift-wise, and stay on upsssc.gov.in till 8 November 2026."
   - q: "What is the last date for UPSSSC PET 2026 objections?"
-    a: "UPSSSC's 2 November notice does not mention objections. It only says the provisional keys will stay online till 8 November. Some websites say ₹50 per question, but no official objection notice is out yet. Watch the notice board on upsssc.gov.in."
+    a: "12 November 2026. UPSSSC's notice No. 253 dated 6 November 2026 opened online objections through shift-wise links on upsssc.gov.in. The fee is ₹100 per objection, paid online, and you must upload a PDF proof under 5 MB."
   - q: "How do I calculate my UPSSSC PET 2026 score?"
     a: "Give yourself 1 mark for each right answer and cut 0.25 for each wrong answer. Unattempted questions get 0. So 70 right and 16 wrong is 70 minus 4, which is 66 out of 100."
   - q: "My question paper set does not match the answer key order. Why?"
@@ -23,6 +24,8 @@ faqs:
   - q: "Is there a pass mark in UPSSSC PET?"
     a: "No fixed pass mark is set for PET itself. Your normalised score is used to shortlist you for each mains exam, and each mains advertisement sets its own cut-off."
 ---
+
+**Update (7 November 2026):** UPSSSC has opened **online objections** against the provisional keys (notice No. 253, dated 6 November). The **last date is 12 November 2026**, the fee is **₹100 per objection**, and you have to upload a PDF proof (under 5 MB). Shift-wise objection links and steps are below.
 
 The **UPSSSC PET answer key 2026 is out**. UPSSSC uploaded the provisional keys for all 6 shifts (25 October, 30 October and 1 November) on **2 November 2026**, and they will stay on upsssc.gov.in **till 8 November**.
 
@@ -38,7 +41,7 @@ If you wrote PET this year, download the key for your date and shift today and w
 | Key available till | 8 November 2026 |
 | Type of key | Master set, shift-wise |
 | Marking | +1 per right answer, −0.25 per wrong answer |
-| Objections | No official objection notice yet (see below) |
+| Objections | Open online till **12 November 2026**, ₹100 per objection (notice No. 253, 6 Nov) |
 | Official site | [upsssc.gov.in](https://upsssc.gov.in) |
 
 ## UPSSSC PET answer key 2026: shift-wise links
@@ -94,23 +97,42 @@ Two things to keep in mind:
 ![Crowd of candidates waiting outside an exam centre building under trees](/images/posts/upsssc-pet-answer-key-2026-2.webp)
 *Candidates waiting outside an exam centre. Photo: Biswarup Ganguly / Wikimedia, [CC BY 3.0](https://commons.wikimedia.org/w/index.php?curid=15275101)*
 
-## UPSSSC PET 2026 objection: what is official so far
+## UPSSSC PET 2026 objection: last date 12 November
 
-Here is where many websites are getting ahead of the facts.
+UPSSSC's notice No. 253, dated **6 November 2026**, opened the objection window. You can challenge any answer in the provisional key **till 12 November 2026**. After that the links close on their own.
 
-UPSSSC's notice No. 249, dated 2 November 2026, says only two things: the shift-wise provisional keys are uploaded, and they'll stay online **till 8 November 2026**. It does **not** give an objection window, an objection fee or an objection link.
+| Exam date | Shift | Objection link |
+|---|---|---|
+| 25 October 2026 | Shift 1 | [Raise objection](https://examqp.com/upssscPET26ShiftIv01n/) |
+| 25 October 2026 | Shift 2 | [Raise objection](https://examqp.com/upssscPET26ShiftIIv02b/) |
+| 30 October 2026 | Shift 1 | [Raise objection](https://examqp.com/upssscPET26ShiftI30v04c/) |
+| 30 October 2026 | Shift 2 | [Raise objection](https://examqp.com/upssscPET26ShiftII30v05d/) |
+| 1 November 2026 | Shift 1 | [Raise objection](https://examqp.com/upssscPET26ShiftI01v07e/) |
+| 1 November 2026 | Shift 2 | [Raise objection](https://examqp.com/upssscPET26ShiftII01v08f/) |
 
-Some websites say objections are open "till 8 November". Others say they open "from 8 November" at ₹50 per question. Neither is in any notice on upsssc.gov.in as of 3 November evening.
+These are the links printed in UPSSSC's notice and listed in the Announcements box on upsssc.gov.in. Use the one for **your own date and shift**.
 
-For comparison, last year (PET 2025) UPSSSC ran a separate online objection window after the key, at ₹100 per objection. That's last year's process, not this year's.
+### How to raise an objection
 
-What you should do:
+1. Open the link for your shift and log in with your **roll number, registration number, date of birth** and the captcha.
+2. Read the instructions, tick the checkbox and click **CONTINUE**.
+3. Click **"Proceed to raise question paper objection"** and pick the question.
+4. Select the answer you think is right and write a short reason in the text box.
+5. Upload your proof as a **PDF file under 5 MB**.
+6. Click **PAY NOW** and pay **₹100 per objection** online.
+7. Use **View/Print Objection Summary** to save a printout.
 
-- **Check the notice board on upsssc.gov.in every day till 8 November.** If an objection notice comes, it will be listed there.
-- **Prepare your proof now.** If you think an answer is wrong, note the question and find the answer in an NCERT book or an official government page. Screenshots from YouTube or coaching apps are weak proof.
-- **Ignore anyone asking for money to "fix" your marks.** Only UPSSSC can change the key.
+Three rules from the notice that catch people out:
 
-We'll update this page as soon as UPSSSC puts out an objection notice.
+- **You can submit only once.** Once you pay, you can't change or add to your objections. So list all your objections first, then submit them together.
+- **Question numbers follow the provisional (master set) key,** not your booklet. Find the question by its text.
+- **No objections by post or letter.** Only the online link counts.
+
+### Is it worth ₹100?
+
+Only if you're sure and have solid proof. An NCERT book page, a government website or an official report works. A coaching app screenshot doesn't. One mark can matter in a normalised score, but paying for five weak objections is just ₹500 gone.
+
+And ignore anyone who asks for money to "fix" your marks. Only UPSSSC can change the key.
 
 ## What comes after the provisional answer key
 
