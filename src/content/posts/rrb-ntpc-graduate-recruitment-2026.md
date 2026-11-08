@@ -2,7 +2,7 @@
 title: "RRB NTPC Graduate Recruitment 2026: 3,548 Posts, Ends 8 Nov"
 description: "RRB NTPC Graduate recruitment 2026 (CEN 06/2026): 3,548 posts incl. 2,750 Goods Train Manager. Eligibility, age, fee, vacancies, exam pattern, how to apply."
 date: 2026-10-08T13:15:03+05:30
-updated: 2026-11-07
+updated: 2026-11-08
 category: govt-exams
 tags: ["RRB NTPC", "Railway jobs", "Goods Train Manager", "RRB", "Graduate jobs"]
 image: /images/posts/rrb-ntpc-graduate-recruitment-2026-hero.webp
@@ -25,7 +25,9 @@ faqs:
     a: "No. CEN 06/2026 has only 4 posts: Chief Commercial cum Ticket Supervisor, Goods Train Manager, Junior Accounts Assistant cum Typist and Senior Clerk cum Typist. There is no Station Master post this time."
 ---
 
-**Update (7 November 2026):** RRB has **extended the last date to 8 November 2026 (11:59 PM)**, from 6 November, through Corrigendum-1 dated 6 November (as reported by several exam portals; the notice is listed on the RRB regional websites). Fee payment also ends on 8 November. The correction window is unchanged at 9–18 November. If you haven't applied, do it today, not at 11 PM tomorrow.
+**Update (8 November 2026):** **Today, 8 November, is the last day to apply and pay the fee**, until 11:59 PM on rrbapply.gov.in. No further extension has been announced. If you've already applied, the correction window runs from **9 to 18 November**. If you miss today, the [RRB NTPC Undergraduate 2026](/rrb-ntpc-undergraduate-recruitment-2026) form for 12th-pass posts is open till 13 November.
+
+**Earlier (7 November 2026):** RRB has **extended the last date to 8 November 2026 (11:59 PM)**, from 6 November, through Corrigendum-1 dated 6 November (as reported by several exam portals; the notice is listed on the RRB regional websites). Fee payment also ends on 8 November. The correction window is unchanged at 9–18 November.
 
 **RRB NTPC Graduate recruitment 2026 is out with 3,548 posts.** Online applications opened on **8 October 2026** and now close on **8 November 2026 (11:59 PM)** after a 2-day extension. Any graduate aged **18 to 33** (as on 1 January 2027) can apply, with the usual age relaxation for reserved categories.
 

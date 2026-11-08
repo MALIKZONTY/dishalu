@@ -2,7 +2,7 @@
 title: "SSC CGL Answer Key 2026 Out: Challenge Till 7 Nov, ₹50 Fee"
 description: "SSC CGL answer key 2026 for Tier 1 is out with response sheets. Challenge till 7 Nov, 9 PM at ₹50 per question. Score calculation and last year's cut-off."
 date: 2026-10-17T10:39:15+05:30
-updated: 2026-11-06
+updated: 2026-11-08
 category: govt-exams
 tags: ["SSC CGL", "answer key", "cut-off", "SSC"]
 image: /images/posts/ssc-cgl-answer-key-2026-hero.webp
@@ -27,7 +27,9 @@ faqs:
     a: "The CGL 2026 notice gives December 2026 as the tentative Tier 2 schedule. SSC hasn't confirmed exact dates yet."
 ---
 
-**Update (6 November 2026):** The **SSC CGL answer key 2026** for Tier 1 is out. SSC put up the tentative key with your response sheet on **4 November 2026**. You can challenge any answer until **7 November 2026, 9 PM**, at **₹50 per question**.
+**Update (8 November 2026):** The **challenge window closed on 7 November at 9 PM**, and SSC said response sheets wouldn't be available after that. SSC will now review the challenges. The **Tier 1 result date hasn't been announced**. Last year the result came about 2 months after the key, and the final key and marks came after the result. We'll update this page when the result is out.
+
+**Earlier (6 November 2026):** The **SSC CGL answer key 2026** for Tier 1 is out. SSC put up the tentative key with your response sheet on **4 November 2026**. You can challenge any answer until **7 November 2026, 9 PM**, at **₹50 per question**.
 
 Log in at [ssc.gov.in](https://ssc.gov.in/) with your registration number and password. Download your response sheet now: SSC says it won't be available after the window closes. Below: how to check it, how to work out your score, and what last year's cut-off tells you.
 

@@ -2,7 +2,7 @@
 title: "UPSSSC PET Answer Key 2026 Out: Objection Till 12 Nov"
 description: "UPSSSC PET answer key 2026 is out for all 6 shifts. Shift-wise links, how to calculate your score with negative marking, objection status and what comes next."
 date: 2026-11-03T19:27:49+05:30
-updated: 2026-11-07
+updated: 2026-11-08
 category: govt-exams
 tags: ["UPSSSC PET", "answer key", "UPSSSC", "UP govt jobs"]
 image: /images/posts/upsssc-pet-answer-key-2026-hero.webp
@@ -25,7 +25,9 @@ faqs:
     a: "No fixed pass mark is set for PET itself. Your normalised score is used to shortlist you for each mains exam, and each mains advertisement sets its own cut-off."
 ---
 
-**Update (7 November 2026):** UPSSSC has opened **online objections** against the provisional keys (notice No. 253, dated 6 November). The **last date is 12 November 2026**, the fee is **₹100 per objection**, and you have to upload a PDF proof (under 5 MB). Shift-wise objection links and steps are below.
+**Update (8 November 2026):** Today is the **last day the provisional keys stay on upsssc.gov.in**, so download the key for your shift now if you haven't. The **objection window stays open till 12 November**. There's no new PET notice after No. 253, and no result date yet.
+
+**Earlier (7 November 2026):** UPSSSC has opened **online objections** against the provisional keys (notice No. 253, dated 6 November). The **last date is 12 November 2026**, the fee is **₹100 per objection**, and you have to upload a PDF proof (under 5 MB). Shift-wise objection links and steps are below.
 
 The **UPSSSC PET answer key 2026 is out**. UPSSSC uploaded the provisional keys for all 6 shifts (25 October, 30 October and 1 November) on **2 November 2026**, and they will stay on upsssc.gov.in **till 8 November**.
 
