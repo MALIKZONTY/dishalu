@@ -2,7 +2,7 @@
 title: "RRB NTPC Graduate Recruitment 2026: 3,548 Posts, Ends 8 Nov"
 description: "RRB NTPC Graduate recruitment 2026 (CEN 06/2026): 3,548 posts incl. 2,750 Goods Train Manager. Eligibility, age, fee, vacancies, exam pattern, how to apply."
 date: 2026-10-08T13:15:03+05:30
-updated: 2026-11-08
+updated: 2026-11-09
 category: govt-exams
 tags: ["RRB NTPC", "Railway jobs", "Goods Train Manager", "RRB", "Graduate jobs"]
 image: /images/posts/rrb-ntpc-graduate-recruitment-2026-hero.webp
@@ -25,7 +25,9 @@ faqs:
     a: "No. CEN 06/2026 has only 4 posts: Chief Commercial cum Ticket Supervisor, Goods Train Manager, Junior Accounts Assistant cum Typist and Senior Clerk cum Typist. There is no Station Master post this time."
 ---
 
-**Update (8 November 2026):** **Today, 8 November, is the last day to apply and pay the fee**, until 11:59 PM on rrbapply.gov.in. No further extension has been announced. If you've already applied, the correction window runs from **9 to 18 November**. If you miss today, the [RRB NTPC Undergraduate 2026](/rrb-ntpc-undergraduate-recruitment-2026) form for 12th-pass posts is open till 13 November.
+**Update (9 November 2026):** **Applications are now closed.** The last date to apply and pay the fee was 8 November 2026 (11:59 PM). If you applied, the **correction window is open from 9 to 18 November** on rrbapply.gov.in: log in and fix any mistake before 18 November, because there is no change after that. The CBT 1 date hasn't been announced yet. Missed it? The [RRB NTPC Undergraduate 2026](/rrb-ntpc-undergraduate-recruitment-2026) form for 12th-pass posts is open till 13 November.
+
+**Earlier (8 November 2026):** **8 November was the last day to apply and pay the fee**, until 11:59 PM on rrbapply.gov.in. No further extension has been announced. If you've already applied, the correction window runs from **9 to 18 November**. If you missed it, the [RRB NTPC Undergraduate 2026](/rrb-ntpc-undergraduate-recruitment-2026) form for 12th-pass posts is open till 13 November.
 
 **Earlier (7 November 2026):** RRB has **extended the last date to 8 November 2026 (11:59 PM)**, from 6 November, through Corrigendum-1 dated 6 November (as reported by several exam portals; the notice is listed on the RRB regional websites). Fee payment also ends on 8 November. The correction window is unchanged at 9–18 November.
 
