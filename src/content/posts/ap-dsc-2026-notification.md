@@ -1,6 +1,7 @@
 ---
 title: "AP DSC 2026 Notification: 2,721 Posts, Apply 11–30 Nov"
 description: "AP DSC 2026 notification: 2,721 teacher posts (SA, SGT, special education, PGT, TGT). Age limit, TET weightage, exam pattern, fee and how to apply 11–30 Nov."
+updated: 2026-11-11
 date: 2026-11-08T14:40:00+05:30
 category: govt-exams
 tags: ["AP DSC 2026", "AP DSC notification", "APTRT 2026", "teacher recruitment", "Andhra Pradesh jobs", "SGT", "School Assistant"]
@@ -23,6 +24,8 @@ faqs:
   - q: "What is the AP DSC 2026 application fee?"
     a: "₹1,000 for each post you apply for, paid online through the payment gateway on tet2dsc.apcfss.in."
 ---
+
+**Update (11 November 2026):** The online application window is **open now** on [tet2dsc.apcfss.in](https://tet2dsc.apcfss.in/) and closes on **30 November 2026**. The Information Bulletin for School Education posts is also out ([PDF](https://tet2dsc.apcfss.in/DSC2026/info_bulletian/School%20Education%20General%20Posts%20Inforamtion%20Bulletin.pdf)). It lists **6 helpline numbers**, available on working days from 10 AM to 5:30 PM; they're in the [How to apply](#how-to-apply-for-ap-dsc-2026) section below.
 
 **The AP DSC 2026 notification is out for 2,721 teacher posts in Andhra Pradesh.** The School Education Department issued the detailed notifications on 5 November. **Apply online from 11 to 30 November 2026** on tet2dsc.apcfss.in. The computer based test (CBT) starts from **20 December 2026**.
 
@@ -159,12 +162,16 @@ Minimum qualifying marks on the combined score: **40% for OC/EWS, 35% for BC, 30
 
 ## How to apply for AP DSC 2026
 
-1. Go to [tet2dsc.apcfss.in](https://tet2dsc.apcfss.in/) from **11 November**. Read the Information Bulletin and User Guide first.
+1. Go to [tet2dsc.apcfss.in](https://tet2dsc.apcfss.in/) (open from **11 November** to **30 November**). Read the [Information Bulletin](https://tet2dsc.apcfss.in/DSC2026/info_bulletian/School%20Education%20General%20Posts%20Inforamtion%20Bulletin.pdf) first. Separate bulletins for Special Education and Societies posts are on the same site.
 2. Pay **₹1,000 for each post** you want through the payment gateway.
 3. Fill in the online form: personal details, local status, category, qualifications and TET details.
 4. **Mark your post and management preferences in order**, for example 1st SA Maths, 2nd SA Physical Science, 3rd SGT. Once you're selected for a higher preference, your name is removed from the other lists.
 5. Check everything before final submission. **There is no edit option after you submit.** The only change allowed later is a one-time reorder of preferences for 7 days after the merit list comes out.
 6. Download and save the application.
+
+If you apply for more than one post, use **one application** and pay ₹1,000 extra for each additional post. Don't fill a second form.
+
+**Helpline (School Education Department):** 8121947387, 7995649286, 8125046997, 7386282388, 6281704160, 7995789286. Working days, 10 AM to 5:30 PM, as per the Information Bulletin.
 
 Upload your certificates in your login **within 7 days of the merit list**. EWS candidates need an FY 2025-26 income certificate issued on or after 1 April 2026.
 

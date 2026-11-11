@@ -1,6 +1,7 @@
 ---
 title: "HPRCA PGT Recruitment 2026: 2,423 Posts, Ends 5 Dec"
 description: "HPRCA PGT recruitment 2026 (Advt 14/2026) has 2,423 teacher posts in HP CBSE schools at ₹30,000 a month. Subject-wise vacancies, eligibility, fee, how to apply."
+updated: 2026-11-11
 date: 2026-11-06T10:47:28+05:30
 category: govt-exams
 tags: ["HPRCA", "HP PGT", "Himachal teacher recruitment", "PGT", "Himachal Pradesh"]
@@ -24,7 +25,7 @@ faqs:
     a: "₹800 for all categories (₹100 examination fee plus ₹700 processing fee), paid online only. There is no category-wise concession in this notice."
 ---
 
-Himachal Pradesh Rajya Chayan Aayog (HPRCA), Hamirpur has released **Advertisement No. 14/2026** for **2,423 subject teacher posts** in government CBSE-affiliated schools of Himachal Pradesh. The online form opens on **10 November 2026** and closes on **5 December 2026 at 11:59 PM**.
+Himachal Pradesh Rajya Chayan Aayog (HPRCA), Hamirpur has released **Advertisement No. 14/2026** for **2,423 subject teacher posts** in government CBSE-affiliated schools of Himachal Pradesh. The online form opened on **10 November 2026** and closes on **5 December 2026 at 11:59 PM**.
 
 You need a master's degree in your subject, a B.Ed and a TET pass for most subjects. But read this first: **these are not regular PGT lecturer posts.** They're 5-year, scheme-based engagements on a fixed ₹30,000 a month. More on that below.
 

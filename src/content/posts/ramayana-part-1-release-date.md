@@ -1,8 +1,8 @@
 ---
-title: "Ramayana Release Date 5 Nov: Booking, IMAX, Runtime, Cast"
-description: "Ramayana Part 1 release date is 5 November 2026, worldwide in 5 Indian languages and IMAX. Advance booking, ticket prices, runtime, cast and trailers."
+title: "Ramayana Box Office Day 6: ₹823 Cr Worldwide, BMS Records"
+description: "Ramayana box office collection day-wise: ₹440 crore net in India and ₹823 crore worldwide in 6 days, BookMyShow ticket records, IMAX, runtime and cast."
 date: 2026-10-28T18:19:58+05:30
-updated: 2026-11-09
+updated: 2026-11-11
 category: cinema
 tags: ["Ramayana", "Ramayana Part 1", "Ranbir Kapoor", "Yash", "Sai Pallavi", "Nitesh Tiwari", "Hindi movies"]
 image: /images/posts/ramayana-part-1-release-date-hero.webp
@@ -11,6 +11,10 @@ imageCredit: "Photo: Ministry of Culture, Government of India / Wikimedia, GODL-
 imageCreditUrl: "https://commons.wikimedia.org/w/index.php?curid=71565408"
 sourceUrl: "https://www.primefocusstudios.com/news/step-into-the-world-of-ramayana"
 faqs:
+  - q: "What is the Ramayana box office collection so far?"
+    a: "After 6 days (5–10 November 2026), trade tracker Sacnilk puts Ramayana Part 1 at ₹440.45 crore net in India (₹526.50 crore gross) and about ₹823.50 crore gross worldwide. These are trade estimates. The makers haven't shared official figures yet."
+  - q: "What records has Ramayana set on BookMyShow?"
+    a: "As per trade trackers, Ramayana sold about 16.6 lakh tickets on BookMyShow on Monday, 9 November, the most ever for a Hindi film in a single day, and over 1 lakh tickets in a single hour. Pushpa 2 (about 17.6 lakh on its first day) still holds the all-time single-day record. BookMyShow hasn't put out its own statement."
   - q: "What is the release date of Ramayana Part 1?"
     a: "Ramayana Part 1 releases in theatres worldwide on Thursday, 5 November 2026. The makers announced the date on 11 October 2026. An earlier international trailer had said 6 November, but 5 November is the final date."
   - q: "Has Ramayana advance booking started?"
@@ -25,19 +29,13 @@ faqs:
     a: "Part 2 is planned for Diwali 2027. No exact date has been announced yet."
 ---
 
-**Update (9 November 2026):** Diwali Sunday (Day 4) added **₹56.15 crore net in India**, as per Sacnilk, about 20% lower than Saturday. The **4-day India total is ₹238.85 crore net** (₹285.20 crore gross), and Sacnilk puts the **4-day worldwide gross at about ₹499 crore**, just short of ₹500 crore. Hindi dropped on Diwali day, but all four South versions grew. The makers still haven't shared official figures.
+**Update (11 November 2026):** Ramayana made **₹107.50 crore net in India on Monday (Day 5)** and **₹94.10 crore on Tuesday (Day 6)**, as per Sacnilk. That takes it to **₹440.45 crore net in India** and about **₹823.50 crore gross worldwide in 6 days**. On BookMyShow, trackers say it sold about **16.6 lakh tickets on Monday**, the biggest single day ever for a Hindi film. These are trade estimates; the makers haven't shared official figures yet. Day-wise table and BookMyShow records [below](#ramayana-box-office-collection-day-wise).
 
-**Earlier (8 November 2026):** Saturday's Day 3 climbed back to **₹69.80 crore net in India**, as per Sacnilk, up about 45% from Friday and higher than Day 1. The 3-day India total is **₹182.70 crore net** (₹218.25 crore gross), and Sacnilk puts the **3-day worldwide gross at about ₹384 crore**. Diwali Sunday (Day 4) is still being counted. The makers haven't shared official figures yet.
+**Earlier:** Day 1 ₹64.85 crore (6 Nov), Day 2 ₹48.05 crore (7 Nov), Day 3 ₹69.80 crore (8 Nov), Day 4 (Diwali) ₹56.15 crore (9 Nov), all Sacnilk India net. Before release, the film was certified **U with no cuts**, runtime **195 minutes** (30 October, as reported by Sacnilk).
 
-**Earlier (7 November 2026):** Day 2 (Friday, 6 November) brought in **₹48.05 crore net in India**, as per Sacnilk, a drop of about 26% from Day 1. That takes the 2-day India total to about **₹112.90 crore net**. Saturday's Day 3 numbers are still being counted. The makers haven't shared official figures yet. Day-wise table in the [box office](#ramayana-box-office-collection-day-1) section.
+**Ramayana: Part 1 released in theatres worldwide on Thursday, 5 November 2026**, three days before Diwali, in Hindi, Tamil, Telugu, Kannada and Malayalam, and in premium formats including IMAX.
 
-**Earlier (6 November 2026):** Ramayana released on 5 November. Trade tracker Sacnilk puts its **opening day at ₹64.85 crore net in India** (₹77.50 crore gross) and about **₹127.50 crore gross worldwide**, including an estimated ₹50 crore from overseas. These are trade estimates. The makers haven't shared an official Day 1 figure yet. Details in the [Day 1 box office](#ramayana-box-office-collection-day-1) section below.
-
-**Earlier (3 November 2026):** The film is now certified **U with no cuts**, runtime **195 minutes** (Hindi version, 30 October, as reported by Sacnilk). Advance booking in India crossed **₹72.91 crore gross** (₹57.9 crore without blocked seats) by 9 AM on 3 November, as per Sacnilk via Business Today. These are trade numbers, not figures from the makers.
-
-**Ramayana: Part 1 releases in theatres worldwide on Thursday, 5 November 2026**, three days before Diwali. It comes out in Hindi, Tamil, Telugu, Kannada and Malayalam, and in premium formats including IMAX.
-
-Advance booking in India has been open since Dussehra (20 October). If you want an IMAX seat on the first weekend, book now. Premium shows in the big cities are filling first, and some IMAX tickets cost well over ₹2,000.
+After a normal Diwali weekend, it exploded on the holiday Monday: **₹107.50 crore net in one day**, and **₹823.50 crore worldwide in 6 days**, as per Sacnilk. If you still want an IMAX seat, weekday shows in week two are your best bet.
 
 | Detail | Information |
 |---|---|
@@ -50,7 +48,8 @@ Advance booking in India has been open since Dussehra (20 October). If you want 
 | Cast | Ranbir Kapoor, Sai Pallavi, Yash, Sunny Deol, Ravie Dubey |
 | Music | Hans Zimmer and A.R. Rahman (soundtrack on T-Series) |
 | Distribution | Dharma Productions (Hindi markets in North India), Sony Pictures (outside India) |
-| Advance booking | Open since 20 October 2026 |
+| Box office (6 days, Sacnilk) | **₹440.45 crore net India, ₹823.50 crore gross worldwide** |
+| Advance booking | Opened 20 October 2026 (BookMyShow, District) |
 | Runtime | 3 hours 15 minutes (195 min, Hindi version, per CBFC certification as reported) |
 | Certificate | U, no cuts (30 October 2026, as reported) |
 | Part 2 | Diwali 2027 |
@@ -98,9 +97,51 @@ In the US, tickets are on sale through Fandango, with IMAX and 3D shows at selec
 ![Outside of the IMAX theatre building in Sydney, a curved grey tower with the IMAX name on its front and palm trees below](/images/posts/ramayana-part-1-release-date-2.webp)
 *An IMAX theatre in Sydney. The film was shot for IMAX and plays in IMAX in India and abroad. Photo: Vanbasten 23 / Wikimedia, [CC BY-SA 3.0](https://commons.wikimedia.org/w/index.php?curid=137663056)*
 
-## Ramayana box office collection Day 1
+## Ramayana box office collection day-wise
 
-The numbers below are from **Sacnilk**, a trade tracker, as of 6 November. They are estimates, not official figures. The makers haven't put out a Day 1 number yet; we'll add it here if they do, labelled as claimed by the makers.
+All numbers here are from **Sacnilk**, a trade tracker. They are estimates, not official figures. The makers (Prime Focus Studios) haven't shared any collection figure yet; we'll add it, labelled as claimed by the makers, if they do.
+
+| Day | India net (Sacnilk) |
+|---|---|
+| Day 1, Thu 5 Nov | ₹64.85 crore |
+| Day 2, Fri 6 Nov | ₹48.05 crore |
+| Day 3, Sat 7 Nov | ₹69.80 crore |
+| Day 4, Sun 8 Nov (Diwali) | ₹56.15 crore |
+| Day 5, Mon 9 Nov | **₹107.50 crore** |
+| Day 6, Tue 10 Nov | ₹94.10 crore |
+| **Total, 6 days** | **₹440.45 crore** |
+
+| 6-day total (Sacnilk, 11 Nov) | Figure |
+|---|---|
+| India net | ₹440.45 crore |
+| India gross | ₹526.50 crore |
+| Overseas gross | About ₹297 crore |
+| **Worldwide gross** | **About ₹823.50 crore** |
+
+By language (India net, 6 days): Hindi ₹336 crore, Kannada ₹41.20 crore, Telugu ₹33 crore, Tamil ₹17.35 crore, Malayalam ₹12.90 crore.
+
+The holiday Monday changed the story. Day 5 was almost double Sunday, and the Hindi version alone did about ₹87 crore. Trade reports call it only the second Hindi film, after Dhurandhar 2, to net ₹100 crore in India in a single day. Tuesday held at ₹94 crore, only about 12% lower, which tells you the crowd isn't just first-week fans.
+
+## Ramayana BookMyShow records
+
+BookMyShow hasn't put out an official statement. These numbers come from trackers (mainly Sacnilk), so treat them as close estimates.
+
+| Record | What trackers reported |
+|---|---|
+| Biggest single day for a Hindi film | About 16.6 lakh tickets on Monday, 9 Nov (Dhurandhar 2's best was about 16.4 lakh) |
+| All-time single day (any film) | Still Pushpa 2, about 17.6 lakh tickets on its first day |
+| Hourly sales | Over 1 lakh tickets in a single hour on Monday; reports of the peak hour vary from about 1.2 lakh to 1.4 lakh |
+| Tickets in the first 5 days | About 71.36 lakh, including about 10.6 lakh sold before release |
+| Opening weekend (4 days) | About 54.76 lakh tickets, including advance booking |
+| First Tuesday | 5.46 lakh tickets by 3 PM, more than double Dhurandhar 2 at the same time; Pushpa 2's full-day first Tuesday was about 7.55 lakh |
+
+You'll see different "hourly record" numbers on different sites. That's because BookMyShow shows a live "booked in last 24 hours" count, and each tracker samples it at a different time. The single-day numbers are more reliable than the hourly ones.
+
+IMAX also did well: trade reports say it had the biggest worldwide IMAX opening for an Indian film, close to $6 million.
+
+### How Day 1 looked
+
+The Day 1 figures below are from Sacnilk, as of 6 November. They are estimates, not official figures. The makers haven't put out a Day 1 number yet; we'll add it here if they do, labelled as claimed by the makers.
 
 | Day 1 (5 Nov 2026) | Reported by Sacnilk |
 |---|---|
@@ -117,17 +158,7 @@ What this means, simply: a very big start, but not the ₹100 crore India openin
 
 Early-evening numbers on 5 November were lower (some reports said ₹40–55 crore) because night shows weren't counted yet. If you see a smaller Day 1 figure on another site, that's probably why.
 
-### Day 2 and day-wise collection
-
-| Day | India net (Sacnilk) |
-|---|---|
-| Day 1, Thu 5 Nov | ₹64.85 crore |
-| Day 2, Fri 6 Nov | ₹48.05 crore (Hindi ₹35.50 crore) |
-| Day 3, Sat 7 Nov | ₹69.80 crore (Hindi ₹53 crore) |
-| Day 4, Sun 8 Nov (Diwali) | ₹56.15 crore (Hindi ₹36.75 crore) |
-| **Total, 4 days** | **₹238.85 crore** |
-
-After 4 days, Sacnilk reports **₹285.20 crore gross in India**, about **₹214 crore gross overseas** and about **₹499.20 crore gross worldwide** (overseas figures are rough estimates). By language, Hindi has brought in ₹172.75 crore net (about 72%), Kannada ₹25.95 crore, Telugu ₹23 crore, Tamil ₹9.75 crore and Malayalam ₹7.40 crore.
+### First weekend
 
 A drop of about 26% on the first Friday is normal for a film that opened on a Thursday with heavy advance booking. Most of the keen fans had already watched it on Day 1.
 
@@ -135,7 +166,7 @@ Saturday answered the big question. A 45% jump from Friday, and a number above t
 
 Diwali Sunday (Day 4) came in lower at ₹56.15 crore, which is what usually happens: evening shows on Lakshmi Puja day are light, and the Hindi version fell about 31% from Saturday. 
 
-The South versions went the other way. Kannada, Telugu, Tamil and Malayalam all grew on Sunday, a good sign for the second week. Monday (Day 5) is the real test, since it's the first normal working day after the holiday. These are still trade estimates; we'll add the makers' figure here, labelled as claimed by the makers, if they share one.
+The South versions went the other way. Kannada, Telugu, Tamil and Malayalam all grew on Sunday, a good sign for the second week. Then Monday, a holiday in many states after Diwali, did ₹107.50 crore. The second week will show how much of that was the holiday.
 
 ## Is IMAX worth it for Ramayana?
 
@@ -203,4 +234,4 @@ And please skip "Ramayana full movie download" links. They're piracy sites, and 
 
 Book early if you care about the format. The IMAX numbers say the big screens will be full on the first weekend, and the regular shows will be easier to find in week two.
 
-The 3-hour-15-minute runtime is the real question. Dangal proved Nitesh Tiwari can hold attention for a long film, but a mythology epic that is mostly setup for Part 2 is harder. The certificate (U) and runtime are confirmed, and the opening day was big by trade estimates. I'll add the first-weekend numbers, and the makers' own figure if they share one, next week.
+The 3-hour-15-minute runtime is the real question. Dangal proved Nitesh Tiwari can hold attention for a long film, but a mythology epic that is mostly setup for Part 2 is harder. Going by the first week, the audience has answered that. A ₹100 crore Monday doesn't happen on fan hype alone. I'll keep adding the week 1 and week 2 numbers here, and the makers' own figure if they share one.

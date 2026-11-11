@@ -1,6 +1,7 @@
 ---
 title: "RRC NR Apprentice 2026: 4,651 Posts, Apply 11 Nov–11 Dec"
 description: "RRC NR Apprentice 2026: 4,651 Act Apprentice seats in Northern Railway for 10th + ITI. No exam, merit list. Cluster-wise seats, age, fee and how to apply."
+updated: 2026-11-11
 date: 2026-11-09T10:52:32+05:30
 category: govt-exams
 tags: ["RRC NR Apprentice", "Northern Railway apprentice", "railway apprentice 2026", "ITI jobs", "10th pass jobs", "Act Apprentice", "rrcnr.org"]
@@ -24,7 +25,7 @@ faqs:
     a: "No. The notice clearly says training does not give any right to a railway job afterwards. But the hands-on training and the Act Apprentice certificate from a railway unit can help when you later apply for railway jobs like RRB Group D or ALP."
 ---
 
-**RRC Northern Railway has notified 4,651 Act Apprentice seats, and the online form opens on 11 November 2026 on rrcnr.org.** The last date is **11 December 2026 (11:59 pm)**. You need **10th with at least 50% marks plus an ITI** in the matching trade.
+**RRC Northern Railway has notified 4,651 Act Apprentice seats, and the online form is open from 11 November 2026 on rrcnr.org.** The last date is **11 December 2026 (11:59 pm)**. You need **10th with at least 50% marks plus an ITI** in the matching trade.
 
 The best part: **there is no exam**. The merit list is made from your 10th and ITI marks. So if your marks are good, this is one of the easiest railway training seats you can get this year.
 
@@ -133,7 +134,7 @@ Pay online only. Transaction charges are on you, and the fee is not refunded, ev
 
 ## How to apply for RRC NR Apprentice 2026
 
-The link goes live on **11 November 2026**. Keep these ready first:
+The form is open from **11 November 2026** to **11 December 2026**. Keep these ready first:
 
 - 10th certificate and marksheet (also used as DOB proof)
 - ITI consolidated marksheet / provisional NTC with marks
