@@ -1,7 +1,7 @@
 ---
 title: "RRC NR Apprentice 2026: 4,651 Posts, Apply 11 Nov–11 Dec"
 description: "RRC NR Apprentice 2026: 4,651 Act Apprentice seats in Northern Railway for 10th + ITI. No exam, merit list. Cluster-wise seats, age, fee and how to apply."
-updated: 2026-11-11
+updated: 2026-11-12
 date: 2026-11-09T10:52:32+05:30
 category: govt-exams
 tags: ["RRC NR Apprentice", "Northern Railway apprentice", "railway apprentice 2026", "ITI jobs", "10th pass jobs", "Act Apprentice", "rrcnr.org"]
@@ -24,6 +24,8 @@ faqs:
   - q: "Will I get a permanent railway job after the apprenticeship?"
     a: "No. The notice clearly says training does not give any right to a railway job afterwards. But the hands-on training and the Act Apprentice certificate from a railway unit can help when you later apply for railway jobs like RRB Group D or ALP."
 ---
+
+**Update (12 November 2026):** The form is live on rrcnr.org. If you get stuck while applying, RRC NR's help desk is on **9560268721 and 9560268722**, 9:30 am to 6 pm, except holidays. Details are in the [help desk section](#rrc-nr-apprentice-2026-help-desk) below.
 
 **RRC Northern Railway has notified 4,651 Act Apprentice seats, and the online form is open from 11 November 2026 on rrcnr.org.** The last date is **11 December 2026 (11:59 pm)**. You need **10th with at least 50% marks plus an ITI** in the matching trade.
 
@@ -153,6 +155,19 @@ Steps:
 6. Submit and **print** the application and the fee receipt.
 
 You **can't edit after the final submission**, and you can apply **only once**. If you send more than one form, all of them are rejected. The notice also asks you not to wait for the last few days, because the site slows down.
+
+## RRC NR Apprentice 2026 help desk
+
+RRC NR's official site lists these contacts (checked on 12 November 2026):
+
+| Contact | Details |
+|---|---|
+| Help desk (mobile) | 9560268721, 9560268722 |
+| Timing | 9:30 am to 6 pm, except holidays |
+| Office phone | 011-2982 5106 |
+| Email | info@rrcnr.org |
+
+Call during working hours with your registration number ready. The notice says rrcnr.org is the main source for all updates, so check the site rather than WhatsApp forwards. Nobody at RRC will ask you for money to "confirm" a seat.
 
 ## Important dates
 

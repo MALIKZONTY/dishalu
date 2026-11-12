@@ -2,7 +2,7 @@
 title: "UPSSSC PET Answer Key 2026 Out: Objection Till 12 Nov"
 description: "UPSSSC PET answer key 2026 is out for all 6 shifts. Shift-wise links, how to calculate your score with negative marking, objection status and what comes next."
 date: 2026-11-03T19:27:49+05:30
-updated: 2026-11-08
+updated: 2026-11-12
 category: govt-exams
 tags: ["UPSSSC PET", "answer key", "UPSSSC", "UP govt jobs"]
 image: /images/posts/upsssc-pet-answer-key-2026-hero.webp
@@ -25,7 +25,9 @@ faqs:
     a: "No fixed pass mark is set for PET itself. Your normalised score is used to shortlist you for each mains exam, and each mains advertisement sets its own cut-off."
 ---
 
-**Update (8 November 2026):** Today is the **last day the provisional keys stay on upsssc.gov.in**, so download the key for your shift now if you haven't. The **objection window stays open till 12 November**. There's no new PET notice after No. 253, and no result date yet.
+**Update (12 November 2026):** Today is the **last day to raise objections**. The shift-wise links on upsssc.gov.in are listed to stay up only till today, so if you have a solid objection, submit it before midnight. After this, UPSSSC reviews the objections and then releases the **final answer key and result**. Neither has a date yet. UPSSSC has put out no new PET notice since No. 253.
+
+**Earlier (8 November 2026):** That was the **last day the provisional keys stayed on upsssc.gov.in**.
 
 **Earlier (7 November 2026):** UPSSSC has opened **online objections** against the provisional keys (notice No. 253, dated 6 November). The **last date is 12 November 2026**, the fee is **₹100 per objection**, and you have to upload a PDF proof (under 5 MB). Shift-wise objection links and steps are below.
 
@@ -43,7 +45,7 @@ If you wrote PET this year, download the key for your date and shift today and w
 | Key available till | 8 November 2026 |
 | Type of key | Master set, shift-wise |
 | Marking | +1 per right answer, −0.25 per wrong answer |
-| Objections | Open online till **12 November 2026**, ₹100 per objection (notice No. 253, 6 Nov) |
+| Objections | Online till **12 November 2026 (last day)**, ₹100 per objection (notice No. 253, 6 Nov) |
 | Official site | [upsssc.gov.in](https://upsssc.gov.in) |
 
 ## UPSSSC PET answer key 2026: shift-wise links
@@ -138,7 +140,7 @@ And ignore anyone who asks for money to "fix" your marks. Only UPSSSC can change
 
 ## What comes after the provisional answer key
 
-- **Final answer key:** after any objections are reviewed. No date yet.
+- **Final answer key:** after the objections that closed on 12 November are reviewed. No date yet.
 - **Result and score card:** no date announced yet. Your score card will show your normalised score.
 - **Score validity:** 3 years from the result date, as per the PET 2026 advertisement. If you hold more than one valid PET score, your best one is used when you apply for a mains exam.
 - **Mains exams:** PET is only the gateway. UPSSSC then advertises separate mains exams for Group C posts. Right now, the open mains advertisements (such as Combined Junior Engineer Mechanical, apply till 25 November) shortlist from **PET 2025** scores. PET 2026 scores will be used for advertisements after the result.
