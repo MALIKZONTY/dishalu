@@ -2,7 +2,7 @@
 title: "IBPS Recruitment 2026: Server Admin, Assistant, Ends 12 Nov"
 description: "IBPS recruitment 2026 for Server Administrator, Assistant and Programming Assistant at IBPS Mumbai. Pay up to ₹14 lakh CTC, ₹250 fee, apply by 12 November."
 date: 2026-11-04T09:30:00+05:30
-updated: 2026-11-12
+updated: 2026-11-13
 category: govt-exams
 tags: ["IBPS recruitment", "IBPS", "Server Administrator", "Programming Assistant", "Mumbai jobs", "experienced jobs"]
 image: /images/posts/ibps-recruitment-2026-server-administrator-assistant-hero.webp
@@ -25,7 +25,7 @@ faqs:
     a: "At IBPS, Kandivali (East), Mumbai. The online test, document check and interview all happen there, usually on the same day, at your own cost."
 ---
 
-**Update (12 November 2026):** **Today is the last day** to apply and pay the fee. IBPS's careers page shows no extension notice. If you've filled the form, check that you got the email and SMS with your registration number. The exam date hasn't been announced yet; the advertisement only says November 2026 (tentative). We'll add it when IBPS puts out the call letters.
+**Update (13 November 2026):** **Applications closed on 12 November.** IBPS didn't extend the deadline. If you applied, keep the email and SMS with your registration number safe. You'll need it for the call letter. The exam date hasn't been announced yet; the advertisement only says November 2026 (tentative). We'll add it when IBPS puts out the call letters.
 
 **IBPS recruitment 2026 is open for three in-house posts: Server Administrator, Assistant and Programming Assistant.** These aren't bank jobs. You'd work for IBPS itself, at its office in Kandivali (East), Mumbai. **The last date to apply is 12 November 2026**, and the fee is ₹250.
 

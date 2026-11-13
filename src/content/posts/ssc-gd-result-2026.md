@@ -2,7 +2,7 @@
 title: "SSC GD Result 2026 Out: Cut-Off, 1.97 Lakh Qualify for PET"
 description: "SSC GD result 2026 is out: 1,97,408 candidates qualify for PET/PST. State-wise cut-off for men and women, how to check your name and what comes next."
 date: 2026-10-12T20:16:00+05:30
-updated: 2026-11-03
+updated: 2026-11-13
 category: govt-exams
 tags: ["SSC GD", "SSC", "result", "cut-off", "CAPF"]
 image: /images/posts/ssc-gd-result-2026-hero.webp
@@ -18,14 +18,16 @@ faqs:
   - q: "What is the SSC GD 2026 cut-off for UR?"
     a: "It depends on your state, gender and area. For UR men in the General area, it ranges from about 65 in Kerala to 127 in Rajasthan and 126 in Uttar Pradesh. For the SSF (All-India), the UR male cut-off is 146.17817."
   - q: "When is the SSC GD PET/PST 2026?"
-    a: "The date isn't announced yet. CRPF is the nodal force this time and will put out the schedule and admit cards on rect.crpf.gov.in."
+    a: "Job portals report PET/PST from 26 November to 11 December 2026, with admit cards out on 12 November, but no official notice was visible on ssc.gov.in or rect.crpf.gov.in on 13 November. CRPF is the nodal force, so check your call letter for your own date and centre."
   - q: "Are SSC GD 2026 marks out?"
     a: "Yes. SSC put out the CBT marks, final answer keys and question paper cum response sheets on 3 November 2026. You can see them from 3 November (5 PM) to 17 November 2026 (5 PM) by logging in on ssc.gov.in. Take a printout, because they won't be available after that."
   - q: "What are the minimum qualifying marks in SSC GD 2026?"
     a: "30% for UR, 25% for OBC and EWS, and 20% for SC, ST and ex-servicemen, without NCC bonus marks. Scoring this much doesn't mean you're shortlisted. You also have to reach your state's cut-off."
 ---
 
-**Update (3 November 2026):** SSC has uploaded the **CBT marks, final answer keys and response sheets** (notice dated 3 November). Log in on ssc.gov.in to see yours from **3 November, 5 PM to 17 November, 5 PM**, and save a printout. There's still no PET/PST date from CRPF.
+**Update (13 November 2026):** Several job portals report that the **PET/PST admit card came out on 12 November** and that the physical tests run from **26 November to 11 December 2026**. I could not find this notice on ssc.gov.in or rect.crpf.gov.in yet, so treat these dates as reported, not official, until your own call letter shows them. Your marks and final key are still viewable on ssc.gov.in till **17 November, 5 PM**. Save a copy before then.
+
+**Earlier (3 November 2026):** SSC has uploaded the **CBT marks, final answer keys and response sheets** (notice dated 3 November). Log in on ssc.gov.in to see yours from **3 November, 5 PM to 17 November, 5 PM**, and save a printout. There's still no PET/PST date from CRPF.
 
 The **SSC GD result 2026 is out**. The Staff Selection Commission declared the Constable (GD) CBT result on **12 October 2026**, and **1,97,408 candidates** have been shortlisted for the physical test (PET/PST).
 
@@ -149,7 +151,7 @@ Where a reserved seat had no candidates, SSC used these minimum marks as the cut
 ![An empty red running track with white lane lines on a curve](/images/posts/ssc-gd-result-2026-2.webp)
 *Photo: Rawpixel, [CC0](https://www.rawpixel.com/image/6017346/photo-image-public-domain-free-sport)*
 
-The CAPFs will hold the Physical Efficiency Test (running) and Physical Standard Test (height, chest, weight). This time **CRPF is the nodal force**, so call letters will come from [rect.crpf.gov.in](https://rect.crpf.gov.in), not from SSC. **No PET date has been announced yet.**
+The CAPFs will hold the Physical Efficiency Test (running) and Physical Standard Test (height, chest, weight). This time **CRPF is the nodal force**, so call letters will come from [rect.crpf.gov.in](https://rect.crpf.gov.in), not from SSC. **Reported dates (not yet on the official sites as of 13 November): PET/PST from 26 November to 11 December 2026.** Go by the date and centre printed on your own call letter.
 
 After PET/PST, the stages are:
 

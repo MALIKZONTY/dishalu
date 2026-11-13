@@ -2,7 +2,7 @@
 title: "Ramayana Box Office Week 1: ₹934 Cr Worldwide, ₹511 Cr Net"
 description: "Ramayana box office collection day-wise: ₹511 crore net in India and ₹934 crore worldwide in week 1, BookMyShow ticket records, IMAX, runtime and cast."
 date: 2026-10-28T18:19:58+05:30
-updated: 2026-11-12
+updated: 2026-11-13
 category: cinema
 tags: ["Ramayana", "Ramayana Part 1", "Ranbir Kapoor", "Yash", "Sai Pallavi", "Nitesh Tiwari", "Hindi movies"]
 image: /images/posts/ramayana-part-1-release-date-hero.webp
@@ -29,7 +29,9 @@ faqs:
     a: "Part 2 is planned for Diwali 2027. No exact date has been announced yet."
 ---
 
-**Update (12 November 2026):** Ramayana made **₹70.65 crore net in India on Wednesday (Day 7)**, as per Sacnilk. That closes the first week at **₹511.10 crore net in India** (₹611.05 crore gross) and about **₹934.55 crore gross worldwide**, with ₹323.50 crore from overseas. These are trade estimates; the makers still haven't shared official figures. ₹1,000 crore worldwide now looks likely by the second weekend.
+**Update (13 November 2026):** Ramayana has **crossed ₹1,000 crore worldwide in 8 days**, as per Sacnilk. It made **₹53.50 crore net in India on Thursday (Day 8)**, which takes the total to **₹564.60 crore net in India** (₹675.05 crore gross) and about **₹1,033.55 crore gross worldwide**. Sacnilk lists it as the 11th Indian film to cross ₹1,000 crore. These are trade estimates. The makers haven't shared an official figure yet.
+
+**Earlier (12 November):** Ramayana made **₹70.65 crore net in India on Wednesday (Day 7)**, as per Sacnilk. That closes the first week at **₹511.10 crore net in India** (₹611.05 crore gross) and about **₹934.55 crore gross worldwide**, with ₹323.50 crore from overseas. These are trade estimates; the makers still haven't shared official figures.
 
 **Earlier (11 November):** Ramayana made **₹107.50 crore net in India on Monday (Day 5)** and **₹94.10 crore on Tuesday (Day 6)**, as per Sacnilk. That takes it to **₹440.45 crore net in India** and about **₹823.50 crore gross worldwide in 6 days**. On BookMyShow, trackers say it sold about **16.6 lakh tickets on Monday**, the biggest single day ever for a Hindi film. Day-wise table and BookMyShow records [below](#ramayana-box-office-collection-day-wise).
 
@@ -113,6 +115,8 @@ All numbers here are from **Sacnilk**, a trade tracker. They are estimates, not 
 | Day 6, Tue 10 Nov | ₹94.10 crore |
 | Day 7, Wed 11 Nov | ₹70.65 crore |
 | **Week 1 total (7 days)** | **₹511.10 crore** |
+| Day 8, Thu 12 Nov | ₹53.50 crore |
+| **Total after 8 days** | **₹564.60 crore** |
 
 | Week 1 total (Sacnilk, 11 Nov) | Figure |
 |---|---|
@@ -125,7 +129,9 @@ By language (India net, 6 days): Hindi ₹336 crore, Kannada ₹41.20 crore, Tel
 
 The holiday Monday changed the story. Day 5 was almost double Sunday, and the Hindi version alone did about ₹87 crore. Trade reports call it only the second Hindi film, after Dhurandhar 2, to net ₹100 crore in India in a single day. Tuesday held at ₹94 crore, only about 12% lower, which tells you the crowd isn't just first-week fans.
 
-Wednesday (Day 7) came down to ₹70.65 crore, about 25% below Tuesday, which is a normal drop once the holiday ends. It is still more than the opening day. Hindi did ₹58 crore of it, Kannada ₹4.50 crore, Telugu and Malayalam ₹2.75 crore each and Tamil ₹2.65 crore. The second Friday is the next test: a strong number there and ₹1,000 crore worldwide is a matter of days.
+Wednesday (Day 7) came down to ₹70.65 crore, about 25% below Tuesday, which is a normal drop once the holiday ends. It is still more than the opening day. Hindi did ₹58 crore of it, Kannada ₹4.50 crore, Telugu and Malayalam ₹2.75 crore each and Tamil ₹2.65 crore.
+
+Thursday (Day 8) fell another 24% to ₹53.50 crore (Hindi ₹43 crore, Kannada ₹3.25 crore, Malayalam ₹2.80 crore, Telugu ₹2.30 crore, Tamil ₹2.15 crore). It was still enough to push the worldwide gross past ₹1,000 crore (about ₹1,033.55 crore, Sacnilk). The second weekend now decides how far past ₹600 crore net in India it goes.
 
 ## Ramayana BookMyShow records
 
