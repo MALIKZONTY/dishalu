@@ -2,7 +2,7 @@
 title: "TCS NQT October 2026: Last Date 7 Oct, Fee, Is It Worth It?"
 description: "TCS NQT October 2026: apply by 7 October, test on 19 October. Fee from ₹599, who can apply, what the score really gets you, and who should skip it."
 date: 2026-10-04T15:57:00+05:30
-updated: 2026-10-12T17:00:00+05:30
+updated: 2026-11-13
 category: careers
 tags: ["TCS NQT", "TCS iON", "freshers jobs", "off campus", "aptitude test"]
 image: /images/posts/tcs-nqt-october-2026-last-date-hero.webp
@@ -27,7 +27,9 @@ faqs:
     a: "Your score is valid for 2 years from the date the result is published. You can retake the test, and only your best score is shown."
 ---
 
-**Update (12 October):** October registrations closed on 7 October, and that test is on **19 October**. If you missed it, the **November cycle is open now**: apply before **12 November 2026** for the test on **24 November 2026**, per the official TCS iON page. Same fee and eligibility.
+**Update (13 November 2026):** The November cycle registration also **closed on 12 November**. Its test is on **24 November 2026**. If you missed both, watch the TCS iON NQT page for the next cycle.
+
+**Earlier (12 October):** October registrations closed on 7 October, and that test is on **19 October**. If you missed it, the **November cycle is open now**: apply before **12 November 2026** for the test on **24 November 2026**, per the official TCS iON page. Same fee and eligibility.
 
 **TCS NQT October 2026 applications closed on 7 October 2026**, and the test is on **19 October 2026**. It's open to final and pre-final year students and to freshers who passed between 2022 and 2028. The cheapest version costs ₹599.
 

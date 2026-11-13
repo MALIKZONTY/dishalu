@@ -2,7 +2,7 @@
 title: "UGC NET December 2026: Apply by 28 Oct, Exam from 14 Dec"
 description: "UGC NET December 2026 registration is open till 28 October. Exam 14–18 and 21 Dec. Fee, eligibility, JRF age limit, exam pattern and how to apply."
 date: 2026-10-15T13:39:05+05:30
-updated: 2026-10-24T09:30:00+05:30
+updated: 2026-11-13
 category: govt-exams
 tags: ["UGC NET", "UGC NET December 2026", "NTA", "JRF", "Assistant Professor"]
 image: /images/posts/ugc-net-december-2026-registration-hero.webp
@@ -25,7 +25,9 @@ faqs:
     a: "No. Each question carries 2 marks and there is no negative marking. Attempt every question; a blank gets zero anyway."
 ---
 
-**Update (24 Oct):** NTA issued a **corrigendum on 16 October** with an updated Information Bulletin. The exam is now on **14 to 18 December and 21 December 2026** (earlier 14 to 19 December). The **exam city slip comes from 23 November** and the **admit card from 7 December**. A few exam-day rules changed too. See [what changed](#what-the-16-october-corrigendum-changed).
+**Update (13 November 2026):** Registration and the correction window are **closed**. The next step is the **exam city slip from 23 November**, then the **admit card from 7 December**. The exam runs on **14–18 and 21 December 2026**.
+
+**Earlier (24 Oct):** NTA issued a **corrigendum on 16 October** with an updated Information Bulletin. The exam is now on **14 to 18 December and 21 December 2026** (earlier 14 to 19 December). The **exam city slip comes from 23 November** and the **admit card from 7 December**. A few exam-day rules changed too. See [what changed](#what-the-16-october-corrigendum-changed).
 
 **UGC NET December 2026 registration is open till 28 October 2026 (11:50 PM).** The exam is on **14 to 18 and 21 December 2026** in 87 subjects, as a computer-based test. If you have a Master's degree with 55% (50% for reserved categories), or you're in the final year of one, you can apply.
 

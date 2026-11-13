@@ -2,6 +2,7 @@
 title: "OAVS Recruitment 2026: 815 Teacher Posts, Apply by 11 Nov"
 description: "OAVS recruitment 2026 has 815 Principal, PGT, TGT, Art, PET and Computer Teacher posts in Odisha. Eligibility, age, fee, exam pattern and how to apply."
 date: 2026-10-21T10:44:27+05:30
+updated: 2026-11-13
 category: govt-exams
 tags: ["OAVS", "Odisha teacher recruitment", "TGT", "PGT", "teacher jobs"]
 image: /images/posts/oavs-recruitment-2026-hero.webp
@@ -23,6 +24,8 @@ faqs:
   - q: "Can candidates from outside Odisha apply for OAVS posts?"
     a: "The notice doesn't bar them. But you must teach in both Odia and English medium, the CBT has a qualifying Odia section, and you must pass Odia up to ME standard within 3 years of joining if you haven't already."
 ---
+
+**Update (13 November 2026):** Applications **closed on 11 November at 5 PM**. OAVS will announce the CBT date and admit cards on oav.edu.in. Keep your application number safe.
 
 **OAVS recruitment 2026 is open for 815 posts** of Principal and teachers in Odisha Adarsha Vidyalayas (OAVs) and Odisha Mining Adarsha Vidyalayas (OMAVs). The **last date is 11 November 2026, 5:00 PM**, and you apply only on [oav.edu.in](https://oav.edu.in/invitation-of-applications.php).
 

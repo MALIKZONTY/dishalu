@@ -2,7 +2,7 @@
 title: "RRB NTPC Undergraduate 2026: 1,688 Posts, Apply by 13 Nov"
 description: "RRB NTPC Undergraduate 2026 (CEN 07/2026): 1,688 posts for 12th pass, apply 15 Oct to 13 Nov. Official dates, likely posts, age, fee and exam pattern."
 date: 2026-10-14T11:24:14+05:30
-updated: 2026-10-15T13:19:13+05:30
+updated: 2026-11-13
 category: govt-exams
 tags: ["RRB NTPC", "RRB NTPC UG", "Railway jobs", "12th pass jobs", "RRB"]
 image: /images/posts/rrb-ntpc-undergraduate-recruitment-2026-hero.webp
@@ -24,6 +24,8 @@ faqs:
   - q: "What is the RRB NTPC UG 2026 application fee?"
     a: "₹500 for General, OBC and EWS, of which ₹400 is refunded after you appear in CBT 1. ₹250 for SC, ST, women, ex-servicemen, PwBD, transgender, minorities and EBC, fully refunded (minus bank charges) after CBT 1."
 ---
+
+**Update (13 November 2026):** **Applications close on 13 November 2026 (11:59 PM)** on rrbapply.gov.in, with no extension so far. You can pay the fee till **15 November**, and fix mistakes in the correction window from **16 to 25 November** (₹250). The CBT 1 date isn't out yet.
 
 **RRB NTPC Undergraduate 2026 applications are open from 15 October to 13 November 2026 (11:59 PM).** There are **1,688 posts** for 12th pass candidates under **CEN 07/2026**: Commercial cum Ticket Clerk, Junior Clerk cum Typist, Accounts Clerk cum Typist and Trains Clerk. The age limit is **18 to 30** as on 1 January 2027.
 

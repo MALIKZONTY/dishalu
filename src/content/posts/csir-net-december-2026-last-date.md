@@ -2,6 +2,7 @@
 title: "CSIR NET December 2026: Apply by 5 Nov, Exam 19–27 Dec"
 description: "CSIR NET December 2026 registration closes on 5 November. Exam on 19, 22 and 27 December. Eligibility, age limit, fee, JRF stipend, pattern and how to apply."
 date: 2026-10-26T15:15:21+05:30
+updated: 2026-11-13
 category: govt-exams
 tags: ["CSIR NET", "CSIR UGC NET", "NTA", "JRF", "December 2026"]
 image: /images/posts/csir-net-december-2026-last-date-hero.webp
@@ -23,6 +24,8 @@ faqs:
   - q: "What is the application fee for CSIR NET December 2026?"
     a: "The fee is ₹1,150 for General, ₹600 for General-EWS and OBC-NCL, and ₹325 for SC, ST, PwD and third gender candidates. Bank charges and GST are extra."
 ---
+
+**Update (13 November 2026):** Registration (5 November), the late-fee window (9 November) and the correction window (10–12 November) are all **closed**. Next: the exam city slip and admit card on csirnet.nta.nic.in. The exam is on **19, 22 and 27 December 2026**.
 
 The National Testing Agency (NTA) is taking applications for **CSIR NET December 2026** (Joint CSIR-UGC NET) on csirnet.nta.nic.in. The **last date is 5 November 2026**, and the exam is on **19, 22 and 27 December 2026**. Miss the date and you can still apply till 9 November, but with ₹500 extra.
 

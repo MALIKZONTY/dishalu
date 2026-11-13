@@ -2,6 +2,7 @@
 title: "ISRO SDSC SHAR Recruitment 2026: 97 Posts, Apply by 9 Nov"
 description: "ISRO SDSC SHAR Recruitment 2026: 97 Technician B, Technical Assistant, MTS and Driver posts for 10th, ITI, diploma, B.Sc. Eligibility, age, fee, how to apply."
 date: 2026-10-22T09:59:39+05:30
+updated: 2026-11-13
 category: govt-exams
 tags: ["ISRO recruitment", "SDSC SHAR", "Sriharikota", "Technician B", "Technical Assistant", "ITI jobs", "central govt jobs"]
 image: /images/posts/isro-sdsc-shar-recruitment-2026-hero.webp
@@ -23,6 +24,8 @@ faqs:
   - q: "What is the ISRO Technician B salary?"
     a: "Technician 'B' is at Pay Level 3 (₹21,700 to ₹69,100). ISRO says the starting gross pay is about ₹34,720 a month (basic plus DA), with HRA and transport allowance extra."
 ---
+
+**Update (13 November 2026):** Applications **closed on 9 November**. SDSC SHAR will send CBT call letters through apps.shar.gov.in. No exam date has been announced yet.
 
 **ISRO SDSC SHAR Recruitment 2026 is open for 97 posts, and the last date to apply is 9 November 2026 (11:59 pm).** Satish Dhawan Space Centre, the Sriharikota spaceport where India's rockets take off, wants Technicians, Technical Assistants, Multi-Tasking Staff, Drivers, a Nurse, Firemen and more.
 

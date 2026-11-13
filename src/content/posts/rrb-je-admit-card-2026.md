@@ -2,6 +2,7 @@
 title: "RRB JE Admit Card 2026 Out: CBT 1 on 27–28 Oct, 4,029 Posts"
 description: "RRB JE admit card 2026 (CEN 04/2026) is out for CBT 1 on 27 and 28 Oct. How to download it, what to carry, Aadhaar rules, exam pattern and what comes next."
 date: 2026-10-24T18:55:54+05:30
+updated: 2026-11-13
 category: govt-exams
 tags: ["RRB JE", "admit card", "RRB", "railway jobs", "CEN 04/2026", "diploma jobs"]
 image: /images/posts/rrb-je-admit-card-2026-hero.webp
@@ -23,6 +24,8 @@ faqs:
   - q: "Will I get my RRB JE exam fee back?"
     a: "Yes, if you appear in CBT 1. General candidates get ₹400 of the ₹500 back. SC, ST, ExSM, PwBD, female, transgender, minority and EBC candidates get the full ₹250 back. Bank charges are deducted."
 ---
+
+**Update (13 November 2026):** CBT 1 is over. RRB websites now show an **Objection Tracker for CEN 04/2026**, and job portals report that the **CBT 1 answer key and response sheets came out on 11 November**, with objections open till **17 November (11:59 PM)** at ₹50 per question. I couldn't open the notice itself (the RRB pages block automated access), so confirm the dates in your login on your RRB's website.
 
 **The RRB JE admit card 2026 is out.** Railway Recruitment Boards have put up the e-call letters for **CBT 1 of CEN 04/2026** on their regional websites (the link is dated 23 October 2026). The exam is on **27 and 28 October 2026**.
 

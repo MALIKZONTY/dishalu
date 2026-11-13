@@ -2,7 +2,7 @@
 title: "IBPS Clerk Admit Card 2026 Out: Download Link and Exam Dates"
 description: "IBPS Clerk admit card 2026 is out for the prelims on 10 and 11 October. Steps to download, what to check, documents to carry and a 7-day plan."
 date: 2026-10-03T14:40:00+05:30
-updated: 2026-10-12T17:10:00+05:30
+updated: 2026-11-13
 category: govt-exams
 tags: ["IBPS Clerk", "admit card", "banking exams", "IBPS"]
 image: /images/posts/ibps-clerk-admit-card-2026-hero.webp
@@ -27,7 +27,9 @@ faqs:
     a: "The mains exam is scheduled for 27 December 2026 for candidates who clear the prelims."
 ---
 
-**Update (12 October):** The IBPS Clerk prelims were held on **10 and 11 October 2026**, and the admit card link has closed. Next comes the **prelims result** (date not announced yet) and the **mains on 27 December 2026**. See [what to do after the prelims](#ibps-clerk-prelims-2026-is-over-what-now) below.
+**Update (13 November 2026):** The **prelims result isn't out yet**. IBPS hasn't given a date, but with the **mains on 27 December 2026**, it should come in the second half of November on ibps.in.
+
+**Earlier (12 October):** The IBPS Clerk prelims were held on **10 and 11 October 2026**, and the admit card link has closed. Next comes the **prelims result** (date not announced yet) and the **mains on 27 December 2026**. See [what to do after the prelims](#ibps-clerk-prelims-2026-is-over-what-now) below.
 
 The **IBPS Clerk admit card 2026** was released on **1 October 2026** for the prelims on **10 and 11 October 2026**, on **ibps.in**.
 

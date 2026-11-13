@@ -2,6 +2,7 @@
 title: "ISRO Scientist Engineer Admit Card 2026 Out: CBT on 29 Oct"
 description: "ISRO Scientist/Engineer SC admit card 2026 is out for the 29 Oct CBT (175 posts). How to download it, exam pattern, cut-off marks, answer key and fee refund."
 date: 2026-10-23T10:39:57+05:30
+updated: 2026-11-13
 category: govt-exams
 tags: ["ISRO admit card", "ISRO Scientist Engineer", "ICRB", "ISRO recruitment", "BE B.Tech jobs", "central govt jobs"]
 image: /images/posts/isro-scientist-engineer-admit-card-2026-hero.webp
@@ -23,6 +24,8 @@ faqs:
   - q: "Will I get my ISRO application fee back?"
     a: "Only if you appear in the CBT. Women, SC/ST, PwBD and ex-servicemen candidates get the full ₹750 back. Everyone else gets ₹500 back (₹750 minus the ₹250 application fee), paid to the bank account given in the application."
 ---
+
+**Update (13 November 2026):** The **answer keys are out**. ISRO's ICRB page says you can raise objections only through the given link, **before 15 November 2026, 1:00 PM**. Log in with your User ID and password on isro.gov.in to see the key. After objections are settled, ISRO will publish the interview shortlist.
 
 **The ISRO Scientist/Engineer 'SC' admit card 2026 is out.** ISRO's Centralised Recruitment Board (ICRB) has put up the download link for the computer based test on **Thursday, 29 October 2026**. That's six days from now.
 

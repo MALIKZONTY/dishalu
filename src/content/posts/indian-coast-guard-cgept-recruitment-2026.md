@@ -2,6 +2,7 @@
 title: "Coast Guard Navik GD, Yantrik 2026: 365 Posts, Ends 21 Oct"
 description: "Indian Coast Guard CGEPT 2026: 365 Navik, Yantrik and Hygienist posts for 10th, 12th and diploma holders. Age, fee, exam pattern and how to apply by 21 Oct."
 date: 2026-10-11T08:53:41+05:30
+updated: 2026-11-13
 category: govt-exams
 tags: ["Indian Coast Guard", "CGEPT", "Navik GD", "Yantrik", "Defence jobs"]
 image: /images/posts/indian-coast-guard-cgept-recruitment-2026-hero.webp
@@ -23,6 +24,8 @@ faqs:
   - q: "Is there negative marking in the Coast Guard CGEPT exam?"
     a: "No. Stage 1 is a computer-based test with 100 questions of 1 mark each in 1 hour, and wrong answers don't cost marks. You need 40 marks to pass (35 for SC/ST)."
 ---
+
+**Update (13 November 2026):** Applications **closed on 21 October**. The **Stage-I computer-based exam is on 17 and 18 November 2026** (SSC notices of 2 and 6 November). Your exam city is already visible when you log in at cgept.parikshasaarthi.in, and the admit card comes **2–3 days before your exam date** on the same portal. Stage-II is planned for February 2027.
 
 **Indian Coast Guard CGEPT 2026 (batches 01/2027 and 02/2027) is open for 365 Coast Guard Navik GD, Navik DB, Yantrik and Hygienist-I posts, and the last date is 21 October 2026 at 5:30 pm.** That's 10 days from today. The posts are for 10th pass, 12th pass (Maths and Physics) and engineering diploma holders, born between 2005 and 2009 for most posts.
 

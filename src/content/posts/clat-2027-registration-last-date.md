@@ -2,7 +2,7 @@
 title: "CLAT 2027 Last Date 31 October: Registration, Fee, Exam Date"
 description: "CLAT 2027 last date to apply is 31 October 2026 (11:59 PM). Exam on 6 December, 2–4 PM. Fee, eligibility, exam pattern, 26 NLUs and how to fill the form."
 date: 2026-10-08T19:14:10+05:30
-updated: 2026-10-24T09:45:00+05:30
+updated: 2026-11-13
 category: careers
 tags: ["CLAT 2027", "CLAT", "law entrance exam", "NLU", "entrance exams"]
 image: /images/posts/clat-2027-registration-last-date-hero.webp
@@ -24,6 +24,8 @@ faqs:
   - q: "Is NLU Delhi part of CLAT 2027?"
     a: "No. NLU Delhi is not among the 26 participating NLUs listed by the Consortium. It admits students through its own entrance test, AILET, which needs a separate application."
 ---
+
+**Update (13 November 2026):** Registration **closed on 31 October**. The Consortium hasn't given an admit card date yet. Last year it came about two weeks before the exam, so expect it in the second half of November on consortiumofnlus.ac.in. The exam is on **Sunday, 6 December 2026, 2–4 PM**.
 
 **The CLAT 2027 last date to apply is 31 October 2026 (11:59 PM).** The exam is on **Sunday, 6 December 2026, from 2 PM to 4 PM**. If you've passed Class 12 with 45% (40% for SC/ST/PwD), or you're writing your boards in March–April 2027, you can apply. There's no age limit.
 

@@ -2,7 +2,7 @@
 title: "APPSC Executive Officer 2026: 104 Posts, Ends 5 Nov"
 description: "APPSC Executive Officer Grade-III notification 2026: 104 Endowments posts, apply 16 Oct to 5 Nov. Eligibility, pay, exam pattern, syllabus and how to apply."
 date: 2026-10-15T13:12:29+05:30
-updated: 2026-10-17T10:46:54+05:30
+updated: 2026-11-13
 category: govt-exams
 tags: ["APPSC", "APPSC Executive Officer", "Endowments Department", "Andhra Pradesh", "degree jobs"]
 image: /images/posts/appsc-executive-officer-notification-2026-hero.webp
@@ -24,6 +24,8 @@ faqs:
   - q: "Is there a screening test for APPSC EO Grade-III 2026?"
     a: "No. APPSC says there will be a single computer-based exam and no screening test, however many people apply. Shortlisted candidates then take a qualifying Computer Proficiency Test."
 ---
+
+**Update (13 November 2026):** Applications **closed on 5 November**, and the 7-day correction window ends about 12 November. APPSC hasn't announced the exam date yet. Hall tickets will come on psc.ap.gov.in. If you're a graduate, [APPSC Group 2](/appsc-group-2-notification-2026) (720 posts) is open till 11 December.
 
 **APPSC Executive Officer notification 2026 is out for 104 Grade-III posts in the AP Endowments Department.** Online applications open on **16 October** and close on **5 November 2026** (11:59 pm). Any graduate can apply, but you must profess the Hindu religion, because the job is managing temples.
 

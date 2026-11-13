@@ -2,6 +2,7 @@
 title: "URSC Recruitment 2026: 61 ITI, Driver Posts, Ends 13 Nov"
 description: "URSC Recruitment 2026: 61 Technician B and Driver posts at ISRO Bengaluru for ITI and 10th pass. Vacancies, age, fee refund, exam pattern and how to apply."
 date: 2026-11-06T10:40:07+05:30
+updated: 2026-11-13
 category: govt-exams
 tags: ["ISRO recruitment", "URSC", "U R Rao Satellite Centre", "Technician B", "Driver jobs", "ITI jobs", "Bengaluru jobs", "central govt jobs"]
 image: /images/posts/ursc-recruitment-2026-hero.webp
@@ -23,6 +24,8 @@ faqs:
   - q: "Can 10th pass candidates apply for URSC Driver posts?"
     a: "Yes, if you also have a valid licence and the experience. Light Vehicle Driver and Staff Car Driver need 3 years as an LVD. Heavy Vehicle Driver needs 5 years of driving, at least 3 of them as an HVD, plus an HVD licence and Public Service Badge."
 ---
+
+**Update (13 November 2026):** **Applications close on 13 November 2026 (11:55 PM).** URSC will announce the written test date and call letters on its careers page later.
 
 **URSC Recruitment 2026 is open for 61 posts, and the last date to apply online is 13 November 2026 (11:55 pm).** U R Rao Satellite Centre, ISRO's satellite-building centre in Bengaluru, wants 46 Technician 'B' and 15 Drivers under Advertisement No. URSC:04:2026.
 

@@ -2,7 +2,7 @@
 title: "UIIC AO Admit Card 2026 Out: Prelims on 22 Oct, 225 Posts"
 description: "UIIC AO admit card 2026 is out for the 22 October prelims. Download steps, exam pattern, documents to carry, exam-day rules and what comes after Tier I."
 date: 2026-10-19T09:10:00+05:30
-updated: 2026-10-23
+updated: 2026-11-13
 category: govt-exams
 tags: ["UIIC AO", "admit card", "UIIC", "insurance jobs", "AO Generalist", "Hindi Officer"]
 image: /images/posts/uiic-ao-admit-card-2026-hero.webp
@@ -18,14 +18,16 @@ faqs:
   - q: "What is the UIIC AO prelims exam pattern?"
     a: "100 questions for 100 marks in 60 minutes: English Language (30 questions, 20 minutes), Reasoning (35, 20 minutes) and Quantitative Aptitude (35, 20 minutes). Each section is separately timed, and 1/4 mark is cut for each wrong answer."
   - q: "When will the UIIC AO prelims result 2026 come out?"
-    a: "UIIC hasn't announced a date. The prelims was on 22 October and the mains is tentatively on 30 November, so the result should come in early to mid November. UIIC doesn't publish an answer key for this exam."
+    a: "It's out. On 11 November 2026, UIIC published the list of roll numbers shortlisted for the Tier II mains (Ref UIIC/HO-HRM/AO/02/2026). The list has 5,806 roll numbers. Search for yours in the PDF on uiic.co.in."
   - q: "When is the UIIC AO mains exam 2026?"
-    a: "The Tier II Main Examination is tentatively on 30 November 2026. Only candidates who clear the prelims cut-offs (section-wise and overall) will be called."
+    a: "30 November 2026, as confirmed in UIIC's shortlist notice of 11 November. Call letters with your venue will be on uiic.co.in shortly."
   - q: "What is the salary of UIIC AO?"
     a: "Basic pay starts at ₹82,485 a month in the scale ₹82,485 to ₹1,56,745. UIIC says the gross pay is about ₹1,10,000 a month at metro centres."
 ---
 
-**Update (23 October 2026):** The Tier I prelims was held on **22 October**. UIIC hasn't announced a result date yet, and its recruitment page has no new notice since the call letter. With the mains tentatively on **30 November**, expect the prelims result in early to mid November. There's no official answer key for this exam, so don't trust "UIIC AO answer key" PDFs online.
+**Update (13 November 2026):** The **UIIC AO prelims result is out.** On 11 November, UIIC published the list of roll numbers shortlisted for the **Tier II mains on 30 November 2026**. By my count, the PDF has **5,806 roll numbers** for 225 posts. Open the [shortlist PDF on uiic.co.in](https://uiic.co.in/web/sites/default/files/Recruitment_UiiC/6.%20Note%20-%20Prelims%20Result%20Publishing.pdf) and search for your roll number (Ctrl+F, or "Find" in your phone's PDF reader). UIIC says mains call letters will come "shortly". Scorecards and cut-offs are at UIIC's discretion, so they may not be published.
+
+**Earlier (23 October 2026):** The Tier I prelims was held on **22 October**. UIIC hasn't announced a result date yet, and its recruitment page has no new notice since the call letter. With the mains tentatively on **30 November**, expect the prelims result in early to mid November. There's no official answer key for this exam, so don't trust "UIIC AO answer key" PDFs online.
 
 The **UIIC AO admit card 2026 is out** for the Tier I prelims on **22 October 2026**. United India Insurance has put the call letter link on **uiic.co.in**, and you log in with your registration number and password (or date of birth). This exam is for **225 Administrative Officer (Scale I) posts**: 200 Generalists and 25 Hindi Officers.
 

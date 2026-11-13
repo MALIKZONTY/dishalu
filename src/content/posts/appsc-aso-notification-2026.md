@@ -2,7 +2,7 @@
 title: "APPSC ASO Notification 2026: 196 Posts, Apply by 2 Nov"
 description: "APPSC ASO notification 2026 is out for 196 Assistant Statistical Officer posts. Eligibility, pay scale, exam pattern, syllabus and how to apply by 2 November."
 date: 2026-10-11T12:28:45+05:30
-updated: 2026-10-13
+updated: 2026-11-13
 category: govt-exams
 tags: ["APPSC", "APPSC ASO", "Assistant Statistical Officer", "Andhra Pradesh", "statistics jobs"]
 image: /images/posts/appsc-aso-notification-2026-hero.webp
@@ -26,6 +26,8 @@ faqs:
   - q: "Can I correct my APPSC ASO application after submitting it?"
     a: "Yes, for 7 days after the last date (2 November), at ₹100 per correction. Name and the fields that decide fee and age relaxation can't be changed, so check your OTPR profile before you submit."
 ---
+
+**Update (13 November 2026):** Applications **closed on 2 November**, and the 7-day correction window has also ended. APPSC hasn't announced the exam date yet. Hall tickets will come on psc.ap.gov.in. Meanwhile, [APPSC Group 2](/appsc-group-2-notification-2026) (720 posts, including 80 ASO posts in the Secretariat) is open till 11 December.
 
 **APPSC ASO notification 2026 is out for 196 Assistant Statistical Officer posts.** Online applications opened on **13 October** and close on **2 November 2026** (11:59 pm). You need a degree with Statistics in it, either as a main subject or as a paper inside a Maths, Economics, Commerce or Computer Science degree.
 

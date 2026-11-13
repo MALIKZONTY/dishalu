@@ -2,6 +2,7 @@
 title: "RRB ALP Admit Card 2026 Out: CBT 1 on 3–5 Nov, 11,127 Posts"
 description: "RRB ALP admit card 2026 (CEN 01/2026) is out for CBT 1 on 3–5 Nov. Release date for each exam day, download steps, Aadhaar rules, what to carry, exam pattern."
 date: 2026-10-31T21:26:51+05:30
+updated: 2026-11-13
 category: govt-exams
 tags: ["RRB ALP", "admit card", "RRB", "railway jobs", "CEN 01/2026", "Assistant Loco Pilot"]
 image: /images/posts/rrb-alp-admit-card-2026-hero.webp
@@ -23,6 +24,8 @@ faqs:
   - q: "I forgot my RRB ALP registration number. What can I do?"
     a: "Use the 'Forgot registration number' option on the RRB login page, which finds it using your email or mobile number. Your registration number is also in the confirmation email and SMS you got when you applied on rrbapply.gov.in."
 ---
+
+**Update (13 November 2026):** CBT 1 (3–5 November) is over. Job portals report that the **CBT 1 answer key and response sheets came out on 12 November (7 PM)**, with objections open till **19 November (11:59 PM)** at ₹50 per question. I couldn't open the notice itself (RRB pages block automated access), so check the dates in your login on your RRB's website.
 
 **The RRB ALP admit card 2026 is out.** Railway Recruitment Boards put up the e-call letters for **CBT 1 of CEN 01/2026** on their regional websites on 30 October 2026. The exam is on **3, 4 and 5 November 2026**.
 

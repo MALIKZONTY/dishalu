@@ -2,6 +2,7 @@
 title: "ITPO Recruitment 2026: 46 Posts via SSC Score, Ends 13 Nov"
 description: "ITPO Recruitment 2026: 46 Group C posts filled from SSC CGL, JE and Steno 2024 scores, no new exam. Eligibility, age, ₹1,000 fee and how to apply by 13 Nov."
 date: 2026-10-18T21:14:44+05:30
+updated: 2026-11-13
 category: govt-exams
 tags: ["ITPO recruitment", "India Trade Promotion Organisation", "Junior Assistant", "SSC CGL 2024", "PSU jobs", "no exam jobs"]
 image: /images/posts/itpo-recruitment-2026-hero.webp
@@ -23,6 +24,8 @@ faqs:
   - q: "What is the ITPO application fee 2026?"
     a: "₹1,000. SC, ST, PwBD and Ex-Servicemen candidates don't pay any fee."
 ---
+
+**Update (13 November 2026):** **Applications close on 13 November 2026** on jobapply.in/itpo2026. There's no exam. ITPO will shortlist on your SSC score and then call candidates for document verification.
 
 **ITPO Recruitment 2026 is open for 46 Group C posts, and the last date to apply is 13 November 2026.** India Trade Promotion Organisation, the PSU that runs Bharat Mandapam in New Delhi, wants Junior Assistants, Junior Stenographers, Assistant (Accounts) and Senior Assistants.
 

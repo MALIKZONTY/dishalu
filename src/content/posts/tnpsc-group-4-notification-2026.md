@@ -2,6 +2,7 @@
 title: "TNPSC Group 4 Notification 2026: 6,574 Posts, Apply by 5 Nov"
 description: "TNPSC Group 4 notification 2026 is out for 6,574 posts: VAO, Junior Assistant, Typist and more. Eligibility, age, fee, exam pattern, how to apply by 5 Nov."
 date: 2026-10-10T15:15:48+05:30
+updated: 2026-11-13
 category: govt-exams
 tags: ["TNPSC Group 4", "TNPSC", "VAO", "Junior Assistant", "Tamil Nadu jobs", "10th pass jobs"]
 image: /images/posts/tnpsc-group-4-notification-2026-hero.webp
@@ -11,18 +12,25 @@ imageCreditUrl: "https://commons.wikimedia.org/w/index.php?curid=138250746"
 sourceUrl: "https://tnpsc.gov.in/document/english/group_english.pdf"
 faqs:
   - q: "What is the last date to apply for TNPSC Group 4 2026?"
-    a: "The last date is 5 November 2026, 11:59 PM. Applications opened on 6 October 2026 on tnpscexams.in. A correction window is open from 9 to 11 November 2026."
+    a: "The last date was extended from 5 to 8 November 2026 (11:59 PM), after the age limit was raised. Applications and the correction window (9 to 11 November) are now closed."
   - q: "How many vacancies are there in TNPSC Group 4 2026?"
     a: "TNPSC has notified 6,574 vacancies across 46 posts in Notification No. 11/2026. The biggest are Junior Assistant (3,315), Typist (1,572), Steno Typist Grade III (376) and Village Administrative Officer (291). The number is tentative and can change before counselling."
   - q: "What is the qualification for TNPSC Group 4?"
     a: "For Village Administrative Officer and most Junior Assistant and Bill Collector posts, a pass in SSLC (10th standard) is enough. Typist and Steno Typist posts also need Government Technical Examination certificates in typewriting or shorthand. A few corporation posts need a degree."
   - q: "What is the age limit for TNPSC Group 4 2026?"
-    a: "For most posts it is 18 to 30 years for general candidates, 32 for BC, BCM and MBC/DC, and 35 for SC, SC(A) and ST, counted on 1 July 2026. VAO needs a minimum age of 21, with an upper limit of 30 for general candidates and 40 for reserved categories."
+    a: "The Tamil Nadu government raised the upper age limit by 5 years for all categories (G.O. 68, 30 October 2026), and TNPSC added this to the notification on 4 November. So the upper limits in the original notification (30 for general, 32 for BC/MBC, 35 for SC/ST on most posts) go up by 5 years. Check Addendum 11B/2026 on tnpsc.gov.in for the exact table."
   - q: "When is the TNPSC Group 4 2026 exam?"
     a: "The written exam is on Sunday, 10 January 2027, from 9:30 AM to 12:30 PM. It is a single OMR paper of 200 questions for 300 marks."
   - q: "Is there negative marking in TNPSC Group 4?"
     a: "The 2026 notification does not mention any negative marking. It does set two cut-offs: you need at least 60 marks out of 150 in the Tamil part for the rest of your paper to be evaluated, and at least 90 marks out of 300 overall."
 ---
+
+**Update (13 November 2026):** Two changes since this post went up, both from TNPSC's press release No. 127/2026 (4 November):
+
+- **The upper age limit went up by 5 years for all categories**, under the Tamil Nadu government's G.O. (Ms) No. 68 dated 30 October 2026. TNPSC published Amendment and Addendum 11B/2026 to the notification. The age table below shows the original limits, so add 5 years to each upper limit.
+- **The last date was extended to 8 November 2026** so newly eligible candidates could apply.
+
+That extended window has now **closed**, and so has the correction window. The exam is still on **Sunday, 10 January 2027**. Hall tickets usually come about 10 days before, on tnpsc.gov.in.
 
 **TNPSC Group 4 notification 2026 is out for 6,574 posts, and you can apply till 5 November 2026 (11:59 PM).** The exam is on **Sunday, 10 January 2027**. For Village Administrative Officer, Junior Assistant and most other posts, a **10th pass (SSLC)** is enough.
 
@@ -86,6 +94,8 @@ For most Typist and Steno Typist posts you also need the Certificate Course in *
 **You must know Tamil.** If you studied Tamil as a language in SSLC, HSC or degree, or studied in Tamil medium, you're covered. Otherwise you have to pass TNPSC's Second Class Language Test in Tamil within two years of joining.
 
 ## Eligibility: age limit (as on 1 July 2026)
+
+**Note:** these are the limits from the original notification. The upper limits were raised by 5 years on 4 November (Addendum 11B/2026).
 
 | Category | Most posts | VAO |
 |---|---|---|
@@ -205,7 +215,7 @@ Mistakes that get applications into trouble:
 - **Pressing Back or Refresh during payment.** If payment fails, check the transaction status before paying again.
 - **Leaving it to a browsing centre.** TNPSC says you are responsible for errors, not the centre. Check the preview yourself.
 
-You can edit everything till 5 November, and again in the correction window from 9 to 11 November. After that, nothing can be changed.
+You could edit everything till 8 November, and again in the correction window from 9 to 11 November. After that, nothing can be changed.
 
 **Help:** toll-free 1800 419 0958 (10 AM to 5:45 PM, working days). For registration and application problems, write to helpdesk@tnpscexams.in.
 

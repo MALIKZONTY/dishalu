@@ -2,6 +2,7 @@
 title: "CDAC Recruitment 2026: 858 Posts, No Fee, Apply by 26 Oct"
 description: "CDAC recruitment 2026 is open for 858 contract posts across 12 centres. Centre-wise vacancies, pay, age limit, eligibility and how to apply before 26 October."
 date: 2026-10-09T19:36:00+05:30
+updated: 2026-11-13
 category: govt-exams
 tags: ["CDAC", "C-DAC recruitment", "Project Engineer", "B.Tech jobs", "MeitY"]
 image: /images/posts/cdac-recruitment-2026-hero.webp
@@ -23,6 +24,8 @@ faqs:
   - q: "What is the salary of a CDAC Project Engineer?"
     a: "The Bengaluru advertisement gives a starting CTC of ₹4.49 lakh to ₹7.11 lakh a year for Project Engineer and ₹8.49 lakh to ₹14 lakh for Senior Project Engineer. Pay can differ by post and centre, so check the post page before you apply."
 ---
+
+**Update (13 November 2026):** Applications **closed on 26 October**. C-DAC centres now shortlist candidates and email test or interview details. Each centre publishes its own shortlist on careers.cdac.in, so watch the centre you applied to. No common exam date has been announced.
 
 **CDAC recruitment 2026 is open for 858 contract posts across 12 C-DAC centres.** Online applications started on 5 October and close on **26 October 2026**. There's **no application fee**, and most posts need a B.E./B.Tech, M.E./M.Tech, MCA or M.Sc.
 

@@ -2,7 +2,7 @@
 title: "RRB Technician Answer Key 2026 Out, Result and Cut-Off"
 description: "RRB Technician answer key 2026 is out for Grade I and III. Objections till 22 Oct at ₹50, how to calculate your score, the 7,002 revised posts and result."
 date: 2026-10-20T09:33:59+05:30
-updated: 2026-10-23
+updated: 2026-11-13
 category: govt-exams
 tags: ["RRB Technician", "answer key", "RRB", "railway jobs", "CEN 02/2026"]
 image: /images/posts/rrb-technician-answer-key-result-2026-hero.webp
@@ -25,7 +25,9 @@ faqs:
     a: "RRB hasn't announced a date. The objection window closed on 22 October; the result is prepared after all objections are reviewed and the final key is fixed, and it will be posted on the official RRB websites under Exam Results for CEN 02/2026."
 ---
 
-**Update (23 October 2026):** The objection window **closed on 22 October at 11:55 PM**. RRB is now reviewing the objections. As of today, the CEN 02/2026 section on the RRB websites has no "Exam Results" entry yet, so the result isn't out. I'll add it here, with the official cut-offs, when it is.
+**Update (13 November 2026):** The **RRB Technician result (CEN 02/2026) isn't out yet**. Regional RRB websites still list only the Objection Tracker for CEN 02/2026, with no "Exam Results" entry. The result comes as region-wise PDFs of roll numbers shortlisted for document verification.
+
+**Earlier (23 October 2026):** The objection window **closed on 22 October at 11:55 PM**. RRB is now reviewing the objections. As of today, the CEN 02/2026 section on the RRB websites has no "Exam Results" entry yet, so the result isn't out. I'll add it here, with the official cut-offs, when it is.
 
 **The RRB Technician answer key 2026 is out** for both Grade I Signal and Grade III (CEN 02/2026). Candidates could see their questions, responses and the provisional key, and challenge answers until **22 October 2026, 11:55 PM**, at **₹50 per question**.
 

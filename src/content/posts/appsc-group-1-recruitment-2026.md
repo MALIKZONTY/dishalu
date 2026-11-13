@@ -2,6 +2,7 @@
 title: "APPSC Group 1 Recruitment 2026: 166 Posts, Apply by 27 Oct"
 description: "APPSC Group 1 notification 2026 is out for 166 posts like Deputy Collector and DSP. Eligibility, age limit, fee, exam pattern, salary, how to apply by 27 Oct."
 date: 2026-10-06T22:05:00+05:30
+updated: 2026-11-13
 category: govt-exams
 tags: ["APPSC Group 1", "APPSC", "Andhra Pradesh jobs", "Deputy Collector", "DSP"]
 image: /images/posts/appsc-group-1-recruitment-2026-hero.webp
@@ -23,6 +24,8 @@ faqs:
   - q: "Can final year students apply for APPSC Group 1 2026?"
     a: "No. You must hold the degree as on the date of the detailed notification, which is 6 October 2026. Final year students who haven't finished their degree yet can't apply."
 ---
+
+**Update (13 November 2026):** Applications **closed on 27 October**. The next step is the **Screening Test (prelims) on 24 January 2027**, in offline OMR mode. APPSC will put up hall tickets on psc.ap.gov.in about a week before. If you're also eligible, [APPSC Group 2](/appsc-group-2-notification-2026) (720 posts) is open now till 11 December, and its screening syllabus overlaps a lot with Group 1.
 
 **APPSC Group 1 recruitment 2026 is open for 166 posts**, including Deputy Collector, DSP, District Educational Officer and Divisional Development Officer. Apply on psc.ap.gov.in from **6 October to 27 October 2026 (11:59 pm)**. You need a bachelor's degree in any subject (except DSP Communications, which needs an ECE-type BTech), and for most posts you must be 18 to 44.
 

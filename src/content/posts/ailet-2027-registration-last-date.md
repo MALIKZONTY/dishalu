@@ -2,6 +2,7 @@
 title: "AILET 2027 Last Date 10 Nov: Fee, Exam Date, Seats"
 description: "AILET 2027 last date is 10 November 2026. Exam on 13 December, 2–4 PM. Fee ₹3,000, 110 BA LLB seats at NLU Delhi, eligibility, pattern, how to apply."
 date: 2026-10-12T15:49:03+05:30
+updated: 2026-11-13
 category: careers
 tags: ["AILET 2027", "AILET", "NLU Delhi", "law entrance exam", "entrance exams"]
 image: /images/posts/ailet-2027-registration-last-date-hero.webp
@@ -23,6 +24,8 @@ faqs:
   - q: "Is AILET the same as CLAT?"
     a: "No. AILET is NLU Delhi's own exam, and NLU Delhi does not take CLAT scores. CLAT 2027 is on 6 December and AILET 2027 is on 13 December, so you can write both, but you have to apply separately."
 ---
+
+**Update (13 November 2026):** Registration **closed on 10 November**. The next date is the **admit card on 30 November 2026**, and the exam is on **Sunday, 13 December 2026 (2–4 PM)**. If you're also writing CLAT on 6 December, see our [CLAT 2027](/clat-2027-registration-last-date) page.
 
 **The AILET 2027 last date to apply is Tuesday, 10 November 2026.** The exam is on **Sunday, 13 December 2026, from 2 PM to 4 PM**. If you've passed Class 12 with 45% (42% for OBC, 40% for SC/ST/PwD), or you're writing your boards in 2027, you can apply. There's no age limit.
 

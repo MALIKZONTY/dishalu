@@ -2,7 +2,7 @@
 title: "GATE 2027 Registration: Last Date 12 Oct With ₹500 Late Fee"
 description: "GATE 2027 registration last date is 5 October without late fee; with ₹500 extra you can apply till 12 October. Fee, eligibility, DigiLocker steps, dates."
 date: 2026-10-05T11:08:00+05:30
-updated: 2026-10-13
+updated: 2026-11-13
 category: govt-exams
 tags: ["GATE 2027", "GATE", "IIT Madras", "M.Tech admission", "PSU jobs"]
 image: /images/posts/gate-2027-registration-last-date-hero.webp
@@ -25,7 +25,9 @@ faqs:
     a: "Yes, for all Indian nationals. A verified DigiLocker account (done through e-KYC) is recommended. Unverified accounts are allowed, but your documents will be checked in person at the exam hall."
 ---
 
-**Update (13 October 2026):** GATE 2027 registration is now **closed**. The late-fee window ended on 12 October, and the official site says the application portal is closed, with no further extension. If you applied, the **correction window runs from 14 to 21 October 2026**. You can change your category, paper and exam city choices, add a second paper, and fix personal details (an extra fee may apply per change). The details are [below](#gate-2027-correction-window-14-to-21-october).
+**Update (13 November 2026):** Registration and the correction window are **closed**. The next official date is **exam city allotment on 4 January 2027**. GATE 2027 exams are in February 2027.
+
+**Earlier (13 October 2026):** GATE 2027 registration is now **closed**. The late-fee window ended on 12 October, and the official site says the application portal is closed, with no further extension. If you applied, the **correction window runs from 14 to 21 October 2026**. You can change your category, paper and exam city choices, add a second paper, and fix personal details (an extra fee may apply per change). The details are [below](#gate-2027-correction-window-14-to-21-october).
 
 **GATE 2027 regular registration closed on 5 October 2026, and the late-fee window (₹500 extra) closed on 12 October 2026.** The exam is in February 2027, and IIT Madras is the organising institute this year.
 

@@ -2,6 +2,7 @@
 title: "Supreme Court JCA Recruitment 2026: 250 Posts, Ends 28 Oct"
 description: "Supreme Court JCA recruitment 2026: 250 Junior Court Assistant posts, Level 6 pay. Eligibility, age, fee, exam pattern, exam date and how to apply by 28 Oct."
 date: 2026-10-06T15:45:00+05:30
+updated: 2026-11-13
 category: govt-exams
 tags: ["Supreme Court JCA", "Junior Court Assistant", "Supreme Court of India", "graduate jobs"]
 image: /images/posts/supreme-court-jca-recruitment-2026-hero.webp
@@ -23,6 +24,8 @@ faqs:
   - q: "Is there negative marking in the Supreme Court JCA exam?"
     a: "Yes. 0.25 marks are cut for every wrong answer in the objective type test. There is no negative marking mentioned for the typing, descriptive or interview stages."
 ---
+
+**Update (13 November 2026):** Applications **closed on 28 October**. The objective test is tentatively on **20 November 2026**. Job portals report that exam-city slips came out on 9 November, but as of today sci.gov.in has no city-slip or admit-card notice for JCA 2026 (the city and admit card notices on the site are from 2025). Admit cards usually come a few days before the exam, so check sci.gov.in → Recruitment daily from 15 November.
 
 **Supreme Court JCA recruitment 2026 is out for 250 Junior Court Assistant posts.** Online applications open on **7 October 2026** and close on **28 October 2026 at 11:55 pm**. Any graduate aged 18 to 30 who can type 35 words per minute in English can apply.
 

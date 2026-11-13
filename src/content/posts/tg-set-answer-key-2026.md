@@ -2,6 +2,7 @@
 title: "TG SET Answer Key 2026 Out: Objections Close 15 Oct"
 description: "TG SET answer key 2026 is out with response sheets and master papers. How to download it, calculate your score and raise objections at ₹200 by 15 October."
 date: 2026-10-13T10:45:55+05:30
+updated: 2026-11-13
 category: govt-exams
 tags: ["TG SET", "answer key", "Osmania University", "Telangana", "Assistant Professor"]
 image: /images/posts/tg-set-answer-key-2026-hero.webp
@@ -21,6 +22,8 @@ faqs:
   - q: "When will the TG SET 2026 result come out?"
     a: "No date has been announced. The result will be prepared from the final answer key after the experts review all objections."
 ---
+
+**Update (13 November 2026):** The objection window **closed on 15 October**. Osmania University hasn't released the final key or the result yet, and it hasn't given a date. Both will come on telanganaset.org / tgset.aptonline.in.
 
 **The TG SET answer key 2026 (provisional) is out.** Osmania University has released the preliminary key, master question papers and every candidate's recorded responses for the exam held on 28, 29 and 30 September. If you think an answer is wrong, you can challenge it until **15 October 2026** at **₹200 per question**.
 

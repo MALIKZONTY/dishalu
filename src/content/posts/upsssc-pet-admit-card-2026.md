@@ -2,7 +2,7 @@
 title: "UPSSSC PET Admit Card 2026 Out: Exam 25 Oct, 30 Oct, 1 Nov"
 description: "UPSSSC PET admit card 2026 is out for the 25 October exam. Release dates for the 30 Oct and 1 Nov batches, download steps, exam pattern and exam-day rules."
 date: 2026-10-17T18:35:00+05:30
-updated: 2026-10-23
+updated: 2026-11-13
 category: govt-exams
 tags: ["UPSSSC PET", "admit card", "UPSSSC", "UP govt jobs"]
 image: /images/posts/upsssc-pet-admit-card-2026-hero.webp
@@ -25,7 +25,9 @@ faqs:
     a: "3 years from the date UPSSSC declares the result or uploads it on its website. You use this score to apply for the mains exams of Group C posts in that period."
 ---
 
-**Update (23 October 2026):** As per UPSSSC's notice No. 241, admit cards for the **30 October** exam are due today, 23 October. The "Download Admit Card for PET-2026" link is live on upsssc.gov.in. If your exam is on 1 November, your admit card comes on **25 October**.
+**Update (13 November 2026):** PET 2026 is over (25 October, 30 October and 1 November). The answer key objection window closed on 12 November. See our [UPSSSC PET answer key](/upsssc-pet-answer-key-2026) page for the key and what comes next.
+
+**Earlier (23 October 2026):** As per UPSSSC's notice No. 241, admit cards for the **30 October** exam are due today, 23 October. The "Download Admit Card for PET-2026" link is live on upsssc.gov.in. If your exam is on 1 November, your admit card comes on **25 October**.
 
 The **UPSSSC PET admit card 2026 is out** on upsssc.gov.in for candidates whose exam is on **25 October** (released 17 October) and, from 23 October, for the **30 October** exam. If your exam is on 1 November, your admit card comes on **25 October**.
 

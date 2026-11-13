@@ -2,6 +2,7 @@
 title: "NICL AO Recruitment 2026: 321 Posts, Apply by 28 Oct"
 description: "NICL AO Recruitment 2026: 321 Administrative Officer posts, ₹82,485 basic pay. Needs 60% in your degree. Age, fee, exam dates and how to apply by 28 Oct."
 date: 2026-10-12T20:41:00+05:30
+updated: 2026-11-13
 category: govt-exams
 tags: ["NICL AO", "insurance jobs", "Administrative Officer", "graduate jobs", "central govt jobs"]
 image: /images/posts/nicl-ao-recruitment-2026-hero.webp
@@ -23,6 +24,8 @@ faqs:
   - q: "What is the NICL AO application fee?"
     a: "₹1,000 for General, OBC and EWS candidates, and ₹250 for SC, ST and PwBD candidates. The fee is not refunded."
 ---
+
+**Update (13 November 2026):** Applications **closed on 28 October**. The **Phase I (prelims) exam is on 17 November 2026**. Job portals report that call letters went live on 10 November on the IBPS portal (ibpsreg.ibps.in/niiclsep26). Log in with your registration number and password or date of birth to download yours. Phase II (mains) is on 22 December 2026.
 
 **NICL AO Recruitment 2026 is open for 321 Administrative Officer (Scale I) posts, and the last date to apply is 28 October 2026.** National Insurance Company, a central government general insurance company, wants 200 Generalists (any degree) and 121 Specialists.
 

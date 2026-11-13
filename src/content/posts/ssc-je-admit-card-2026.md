@@ -2,7 +2,7 @@
 title: "SSC JE Admit Card 2026: Paper 1 on 2–6 Nov, Download Steps"
 description: "SSC JE admit card 2026 for Paper 1 (2–6 Nov) comes 2–3 days before your exam. How to download it, ID rules, exam pattern, qualifying marks and what's next."
 date: 2026-10-27T13:57:18+05:30
-updated: 2026-11-03
+updated: 2026-11-13
 category: govt-exams
 tags: ["SSC JE", "admit card", "SSC", "junior engineer", "diploma jobs"]
 image: /images/posts/ssc-je-admit-card-2026-hero.webp
@@ -25,7 +25,9 @@ faqs:
     a: "No physical calculator is allowed. A scientific calculator, the IS 456:2000 tables and the steam table are available on the computer screen during the exam."
 ---
 
-**Update (3 November 2026):** Paper 1 started on 2 November and the **admission certificates are out** in the SSC login for 2–6 November. SSC's notice of 23 October says each card comes 2–3 days before that exam date. Also, SSC's corrigendum dated **26 October** confirms that **JE (Telecommunication)** Paper 1 is on **30 November and 1 December 2026**, with its exam city details 8–10 days before.
+**Update (13 November 2026):** Paper 1 for Civil, Mechanical and Electrical was held on 2–6 November. **JE (Telecommunication) Paper 1 is on 30 November–1 December 2026**; its admit card comes 2–3 days before. SSC hasn't released the Paper 1 answer key yet.
+
+**Earlier (3 November 2026):** Paper 1 started on 2 November and the **admission certificates are out** in the SSC login for 2–6 November. SSC's notice of 23 October says each card comes 2–3 days before that exam date. Also, SSC's corrigendum dated **26 October** confirms that **JE (Telecommunication)** Paper 1 is on **30 November and 1 December 2026**, with its exam city details 8–10 days before.
 
 **The SSC JE admit card 2026 for Paper 1 is out** for exams from 2 to 6 November 2026. You get it in your SSC login 2–3 days before your own exam date. So if your exam is on 6 November, it should be there by 3–4 November.
 
