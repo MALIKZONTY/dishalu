@@ -2,7 +2,7 @@
 title: "NSP Scholarship 2026-27: Last Date 30 Nov, Who Can Apply"
 description: "NSP scholarship 2026-27 last date extended to 30 November (NMMS 15 Nov). Schemes open, amounts up to ₹50,000 a year, who can apply, how to avoid rejection."
 date: 2026-10-04T17:06:00+05:30
-updated: 2026-11-02
+updated: 2026-11-17
 category: govt-schemes
 tags: ["NSP", "scholarship", "AICTE Pragati", "students", "National Scholarship Portal"]
 image: /images/posts/nsp-scholarship-2026-27-last-date-hero.webp
@@ -12,7 +12,7 @@ imageCreditUrl: "https://commons.wikimedia.org/w/index.php?curid=94619003"
 sourceUrl: "https://scholarships.gov.in/All-Scholarships"
 faqs:
   - q: "What is the last date for NSP scholarship 2026-27?"
-    a: "The last date was extended. Most central scholarships on NSP are now open till 30 November 2026, with college verification till 15 December. NMMS and PM YASASVI (School) close earlier, on 15 November 2026."
+    a: "Most central scholarships on NSP are open till 30 November 2026, with college verification till 15 December. NMMS and PM YASASVI (School) closed on 15 November 2026. No further extension has been announced."
   - q: "Is the NSP last date extended in 2026?"
     a: "Yes. The NSP scheme list now shows 30 November 2026 for most scholarships, up from 31 October. NMMS and PM YASASVI (School) were extended only till 15 November. Beedi/Cine/IOMC/LSDM workers' wards scholarships and the Pre-Matric scholarship for students with disabilities closed on 31 October."
   - q: "Can a 2nd or 3rd year B.Tech student apply for an NSP scholarship?"
@@ -25,7 +25,9 @@ faqs:
     a: "The most common reasons are the college not verifying the application in time, a bank account not linked with Aadhaar, wrong income or caste certificate details, and name mismatches between documents."
 ---
 
-**Update (2 November 2026):** The deadline has been extended. The official NSP scheme list now shows **30 November 2026** for most central scholarships (it was 31 October). **NMMS and PM YASASVI (School) close earlier, on 15 November.** Three schemes were not extended and closed on 31 October (list below).
+**Update (17 November 2026):** **Only 13 days left.** Most central scholarships on NSP still close on **30 November 2026**, and no further extension has been announced. **NMMS and PM YASASVI (School) closed on 15 November** (the Ministry of Education's [PIB release](https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2330936&reg=48&lang=2) confirms NMMS). If you applied for NMMS, your school must verify the form by 30 November, then the district by 15 December.
+
+**Earlier (2 November 2026):** The deadline has been extended. The official NSP scheme list now shows **30 November 2026** for most central scholarships (it was 31 October). **NMMS and PM YASASVI (School) close earlier, on 15 November.** Three schemes were not extended and closed on 31 October (list below).
 
 The **NSP scholarship 2026-27 last date is now 30 November 2026** for most central scholarships on the National Scholarship Portal (scholarships.gov.in). Some scholarships pay **₹50,000 a year**, and applying is free.
 
@@ -37,7 +39,7 @@ There's one catch most students miss. After you apply, **your college has to ver
 | Academic year | 2026-27 |
 | Applications opened | 1 June 2026 (most schemes) |
 | **Last date for students** | **30 November 2026** (extended from 31 October) |
-| NMMS and PM YASASVI (School) | **15 November 2026** |
+| NMMS and PM YASASVI (School) | Closed on 15 November 2026 |
 | College (institute) verification | Till 15 December 2026 (30 November for NMMS, PM YASASVI School) |
 | District/state verification | Till 31 December 2026 for most schemes (15 December for NMMS, PM YASASVI School) |
 | Application fee | None |
@@ -45,7 +47,7 @@ There's one catch most students miss. After you apply, **your college has to ver
 
 ## NSP scholarship 2026-27 last date: what the official portal shows
 
-We first checked every scholarship on the official NSP scheme list on 4 October 2026, and checked it again on 2 November 2026 after the extension. **Every scholarship below is open for fresh applications till 30 November 2026, except NMMS (15 November).** Schemes open only for renewals are left out.
+We first checked every scholarship on the official NSP scheme list on 4 October 2026, and checked it again on 2 November 2026 after the extension. **Every scholarship below is open for fresh applications till 30 November 2026, except NMMS, which closed on 15 November.** Schemes open only for renewals are left out.
 
 ### Closed on 31 October (not extended)
 
@@ -66,7 +68,9 @@ Amounts and rules are from each scheme's guidelines published on NSP. The AICTE 
 | **UGC PG Scholarship** <br>Apply by **30 Nov** | 1st year of your first PG degree, regular mode, under 30 | ₹15,000 a month (10 months a year, 2 years) |
 | **Top Class (SC)** <br>Apply by **30 Nov** | SC students at notified top institutes; income up to ₹8 lakh | Tuition (up to ₹2 lakh) + ₹86,000 in 1st year, ₹41,000 later |
 | **PM YASASVI (College)** <br>Apply by **30 Nov** | OBC, EBC, DNT students at notified top institutes; income up to ₹2.5 lakh | Tuition (up to ₹2 lakh) + ₹3,000 a month + books and laptop aid |
-| **NMMS** <br>Apply by **15 Nov** | Class 9 students selected in the state's class 8 test; income up to ₹3.5 lakh | ₹12,000 a year |
+| **NMMS** <br>**Closed 15 Nov** | Class 9 students selected in the state's class 8 test; income up to ₹3.5 lakh | ₹12,000 a year |
+
+Just finished Class 12 with good marks and joined a regular degree? Check the **PM-USP Central Sector Scholarship** (₹12,000 a year for UG, family income up to ₹4.5 lakh, top 20% of your board). It is also open on NSP till 30 November. Full details in our [PM-USP Central Sector Scholarship 2026-27 guide](/pm-usp-central-sector-scholarship-2026-27).
 
 ### Other scholarships open till 30 November 2026
 
@@ -121,7 +125,7 @@ Keep these ready before you start:
 3. Log in and click **Apply for Scholarship**.
 4. Fill in your details: course, marks, income, category and bank details.
 5. Choose the scholarship you're eligible for. The portal shows schemes based on your details.
-6. Upload documents and **submit before 30 November 2026** (15 November for NMMS and PM YASASVI School).
+6. Upload documents and **submit before 30 November 2026**.
 7. Tell your college. **Your institute must verify it by 15 December** (30 November for NMMS), then the district or state verifies it.
 8. Track it with **Application Status** and **Track Your Payment** on the NSP homepage.
 
@@ -137,8 +141,8 @@ Keep these ready before you start:
 
 If you fit any scholarship in the table, yes. It's free, and ₹50,000 a year for AICTE Pragati adds up to ₹2 lakh over a 4-year B.Tech.
 
-Don't wait for the last week. Every year the portal slows down near the deadline, and college verification gets rushed. Apply this week, then remind your college.
+Don't wait for the last few days. Every year the portal slows down near the deadline, and college verification gets rushed. Apply this week, then remind your college.
 
 And be careful with agents and websites that ask for money to "get your scholarship approved". NSP never charges a fee, and only the official portal can approve your application.
 
-Preparing for government jobs too? The [SSC CHSL 2026 last date](/ssc-chsl-2026-last-date) is 7 October for 12th-pass candidates.
+Preparing for government jobs too? Graduates can still apply for the [RRB Station Master 2026](/rrb-station-master-recruitment-2026) posts till 25 November.

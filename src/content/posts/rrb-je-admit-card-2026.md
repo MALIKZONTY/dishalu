@@ -2,7 +2,7 @@
 title: "RRB JE Admit Card 2026 Out: CBT 1 on 27–28 Oct, 4,029 Posts"
 description: "RRB JE admit card 2026 (CEN 04/2026) is out for CBT 1 on 27 and 28 Oct. How to download it, what to carry, Aadhaar rules, exam pattern and what comes next."
 date: 2026-10-24T18:55:54+05:30
-updated: 2026-11-13
+updated: 2026-11-17
 category: govt-exams
 tags: ["RRB JE", "admit card", "RRB", "railway jobs", "CEN 04/2026", "diploma jobs"]
 image: /images/posts/rrb-je-admit-card-2026-hero.webp
@@ -25,7 +25,9 @@ faqs:
     a: "Yes, if you appear in CBT 1. General candidates get ₹400 of the ₹500 back. SC, ST, ExSM, PwBD, female, transgender, minority and EBC candidates get the full ₹250 back. Bank charges are deducted."
 ---
 
-**Update (13 November 2026):** CBT 1 is over. RRB websites now show an **Objection Tracker for CEN 04/2026**, and job portals report that the **CBT 1 answer key and response sheets came out on 11 November**, with objections open till **17 November (11:59 PM)** at ₹50 per question. I couldn't open the notice itself (the RRB pages block automated access), so confirm the dates in your login on your RRB's website.
+**Update (17 November 2026):** **Today (17 November, 11:59 PM) is the last day to raise objections** to the RRB JE CBT 1 answer key. It's ₹50 per question, refunded if your objection is accepted. No extension has been reported, and the RRBs say nothing will be accepted after the deadline. Next: the final key and the CBT 1 result with the CBT 2 shortlist. No date has been announced yet.
+
+**Earlier (13 November 2026):** CBT 1 is over. RRB websites now show an **Objection Tracker for CEN 04/2026**, and job portals report that the **CBT 1 answer key and response sheets came out on 11 November**, with objections open till **17 November (11:59 PM)** at ₹50 per question. I couldn't open the notice itself (the RRB pages block automated access), so confirm the dates in your login on your RRB's website.
 
 **The RRB JE admit card 2026 is out.** Railway Recruitment Boards have put up the e-call letters for **CBT 1 of CEN 04/2026** on their regional websites (the link is dated 23 October 2026). The exam is on **27 and 28 October 2026**.
 
@@ -119,11 +121,12 @@ With 3–4 days left, my suggestion: take the RRB mock test (the "Mock Test Link
 
 ## What comes next after CBT 1
 
-- **Answer key:** RRBs usually publish the CBT 1 response sheets and provisional answer key with an objection window on the regional sites a few weeks after the exam. No date is announced yet. We'll update this page when it's out.
+- **Answer key:** the CBT 1 provisional key and response sheets came out on 11 November 2026, as reported, with objections till **17 November (11:59 PM)** at ₹50 per question (refunded if the objection is accepted). Log in on your RRB's website to check your answers.
+- **Result:** the final key and CBT 1 result come next. No date has been announced yet.
 - **CBT 2 shortlist:** about **15 times the community-wise vacancies** of each RRB, based on normalised CBT 1 marks.
 - **CBT 2:** 150 questions in 120 minutes, covering General Awareness, Physics and Chemistry, Computers, Environment, and the technical subjects of your exam group.
 - **Then:** document verification and medical examination.
 
 **Fee refund:** if you appear in CBT 1, general candidates get ₹400 of the ₹500 fee back, and SC, ST, ExSM, PwBD, female, transgender, minority and EBC candidates get the full ₹250 back (minus bank charges). One more reason not to skip the exam even if your preparation feels weak.
 
-If you're also tracking other railway exams, see the [RRB Technician answer key and result](/rrb-technician-answer-key-result-2026) and the new [RRB Station Master recruitment](/rrb-station-master-recruitment-2026) (applications expected to open on 27 October).
+If you're also tracking other railway exams, see the [RRB Technician answer key and result](/rrb-technician-answer-key-result-2026) and the [RRB Station Master recruitment](/rrb-station-master-recruitment-2026) (apply by 25 November).

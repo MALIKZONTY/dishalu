@@ -1,7 +1,8 @@
 ---
-title: "RRB Station Master 2026: 1,250 Posts, Apply 27 Oct–25 Nov"
-description: "RRB Station Master recruitment 2026 (CEN 08/2026): about 1,250 posts, apply 27 Oct to 25 Nov. Eligibility, age, pay, new CBT + CBAT pattern and syllabus."
+title: "RRB Station Master 2026: 1,265 Posts, Apply 27 Oct–25 Nov"
+description: "RRB Station Master recruitment 2026 (CEN 08/2026): 1,265 posts, apply 27 Oct to 25 Nov. Eligibility, age, pay, new CBT + CBAT pattern and syllabus."
 date: 2026-10-22T19:58:09+05:30
+updated: 2026-11-17
 category: govt-exams
 tags: ["RRB Station Master", "Railway jobs", "RRB", "Graduate jobs", "CEN 08/2026"]
 image: /images/posts/rrb-station-master-recruitment-2026-hero.webp
@@ -11,11 +12,11 @@ imageCreditUrl: "https://commons.wikimedia.org/wiki/File:Dattapukur_railway_stat
 sourceUrl: "https://rrb.indianrailways.gov.in"
 faqs:
   - q: "When does RRB Station Master 2026 registration start?"
-    a: "Online applications are expected to open on 27 October 2026 and close on 25 November 2026 at 11:59 PM, on rrbapply.gov.in. RRB has marked both dates as tentative, so confirm them in the detailed CEN 08/2026."
+    a: "Registration opened on 27 October 2026 and closes on 25 November 2026 at 11:59 PM, on rrbapply.gov.in. The fee can be paid till 27 November, and the correction window is reported as 28 November to 7 December 2026."
   - q: "How many vacancies are there in RRB Station Master 2026?"
-    a: "About 1,250 posts across all RRBs, as per the indicative notice for CEN 08/2026. RRB-wise and category-wise numbers will come with the detailed notification."
+    a: "The detailed CEN 08/2026 lists 1,265 posts in its RRB-wise annexure (UR 542, OBC 296, SC 176, EWS 147, ST 104, as reported), up from about 1,250 in the short notice. Some readers noticed a summary table showing 1,215, so check the annexure for your RRB."
   - q: "What is the age limit for RRB Station Master 2026?"
-    a: "The Railway Board's guidelines of 7 October 2026 give 20 to 33 years for the post, counted as on 1 January 2027 in this CEN. Relaxation for reserved categories will be listed in the detailed notification."
+    a: "20 to 33 years as on 1 January 2027, so UR and EWS candidates must be born between 2 January 1994 and 1 January 2007. OBC-NCL gets 3 years and SC/ST 5 years of relaxation, as reported from the detailed CEN."
   - q: "What is the qualification for RRB Station Master?"
     a: "A graduation degree from a recognised university or its equivalent. Any stream is fine. You also need to meet the A-2 medical standard."
   - q: "Is Station Master still part of RRB NTPC?"
@@ -24,29 +25,33 @@ faqs:
     a: "A single-stage CBT of 100 marks in 120 minutes, then a Computer Based Aptitude Test (CBAT), then document verification and medical. Final merit is 70% CBT and 30% CBAT."
 ---
 
-**RRB Station Master recruitment 2026 is coming with about 1,250 posts.** The Railway Recruitment Boards have published an indicative notice for **CEN 08/2026**. Online applications are expected from **27 October to 25 November 2026** on rrbapply.gov.in. Any graduate can apply, and the post is **Level 6**, with a starting basic pay of ₹35,400.
+**Update (17 November 2026):** The detailed CEN 08/2026 is out and **applications close on 25 November (11:59 PM)**, so you have 8 days. As reported from the CEN: **1,265 posts** (UR 542, OBC 296, SC 176, EWS 147, ST 104, with 133 for ex-servicemen), fee **₹500 (₹400 back after the CBT)** or **₹250** for SC, ST, women and other listed groups, fee payment till **27 November**, and a correction window from **28 November to 7 December** (₹250 per change). Final-year students whose results are pending on 25 November can't apply. No extension has been reported. I couldn't open the CEN PDF myself (RRB sites block automated access), so check it on your RRB's website before you pay.
 
-This is the first time Station Master has its own notification. Until now it was one of the NTPC Graduate posts. The exam is new too: one CBT, then an aptitude test. Here's what's official so far and what to get ready before 27 October.
+**RRB Station Master recruitment 2026 has 1,265 posts.** The Railway Recruitment Boards first put out a short indicative notice for **CEN 08/2026** (about 1,250 posts), then the detailed CEN. Online applications are open from **27 October to 25 November 2026** on rrbapply.gov.in. Any graduate can apply, and the post is **Level 6**, with a starting basic pay of ₹35,400.
+
+This is the first time Station Master has its own notification. Until now it was one of the NTPC Graduate posts. The exam is new too: one CBT, then an aptitude test. Here's what you need before the 25 November deadline.
 
 | Detail | Information |
 |---|---|
 | Recruiting body | Railway Recruitment Boards (RRBs), Ministry of Railways |
 | Notification | CEN 08/2026 (indicative notice No. RRB/AIII/Advt./CEN/08/2026) |
 | Post | Station Master |
-| Vacancies | **About 1,250** (all RRBs, tentative) |
-| Apply online | **27 October to 25 November 2026**, 11:59 PM (both tentative) |
+| Vacancies | **1,265** in the detailed CEN's annexure (about 1,250 in the short notice) |
+| Apply online | **27 October to 25 November 2026**, 11:59 PM |
+| Fee payment last date | 27 November 2026 |
+| Correction window | 28 November to 7 December 2026 (₹250 per change) |
 | Pay | Level 6, 7th CPC (basic ₹35,400) |
 | Qualification | Graduation in any stream |
 | Age | 20–33 years (per Railway Board guidelines), counted as on 1 January 2027 |
 | Medical standard | A-2 |
 | Selection | CBT → CBAT → Document verification → Medical |
-| Fee | Not announced yet |
+| Fee | ₹500 (₹400 refunded after CBT); ₹250 for SC, ST, women, ExSM, transgender, minority, EBC (fully refunded) |
 | Exam date | Not announced yet |
 | Apply at | [rrbapply.gov.in](https://www.rrbapply.gov.in) |
 
 ## What the RRB Station Master 2026 notice says
 
-The notice is short. It confirms the post, pay level, tentative dates and the total vacancy count, and leaves the rest to the detailed CEN. The age and medical standard columns both say "As per the detailed CEN".
+The first short notice confirmed the post, pay level, tentative dates and the total vacancy count, and left the rest to the detailed CEN.
 
 Three things in it are worth acting on now:
 
@@ -60,7 +65,7 @@ Aadhaar updates can take a week or more. If your name spelling or date of birth 
 
 On 7 October 2026, the Railway Board wrote to all zones and RRBs that from 2026, Station Master recruitment will be notified separately. That's why our [RRB NTPC Graduate 2026 post](/rrb-ntpc-graduate-recruitment-2026) has no Station Master vacancy this year.
 
-For context, the last NTPC Graduate notification (CEN 05/2024) had 994 Station Master posts. This year's 1,250 is a bit higher, and you're no longer mixed into one big NTPC merit list with other posts.
+For context, the last NTPC Graduate notification (CEN 05/2024) had 994 Station Master posts. This year's 1,265 is a bit higher, and you're no longer mixed into one big NTPC merit list with other posts.
 
 ## Eligibility
 
@@ -68,13 +73,13 @@ For context, the last NTPC Graduate notification (CEN 05/2024) had 994 Station M
 
 A **graduation degree from a recognised university** or its equivalent. BA, BCom, BSc, BTech, all fine.
 
-Whether final-year students can apply isn't stated yet. In the 2026 NTPC Graduate notification, they couldn't: the degree had to be complete by the last date. Expect the same, but check the detailed CEN.
+**Final-year students can't apply.** As reported from the detailed CEN, candidates whose final results are pending on 25 November 2026 are not eligible. The degree must be complete by the last date, same as NTPC Graduate.
 
 ### Age limit
 
 The Railway Board guidelines give **20 to 33 years** for Station Master. This already includes a 3-year relaxation from a 2018 Board order. The short notice says age will be counted **as on 1 January 2027**.
 
-So for UR candidates, that likely means you were born between 2 January 1994 and 1 January 2007. Reserved category relaxation (usually 3 years for OBC-NCL and 5 for SC/ST in RRB exams) will be confirmed in the detailed CEN.
+So for UR candidates, that likely means you were born between 2 January 1994 and 1 January 2007. The detailed CEN gives the usual relaxation, as reported: **OBC-NCL up to 36** (born on or after 2 January 1991) and **SC/ST up to 38** (born on or after 2 January 1989). Ex-servicemen, railway staff and widowed/divorced women get more; check the CEN's age table.
 
 ### Medical standard: A-2
 
@@ -94,7 +99,7 @@ If you wear glasses, or have had LASIK, you will most likely fail the medical. T
 
 This is a big change from NTPC, where you wrote CBT 1, then CBT 2, then CBAT. Now one CBT and the aptitude test decide everything.
 
-The CBAT is a psychological aptitude test, the kind train drivers and traffic staff also take. It checks attention, memory, reaction speed and perception. In the last NTPC cycle, Station Master candidates needed a minimum T-score of 42 in each test battery. The qualifying rule for CEN 08/2026 will be in the detailed notice.
+The CBAT is a psychological aptitude test, the kind train drivers and traffic staff also take. It checks attention, memory, reaction speed and perception. The detailed CEN keeps the minimum **T-score of 42** in each test battery, as reported, same as the last NTPC cycle.
 
 Negative marking hasn't been announced. RRB exams usually cut 1/3 mark per wrong answer.
 
@@ -125,29 +130,29 @@ The work is about safety. A Station Master controls train movement at a station:
 
 Honestly, it's not a desk job. If you want fixed hours in a city office, look at clerk posts instead.
 
-## How to apply (from 27 October)
+## How to apply (last date 25 November)
 
-1. Go to [rrbapply.gov.in](https://www.rrbapply.gov.in) once the link opens. Use only this site, and ignore "agents".
+1. Go to [rrbapply.gov.in](https://www.rrbapply.gov.in). Use only this site, and ignore "agents".
 2. Log in with your existing RRB account if you applied for any RRB exam in 2024–2026, or create a new one. Name, date of birth, mobile and email can't be changed later.
 3. Verify with **Aadhaar**, as the notice asks.
 4. Choose your RRB. In other 2026 RRB notifications, you could apply to only one RRB, and more than one application got all of them rejected. Expect the same rule here.
 5. Take the live photo, upload your signature, pay the fee and save the confirmation.
 
-The fee isn't announced yet. For comparison, the 2026 NTPC notifications charged ₹500 (₹400 refunded after the CBT) and ₹250 for SC, ST, women and some other groups (fully refunded). Treat that as last cycle's figure, not this one.
+The fee is **₹500**, with ₹400 refunded if you appear in the CBT. SC, ST, ex-servicemen, women, transgender, minority and EBC candidates pay **₹250**, refunded in full after the CBT (bank charges are cut). Refunds go to your Aadhaar-linked bank account. Don't leave payment to the last night: the payment gateway is usually slow on the final day.
 
 ## Should you apply?
 
 If you're a graduate between 20 and 33 with good eyesight (no specs), yes. It's a Level 6 post straight away, which is higher than most NTPC Graduate posts (Level 5).
 
-But check the A-2 eye standard honestly before you spend a month preparing. And remember that 1,250 posts across all RRBs is not many. Posts per RRB are not announced yet.
+But check the A-2 eye standard honestly before you spend a month preparing. And remember that 1,265 posts across all RRBs is not many. Check the RRB-wise annexure in the CEN before you pick your RRB.
 
-My tip: start with the 60 marks of maths and DI now. That part rewards daily practice, and it's the same base you need for the [NTPC Graduate CBT](/rrb-ntpc-graduate-recruitment-2026). You can apply for both. If you're 12th pass only, the [NTPC Undergraduate 2026](/rrb-ntpc-undergraduate-recruitment-2026) posts are open till 13 November.
+My tip: start with the 60 marks of maths and DI now. That part rewards daily practice, and it's the same base you need for the [NTPC Graduate CBT](/rrb-ntpc-graduate-recruitment-2026). You can apply for both. If you're 12th pass only, watch for the next [NTPC Undergraduate](/rrb-ntpc-undergraduate-recruitment-2026) cycle; this year's form closed on 13 November.
 
 ## What happens next
 
-- **Around 26–27 October:** detailed CEN 08/2026 with RRB-wise vacancies, fee, age relaxation and rules.
-- **27 October:** applications open (tentative).
-- **25 November:** last date (tentative).
-- **CBT date:** not announced yet.
+- **25 November, 11:59 PM:** last date to apply.
+- **27 November:** last date to pay the fee.
+- **28 November to 7 December:** correction window (₹250 per change, not refunded).
+- **CBT date:** not announced yet. RRB will share it after the applications close.
 
-I'll update this page with the RRB-wise vacancy table, fee and direct link as soon as the detailed notification is out.
+I'll update this page when the application status and the CBT date come out.
