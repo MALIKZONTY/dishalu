@@ -2,7 +2,7 @@
 title: "NSP Scholarship 2026-27: Last Date 30 Nov, Who Can Apply"
 description: "NSP scholarship 2026-27 last date extended to 30 November (NMMS 15 Nov). Schemes open, amounts up to ₹50,000 a year, who can apply, how to avoid rejection."
 date: 2026-10-04T17:06:00+05:30
-updated: 2026-11-17
+updated: 2026-11-21
 category: govt-schemes
 tags: ["NSP", "scholarship", "AICTE Pragati", "students", "National Scholarship Portal"]
 image: /images/posts/nsp-scholarship-2026-27-last-date-hero.webp
@@ -25,7 +25,9 @@ faqs:
     a: "The most common reasons are the college not verifying the application in time, a bank account not linked with Aadhaar, wrong income or caste certificate details, and name mismatches between documents."
 ---
 
-**Update (17 November 2026):** **Only 13 days left.** Most central scholarships on NSP still close on **30 November 2026**, and no further extension has been announced. **NMMS and PM YASASVI (School) closed on 15 November** (the Ministry of Education's [PIB release](https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2330936&reg=48&lang=2) confirms NMMS). If you applied for NMMS, your school must verify the form by 30 November, then the district by 15 December.
+**Update (21 November 2026):** **9 days left.** The NSP scheme list still shows **30 November 2026** as the last date for most central scholarships, with institute verification mostly by **15 December**. No new extension has been announced. Apply this week, because NSP gets slow in the last 3–4 days every year.
+
+**Earlier (17 November 2026):** **Only 13 days left.** Most central scholarships on NSP still close on **30 November 2026**, and no further extension has been announced. **NMMS and PM YASASVI (School) closed on 15 November** (the Ministry of Education's [PIB release](https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2330936&reg=48&lang=2) confirms NMMS). If you applied for NMMS, your school must verify the form by 30 November, then the district by 15 December.
 
 **Earlier (2 November 2026):** The deadline has been extended. The official NSP scheme list now shows **30 November 2026** for most central scholarships (it was 31 October). **NMMS and PM YASASVI (School) close earlier, on 15 November.** Three schemes were not extended and closed on 31 October (list below).
 

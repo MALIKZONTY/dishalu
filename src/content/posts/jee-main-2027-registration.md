@@ -2,7 +2,7 @@
 title: "JEE Main 2027 Registration: Last Date 22 Nov, Exam, Fee"
 description: "JEE Main 2027 registration is open till 22 Nov 2026. Session 1 exam on 20–28 Jan 2027. Fee, eligibility, documents, correction dates and steps to apply."
 date: 2026-10-05T14:44:21+05:30
-updated: 2026-11-13
+updated: 2026-11-21
 category: careers
 tags: ["JEE Main 2027", "JEE Main", "NTA", "engineering entrance", "registration"]
 image: /images/posts/jee-main-2027-registration-hero.webp
@@ -27,7 +27,9 @@ faqs:
 
 **JEE Main 2027 registration is open, and the last date for Session 1 is 22 November 2026 (11:50 PM).** NTA opened the form on 24 October on jeemain.nta.nic.in. The Session 1 exam is on **20, 21, 22, 23, 24 and 28 January 2027**.
 
-**Update (13 November 2026):** NTA's information bulletin is out. The exam dates have moved slightly from the September calendar (it said 22–30 January; now it is 20–28 January). The fee is the same as last year. If you miss 22 November, you can still apply from **23 to 26 November** with a ₹500 late fee. All dates below are from the bulletin.
+**Update (21 November 2026):** **The last date without a late fee is Sunday, 22 November (11:50 PM).** NTA's website shows no extension as of 21 November. It has also put up an FAQ document for JEE Main 2027 on jeemain.nta.nic.in. After 22 November, the **late window runs 23 to 26 November with ₹500 extra**, and the **correction window is 27 to 29 November**. Registration goes through DigiLocker ("Meri Pehchaan"), so do your DigiLocker re-KYC first if your photo there is old. Helpline: 011-40759000 / 011-69227700, jeemain@nta.ac.in.
+
+**Earlier (13 November 2026):** NTA's information bulletin is out. The exam dates have moved slightly from the September calendar (it said 22–30 January; now it is 20–28 January). The fee is the same as last year. If you miss 22 November, you can still apply from **23 to 26 November** with a ₹500 late fee. All dates below are from the bulletin.
 
 | Detail | Information |
 |---|---|

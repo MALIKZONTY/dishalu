@@ -2,7 +2,7 @@
 title: "UGC NET December 2026: Apply by 28 Oct, Exam from 14 Dec"
 description: "UGC NET December 2026 registration is open till 28 October. Exam 14–18 and 21 Dec. Fee, eligibility, JRF age limit, exam pattern and how to apply."
 date: 2026-10-15T13:39:05+05:30
-updated: 2026-11-13
+updated: 2026-11-21
 category: govt-exams
 tags: ["UGC NET", "UGC NET December 2026", "NTA", "JRF", "Assistant Professor"]
 image: /images/posts/ugc-net-december-2026-registration-hero.webp
@@ -14,7 +14,7 @@ faqs:
   - q: "What is the last date for UGC NET December 2026 registration?"
     a: "28 October 2026, up to 11:50 PM, including fee payment. After that you can still apply from 29 to 31 October with a late fee of ₹500 on top of the normal fee."
   - q: "When is the UGC NET December 2026 exam?"
-    a: "On 14 to 18 December and 21 December 2026, in computer-based mode, as per NTA's corrigendum of 16 October. The exam city slip comes from 23 November and the admit card from 7 December. Your exact date, shift and centre will be on the admit card."
+    a: "On 14 to 18 December and 21 December 2026, in two shifts (9 AM–12 noon and 3–6 PM). NTA released the subject-wise schedule on 19 November. The exam city slip comes from 23 November and the admit card from 7 December."
   - q: "What is the UGC NET December 2026 application fee?"
     a: "₹1,150 for General, ₹600 for General-EWS and OBC-NCL, and ₹325 for SC, ST, PwD and third gender candidates. Pay online by card, net banking or UPI."
   - q: "What is the age limit for UGC NET JRF December 2026?"
@@ -25,7 +25,9 @@ faqs:
     a: "No. Each question carries 2 marks and there is no negative marking. Attempt every question; a blank gets zero anyway."
 ---
 
-**Update (13 November 2026):** Registration and the correction window are **closed**. The next step is the **exam city slip from 23 November**, then the **admit card from 7 December**. The exam runs on **14–18 and 21 December 2026**.
+**Update (21 November 2026):** NTA has released the **subject-wise exam schedule** (public notice dated 19 November). The exam is in **two shifts, 9 AM–12 noon and 3–6 PM**, on 14–18 and 21 December. The notice says the **city intimation slip comes 21 days before the exam**, which matches the 23 November date. Popular subjects: **Computer Science (14 Dec, Shift 2)**, **Education (15 Dec, Shift 1)**, **Management (15 Dec, Shift 2)**, **Commerce (16 Dec, Shift 2)**, **English (17 Dec, Shift 1)**, **Hindi (18 Dec, Shift 1)**, **Law (18 Dec, Shift 2)** and **Economics (21 Dec, Shift 1)**. Full list [below](#ugc-net-december-2026-subject-wise-exam-schedule).
+
+**Earlier (13 November 2026):** Registration and the correction window are **closed**. The next step is the **exam city slip from 23 November**, then the **admit card from 7 December**. The exam runs on **14–18 and 21 December 2026**.
 
 **Earlier (24 Oct):** NTA issued a **corrigendum on 16 October** with an updated Information Bulletin. The exam is now on **14 to 18 December and 21 December 2026** (earlier 14 to 19 December). The **exam city slip comes from 23 November** and the **admit card from 7 December**. A few exam-day rules changed too. See [what changed](#what-the-16-october-corrigendum-changed).
 
@@ -42,12 +44,27 @@ These dates and rules are from NTA's public notice dated 8 October, the corrigen
 | Late application | 29 to 31 October 2026, with ₹500 late fee |
 | Correction window | 2 to 4 November 2026 |
 | Exam dates | **14 to 18 and 21 December 2026** |
-| City slip / admit card | To be announced |
+| City slip / admit card | City slip from **23 Nov**, admit card from **7 Dec** |
 | Mode | Computer-based test, 3 hours, no break |
 | Fee | ₹1,150 General, ₹600 EWS/OBC-NCL, ₹325 SC/ST/PwD/third gender |
 | JRF age limit | 30 years as on 1 December 2026 (relaxation below) |
 | Negative marking | None |
 | Official website | [ugcnet.nta.nic.in](https://ugcnet.nta.nic.in) |
+
+## UGC NET December 2026 subject-wise exam schedule
+
+From NTA's public notice of 19 November 2026 (Annexure I). Shift 1 is 9 AM–12 noon, Shift 2 is 3–6 PM. Your admit card will show your final date and shift.
+
+| Date | Shift 1 (9 AM–12 noon) | Shift 2 (3–6 PM) |
+|---|---|---|
+| 14 Dec | History, Pali, Prakrit, Comparative Literature | Computer Science & Applications, Persian, Russian, Bengali, Home Science, Music, Population Studies |
+| 15 Dec | Public Administration, Education, Social Work, Malayalam, Urdu, Criminology, Performing Art, Tribal & Regional Language, Folk Literature | Psychology, Maithili, Arabic, Management, Physical Education, Sanskrit traditional subjects, Ayurveda Biology, Disaster Management |
+| 16 Dec | Political Science, Comparative Study of Religions, Japanese, Dogri | Commerce, Defence & Strategic Studies, Indian Culture, Buddhist/Jaina/Gandhian & Peace Studies, Rajasthani, Linguistics |
+| 17 Dec | English, Chinese, Konkani, Spanish, Kashmiri | Visual Art, Museology & Conservation, Punjabi, Tamil, Geography, Marathi, Labour Welfare/HRM, Santali |
+| 18 Dec | Hindi, Arab Culture & Islamic Studies, Indian Knowledge System, Manipuri, Kannada, German, Sindhi, French | Mass Communication & Journalism, Electronic Science, Women Studies, Law, Telugu, Forensic Science, Nepali, Library & Information Science, Philosophy |
+| 21 Dec | Economics, Environmental Sciences, Hindu Studies, Anthropology, Bodo, Gujarati, Sanskrit, Politics incl. International Relations, Human Rights & Duties | Assamese, Sociology, Yoga, Tourism Administration, Adult Education, Archaeology, Oriya, Social Medicine & Community Health, Statistics, Forestry |
+
+Helpline for any problem: **011-40759000** or ugcnet@nta.ac.in.
 
 ## UGC NET December 2026 registration: important dates
 

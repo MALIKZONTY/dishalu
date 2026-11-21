@@ -2,6 +2,7 @@
 title: "PM-USP Central Sector Scholarship 2026-27: Last Date 30 Nov"
 description: "PM-USP Central Sector Scholarship 2026-27: apply on NSP by 30 November. ₹12,000 to ₹20,000 a year, 80th percentile and ₹4.5 lakh income rules, steps."
 date: 2026-11-17T11:21:46+05:30
+updated: 2026-11-21
 category: govt-schemes
 tags: ["PM-USP", "Central Sector Scholarship", "CSSS", "NSP", "scholarship", "Ministry of Education"]
 image: /images/posts/pm-usp-central-sector-scholarship-2026-27-hero.webp
@@ -23,6 +24,8 @@ faqs:
   - q: "Is there any fee to apply for the PM-USP scholarship?"
     a: "No. Applying on scholarships.gov.in is free. Never pay an agent or a website that promises to get your scholarship approved."
 ---
+
+**Update (21 November 2026):** **9 days left.** The NSP scheme list still shows **30 November** for this scholarship and **15 December** for college verification, with no extension announced. If you've applied, check your application status on NSP and remind your college's scholarship desk to verify it.
 
 The **PM-USP Central Sector Scholarship 2026-27 last date is 30 November 2026**. It gives **₹12,000 a year** during graduation and **₹20,000 a year** during post-graduation to students who scored in the **top 20% of their Class 12 board** and come from families earning **up to ₹4.5 lakh a year**.
 

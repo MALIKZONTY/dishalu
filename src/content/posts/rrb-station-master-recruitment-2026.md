@@ -2,7 +2,7 @@
 title: "RRB Station Master 2026: 1,265 Posts, Apply 27 Oct–25 Nov"
 description: "RRB Station Master recruitment 2026 (CEN 08/2026): 1,265 posts, apply 27 Oct to 25 Nov. Eligibility, age, pay, new CBT + CBAT pattern and syllabus."
 date: 2026-10-22T19:58:09+05:30
-updated: 2026-11-17
+updated: 2026-11-21
 category: govt-exams
 tags: ["RRB Station Master", "Railway jobs", "RRB", "Graduate jobs", "CEN 08/2026"]
 image: /images/posts/rrb-station-master-recruitment-2026-hero.webp
@@ -25,7 +25,9 @@ faqs:
     a: "A single-stage CBT of 100 marks in 120 minutes, then a Computer Based Aptitude Test (CBAT), then document verification and medical. Final merit is 70% CBT and 30% CBAT."
 ---
 
-**Update (17 November 2026):** The detailed CEN 08/2026 is out and **applications close on 25 November (11:59 PM)**, so you have 8 days. As reported from the CEN: **1,265 posts** (UR 542, OBC 296, SC 176, EWS 147, ST 104, with 133 for ex-servicemen), fee **₹500 (₹400 back after the CBT)** or **₹250** for SC, ST, women and other listed groups, fee payment till **27 November**, and a correction window from **28 November to 7 December** (₹250 per change). Final-year students whose results are pending on 25 November can't apply. No extension has been reported. I couldn't open the CEN PDF myself (RRB sites block automated access), so check it on your RRB's website before you pay.
+**Update (21 November 2026):** **4 days left.** Applications close on **25 November (11:59 PM)**, and no extension has been reported. Pay the fee by **27 November**. The correction window (28 November to 7 December) is only for fixing details, not for new applications, so don't count on it.
+
+**Earlier (17 November 2026):** The detailed CEN 08/2026 is out and **applications close on 25 November (11:59 PM)**, so you have 8 days. As reported from the CEN: **1,265 posts** (UR 542, OBC 296, SC 176, EWS 147, ST 104, with 133 for ex-servicemen), fee **₹500 (₹400 back after the CBT)** or **₹250** for SC, ST, women and other listed groups, fee payment till **27 November**, and a correction window from **28 November to 7 December** (₹250 per change). Final-year students whose results are pending on 25 November can't apply. No extension has been reported. I couldn't open the CEN PDF myself (RRB sites block automated access), so check it on your RRB's website before you pay.
 
 **RRB Station Master recruitment 2026 has 1,265 posts.** The Railway Recruitment Boards first put out a short indicative notice for **CEN 08/2026** (about 1,250 posts), then the detailed CEN. Online applications are open from **27 October to 25 November 2026** on rrbapply.gov.in. Any graduate can apply, and the post is **Level 6**, with a starting basic pay of ₹35,400.
 

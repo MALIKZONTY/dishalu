@@ -2,7 +2,7 @@
 title: "SSC CHSL 2026 Last Date 7 October: Apply, Fee, Eligibility"
 description: "SSC CHSL 2026 last date to apply is 7 October, 11 PM. 2,536 vacancies for 12th pass. Eligibility, fee, salary and step-by-step application guide."
 date: 2026-10-03T18:50:00+05:30
-updated: 2026-11-13
+updated: 2026-11-21
 category: govt-exams
 tags: ["SSC CHSL", "SSC", "12th pass jobs", "central govt jobs"]
 image: /images/posts/ssc-chsl-2026-last-date-hero.webp
@@ -27,7 +27,9 @@ faqs:
     a: "14 to 16 October 2026, up to 11 PM. Only candidates who applied and paid (if required) by the deadline can edit. It costs ₹200 for the first correction and ₹500 for the second, for every category."
 ---
 
-**Update (13 November 2026):** Applications and the correction window are **closed**. **Tier 1 is from 30 November to 31 December 2026** (SSC's proposed schedule). Exam city slips and admit cards haven't come yet. SSC usually puts up the city slip about a week before the exam and the admit card 2–3 days before your date.
+**Update (21 November 2026):** SSC still hasn't put up the CHSL 2026 Tier 1 exam city slip or admit card. The latest notices on ssc.gov.in (up to 19 November) cover JE, SI and GD, not CHSL. No notice has moved the **30 November** start date. Since SSC gives city details about 7–10 days before an exam, expect the city slip any day now. You'll find it by logging in at ssc.gov.in. Your admit card follows 2–3 days before your own exam date.
+
+**Earlier (13 November 2026):** Applications and the correction window are **closed**. **Tier 1 is from 30 November to 31 December 2026** (SSC's proposed schedule). Exam city slips and admit cards haven't come yet. SSC usually puts up the city slip about a week before the exam and the admit card 2–3 days before your date.
 
 **Earlier (12 October):** Applications closed on 7 October. SSC has now announced that **Tier 1 will be held from 30 November to 31 December 2026** (proposed dates, notice dated 1 October). If you applied, the **correction window is 14 to 16 October**. Scroll down for what to do next.
 
