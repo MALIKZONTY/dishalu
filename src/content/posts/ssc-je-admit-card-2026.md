@@ -2,7 +2,7 @@
 title: "SSC JE Admit Card 2026: Paper 1 on 2–6 Nov, Download Steps"
 description: "SSC JE admit card 2026 for Paper 1 (2–6 Nov) comes 2–3 days before your exam. How to download it, ID rules, exam pattern, qualifying marks and what's next."
 date: 2026-10-27T13:57:18+05:30
-updated: 2026-11-13
+updated: 2026-11-22
 category: govt-exams
 tags: ["SSC JE", "admit card", "SSC", "junior engineer", "diploma jobs"]
 image: /images/posts/ssc-je-admit-card-2026-hero.webp
@@ -13,6 +13,8 @@ sourceUrl: "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/No
 faqs:
   - q: "Is the SSC JE admit card 2026 out?"
     a: "Yes, for Paper 1. SSC issues each admission certificate 2–3 days before the exam date, so candidates for 2–6 November can download theirs from the SSC login. JE (Telecom) candidates, whose exam is on 30 November–1 December, will get theirs later."
+  - q: "Is the SSC JE answer key 2026 out?"
+    a: "Yes. SSC uploaded the Paper 1 tentative answer key and response sheets on 19 November 2026 for all papers except Electronics & Telecom. You can challenge answers until 22 November 2026, 6 PM, at ₹50 per question."
   - q: "What is the SSC JE Paper 1 exam date in 2026?"
     a: "2 to 6 November 2026 for Civil, Electrical, Mechanical and the IMD Scientific Assistant papers. As per SSC's corrigendum dated 26 October 2026, JE (Telecommunication) Paper 1 is on 30 November and 1 December 2026."
   - q: "Is SSC JE Paper 1 qualifying in 2026?"
@@ -25,7 +27,9 @@ faqs:
     a: "No physical calculator is allowed. A scientific calculator, the IS 456:2000 tables and the steam table are available on the computer screen during the exam."
 ---
 
-**Update (13 November 2026):** Paper 1 for Civil, Mechanical and Electrical was held on 2–6 November. **JE (Telecommunication) Paper 1 is on 30 November–1 December 2026**; its admit card comes 2–3 days before. SSC hasn't released the Paper 1 answer key yet.
+**Update (22 November 2026):** SSC uploaded the **Paper 1 tentative answer key and response sheets on 19 November** for Civil & Structural, Electrical, Mechanical, Computer Science & IT and Physics. **Objections close today, 22 November 2026, at 6 PM**, at ₹50 per question, and the key disappears from the login after that, so save your response sheet now. The JE (Electronics and Telecommunication) key will come separately after its Paper 1 on 30 November–1 December. Source: [SSC notice dated 19.11.2026](https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Tentative%20answer%20key%20of%20JE_2026_P_1_19112026.pdf).
+
+**Earlier (13 November 2026):** Paper 1 for Civil, Mechanical and Electrical was held on 2–6 November. **JE (Telecommunication) Paper 1 is on 30 November–1 December 2026**; its admit card comes 2–3 days before.
 
 **Earlier (3 November 2026):** Paper 1 started on 2 November and the **admission certificates are out** in the SSC login for 2–6 November. SSC's notice of 23 October says each card comes 2–3 days before that exam date. Also, SSC's corrigendum dated **26 October** confirms that **JE (Telecommunication)** Paper 1 is on **30 November and 1 December 2026**, with its exam city details 8–10 days before.
 
@@ -43,6 +47,7 @@ This exam fills **1,699 tentative vacancies** (SSC list dated 8 October 2026) fo
 | Admit card | **Out**, 2–3 days before each exam date |
 | Paper 1 date | **2 to 6 November 2026** (computer based); JE Telecom on **30 Nov–1 Dec** |
 | Paper 1 pattern | 200 questions, 200 marks, 2 hours, −0.25 per wrong answer |
+| Answer key (Paper 1) | **Out 19 Nov**; objections till **22 Nov, 6 PM** (₹50 per question) |
 | Paper 2 | December 2026 (tentative) |
 | Official site | [ssc.gov.in](https://ssc.gov.in) |
 
@@ -129,7 +134,7 @@ My honest advice for the last few days: don't skip General Awareness just becaus
 
 ## What comes after Paper 1
 
-- **Tentative answer key**: SSC uploads it on ssc.gov.in after the exam. You can challenge answers online at **₹50 per question** (non-refundable). See how this worked for CGL in our [SSC CGL answer key 2026](/ssc-cgl-answer-key-2026) post.
+- **Tentative answer key**: **out on 19 November** for all papers except Electronics & Telecom. Challenges are open until **22 November, 6 PM** at **₹50 per question** (non-refundable). Log in at ssc.gov.in, open the answer key link, and check your response sheet against the key: +1 for each right answer, −0.25 for each wrong one. See how this worked for CGL in our [SSC CGL answer key 2026](/ssc-cgl-answer-key-2026) post.
 - **Paper 1 result**: a shortlist for Paper 2, by post-wise merit.
 - **Paper 2**: tentatively in **December 2026**. It's the paper that actually decides selection, so start technical revision right after 6 November.
 - **Document verification**: done by the user department after the final result, not by SSC.

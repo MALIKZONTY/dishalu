@@ -2,7 +2,7 @@
 title: "RRB Paramedical Recruitment 2026: 590 Posts, Apply by 14 Oct"
 description: "RRB Paramedical recruitment 2026 (CEN 05/2026): 590 posts incl. 365 Nursing Superintendent. Eligibility, age, fee, RRB-wise vacancies, how to apply by 14 Oct."
 date: 2026-10-07T10:47:39+05:30
-updated: 2026-11-13
+updated: 2026-11-22
 category: govt-exams
 tags: ["RRB Paramedical", "Railway jobs", "Nursing Superintendent", "Pharmacist", "RRB"]
 image: /images/posts/rrb-paramedical-recruitment-2026-hero.webp
@@ -20,12 +20,14 @@ faqs:
   - q: "Can I apply to more than one RRB for Paramedical 2026?"
     a: "No. You can choose only one RRB. More than one application, to the same or different RRBs, leads to rejection of all of them and a ban from future RRB exams."
   - q: "When is the RRB Paramedical 2026 exam date?"
-    a: "The CBT date hasn't been announced yet. RRBs will publish it on rrb.indianrailways.gov.in and the regional RRB websites."
+    a: "The CBT has started. RRBs released e-call letters from 19 November 2026, and news reports say the first shifts are on 23 November and the next batch on 25 November. Your own date, shift and centre are printed on your admit card on your RRB's website."
   - q: "Is there negative marking in the RRB Paramedical exam?"
     a: "Yes. One-third of a mark is cut for every wrong answer in the CBT, which has 100 questions in 90 minutes."
 ---
 
-**Update (13 November 2026):** Applications and the correction window (17–26 October) are **closed**. RRB regional websites now list an "Exam Schedule" entry for CEN 05/2026, so the CBT date is close. City slips come about 10 days before the exam and admit cards 4 days before. Check your RRB's website (for example rrbchennai.gov.in) under CEN 05/2026.
+**Update (22 November 2026):** The **RRB Paramedical admit card (e-call letter) is out**. RRB websites list "E-Call Letters" for CEN 05/2026 from **19 November 2026**, along with a mock test link. The CBT has started: news reports say the first shifts (including Nursing Superintendent) are on **23 November** and the next batch on **25 November**, with each batch's admit card about 4 days before its exam. Download yours from your RRB's website (for example rrbchennai.gov.in → CEN 05/2026 → E-Call Letters) using your registration number and date of birth. Your exact date, shift and centre are printed on the card, so go by that, not by any list online.
+
+**Earlier (13 November 2026):** Applications and the correction window (17–26 October) closed. Exam city slips for CEN 05/2026 came out on 13 November.
 
 **Earlier (14 October 2026):** Today is the last day to apply, up to 11:59 pm. As of this morning there's no extension notice on rrbapply.gov.in or rrb.indianrailways.gov.in. If you've already submitted the form, you can still pay the fee until **16 October**, and fix mistakes in the correction window from **17 to 26 October** (₹250 each time). Don't leave it to the last hour, the portal usually slows down tonight.
 
@@ -44,7 +46,7 @@ Nursing Superintendent alone has 365 posts at Level 7 (₹44,900 starting basic 
 | Online application | 15 September to **14 October 2026 (11:59 pm)** |
 | Last date for fee payment | 16 October 2026 |
 | Correction window | 17 to 26 October 2026 (₹250 each time) |
-| Exam | Single CBT, date not announced yet |
+| Exam | Single CBT, started **23 November 2026** (reported); admit card out from 19 Nov |
 | Apply at | [rrbapply.gov.in](https://www.rrbapply.gov.in/) |
 | Official website | [rrb.indianrailways.gov.in](https://rrb.indianrailways.gov.in/) |
 
@@ -177,7 +179,7 @@ Two common mistakes to avoid:
 
 ## What happens next
 
-The CBT date hasn't been announced yet. As a rough guide, in the previous cycle (CEN 03/2025, 434 posts) the CBT happened several months after applications closed. Use the gap to revise your core subjects.
+The CBT has started (see the update at the top). After it, RRBs publish the provisional answer key with an objection window, then the result and a 1:1 shortlist for document verification.
 
 After you apply, watch for the application status, then the exam city slip and the admit card. In recent RRB exams, the city slip came about 10 days before the exam and the admit card about 4 days before. Everything will be on [rrb.indianrailways.gov.in](https://rrb.indianrailways.gov.in/). Ignore "admit card links" shared on WhatsApp.
 
