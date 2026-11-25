@@ -2,7 +2,7 @@
 title: "CLAT 2027 Last Date 31 October: Registration, Fee, Exam Date"
 description: "CLAT 2027 last date to apply is 31 October 2026 (11:59 PM). Exam on 6 December, 2–4 PM. Fee, eligibility, exam pattern, 26 NLUs and how to fill the form."
 date: 2026-10-08T19:14:10+05:30
-updated: 2026-11-13
+updated: 2026-11-25
 category: careers
 tags: ["CLAT 2027", "CLAT", "law entrance exam", "NLU", "entrance exams"]
 image: /images/posts/clat-2027-registration-last-date-hero.webp
@@ -21,11 +21,13 @@ faqs:
     a: "Yes. If you are writing your Class 12 board exams in March or April 2027, you can apply. You must show proof that you passed (45%, or 40% for SC/ST/PwD) at the time of admission."
   - q: "Is there an age limit for CLAT 2027?"
     a: "No. There is no upper age limit for CLAT 2027, for both the UG (5-year LLB) and PG (LLM) programmes."
+  - q: "How to download the CLAT 2027 admit card?"
+    a: "Log in to your CLAT 2027 account on consortiumofnlus.ac.in and click 'Download Admit Card'. Admit cards for UG and PG were released on 21 November 2026 at 10 AM and can be downloaded till 6 December 2026, 1:30 PM."
   - q: "Is NLU Delhi part of CLAT 2027?"
     a: "No. NLU Delhi is not among the 26 participating NLUs listed by the Consortium. It admits students through its own entrance test, AILET, which needs a separate application."
 ---
 
-**Update (13 November 2026):** Registration **closed on 31 October**. The Consortium hasn't given an admit card date yet. Last year it came about two weeks before the exam, so expect it in the second half of November on consortiumofnlus.ac.in. The exam is on **Sunday, 6 December 2026, 2–4 PM**.
+**Update (25 November 2026): CLAT 2027 admit cards are out.** The Consortium released UG and PG admit cards on **21 November 2026 at 10 AM** ([official notice](https://s3.ap-south-1.amazonaws.com/files2027.consortiumofnlus.ac.in/sites/consortiumofnlus.ac.in/entity-uploads/notification/attachment/Attachment_c257b3f8ebd4418cb494aac198f3ef42_54157.pdf)). To download, log in to your CLAT 2027 account on consortiumofnlus.ac.in and click **"Download Admit Card"**. The link works till **6 December, 1:30 PM**, but print it now and check your name, photo, category and test centre. The exam is on **Sunday, 6 December 2026, 2–4 PM**. For mistakes on the card, contact clat@consortiumofnlus.ac.in or 080-47162020 (Mon–Sat, 10 AM–5 PM).
 
 **The CLAT 2027 last date to apply is 31 October 2026 (11:59 PM).** The exam is on **Sunday, 6 December 2026, from 2 PM to 4 PM**. If you've passed Class 12 with 45% (40% for SC/ST/PwD), or you're writing your boards in March–April 2027, you can apply. There's no age limit.
 
@@ -52,7 +54,7 @@ CLAT is the single entrance test for the 5-year integrated LLB at 26 National La
 |---|---|
 | Press release with dates | 22 July 2026 |
 | Application window | 3 August to 31 October 2026 |
-| Admit card | Not announced yet (will be posted on the website) |
+| Admit card | **Out on 21 November 2026**, download till 6 December, 1:30 PM |
 | **CLAT 2027 exam** | **6 December 2026**, 2–4 PM (PwD: 2–4:40 PM) |
 | Counselling | December 2026 / January 2027 |
 
@@ -169,7 +171,7 @@ My suggestion: apply this week, not on 31 October, and take a full mock this wee
 ## What happens next
 
 - **31 October 2026:** last date to apply and to edit your form.
-- **Admit card:** date not announced yet. You'll download it from your CLAT login.
+- **Admit card:** out since 21 November 2026. Download it from your CLAT login ("Download Admit Card") before 6 December, 1:30 PM.
 - **6 December 2026:** CLAT 2027 exam.
 - **December 2026 / January 2027:** counselling and seat allotment.
 

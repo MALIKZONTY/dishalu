@@ -2,7 +2,7 @@
 title: "Supreme Court JCA Recruitment 2026: 250 Posts, Ends 28 Oct"
 description: "Supreme Court JCA recruitment 2026: 250 Junior Court Assistant posts, Level 6 pay. Eligibility, age, fee, exam pattern, exam date and how to apply by 28 Oct."
 date: 2026-10-06T15:45:00+05:30
-updated: 2026-11-13
+updated: 2026-11-25
 category: govt-exams
 tags: ["Supreme Court JCA", "Junior Court Assistant", "Supreme Court of India", "graduate jobs"]
 image: /images/posts/supreme-court-jca-recruitment-2026-hero.webp
@@ -18,14 +18,14 @@ faqs:
   - q: "What is the salary of a Supreme Court JCA?"
     a: "Junior Court Assistant is a Group B non-gazetted post in Level 6 of the Pay Matrix. The initial basic pay is ₹35,400 per month, plus allowances like DA and HRA."
   - q: "When is the Supreme Court JCA 2026 exam date?"
-    a: "The objective type test is tentatively on 20 November 2026. Dates for the typing test, descriptive test and interview will be announced later on sci.gov.in."
+    a: "The objective type test was held on 20 November 2026, and its answer key came out on 22 November. Dates for the typing test, descriptive test and interview will be announced later on sci.gov.in."
   - q: "What is the application fee for Supreme Court JCA 2026?"
     a: "₹1,500 for General category and ₹750 for SC, ST, OBC (non-creamy layer), ex-servicemen and PwD candidates, plus bank charges. It is paid online and is not refundable."
   - q: "Is there negative marking in the Supreme Court JCA exam?"
     a: "Yes. 0.25 marks are cut for every wrong answer in the objective type test. There is no negative marking mentioned for the typing, descriptive or interview stages."
 ---
 
-**Update (13 November 2026):** Applications **closed on 28 October**. The objective test is tentatively on **20 November 2026**. Job portals report that exam-city slips came out on 9 November, but as of today sci.gov.in has no city-slip or admit-card notice for JCA 2026 (the city and admit card notices on the site are from 2025). Admit cards usually come a few days before the exam, so check sci.gov.in → Recruitment daily from 15 November.
+**Update (25 November 2026):** The objective test was held on **20 November**. The Supreme Court put up the **answer keys on 22 November**, and the objection window closed on **23 November at 11:55 pm**. Check your score with the key ([official notice](https://cdnbbsr.s3waas.gov.in/s3ec0490f1f4972d133619a60c30f3559e/uploads/2026/11/2026112212.pdf)): +1 for each right answer, −0.25 for each wrong one. You need **50 out of 100** to qualify. Next comes the list of candidates shortlisted for the typing and descriptive tests; no date is out yet. Start typing practice and précis/essay writing now.
 
 **Supreme Court JCA recruitment 2026 is out for 250 Junior Court Assistant posts.** Online applications open on **7 October 2026** and close on **28 October 2026 at 11:55 pm**. Any graduate aged 18 to 30 who can type 35 words per minute in English can apply.
 
@@ -41,8 +41,8 @@ It's a Level 6 central job (basic pay ₹35,400) in the Supreme Court Registry i
 | Age | 18 to 30 years as on 1 September 2026 |
 | Application fee | ₹1,500 (General) / ₹750 (SC, ST, OBC-NCL, ExSM, PwD) |
 | Apply online | **7 October to 28 October 2026 (11:55 pm)** |
-| Objective test | **20 November 2026** (tentative) |
-| Answer key | 22 November 2026 (objections till 23 November) |
+| Objective test | **Held on 20 November 2026** |
+| Answer key | Out on 22 November 2026 (objections closed 23 November) |
 | Official website | [sci.gov.in](https://www.sci.gov.in/recruitments/) |
 | Advertisement | No. F.6/2026-SC (RC), dated 30 September 2026 |
 
@@ -160,9 +160,9 @@ If you already work in a central or state government office, a PSU or a national
 | Advertisement released | 30 September 2026 |
 | Online application starts | 7 October 2026 |
 | Last date to apply | **28 October 2026, 11:55 pm** |
-| Objective test | 20 November 2026 (tentative) |
-| Answer key | 22 November 2026 |
-| Objection window | 22 to 23 November 2026 (₹100 per objection, refunded if valid) |
+| Objective test | Held on 20 November 2026 |
+| Answer key | Out on 22 November 2026 |
+| Objection window | 22 to 23 November 2026 (closed) |
 | Typing, descriptive test and interview | To be announced on sci.gov.in |
 
 ![Front view of the Supreme Court of India building with its lawns](/images/posts/supreme-court-jca-recruitment-2026-3.webp)
